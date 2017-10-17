@@ -1,0 +1,123 @@
+const acquisition = {
+  UNOBTAINABLE: 'Unobtainable',
+  MARKET: 'Market',
+  ALERTS: 'Alerts',
+  ANNIVERSARY: 'Anniversary',
+  SPY_MISSIONS: 'Spy Missions',
+  RELICS: 'Relics',
+  VAULTED: 'Vaulted',
+  INVASIONS: 'Invasions',
+  LOGIN_REWARD: 'Login Reward',
+  BARO_KITEER: 'Baro Ki\'Teer',
+  CEPHALON_SIMARIS: 'Cephalon Simaris',
+  STALKER: 'Stalker',
+  GRUSTRAG_THREE: 'The Grustrag Three',
+  INCUBATOR_SEGMENT: 'Incubator Segment',
+  FOMORIAN_SABOTAGE: 'Fomorian Sabotage',
+  RAZORBACK_ARMADA: 'Razorback Armada',
+  BIO_LAB: 'Bio Lab (Dojo)',
+  CHEM_LAB: 'Chem Lab (Dojo)',
+  ENERGY_LAB: 'Energy Lab (Dojo)',
+  TENNO_LAB: 'Tenno Lab (Dojo)',
+  OROKIN_LAB: 'Orokin Lab (Dojo)',
+  CETUS_TIER_5: 'Cetus Bounty (Tier 5)',
+};
+
+const acquisitionQuests = {
+  THE_ARCHWING: 'The Archwing (Quest)',
+  THE_NEW_STRANGE: 'The New Strange (Quest)',
+  CHAINS_OF_HARROW: 'Chains of Harrow (Quest)',
+  SANDS_OF_INAROS: 'Sands of Inaros (Quest)',
+  THE_LIMBO_THEOREM: 'The Limbo Theorem (Quest)',
+  HIDDEN_MESSAGES: 'Hidden Messages (Quest)',
+  THE_GLAST_GAMBIT: 'The Glast Gambit (Quest)',
+  OCTAVIAS_ANTHEM: 'Octavia\'s Anthem (Quest)',
+  THE_SILVER_GROVE: 'The Silver Grove (Quest)',
+  THE_SECOND_DREAM: 'The Second Dream (Quest)',
+  THE_WAR_WITHIN: 'The War Within (Quest)',
+  SAYAS_VIGIL: 'Saya\'s Vigil (Quest)',
+};
+
+const acquisitionFactions = {
+  ARBITERS_OF_HEXIS: 'Arbiters of Hexis (Maxim)',
+  STEEL_MERIDIAN: 'Steel Meridian (General)',
+  NEW_LOKA: 'New Loka (Flawless)',
+  RED_VEIL: 'Red Veil (Exalted)',
+  THE_PERRIN_SEQUENCE: 'The Perrin Sequence (Partner)',
+  CEPHALON_SUDA: 'Cephalon Suda (Genius)',
+};
+
+const acquisitionEnemies = {
+  MANICS: 'Manics',
+  HEAVY_GUNNERS: 'Heavy Gunners',
+  DREKAR_TROOPERS: 'Drekar Troopers',
+  EXIMUS_ENEMIES: 'Eximus Enemies',
+  JORDAS_GOLEM: 'Jordas Golem (Boss)',
+  SARGAS_RUK: 'General Sargas Ruk (Boss)',
+  TYL_REGOR: 'Tyl Regor (Boss)',
+  AMBULAS: 'Ambulas (Boss)',
+  LECH_KRILL: 'Lieutenant Lech Kril (Boss)',
+  VAY_HEK: 'Councilor Vay Hek (Boss)',
+  HYENA_PACK: 'Hyena Pack (Boss)',
+  THE_SERGEANT: 'The Sergeant (Boss)',
+  MUTALIST_ALAD_V: 'Mutalist Alad V (Boss)',
+  LEPHANTIS: 'Lephantis (Boss)',
+  THE_RAPTORS: 'The Raptors (Boss)',
+  PHORID: 'Phorid (Boss)',
+  JACKAL: 'Jackal (Boss)',
+  KELA_DE_THAYM: 'Kela De Thaym (Boss)',
+  VOR_AND_KRILL: 'Captain Vor and Lieutenant Lech Kril (Boss Duo)',
+  ALAD_V: 'Alad V (Boss)',
+  VOR: 'Captain Vor (Boss)',
+};
+
+const primaryType = {
+  RIFLE: 'Rifle',
+  SHOTGUN: 'Shotgun',
+  SNIPER: 'Sniper',
+  BOW: 'Bow',
+  LAUNCHER: 'Launcher',
+  SPEARGUN: 'Speargun',
+};
+
+const secondaryType = {
+  SINGLE_PISTOL: 'Single Pistol',
+  DUAL_PISTOLS: 'Dual Pistols',
+  THROWN: 'Thrown',
+};
+
+const meleeType = {
+  SWORD: 'Sword',
+  DUAL_SWORDS: 'Dual Swords',
+  DAGGER: 'Dagger',
+  MACHETE: 'Machete',
+  DUAL_DAGGERS: 'Dual Daggers',
+  FIST: 'Fist',
+  SWORD_SHEILD: 'Sword-Shield',
+  SPARRING: 'Sparring',
+  POLEARM: 'Polearm',
+  STAFF: 'Staff',
+  GLAIVE: 'Glaive',
+  WHIP: 'Whip',
+  HEAVY_BLADE: 'Heavy Blade',
+  HAMMER: 'Hammer',
+  NIKANA: 'Nikana',
+  CLAWS: 'Claws',
+  SCYTHE: 'Scythe',
+  TONFA: 'Tonfa',
+  GUNBLADE: 'Gunblade',
+  NUNCHAKU: 'Nunchaku',
+  BLADE_WHIP: 'Blade-Whip',
+  HYBRID: 'Hybrid',
+  RAPIER: 'Rapier',
+};
+
+module.exports = {
+  acquisition,
+  acquisitionQuests,
+  acquisitionFactions,
+  acquisitionEnemies,
+  primaryType,
+  secondaryType,
+  meleeType,
+};

@@ -1,0 +1,36 @@
+{
+  "name": "warframe-item-list",
+  "version": "0.1.0",
+  "description": "",
+  "keywords": [
+    "warframe"
+  ],
+  "homepage": "https://github.com/South-Paw/warframe-item-list",
+  "bugs": "https://github.com/South-Paw/warframe-item-list/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Alex Gabites",
+    "email": "hello@southpaw.co.nz",
+    "url": "http://southpaw.co.nz/"
+  },
+  "files": [
+    "index.js",
+    "constants.js",
+    "data"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/South-Paw/warframe-item-list.git"
+  },
+  "scripts": {
+    "lint": "eslint ./",
+    "prepublishOnly": "npm run lint"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
