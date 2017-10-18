@@ -14,9 +14,9 @@ If you come across any missing items, problems or mistakes - please let me know 
 ## Usage
 
 ```js
-const itemList = require('warframe-item-list');
+const warframeItemList = require('warframe-item-list');
 
-console.log(itemList);
+console.log(warframeItemList);
 ```
 
 ## Objects
