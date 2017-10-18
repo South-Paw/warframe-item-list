@@ -246,7 +246,7 @@ module.exports = {
       { name: 'Prisma Dual Cleavers', acquisition: BARO_KITEER, type: DUAL_SWORDS, mastery_Rank: 3 },
       { name: 'Dual Ether', acquisition: MARKET, type: DUAL_SWORDS },
       { name: 'Dual Heat Swords', acquisition: MARKET, type: DUAL_SWORDS },
-      { name: 'Dual Krohkur', acquisition: MARKET, type: DUAL_SWORDS, mastery_Rank: 6 },
+      { name: 'Twin Krohkur', acquisition: MARKET, type: DUAL_SWORDS, mastery_Rank: 6 },
       { name: 'Dual Ichor', acquisition: BIO_LAB, type: DUAL_SWORDS, mastery_Rank: 6 },
       { name: 'Dual Kamas', acquisition: MARKET, type: DUAL_SWORDS, mastery_Rank: 1 },
       { name: 'Dual Kamas Prime', acquisition: VAULTED, type: DUAL_SWORDS, mastery_Rank: 6 },
