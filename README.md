@@ -1,5 +1,5 @@
 # warframe-item-list
-> Warframe Update: h22.0.5
+> Warframe Update: 22.0.5
 
 **Why?** Because I couldn't find a near complete list of all Warframe items that contributed to mastery rank... so I spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
 
@@ -14,9 +14,11 @@ If you come across any missing items, problems or mistakes - please let me know 
 ## Usage
 
 ```js
-const warframeItemList = require('warframe-item-list');
+const items = require('warframe-item-list');
 
-console.log(warframeItemList);
+console.log(items.array);    // gives a big list of every item.
+console.log(items.objects);  // gives a object of arrays and objects for more specific uses
+console.log(items.constants); // same list used to define the `acquisition`, `type` and `group`.
 ```
 
 ## Objects
@@ -25,19 +27,17 @@ If you `console.log` the root object, you'll get the following:
 
 ```js
 {
-  archwings: [...],
-  archwingWeapons: {
-    gun: [...],
-    melee: [...],
-  },
-  companions: {
+  version: '',
+  array: [...],
+  objects: {
+    archwings: [...],
+    archgun: [...],
+    archmelee: [...],
     sentinels: [...],
     kubrows: [...],
     kavats: [...],
-  },
-  sentinelWeapons: [...],
-  warframes: [...],
-  weapons: {
+    sentinelWeapons: [...],
+    warframes: [...],
     primary: [...],
     secondary: [...],
     melee: [...],
@@ -50,6 +50,7 @@ If you `console.log` the root object, you'll get the following:
     primaryType: {...},
     secondaryType: {...},
     meleeType: {...},
+    itemGroups: {...},
   },
 };
 ```
@@ -58,14 +59,15 @@ Within each list, the objects are pretty similarly structured:
 
 ```js
 {
-  name: 'string',         // Name of the item (required).
-  acquisition: 'string',  // Where to acquire the item (required).
-  type: 'string',         // Type of item - this is only really used for weapons.
-  masteryRank: 0          // The mastery rank required to craft - if undefined, then it's 0.
+  name: 'string',        // Name of the item (required).
+  acquisition: 'string', // Where to acquire the item (required).
+  type: 'string',        // Type of item - this is only used for primary/secondary/melee weapons.
+  masteryRank: 0,        // The mastery rank required to craft - if undefined, then it's 0.
+  group: 'string',       // If the using the array export, items will have a group attached as well.
 },
 ```
 
-And the `constants` provided are the same that are used to define the `acquisition` and `type` in the item objects.
+And the `constants` provided are the same that are used to define the `acquisition`, `type` and `group` in the item objects.
 
 ## Contributing
 

@@ -112,6 +112,20 @@ const meleeType = {
   RAPIER: 'Rapier',
 };
 
+const itemGroups = {
+  ARCHWING: 'Archwing',
+  ARCHWING_GUN: 'Archwing Gun',
+  ARCHWING_MELEE: 'Archwing Melee',
+  COMPANION_SENTINEL: 'Sentinel',
+  COMPANION_KUBROW: 'Kubrow',
+  COMPANION_KAVAT: 'Kavat',
+  SENTINEL_WEAPON: 'Sentinel Weapon',
+  WARFRAME: 'Warframe',
+  WEAPON_PRIMARY: 'Primary Weapon',
+  WEAPON_SECONDARY: 'Secondary Weapon',
+  WEAPON_MELEE: 'Melee Weapon',
+};
+
 module.exports = {
   acquisition,
   acquisitionQuests,
@@ -120,4 +134,5 @@ module.exports = {
   primaryType,
   secondaryType,
   meleeType,
+  itemGroups,
 };

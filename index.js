@@ -1,17 +1,10 @@
-const { archwings } = require('./data/archwings.js');
-const { archwingWeapons } = require('./data/archwingWeapons.js');
-const { companions } = require('./data/companions.js');
-const { sentinelWeapons } = require('./data/sentinelWeapons.js');
-const { warframes } = require('./data/warframes.js');
-const { weapons } = require('./data/weapons.js');
-const constants = require('./constants.js');
+const { array } = require('./src/array.js');
+const { objects } = require('./src/object.js');
+const constants = require('./src/constants.js');
 
 module.exports = {
-  archwings,
-  archwingWeapons,
-  companions,
-  sentinelWeapons,
-  warframes,
-  weapons,
+  version: '22.0.5',
+  array,
+  objects,
   constants,
 };
