@@ -47,10 +47,10 @@ If you `console.log` the root object, you'll get the following:
     acquisitionQuests: {...},
     acquisitionFactions: {...},
     acquisitionEnemies: {...},
-    primaryType: {...},
-    secondaryType: {...},
-    meleeType: {...},
-    itemGroups: {...},
+    primaryCategory: {...},
+    secondaryCategory: {...},
+    meleeCategory: {...},
+    itemType: {...},
   },
 };
 ```
@@ -61,9 +61,9 @@ Within each list, the objects are pretty similarly structured:
 {
   name: 'string',        // Name of the item (required).
   acquisition: 'string', // Where to acquire the item (required).
-  type: 'string',        // Type of item - this is only used for primary/secondary/melee weapons.
+  category: 'string',    // Type of item - this is only used for primary/secondary/melee weapons.
   masteryRank: 0,        // The mastery rank required to craft - if undefined, then it's 0.
-  group: 'string',       // If the using the array export, items will have a group attached as well.
+  type: 'string',        // If the using the array export, items will have a type attached as well.
 },
 ```
 

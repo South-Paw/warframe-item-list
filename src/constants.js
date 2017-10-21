@@ -71,7 +71,7 @@ const acquisitionEnemies = {
   VOR: 'Captain Vor (Boss)',
 };
 
-const primaryType = {
+const primaryCategory = {
   RIFLE: 'Rifle',
   SHOTGUN: 'Shotgun',
   SNIPER: 'Sniper',
@@ -80,13 +80,13 @@ const primaryType = {
   SPEARGUN: 'Speargun',
 };
 
-const secondaryType = {
+const secondaryCategory = {
   SINGLE_PISTOL: 'Single Pistol',
   DUAL_PISTOLS: 'Dual Pistols',
   THROWN: 'Thrown',
 };
 
-const meleeType = {
+const meleeCategory = {
   SWORD: 'Sword',
   DUAL_SWORDS: 'Dual Swords',
   DAGGER: 'Dagger',
@@ -112,7 +112,7 @@ const meleeType = {
   RAPIER: 'Rapier',
 };
 
-const itemGroups = {
+const itemType = {
   ARCHWING: 'Archwing',
   ARCHWING_GUN: 'Archwing Gun',
   ARCHWING_MELEE: 'Archwing Melee',
@@ -131,8 +131,8 @@ module.exports = {
   acquisitionQuests,
   acquisitionFactions,
   acquisitionEnemies,
-  primaryType,
-  secondaryType,
-  meleeType,
-  itemGroups,
+  primaryCategory,
+  secondaryCategory,
+  meleeCategory,
+  itemType,
 };
