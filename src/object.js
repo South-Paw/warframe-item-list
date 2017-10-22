@@ -6,17 +6,17 @@ const { warframes } = require('./data/warframes.js');
 const { primary, secondary, melee } = require('./data/weapons.js');
 
 const objects = {
-  archwings,
-  archgun,
-  archmelee,
-  sentinels,
-  kubrows,
-  kavats,
-  sentinelWeapons,
-  warframes,
-  primary,
-  secondary,
-  melee,
+  ARCHWING: archwings,
+  ARCHWING_GUN: archgun,
+  ARCHWING_MELEE: archmelee,
+  COMPANION_SENTINEL: sentinels,
+  COMPANION_KUBROW: kubrows,
+  COMPANION_KAVAT: kavats,
+  SENTINEL_WEAPON: sentinelWeapons,
+  WARFRAME: warframes,
+  WEAPON_PRIMARY: primary,
+  WEAPON_SECONDARY: secondary,
+  WEAPON_MELEE: melee,
 };
 
 module.exports = {
