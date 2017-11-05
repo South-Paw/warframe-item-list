@@ -279,6 +279,7 @@ module.exports = {
     { name: 'Furax Wraith', acquisition: CETUS_TIER_5, category: FIST },
     { name: 'Tekko', acquisition: MARKET, category: FIST, mastery_Rank: 2 },
     { name: 'Ack & Brunt', acquisition: CHEM_LAB, category: SWORD_SHEILD, mastery_Rank: 3 },
+    { name: 'Sigma & Octantis', acquisition: LOGIN_REWARD, category: SWORD_SHEILD },
     { name: 'Silva & Aegis', acquisition: TENNO_LAB, category: SWORD_SHEILD },
     { name: 'Silva & Aegis Prime', acquisition: RELICS, category: SWORD_SHEILD, mastery_Rank: 12 },
     { name: 'Hirudo', acquisition: MARKET, category: SPARRING, mastery_Rank: 7 },
