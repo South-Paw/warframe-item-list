@@ -3,7 +3,7 @@
 
 [![NPM](https://nodei.co/npm/warframe-item-list.png)](https://nodei.co/npm/warframe-item-list/)
 
-# Why?
+## Why?
 
 Because I couldn't find a near complete list of all Warframe items that contributed to mastery rank... so I spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
 
