@@ -352,5 +352,6 @@ module.exports = {
     { name: 'Dark Split-Sword', acquisition: TENNO_LAB, category: HYBRID, mastery_Rank: 5 },
     { name: 'Destreza', acquisition: MARKET, category: RAPIER, mastery_Rank: 7 },
     { name: 'Endura', acquisition: TENNO_LAB, category: RAPIER, mastery_Rank: 7 },
+    { name: 'Sigma & Octantis', acquisition: LOGIN_REWARD, category: SWORD_SHEILD },
   ],
 };
