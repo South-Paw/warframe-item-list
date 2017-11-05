@@ -16,8 +16,8 @@ If you come across any missing items, problems or mistakes - please let me know 
 ```js
 const items = require('warframe-item-list');
 
-console.log(items.array);    // gives a big list of every item.
-console.log(items.objects);  // gives a object of arrays and objects for more specific uses
+console.log(items.array);     // gives a big list of every item.
+console.log(items.objects);   // gives a object of arrays and objects for more specific uses
 console.log(items.constants); // same list used to define the `acquisition`, `type` and `group`.
 ```
 
