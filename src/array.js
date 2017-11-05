@@ -1,15 +1,17 @@
+const { amp } = require('./data/amp.js');
 const { archwings } = require('./data/archwings.js');
 const { archgun, archmelee } = require('./data/archwingWeapons.js');
 const { sentinels, kubrows, kavats } = require('./data/companions.js');
 const { sentinelWeapons } = require('./data/sentinelWeapons.js');
 const { warframes } = require('./data/warframes.js');
 const { primary, secondary, melee } = require('./data/weapons.js');
+const { zaw } = require('./data/zaw.js');
 
 const constants = require('./constants.js');
 
 const {
-  ARCHWING, ARCHWING_GUN, ARCHWING_MELEE, COMPANION_SENTINEL, COMPANION_KUBROW, COMPANION_KAVAT,
-  SENTINEL_WEAPON, WARFRAME, WEAPON_PRIMARY, WEAPON_SECONDARY, WEAPON_MELEE,
+  AMP, ARCHWING, ARCHWING_GUN, ARCHWING_MELEE, COMPANION_SENTINEL, COMPANION_KUBROW,
+  COMPANION_KAVAT, SENTINEL_WEAPON, WARFRAME, WEAPON_PRIMARY, WEAPON_SECONDARY, WEAPON_MELEE, ZAW,
 } = constants.itemType;
 
 function addTypeTo(list, type) {
@@ -23,6 +25,7 @@ function addTypeTo(list, type) {
 }
 
 let array = [];
+array = array.concat(addTypeTo(amp, AMP));
 array = array.concat(addTypeTo(archwings, ARCHWING));
 array = array.concat(addTypeTo(archgun, ARCHWING_GUN));
 array = array.concat(addTypeTo(archmelee, ARCHWING_MELEE));
@@ -34,6 +37,7 @@ array = array.concat(addTypeTo(warframes, WARFRAME));
 array = array.concat(addTypeTo(primary, WEAPON_PRIMARY));
 array = array.concat(addTypeTo(secondary, WEAPON_SECONDARY));
 array = array.concat(addTypeTo(melee, WEAPON_MELEE));
+array = array.concat(addTypeTo(zaw, ZAW));
 
 module.exports = {
   array,
