@@ -1,5 +1,5 @@
 # warframe-item-list
-> Warframe Update: 22.0.5
+> Warframe Update: 22.1.2
 
 **Why?** Because I couldn't find a near complete list of all Warframe items that contributed to mastery rank... so I spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
 
