@@ -1,11 +1,14 @@
+const { amp } = require('./data/amp.js');
 const { archwings } = require('./data/archwings.js');
 const { archgun, archmelee } = require('./data/archwingWeapons.js');
 const { sentinels, kubrows, kavats } = require('./data/companions.js');
 const { sentinelWeapons } = require('./data/sentinelWeapons.js');
 const { warframes } = require('./data/warframes.js');
 const { primary, secondary, melee } = require('./data/weapons.js');
+const { zaw } = require('./data/zaw.js');
 
 const objects = {
+  AMP: amp,
   ARCHWING: archwings,
   ARCHWING_GUN: archgun,
   ARCHWING_MELEE: archmelee,
@@ -17,6 +20,7 @@ const objects = {
   WEAPON_PRIMARY: primary,
   WEAPON_SECONDARY: secondary,
   WEAPON_MELEE: melee,
+  ZAW: zaw,
 };
 
 module.exports = {

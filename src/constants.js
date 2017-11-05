@@ -21,6 +21,8 @@ const acquisition = {
   TENNO_LAB: 'Tenno Lab (Dojo)',
   OROKIN_LAB: 'Orokin Lab (Dojo)',
   CETUS_TIER_5: 'Cetus Bounty (Tier 5)',
+  HOKS_ANVIL: 'Hok\'s Anvil (Cetus)',
+  THE_QUILLS: 'The Quills (Cetus)',
 };
 
 const acquisitionQuests = {
@@ -113,6 +115,7 @@ const meleeCategory = {
 };
 
 const itemType = {
+  AMP: 'Amp',
   ARCHWING: 'Archwing',
   ARCHWING_GUN: 'Archwing Gun',
   ARCHWING_MELEE: 'Archwing Melee',
@@ -124,6 +127,7 @@ const itemType = {
   WEAPON_PRIMARY: 'Primary Weapon',
   WEAPON_SECONDARY: 'Secondary Weapon',
   WEAPON_MELEE: 'Melee Weapon',
+  ZAW: 'Zaw',
 };
 
 module.exports = {

@@ -1,9 +1,13 @@
 # warframe-item-list
 > Warframe Update: 22.1.2
 
-**Why?** Because I couldn't find a near complete list of all Warframe items that contributed to mastery rank... so I spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
+[![NPM](https://nodei.co/npm/warframe-item-list.png)](https://nodei.co/npm/warframe-item-list/)
 
-Since there isn't an official public API or anything to get this information, this project is managed manually with the help of the wiki. This of course means that it may also contain mistakes and/or inaccuracies on items.
+# Why?
+
+Because I couldn't find a near complete list of all Warframe items that contributed to mastery rank... so I spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
+
+Since there isn't an official public API or anything to get this information, this project is managed manually with the help of the Warframe wiki. This of course means that it may also contain mistakes and/or inaccuracies on items.
 
 If you come across any missing items, problems or mistakes - please let me know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or even [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request. See contributing section for more info.
 
@@ -18,7 +22,7 @@ const items = require('warframe-item-list');
 
 console.log(items.array);     // gives a big list of every item.
 console.log(items.objects);   // gives a object of arrays and objects for more specific uses
-console.log(items.constants); // same list used to define the `acquisition`, `type` and `group`.
+console.log(items.constants); // same list used to define the `acquisition`, `category` and `type` keys.
 ```
 
 ## Objects
@@ -27,9 +31,10 @@ If you `console.log` the root object, you'll get the following:
 
 ```js
 {
-  version: '',
+  version: 'string',
   array: [...],
   objects: {
+    AMP: [...],
     ARCHWING: [...],
     ARCHWING_GUN: [...],
     ARCHWING_MELEE: [...],
@@ -41,6 +46,7 @@ If you `console.log` the root object, you'll get the following:
     WEAPON_PRIMARY: [...],
     WEAPON_SECONDARY: [...],
     WEAPON_MELEE: [...],
+    ZAW: [...],
   },
   constants: {
     acquisition: {...},
@@ -61,7 +67,7 @@ Within each list, the objects are pretty similarly structured:
 {
   name: 'string',        // Name of the item (required).
   acquisition: 'string', // Where to acquire the item (required).
-  category: 'string',    // Type of item - this is only used for primary/secondary/melee weapons.
+  category: 'string',    // Category of weapon - this is only used for primary/secondary/melee weapons.
   masteryRank: 0,        // The mastery rank required to craft - if undefined, then it's 0.
   type: 'string',        // If the using the array export, items will have a type attached as well.
 },
