@@ -33,6 +33,7 @@ module.exports = {
     { name: 'Gara', acquisition: SAYAS_VIGIL },
     { name: 'Harrow', acquisition: CHAINS_OF_HARROW },
     { name: 'Hydroid', acquisition: VAY_HEK },
+    { name: 'Hydroid Prime', acquisition: RELICS, masteryRank: 5 },
     { name: 'Inaros', acquisition: SANDS_OF_INAROS },
     { name: 'Ivara', acquisition: SPY_MISSIONS },
     { name: 'Limbo', acquisition: THE_LIMBO_THEOREM },
