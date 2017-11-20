@@ -23,6 +23,7 @@ const acquisition = {
   CETUS_TIER_5: 'Cetus Bounty (Tier 5)',
   HOKS_ANVIL: 'Hok\'s Anvil (Cetus)',
   THE_QUILLS: 'The Quills (Cetus)',
+  NAKAK: 'Nakak (Cetus)',
 };
 
 const acquisitionQuests = {
