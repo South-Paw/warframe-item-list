@@ -1,6 +1,6 @@
 const constants = require('../constants.js');
 
-const { HOKS_ANVIL } = constants.acquisition;
+const { HOKS_ANVIL, NAKAK } = constants.acquisition;
 
 module.exports = {
   zaw: [
@@ -10,5 +10,7 @@ module.exports = {
     { name: 'Kronsh Strike', acquisition: HOKS_ANVIL },
     { name: 'Mewan Strike', acquisition: HOKS_ANVIL },
     { name: 'Ooltha Strike', acquisition: HOKS_ANVIL },
+    { name: 'Plague Keewar Strike', acquisition: NAKAK },
+    { name: 'Plague Kripath Strike', acquisition: NAKAK },
   ],
 };
