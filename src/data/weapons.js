@@ -35,6 +35,7 @@ const {
 module.exports = {
   primary: [
     { name: 'Argonak', acquisition: CHEM_LAB, category: RIFLE, masteryRank: 7 },
+    { name: 'Baza', acquisition: TENNO_LAB, category: RIFLE, masteryRank: 7 },
     { name: 'Boltor', acquisition: MARKET, category: RIFLE, masteryRank: 2 },
     { name: 'Boltor Prime', acquisition: VAULTED, category: RIFLE, masteryRank: 2 },
     { name: 'Telos Boltor', acquisition: ARBITERS_OF_HEXIS, category: RIFLE, masteryRank: 12 },
@@ -286,6 +287,7 @@ module.exports = {
     { name: 'Kogake', acquisition: MARKET, category: SPARRING },
     { name: 'Obex', acquisition: MARKET, category: SPARRING },
     { name: 'Prisma Obex', acquisition: BARO_KITEER, category: SPARRING },
+    { name: 'Cassowar', acquisition: TENNO_LAB, category: POLEARM, mastery_Rank: 5 },
     { name: 'Guandao', acquisition: TENNO_LAB, category: POLEARM, mastery_Rank: 4 },
     { name: 'Kesheg', acquisition: CHEM_LAB, category: POLEARM, mastery_Rank: 7 },
     { name: 'Lesion', acquisition: MARKET, category: POLEARM, mastery_Rank: 7 },
