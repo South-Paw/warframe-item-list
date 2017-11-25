@@ -35,6 +35,7 @@ const {
 module.exports = {
   primary: [
     { name: 'Argonak', acquisition: CHEM_LAB, category: RIFLE, masteryRank: 7 },
+    { name: 'Baza', acquisition: TENNO_LAB, category: RIFLE, masteryRank: 7 },
     { name: 'Boltor', acquisition: MARKET, category: RIFLE, masteryRank: 2 },
     { name: 'Boltor Prime', acquisition: VAULTED, category: RIFLE, masteryRank: 2 },
     { name: 'Telos Boltor', acquisition: ARBITERS_OF_HEXIS, category: RIFLE, masteryRank: 12 },
@@ -85,7 +86,6 @@ module.exports = {
     { name: 'Quanta', acquisition: ENERGY_LAB, category: RIFLE, masteryRank: 4 },
     { name: 'Quanta Vandal', acquisition: BARO_KITEER, category: RIFLE, masteryRank: 4 },
     { name: 'Synapse', acquisition: BIO_LAB, category: RIFLE, masteryRank: 6 },
-    { name: 'Baza', acquisition: TENNO_LAB, category: RIFLE, masteryRank: 7 },
     { name: 'Arca Plasmor', acquisition: ENERGY_LAB, category: SHOTGUN, masteryRank: 10 },
     { name: 'Astilla', acquisition: MARKET, category: SHOTGUN, masteryRank: 7 },
     { name: 'Boar', acquisition: DREKAR_TROOPERS, category: SHOTGUN, masteryRank: 2 },
@@ -287,6 +287,7 @@ module.exports = {
     { name: 'Kogake', acquisition: MARKET, category: SPARRING },
     { name: 'Obex', acquisition: MARKET, category: SPARRING },
     { name: 'Prisma Obex', acquisition: BARO_KITEER, category: SPARRING },
+    { name: 'Cassowar', acquisition: TENNO_LAB, category: POLEARM, mastery_Rank: 5 },
     { name: 'Guandao', acquisition: TENNO_LAB, category: POLEARM, mastery_Rank: 4 },
     { name: 'Kesheg', acquisition: CHEM_LAB, category: POLEARM, mastery_Rank: 7 },
     { name: 'Lesion', acquisition: MARKET, category: POLEARM, mastery_Rank: 7 },
@@ -296,7 +297,6 @@ module.exports = {
     { name: 'Sydon', acquisition: CHEM_LAB, category: POLEARM, mastery_Rank: 2 },
     { name: 'Vaykor Sydon', acquisition: STEEL_MERIDIAN, category: POLEARM, mastery_Rank: 8 },
     { name: 'Tonbo', acquisition: TENNO_LAB, category: POLEARM, mastery_Rank: 3 },
-    { name: 'Cassowar', acquisition: TENNO_LAB, category: POLEARM, mastery_Rank: 5 },
     { name: 'Amphis', acquisition: MARKET, category: STAFF },
     { name: 'Bo', acquisition: MARKET, category: STAFF },
     { name: 'MK1-Bo', acquisition: MARKET, category: STAFF },
