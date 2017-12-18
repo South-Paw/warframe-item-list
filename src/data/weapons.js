@@ -224,7 +224,7 @@ module.exports = {
     { name: 'MK1-Kunai', acquisition: MARKET, category: THROWN },
     { name: 'Pox', acquisition: BIO_LAB, category: THROWN, masteryRank: 6 },
     { name: 'Spira', acquisition: MARKET, category: THROWN, masteryRank: 1 },
-    { name: 'Spira Prime', acquisition: RELICS, category: THROWN, masteryRank: 3 },
+    { name: 'Spira Prime', acquisition: VAULTED, category: THROWN, masteryRank: 3 },
     { name: 'Talons', acquisition: TENNO_LAB, category: THROWN, masteryRank: 5 },
   ],
   melee: [
@@ -334,7 +334,7 @@ module.exports = {
     { name: 'Volnus', acquisition: MARKET, category: HAMMER, mastery_Rank: 4 },
     { name: 'Nikana', acquisition: TENNO_LAB, category: NIKANA, mastery_Rank: 4 },
     { name: 'Dragon Nikana', acquisition: MARKET, category: NIKANA, mastery_Rank: 8 },
-    { name: 'Nikana Prime', acquisition: RELICS, category: NIKANA },
+    { name: 'Nikana Prime', acquisition: VAULTED, category: NIKANA },
     { name: 'Ripkas', acquisition: MARKET, category: CLAWS, mastery_Rank: 3 },
     { name: 'Venka', acquisition: TENNO_LAB, category: CLAWS, mastery_Rank: 3 },
     { name: 'Venka Prime', acquisition: RELICS, category: CLAWS, mastery_Rank: 8 },

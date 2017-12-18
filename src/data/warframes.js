@@ -58,7 +58,7 @@ module.exports = {
     { name: 'Rhino', acquisition: JACKAL },
     { name: 'Rhino Prime', acquisition: VAULTED },
     { name: 'Saryn', acquisition: KELA_DE_THAYM },
-    { name: 'Saryn Prime', acquisition: RELICS },
+    { name: 'Saryn Prime', acquisition: VAULTED },
     { name: 'Titania', acquisition: THE_SILVER_GROVE },
     { name: 'Trinity', acquisition: VOR_AND_KRILL },
     { name: 'Trinity Prime', acquisition: VAULTED },
