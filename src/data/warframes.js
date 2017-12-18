@@ -43,6 +43,7 @@ module.exports = {
     { name: 'Mag Prime', acquisition: VAULTED },
     { name: 'Mesa', acquisition: MUTALIST_ALAD_V },
     { name: 'Mirage', acquisition: HIDDEN_MESSAGES },
+    { name: 'Mirage Prime', acquisition: RELICS, masteryRank: 8 },
     { name: 'Nekros', acquisition: LEPHANTIS },
     { name: 'Nekros Prime', acquisition: RELICS },
     { name: 'Nezha', acquisition: TENNO_LAB },
