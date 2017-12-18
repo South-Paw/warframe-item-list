@@ -1,5 +1,5 @@
 # warframe-item-list
-> Warframe Update: 22.4.0
+> Warframe Update: 22.7.0
 
 [![NPM](https://nodei.co/npm/warframe-item-list.png)](https://nodei.co/npm/warframe-item-list/)
 
