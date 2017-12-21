@@ -103,6 +103,7 @@ module.exports = {
     { name: 'Tigris', acquisition: MARKET, category: SHOTGUN, masteryRank: 4 },
     { name: 'Tigris Prime', acquisition: RELICS, category: SHOTGUN, masteryRank: 13 },
     { name: 'Sancti Tigris', acquisition: NEW_LOKA, category: SHOTGUN, masteryRank: 12 },
+    { name: 'Corinth', acquisition: MARKET, category: SHOTGUN, masteryRank: 10 },
     { name: 'Lanka', acquisition: ENERGY_LAB, category: SNIPER, masteryRank: 7 },
     { name: 'Rubico', acquisition: MARKET, category: SNIPER, masteryRank: 5 },
     { name: 'Snipetron', acquisition: UNOBTAINABLE, category: SNIPER },
