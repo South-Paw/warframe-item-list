@@ -29,7 +29,7 @@ const {
 const {
   SWORD, DUAL_SWORDS, DAGGER, MACHETE, DUAL_DAGGERS, FIST, SWORD_SHEILD, SPARRING, POLEARM, STAFF,
   GLAIVE, WHIP, HEAVY_BLADE, HAMMER, NIKANA, CLAWS, SCYTHE, TONFA, GUNBLADE, NUNCHAKU, BLADE_WHIP,
-  HYBRID, RAPIER,
+  HYBRID, RAPIER, WARFANS,
 } = constants.meleeCategory;
 
 module.exports = {
@@ -358,5 +358,6 @@ module.exports = {
     { name: 'Dark Split-Sword', acquisition: TENNO_LAB, category: HYBRID, mastery_Rank: 5 },
     { name: 'Destreza', acquisition: MARKET, category: RAPIER, mastery_Rank: 7 },
     { name: 'Endura', acquisition: TENNO_LAB, category: RAPIER, mastery_Rank: 7 },
+    { name: 'Gunsen', acquisition: TENNO_LAB, category: WARFANS, mastery_Rank: 10 },
   ],
 };

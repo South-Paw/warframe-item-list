@@ -113,6 +113,7 @@ const meleeCategory = {
   BLADE_WHIP: 'Blade-Whip',
   HYBRID: 'Hybrid',
   RAPIER: 'Rapier',
+  WARFANS: 'Warfans',
 };
 
 const itemType = {
