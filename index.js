@@ -3,7 +3,7 @@ const { objects } = require('./src/object.js');
 const constants = require('./src/constants.js');
 
 module.exports = {
-  version: '22.7.0',
+  version: '22.8.0',
   array,
   objects,
   constants,

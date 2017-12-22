@@ -20,7 +20,8 @@ const acquisition = {
   ENERGY_LAB: 'Energy Lab (Dojo)',
   TENNO_LAB: 'Tenno Lab (Dojo)',
   OROKIN_LAB: 'Orokin Lab (Dojo)',
-  CETUS_TIER_5: 'Cetus Bounty (Tier 5)',
+  CETUS_BOUNTY_40_60: 'Cetus Bounty (Levels 40 - 60)',
+  CETUS_BOUNTY_GHOUL: 'Cetus Bounty (Ghoul)',
   HOKS_ANVIL: 'Hok\'s Anvil (Cetus)',
   THE_QUILLS: 'The Quills (Cetus)',
   NAKAK: 'Nakak (Cetus)',
@@ -113,6 +114,7 @@ const meleeCategory = {
   BLADE_WHIP: 'Blade-Whip',
   HYBRID: 'Hybrid',
   RAPIER: 'Rapier',
+  WARFANS: 'Warfans',
 };
 
 const itemType = {
