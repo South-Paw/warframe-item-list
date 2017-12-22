@@ -29,7 +29,7 @@ const {
 const {
   SWORD, DUAL_SWORDS, DAGGER, MACHETE, DUAL_DAGGERS, FIST, SWORD_SHEILD, SPARRING, POLEARM, STAFF,
   GLAIVE, WHIP, HEAVY_BLADE, HAMMER, NIKANA, CLAWS, SCYTHE, TONFA, GUNBLADE, NUNCHAKU, BLADE_WHIP,
-  HYBRID, RAPIER,
+  HYBRID, RAPIER, WARFANS,
 } = constants.meleeCategory;
 
 module.exports = {
@@ -103,6 +103,7 @@ module.exports = {
     { name: 'Tigris', acquisition: MARKET, category: SHOTGUN, masteryRank: 4 },
     { name: 'Tigris Prime', acquisition: RELICS, category: SHOTGUN, masteryRank: 13 },
     { name: 'Sancti Tigris', acquisition: NEW_LOKA, category: SHOTGUN, masteryRank: 12 },
+    { name: 'Corinth', acquisition: MARKET, category: SHOTGUN, masteryRank: 10 },
     { name: 'Lanka', acquisition: ENERGY_LAB, category: SNIPER, masteryRank: 7 },
     { name: 'Rubico', acquisition: MARKET, category: SNIPER, masteryRank: 5 },
     { name: 'Snipetron', acquisition: UNOBTAINABLE, category: SNIPER },
@@ -357,5 +358,6 @@ module.exports = {
     { name: 'Dark Split-Sword', acquisition: TENNO_LAB, category: HYBRID, mastery_Rank: 5 },
     { name: 'Destreza', acquisition: MARKET, category: RAPIER, mastery_Rank: 7 },
     { name: 'Endura', acquisition: TENNO_LAB, category: RAPIER, mastery_Rank: 7 },
+    { name: 'Gunsen', acquisition: TENNO_LAB, category: WARFANS, mastery_Rank: 10 },
   ],
 };
