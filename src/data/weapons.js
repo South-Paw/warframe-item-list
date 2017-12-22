@@ -3,7 +3,7 @@ const constants = require('../constants.js');
 const {
   CHEM_LAB, MARKET, VAULTED, RELICS, UNOBTAINABLE, ENERGY_LAB, INVASIONS, BARO_KITEER,
   RAZORBACK_ARMADA, BIO_LAB, TENNO_LAB, LOGIN_REWARD, STALKER, CEPHALON_SIMARIS, GRUSTRAG_THREE,
-  ANNIVERSARY, ALERTS, CETUS_TIER_5,
+  ANNIVERSARY, ALERTS, CETUS_BOUNTY_40_60, CETUS_BOUNTY_GHOUL,
 } = constants.acquisition;
 
 const {
@@ -85,12 +85,14 @@ module.exports = {
     { name: 'Ignis Wraith', acquisition: `${CHEM_LAB} [Limited]`, category: RIFLE, masteryRank: 6 },
     { name: 'Quanta', acquisition: ENERGY_LAB, category: RIFLE, masteryRank: 4 },
     { name: 'Quanta Vandal', acquisition: BARO_KITEER, category: RIFLE, masteryRank: 4 },
+    { name: 'Quartakk', acquisition: CETUS_BOUNTY_GHOUL, category: RIFLE, masteryRank: 9 },
     { name: 'Synapse', acquisition: BIO_LAB, category: RIFLE, masteryRank: 6 },
     { name: 'Arca Plasmor', acquisition: ENERGY_LAB, category: SHOTGUN, masteryRank: 10 },
     { name: 'Astilla', acquisition: MARKET, category: SHOTGUN, masteryRank: 7 },
     { name: 'Boar', acquisition: DREKAR_TROOPERS, category: SHOTGUN, masteryRank: 2 },
     { name: 'Boar Prime', acquisition: VAULTED, category: SHOTGUN, masteryRank: 2 },
     { name: 'Convectrix', acquisition: ENERGY_LAB, category: SHOTGUN, masteryRank: 2 },
+    { name: 'Corinth', acquisition: MARKET, category: SHOTGUN, masteryRank: 10 },
     { name: 'Drakgoon', acquisition: MARKET, category: SHOTGUN, masteryRank: 3 },
     { name: 'Hek', acquisition: MARKET, category: SHOTGUN, masteryRank: 4 },
     { name: 'Vaykor Hek', acquisition: STEEL_MERIDIAN, category: SHOTGUN, masteryRank: 12 },
@@ -103,7 +105,6 @@ module.exports = {
     { name: 'Tigris', acquisition: MARKET, category: SHOTGUN, masteryRank: 4 },
     { name: 'Tigris Prime', acquisition: RELICS, category: SHOTGUN, masteryRank: 13 },
     { name: 'Sancti Tigris', acquisition: NEW_LOKA, category: SHOTGUN, masteryRank: 12 },
-    { name: 'Corinth', acquisition: MARKET, category: SHOTGUN, masteryRank: 10 },
     { name: 'Lanka', acquisition: ENERGY_LAB, category: SNIPER, masteryRank: 7 },
     { name: 'Rubico', acquisition: MARKET, category: SNIPER, masteryRank: 5 },
     { name: 'Snipetron', acquisition: UNOBTAINABLE, category: SNIPER },
@@ -167,6 +168,7 @@ module.exports = {
     { name: 'Sicarus', acquisition: MARKET, category: SINGLE_PISTOL, masteryRank: 3 },
     { name: 'Sicarus Prime', acquisition: VAULTED, category: SINGLE_PISTOL, masteryRank: 7 },
     { name: 'Sonicor', acquisition: MARKET, category: SINGLE_PISTOL, masteryRank: 2 },
+    { name: 'Stubba', acquisition: CETUS_BOUNTY_GHOUL, category: SINGLE_PISTOL, masteryRank: 5 },
     { name: 'Stug', acquisition: MARKET, category: SINGLE_PISTOL, masteryRank: 2 },
     { name: 'Tysis', acquisition: MARKET, category: SINGLE_PISTOL, masteryRank: 4 },
     { name: 'Vasto', acquisition: MARKET, category: SINGLE_PISTOL },
@@ -279,7 +281,7 @@ module.exports = {
     { name: 'Ankyros Prime', acquisition: VAULTED, category: FIST },
     { name: 'Furax', acquisition: MARKET, category: FIST },
     { name: 'MK1-Furax', acquisition: MARKET, category: FIST },
-    { name: 'Furax Wraith', acquisition: CETUS_TIER_5, category: FIST },
+    { name: 'Furax Wraith', acquisition: CETUS_BOUNTY_40_60, category: FIST },
     { name: 'Tekko', acquisition: MARKET, category: FIST, mastery_Rank: 2 },
     { name: 'Ack & Brunt', acquisition: CHEM_LAB, category: SWORD_SHEILD, mastery_Rank: 3 },
     { name: 'Sigma & Octantis', acquisition: LOGIN_REWARD, category: SWORD_SHEILD },
