@@ -174,6 +174,7 @@ module.exports = {
     { name: 'Vasto', acquisition: MARKET, category: SINGLE_PISTOL },
     { name: 'Vasto Prime', acquisition: RELICS, category: SINGLE_PISTOL, masteryRank: 3 },
     { name: 'Viper', acquisition: MARKET, category: SINGLE_PISTOL },
+    { name: 'Viper Wraith', acquisition: BARO_KITEER, category: SINGLE_PISTOL },
     { name: 'Zakti', acquisition: TENNO_LAB, category: SINGLE_PISTOL, masteryRank: 6 },
     { name: 'Atomos', acquisition: MARKET, category: SINGLE_PISTOL, masteryRank: 4 },
     { name: 'Cycron', acquisition: ENERGY_LAB, category: SINGLE_PISTOL, masteryRank: 9 },
