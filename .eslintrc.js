@@ -5,7 +5,6 @@ module.exports = {
   },
   rules: {
     'max-len': ['error', 120],
-    'linebreak-style': ['error', 'windows'],
     'object-curly-newline': 'off',
   },
 };

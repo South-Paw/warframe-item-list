@@ -1,7 +1,12 @@
-# warframe-item-list
-> Warframe Update: 22.8.4
+# Warframe Item List
 
-[![NPM](https://nodei.co/npm/warframe-item-list.png)](https://nodei.co/npm/warframe-item-list/)
+👾 A list of all Warframe items that contribute to player mastery rank.
+
+[![warframe-item-list on npm](https://nodei.co/npm/warframe-item-list.png)](https://nodei.co/npm/warframe-item-list/)
+
+[![warframe update](https://img.shields.io/badge/warframe_update-22.8.4-blue.svg)](http://warframe.wikia.com/wiki/Update_22#Hotfix_22.8.4)
+
+---
 
 ## Why?
 
@@ -21,7 +26,7 @@ If you come across any missing items, problems or mistakes - please let me know 
 const items = require('warframe-item-list');
 
 console.log(items.array);     // gives a big list of every item.
-console.log(items.objects);   // gives a object of arrays and objects for more specific uses
+console.log(items.objects);   // gives a object containing named arrays and objects for more specific uses.
 console.log(items.constants); // same list used to define the `acquisition`, `category` and `type` keys.
 ```
 
@@ -77,9 +82,12 @@ And the `constants` provided are the same that are used to define the `acquisiti
 
 ## Contributing
 
-Again, if you come across any missing items, problems or mistakes - please let me know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or even [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request.
+Again, if you come across any missing items, problems or mistakes - please let me know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or feel free to have a shot at [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request.
 
 Please ensure that any PRs are linted and keep with the general flow of things.
+
+* Items should be grouped by `category` (categories follow the wiki order)
+* Items are alphabetically sorted by `name` within each `category`
 
 ## License
 
