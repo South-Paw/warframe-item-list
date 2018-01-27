@@ -27,9 +27,9 @@ If you come across any missing items, problems or mistakes - please let me know 
 ```js
 const items = require('warframe-item-list');
 
-console.log(items.array);     // gives a big list of every item.
-console.log(items.objects);   // gives a object containing named arrays and objects for more specific uses.
-console.log(items.constants); // same list used to define the `acquisition`, `category` and `type` keys.
+console.log(items.array);     // returns a big list of every item.
+console.log(items.objects);   // returns an object containing named lists and objects for more specific uses.
+console.log(items.constants); // returns the same lists used to define the `acquisition`, `category` and `type` keys.
 ```
 
 ## Objects
@@ -72,11 +72,11 @@ Within each list, the objects are pretty similarly structured:
 
 ```js
 {
-  name: 'string',        // Name of the item (required).
-  acquisition: 'string', // Where to acquire the item (required).
-  category: 'string',    // Category of weapon - this is only used for primary/secondary/melee weapons.
-  masteryRank: 0,        // The mastery rank required to craft - if undefined, then it's 0.
-  type: 'string',        // If the using the array export, items will have a type attached as well.
+  name: 'string',        // name of the item (required).
+  acquisition: 'string', // where to acquire the item (required).
+  category: 'string',    // category of weapon - this is only used for primary/secondary/melee weapons.
+  masteryRank: 0,        // the mastery rank required to craft - if undefined, then it's 0.
+  type: 'string',        // if the using the array export, items will have a type attached as well.
 },
 ```
 
