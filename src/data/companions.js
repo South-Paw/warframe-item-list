@@ -17,7 +17,7 @@ module.exports = {
     { name: 'Prisma Shade', acquisition: BARO_KITEER },
     { name: 'Taxon', acquisition: MARKET },
     { name: 'Wyrm', acquisition: MARKET },
-    { name: 'Wyrm Prime', acquisition: VAULTED },
+    { name: 'Wyrm Prime', acquisition: RELICS },
   ],
   kubrows: [
     { name: 'Huras Kubrow', acquisition: INCUBATOR_SEGMENT },
