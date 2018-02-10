@@ -1,34 +1,120 @@
 const constants = require('../constants.js');
 
 const {
-  MARKET, VAULTED, BIO_LAB, ENERGY_LAB, RELICS, BARO_KITEER, INCUBATOR_SEGMENT,
+  BARO_KITEER,
+  BIO_LAB,
+  ENERGY_LAB,
+  INCUBATOR_SEGMENT,
+  MARKET,
+  RELICS,
+  VAULTED,
 } = constants.acquisition;
 
 module.exports = {
   sentinels: [
-    { name: 'Carrier', acquisition: MARKET },
-    { name: 'Carrier Prime', acquisition: VAULTED },
-    { name: 'Dethcube', acquisition: MARKET },
-    { name: 'Diriga', acquisition: MARKET },
-    { name: 'Djinn', acquisition: BIO_LAB },
-    { name: 'Helios', acquisition: ENERGY_LAB },
-    { name: 'Helios Prime', acquisition: RELICS },
-    { name: 'Shade', acquisition: MARKET },
-    { name: 'Prisma Shade', acquisition: BARO_KITEER },
-    { name: 'Taxon', acquisition: MARKET },
-    { name: 'Wyrm', acquisition: MARKET },
-    { name: 'Wyrm Prime', acquisition: RELICS },
+    {
+      name: 'Carrier',
+      acquisition: MARKET,
+      masteryRank: 0,
+    },
+    {
+      name: 'Carrier Prime',
+      acquisition: VAULTED,
+      masteryRank: 0,
+    },
+    {
+      name: 'Dethcube',
+      acquisition: MARKET,
+      masteryRank: 0,
+    },
+    {
+      name: 'Diriga',
+      acquisition: MARKET,
+      masteryRank: 0,
+    },
+    {
+      name: 'Djinn',
+      acquisition: BIO_LAB,
+      masteryRank: 0,
+    },
+    {
+      name: 'Helios',
+      acquisition: ENERGY_LAB,
+      masteryRank: 0,
+    },
+    {
+      name: 'Helios Prime',
+      acquisition: RELICS,
+      masteryRank: 8,
+    },
+    {
+      name: 'Shade',
+      acquisition: MARKET,
+      masteryRank: 0,
+    },
+    {
+      name: 'Prisma Shade',
+      acquisition: BARO_KITEER,
+      masteryRank: 0,
+    },
+    {
+      name: 'Taxon',
+      acquisition: MARKET,
+      masteryRank: 0,
+    },
+    {
+      name: 'Wyrm',
+      acquisition: MARKET,
+      masteryRank: 0,
+    },
+    {
+      name: 'Wyrm Prime',
+      acquisition: RELICS,
+      masteryRank: 0,
+    },
   ],
   kubrows: [
-    { name: 'Huras Kubrow', acquisition: INCUBATOR_SEGMENT },
-    { name: 'Raksa Kubrow', acquisition: INCUBATOR_SEGMENT },
-    { name: 'Sahasa Kubrow', acquisition: INCUBATOR_SEGMENT },
-    { name: 'Sunika Kubrow', acquisition: INCUBATOR_SEGMENT },
-    { name: 'Chesa Kubrow', acquisition: INCUBATOR_SEGMENT },
-    { name: 'Helminth Charger', acquisition: INCUBATOR_SEGMENT },
+    {
+      name: 'Huras Kubrow',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
+    {
+      name: 'Raksa Kubrow',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
+    {
+      name: 'Sahasa Kubrow',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
+    {
+      name: 'Sunika Kubrow',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
+    {
+      name: 'Chesa Kubrow',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
+    {
+      name: 'Helminth Charger',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
   ],
   kavats: [
-    { name: 'Adarza Kavat', acquisition: INCUBATOR_SEGMENT },
-    { name: 'Smeeta Kavat', acquisition: INCUBATOR_SEGMENT },
+    {
+      name: 'Adarza Kavat',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
+    {
+      name: 'Smeeta Kavat',
+      acquisition: INCUBATOR_SEGMENT,
+      masteryRank: 0,
+    },
   ],
 };

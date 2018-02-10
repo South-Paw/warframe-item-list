@@ -4,7 +4,7 @@
 
 [![warframe-item-list on npm](https://nodei.co/npm/warframe-item-list.png)](https://nodei.co/npm/warframe-item-list/)
 
-[![warframe update](https://img.shields.io/badge/warframe_update-22.11.1-blue.svg)](http://warframe.wikia.com/wiki/Update_22#Hotfix_22.11.1)
+[![warframe update](https://img.shields.io/badge/warframe_update-22.12.0-blue.svg)](http://warframe.wikia.com/wiki/Update_22#Update_22.12)
 [![Dependencies](https://david-dm.org/South-Paw/warframe-item-list/status.svg)](https://david-dm.org/South-Paw/warframe-item-list)
 [![Dev Dependencies](https://david-dm.org/South-Paw/warframe-item-list/dev-status.svg)](https://david-dm.org/South-Paw/warframe-item-list?type=dev)
 
@@ -75,7 +75,7 @@ Within each list, the objects are pretty similarly structured:
   name: 'string',        // name of the item (required).
   acquisition: 'string', // where to acquire the item (required).
   category: 'string',    // category of weapon - this is only used for primary/secondary/melee weapons.
-  masteryRank: 0,        // the mastery rank required to craft - if undefined, then it's 0.
+  masteryRank: 0,        // the mastery rank required to craft (required).
   type: 'string',        // if the using the array export, items will have a type attached as well.
 },
 ```

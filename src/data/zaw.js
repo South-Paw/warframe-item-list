@@ -1,16 +1,51 @@
 const constants = require('../constants.js');
 
-const { HOKS_ANVIL, NAKAK } = constants.acquisition;
+const {
+  HOKS_ANVIL,
+  NAKAK,
+} = constants.acquisition;
 
 module.exports = {
   zaw: [
-    { name: 'Balla Strike', acquisition: HOKS_ANVIL },
-    { name: 'Cyath Strike', acquisition: HOKS_ANVIL },
-    { name: 'Dehtat Strike', acquisition: HOKS_ANVIL },
-    { name: 'Kronsh Strike', acquisition: HOKS_ANVIL },
-    { name: 'Mewan Strike', acquisition: HOKS_ANVIL },
-    { name: 'Ooltha Strike', acquisition: HOKS_ANVIL },
-    { name: 'Plague Keewar Strike', acquisition: NAKAK },
-    { name: 'Plague Kripath Strike', acquisition: NAKAK },
+    {
+      name: 'Balla Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
+      name: 'Cyath Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
+      name: 'Dehtat Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
+      name: 'Kronsh Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
+      name: 'Mewan Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
+      name: 'Ooltha Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
+      name: 'Plague Keewar Strike',
+      acquisition: NAKAK,
+      masteryRank: 0,
+    },
+    {
+      name: 'Plague Kripath Strike',
+      acquisition: NAKAK,
+      masteryRank: 0,
+    },
   ],
 };
