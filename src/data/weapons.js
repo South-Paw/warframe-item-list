@@ -356,7 +356,7 @@ module.exports = {
       name: 'Amprex',
       acquisition: ENERGY_LAB,
       category: RIFLE,
-      masteryRank: 5,
+      masteryRank: 10,
     },
     {
       name: 'Flux Rifle',
@@ -368,19 +368,19 @@ module.exports = {
       name: 'Glaxion',
       acquisition: ENERGY_LAB,
       category: RIFLE,
-      masteryRank: 6,
+      masteryRank: 8,
     },
     {
       name: 'Ignis',
       acquisition: CHEM_LAB,
       category: RIFLE,
-      masteryRank: 4,
+      masteryRank: 5,
     },
     {
       name: 'Ignis Wraith',
       acquisition: `${CHEM_LAB} [Limited]`,
       category: RIFLE,
-      masteryRank: 6,
+      masteryRank: 9,
     },
     {
       name: 'Quanta',
@@ -392,7 +392,7 @@ module.exports = {
       name: 'Quanta Vandal',
       acquisition: BARO_KITEER,
       category: RIFLE,
-      masteryRank: 4,
+      masteryRank: 10,
     },
     {
       name: 'Quartakk',
@@ -404,7 +404,7 @@ module.exports = {
       name: 'Synapse',
       acquisition: BIO_LAB,
       category: RIFLE,
-      masteryRank: 6,
+      masteryRank: 11,
     },
     {
       name: 'Arca Plasmor',
@@ -434,7 +434,7 @@ module.exports = {
       name: 'Convectrix',
       acquisition: ENERGY_LAB,
       category: SHOTGUN,
-      masteryRank: 2,
+      masteryRank: 7,
     },
     {
       name: 'Corinth',
@@ -470,7 +470,7 @@ module.exports = {
       name: 'Phage',
       acquisition: BIO_LAB,
       category: SHOTGUN,
-      masteryRank: 6,
+      masteryRank: 11,
     },
     {
       name: 'Sobek',
@@ -934,19 +934,19 @@ module.exports = {
       name: 'Atomos',
       acquisition: MARKET,
       category: SINGLE_PISTOL,
-      masteryRank: 4,
+      masteryRank: 5,
     },
     {
       name: 'Cycron',
       acquisition: ENERGY_LAB,
       category: SINGLE_PISTOL,
-      masteryRank: 9,
+      masteryRank: 8,
     },
     {
       name: 'Embolist',
       acquisition: BIO_LAB,
       category: SINGLE_PISTOL,
-      masteryRank: 8,
+      masteryRank: 9,
     },
     {
       name: 'Gammacor',
@@ -958,7 +958,7 @@ module.exports = {
       name: 'Synoid Gammacor',
       acquisition: CEPHALON_SUDA,
       category: SINGLE_PISTOL,
-      masteryRank: 6,
+      masteryRank: 7,
     },
     {
       name: 'Nukor',
