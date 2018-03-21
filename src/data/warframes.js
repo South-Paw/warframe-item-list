@@ -286,7 +286,7 @@ module.exports = {
     },
     {
       name: 'Vauban Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
     {
@@ -308,6 +308,11 @@ module.exports = {
       name: 'Zephyr',
       acquisition: TENNO_LAB,
       masteryRank: 0,
+    },
+    {
+      name: 'Zephyr Prime',
+      acquisition: RELICS,
+      masteryRank: 6,
     },
   ],
 };

@@ -347,6 +347,12 @@ module.exports = {
       masteryRank: 10,
     },
     {
+      name: 'Tiberon Prime',
+      acquisition: RELICS,
+      category: RIFLE,
+      masteryRank: 14,
+    },
+    {
       name: 'Zenith',
       acquisition: LOGIN_REWARD,
       category: RIFLE,
@@ -1106,7 +1112,7 @@ module.exports = {
     },
     {
       name: 'Akstiletto Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: DUAL_PISTOLS,
       masteryRank: 10,
     },
@@ -1834,7 +1840,7 @@ module.exports = {
     },
     {
       name: 'Fragor Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: HAMMER,
       masteryRank: 7,
     },
@@ -1963,6 +1969,12 @@ module.exports = {
       acquisition: MARKET,
       category: TONFA,
       masteryRank: 3,
+    },
+    {
+      name: 'Kronen Prime',
+      acquisition: RELICS,
+      category: TONFA,
+      masteryRank: 8,
     },
     {
       name: 'Ohma',
