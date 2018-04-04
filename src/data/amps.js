@@ -2,10 +2,10 @@ const constants = require('../constants.js');
 
 const {
   THE_QUILLS,
-} = constants.acquisition;
+} = constants.acquisitions;
 
 module.exports = {
-  amp: [
+  amps: [
     {
       name: 'Mote Prism',
       acquisition: THE_QUILLS,
