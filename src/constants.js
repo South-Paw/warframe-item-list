@@ -1,4 +1,4 @@
-const acquisition = {
+const acquisitions = {
   ALERTS: 'Alerts',
   ANNIVERSARY: 'Anniversary',
   BARO_KITEER: 'Baro Ki\'Teer',
@@ -75,7 +75,7 @@ const acquisitionEnemies = {
   VOR: 'Captain Vor (Boss)',
 };
 
-const primaryCategory = {
+const primaryCategories = {
   BOW: 'Bow',
   LAUNCHER: 'Launcher',
   RIFLE: 'Rifle',
@@ -84,13 +84,13 @@ const primaryCategory = {
   SPEARGUN: 'Speargun',
 };
 
-const secondaryCategory = {
+const secondaryCategories = {
   DUAL_PISTOLS: 'Dual Pistols',
   SINGLE_PISTOL: 'Single Pistol',
   THROWN: 'Thrown',
 };
 
-const meleeCategory = {
+const meleeCategories = {
   BLADE_WHIP: 'Blade-Whip',
   CLAWS: 'Claws',
   DAGGER: 'Dagger',
@@ -117,7 +117,7 @@ const meleeCategory = {
   WHIP: 'Whip',
 };
 
-const itemType = {
+const itemTypes = {
   AMP: 'Amp',
   ARCHWING: 'Archwing',
   ARCHWING_GUN: 'Archwing Gun',
@@ -134,12 +134,12 @@ const itemType = {
 };
 
 module.exports = {
-  acquisition,
+  acquisitions,
   acquisitionQuests,
   acquisitionFactions,
   acquisitionEnemies,
-  primaryCategory,
-  secondaryCategory,
-  meleeCategory,
-  itemType,
+  primaryCategories,
+  secondaryCategories,
+  meleeCategories,
+  itemTypes,
 };

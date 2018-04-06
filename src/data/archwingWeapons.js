@@ -6,14 +6,14 @@ const {
   FOMORIAN_SABOTAGE,
   MARKET,
   TENNO_LAB,
-} = constants.acquisition;
+} = constants.acquisitions;
 
 const {
   THE_ARCHWING,
 } = constants.acquisitionQuests;
 
 module.exports = {
-  archgun: [
+  archguns: [
     {
       name: 'Corvas',
       acquisition: MARKET,
@@ -60,7 +60,7 @@ module.exports = {
       masteryRank: 0,
     },
   ],
-  archmelee: [
+  archmelees: [
     {
       name: 'Agkuza',
       acquisition: MARKET,

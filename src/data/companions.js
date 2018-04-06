@@ -8,7 +8,7 @@ const {
   MARKET,
   RELICS,
   VAULTED,
-} = constants.acquisition;
+} = constants.acquisitions;
 
 module.exports = {
   sentinels: [

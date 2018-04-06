@@ -20,7 +20,7 @@ const {
   TENNO_LAB,
   UNOBTAINABLE,
   VAULTED,
-} = constants.acquisition;
+} = constants.acquisitions;
 
 const {
   THE_SECOND_DREAM,
@@ -51,13 +51,13 @@ const {
   SNIPER,
   SPEARGUN,
   RIFLE,
-} = constants.primaryCategory;
+} = constants.primaryCategories;
 
 const {
   DUAL_PISTOLS,
   SINGLE_PISTOL,
   THROWN,
-} = constants.secondaryCategory;
+} = constants.secondaryCategories;
 
 const {
   BLADE_WHIP,
@@ -84,10 +84,10 @@ const {
   TONFA,
   WARFANS,
   WHIP,
-} = constants.meleeCategory;
+} = constants.meleeCategories;
 
 module.exports = {
-  primary: [
+  primaries: [
     {
       name: 'Argonak',
       acquisition: CHEM_LAB,
@@ -719,7 +719,7 @@ module.exports = {
       masteryRank: 6,
     },
   ],
-  secondary: [
+  secondaries: [
     {
       name: 'Acrid',
       acquisition: BIO_LAB,
@@ -1261,7 +1261,7 @@ module.exports = {
       masteryRank: 8,
     },
   ],
-  melee: [
+  melees: [
     {
       name: 'Broken War',
       acquisition: THE_SECOND_DREAM,
