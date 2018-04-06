@@ -4,7 +4,7 @@
 
 [![warframe-item-list on npm](https://nodei.co/npm/warframe-item-list.png)](https://nodei.co/npm/warframe-item-list/)
 
-[![warframe update](https://img.shields.io/badge/warframe_update-22.16.4-blue.svg)](http://warframe.wikia.com/wiki/Update_22#Hotfix_22.16.4)
+[![warframe update](https://img.shields.io/badge/warframe_update-22.17.1.1-blue.svg)](http://warframe.wikia.com/wiki/Update_22#Hotfix_22.17.1.1)
 [![Dependencies](https://david-dm.org/South-Paw/warframe-item-list/status.svg)](https://david-dm.org/South-Paw/warframe-item-list)
 [![Dev Dependencies](https://david-dm.org/South-Paw/warframe-item-list/dev-status.svg)](https://david-dm.org/South-Paw/warframe-item-list?type=dev)
 
@@ -25,11 +25,11 @@ If you come across any missing items, problems or mistakes - please let me know 
 ## Usage
 
 ```js
-const items = require('warframe-item-list');
+const { array, objects, constants } = require('warframe-item-list');
 
-console.log(items.array);     // returns a big list of every item.
-console.log(items.objects);   // returns an object containing named lists and objects for more specific uses.
-console.log(items.constants); // returns the same lists used to define the `acquisition`, `category` and `type` keys.
+console.log(array);     // returns a big list of every item.
+console.log(objects);   // returns an object containing named lists and objects for more specific uses.
+console.log(constants); // returns the same lists used to define the `acquisition`, `category` and `type` keys.
 ```
 
 ## Objects
@@ -41,29 +41,29 @@ If you `console.log` the root object, you'll get the following:
   version: 'string',
   array: [...],
   objects: {
-    AMP: [...],
-    ARCHWING: [...],
-    ARCHWING_GUN: [...],
-    ARCHWING_MELEE: [...],
-    COMPANION_SENTINEL: [...],
-    COMPANION_KUBROW: [...],
-    COMPANION_KAVAT: [...],
-    SENTINEL_WEAPON: [...],
-    WARFRAME: [...],
-    WEAPON_PRIMARY: [...],
-    WEAPON_SECONDARY: [...],
-    WEAPON_MELEE: [...],
-    ZAW: [...],
+    AMPS: [...],
+    ARCHWINGS: [...],
+    ARCHWING_GUNS: [...],
+    ARCHWING_MELEES: [...],
+    COMPANION_SENTINELS: [...],
+    COMPANION_KUBROWS: [...],
+    COMPANION_KAVATS: [...],
+    SENTINEL_WEAPONS: [...],
+    WARFRAMES: [...],
+    WEAPON_PRIMARIES: [...],
+    WEAPON_SECONDARIES: [...],
+    WEAPON_MELEES: [...],
+    ZAWS: [...],
   },
   constants: {
-    acquisition: {...},
+    acquisitions: {...},
     acquisitionQuests: {...},
     acquisitionFactions: {...},
     acquisitionEnemies: {...},
-    primaryCategory: {...},
-    secondaryCategory: {...},
-    meleeCategory: {...},
-    itemType: {...},
+    primaryCategories: {...},
+    secondaryCategories: {...},
+    meleeCategories: {...},
+    itemTypes: {...},
   },
 };
 ```

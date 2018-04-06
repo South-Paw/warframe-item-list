@@ -7,7 +7,7 @@ const {
   TENNO_LAB,
   UNOBTAINABLE,
   VAULTED,
-} = constants.acquisition;
+} = constants.acquisitions;
 
 const {
   CHAINS_OF_HARROW,

@@ -3,10 +3,10 @@ const constants = require('../constants.js');
 const {
   HOKS_ANVIL,
   NAKAK,
-} = constants.acquisition;
+} = constants.acquisitions;
 
 module.exports = {
-  zaw: [
+  zaws: [
     {
       name: 'Balla Strike',
       acquisition: HOKS_ANVIL,

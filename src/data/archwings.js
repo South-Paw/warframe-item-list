@@ -3,7 +3,7 @@ const constants = require('../constants.js');
 const {
   TENNO_LAB,
   VAULTED,
-} = constants.acquisition;
+} = constants.acquisitions;
 
 const {
   THE_ARCHWING,
