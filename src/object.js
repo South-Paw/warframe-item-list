@@ -21,22 +21,6 @@ const objects = {
   WEAPON_SECONDARIES: secondaries,
   WEAPON_MELEES: melees,
   ZAWS: zaws,
-
-  // DEPRECATED
-  // Keeping singular names to avoid breaking applications
-  AMP: amps,
-  ARCHWING: archwings,
-  ARCHWING_GUN: archguns,
-  ARCHWING_MELEE: archmelees,
-  COMPANION_SENTINEL: sentinels,
-  COMPANION_KUBROW: kubrows,
-  COMPANION_KAVAT: kavats,
-  SENTINEL_WEAPON: sentinelWeapons,
-  WARFRAME: warframes,
-  WEAPON_PRIMARY: primaries,
-  WEAPON_SECONDARY: secondaries,
-  WEAPON_MELEE: melees,
-  ZAW: zaws,
 };
 
 module.exports = {
