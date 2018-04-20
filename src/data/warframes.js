@@ -3,6 +3,7 @@ const constants = require('../constants.js');
 const {
   ALERTS,
   RELICS,
+  SANCTUARY_ONSLAUGHT,
   SPY_MISSIONS,
   TENNO_LAB,
   UNOBTAINABLE,
@@ -137,6 +138,11 @@ module.exports = {
     {
       name: 'Ivara',
       acquisition: SPY_MISSIONS,
+      masteryRank: 0,
+    },
+    {
+      name: 'Khora',
+      acquisition: SANCTUARY_ONSLAUGHT,
       masteryRank: 0,
     },
     {
