@@ -557,6 +557,12 @@ module.exports = {
       masteryRank: 14,
     },
     {
+      name: 'Veldt',
+      acquisition: TENNO_LAB,
+      category: SNIPER,
+      masteryRank: 8,
+    },
+    {
       name: 'Vulkar',
       acquisition: MARKET,
       category: SNIPER,
@@ -791,6 +797,12 @@ module.exports = {
       acquisition: MARKET,
       category: SINGLE_PISTOL,
       masteryRank: 2,
+    },
+    {
+      name: 'Hystrix',
+      acquisition: MARKET,
+      category: SINGLE_PISTOL,
+      masteryRank: 7,
     },
     {
       name: 'Knell',
@@ -1375,6 +1387,12 @@ module.exports = {
       acquisition: MARKET,
       category: DUAL_SWORDS,
       masteryRank: 0,
+    },
+    {
+      name: 'Dual Keres',
+      acquisition: MARKET,
+      category: DUAL_SWORDS,
+      masteryRank: 7,
     },
     {
       name: 'Twin Krohkur',
