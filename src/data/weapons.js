@@ -246,7 +246,7 @@ module.exports = {
     },
     {
       name: 'Latron Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: RIFLE,
       masteryRank: 10,
     },
@@ -878,7 +878,7 @@ module.exports = {
     },
     {
       name: 'Sicarus Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: SINGLE_PISTOL,
       masteryRank: 14,
     },
@@ -1708,7 +1708,7 @@ module.exports = {
     },
     {
       name: 'Bo Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: STAFF,
       masteryRank: 5,
     },
@@ -1739,7 +1739,7 @@ module.exports = {
     {
       name: 'Glaive Prime',
       acquisition: RELICS,
-      category: GLAIVE,
+      category: VAULTED,
       masteryRank: 10,
     },
     {
@@ -1948,7 +1948,7 @@ module.exports = {
     },
     {
       name: 'Reaper Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: SCYTHE,
       masteryRank: 2,
     },

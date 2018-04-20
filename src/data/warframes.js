@@ -81,7 +81,7 @@ module.exports = {
     },
     {
       name: 'Ember Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
     {
@@ -106,7 +106,7 @@ module.exports = {
     },
     {
       name: 'Frost Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
     {
@@ -151,7 +151,7 @@ module.exports = {
     },
     {
       name: 'Loki Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
     {
