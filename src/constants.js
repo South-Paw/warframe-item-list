@@ -19,6 +19,7 @@ const acquisitions = {
   OROKIN_LAB: 'Orokin Lab (Dojo)',
   RAZORBACK_ARMADA: 'Razorback Armada',
   RELICS: 'Relics',
+  SANCTUARY_ONSLAUGHT: 'Sanctuary Onslaught',
   SPY_MISSIONS: 'Spy Missions',
   STALKER: 'Stalker',
   THE_QUILLS: 'The Quills (Cetus)',
