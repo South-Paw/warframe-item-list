@@ -23,6 +23,11 @@ module.exports = {
       masteryRank: 0,
     },
     {
+      name: 'Dokrahm Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
       name: 'Kronsh Strike',
       acquisition: HOKS_ANVIL,
       masteryRank: 0,
@@ -45,6 +50,16 @@ module.exports = {
     {
       name: 'Plague Kripath Strike',
       acquisition: NAKAK,
+      masteryRank: 0,
+    },
+    {
+      name: 'Rabvee Strike',
+      acquisition: HOKS_ANVIL,
+      masteryRank: 0,
+    },
+    {
+      name: 'Sepfahn Strike',
+      acquisition: HOKS_ANVIL,
       masteryRank: 0,
     },
   ],

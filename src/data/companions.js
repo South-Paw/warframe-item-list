@@ -69,7 +69,7 @@ module.exports = {
     },
     {
       name: 'Wyrm Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
   ],

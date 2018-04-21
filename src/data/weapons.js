@@ -246,7 +246,7 @@ module.exports = {
     },
     {
       name: 'Latron Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: RIFLE,
       masteryRank: 10,
     },
@@ -557,6 +557,12 @@ module.exports = {
       masteryRank: 14,
     },
     {
+      name: 'Veldt',
+      acquisition: TENNO_LAB,
+      category: SNIPER,
+      masteryRank: 8,
+    },
+    {
       name: 'Vulkar',
       acquisition: MARKET,
       category: SNIPER,
@@ -793,6 +799,12 @@ module.exports = {
       masteryRank: 2,
     },
     {
+      name: 'Hystrix',
+      acquisition: MARKET,
+      category: SINGLE_PISTOL,
+      masteryRank: 7,
+    },
+    {
       name: 'Knell',
       acquisition: MARKET,
       category: SINGLE_PISTOL,
@@ -878,7 +890,7 @@ module.exports = {
     },
     {
       name: 'Sicarus Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: SINGLE_PISTOL,
       masteryRank: 14,
     },
@@ -1377,6 +1389,12 @@ module.exports = {
       masteryRank: 0,
     },
     {
+      name: 'Dual Keres',
+      acquisition: MARKET,
+      category: DUAL_SWORDS,
+      masteryRank: 7,
+    },
+    {
       name: 'Twin Krohkur',
       acquisition: MARKET,
       category: DUAL_SWORDS,
@@ -1708,7 +1726,7 @@ module.exports = {
     },
     {
       name: 'Bo Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: STAFF,
       masteryRank: 5,
     },
@@ -1739,7 +1757,7 @@ module.exports = {
     {
       name: 'Glaive Prime',
       acquisition: RELICS,
-      category: GLAIVE,
+      category: VAULTED,
       masteryRank: 10,
     },
     {
@@ -1948,7 +1966,7 @@ module.exports = {
     },
     {
       name: 'Reaper Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       category: SCYTHE,
       masteryRank: 2,
     },

@@ -3,6 +3,7 @@ const constants = require('../constants.js');
 const {
   ALERTS,
   RELICS,
+  SANCTUARY_ONSLAUGHT,
   SPY_MISSIONS,
   TENNO_LAB,
   UNOBTAINABLE,
@@ -81,7 +82,7 @@ module.exports = {
     },
     {
       name: 'Ember Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
     {
@@ -106,7 +107,7 @@ module.exports = {
     },
     {
       name: 'Frost Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
     {
@@ -140,6 +141,11 @@ module.exports = {
       masteryRank: 0,
     },
     {
+      name: 'Khora',
+      acquisition: SANCTUARY_ONSLAUGHT,
+      masteryRank: 0,
+    },
+    {
       name: 'Limbo',
       acquisition: THE_LIMBO_THEOREM,
       masteryRank: 0,
@@ -151,7 +157,7 @@ module.exports = {
     },
     {
       name: 'Loki Prime',
-      acquisition: RELICS,
+      acquisition: VAULTED,
       masteryRank: 0,
     },
     {
