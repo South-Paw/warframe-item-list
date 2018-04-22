@@ -353,6 +353,12 @@ module.exports = {
       masteryRank: 14,
     },
     {
+      name: 'Veldt',
+      acquisition: TENNO_LAB,
+      category: RIFLE,
+      masteryRank: 8,
+    },
+    {
       name: 'Zenith',
       acquisition: LOGIN_REWARD,
       category: RIFLE,
@@ -555,12 +561,6 @@ module.exports = {
       acquisition: VAULTED,
       category: SNIPER,
       masteryRank: 14,
-    },
-    {
-      name: 'Veldt',
-      acquisition: TENNO_LAB,
-      category: SNIPER,
-      masteryRank: 8,
     },
     {
       name: 'Vulkar',
