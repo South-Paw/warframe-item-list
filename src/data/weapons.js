@@ -16,6 +16,7 @@ const {
   MARKET,
   RAZORBACK_ARMADA,
   RELICS,
+  SANCTUARY_ONSLAUGHT,
   STALKER,
   TENNO_LAB,
   UNOBTAINABLE,
@@ -138,7 +139,7 @@ module.exports = {
     },
     {
       name: 'Braton Vandal',
-      acquisition: UNOBTAINABLE,
+      acquisition: SANCTUARY_ONSLAUGHT,
       category: RIFLE,
       masteryRank: 4,
     },
@@ -836,7 +837,7 @@ module.exports = {
     },
     {
       name: 'Lato Vandal',
-      acquisition: UNOBTAINABLE,
+      acquisition: SANCTUARY_ONSLAUGHT,
       category: SINGLE_PISTOL,
       masteryRank: 7,
     },
