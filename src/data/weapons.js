@@ -14,6 +14,7 @@ const {
   INVASIONS,
   LOGIN_REWARD,
   MARKET,
+  NAKAK,
   RAZORBACK_ARMADA,
   RELICS,
   SANCTUARY_ONSLAUGHT,
@@ -301,7 +302,7 @@ module.exports = {
     },
     {
       name: 'Supra Vandal',
-      acquisition: UNOBTAINABLE,
+      acquisition: BARO_KITEER,
       category: RIFLE,
       masteryRank: 14,
     },
@@ -319,7 +320,7 @@ module.exports = {
     },
     {
       name: 'Dex Sybaris',
-      acquisition: UNOBTAINABLE,
+      acquisition: ANNIVERSARY,
       category: RIFLE,
       masteryRank: 7,
     },
@@ -541,7 +542,7 @@ module.exports = {
     },
     {
       name: 'Snipetron',
-      acquisition: UNOBTAINABLE,
+      acquisition: NAKAK,
       category: SNIPER,
       masteryRank: 0,
     },
@@ -1535,7 +1536,7 @@ module.exports = {
     },
     {
       name: 'Ether Daggers',
-      acquisition: MARKET,
+      acquisition: NAKAK,
       category: DUAL_DAGGERS,
       masteryRank: 0,
     },
