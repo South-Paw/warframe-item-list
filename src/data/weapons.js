@@ -14,8 +14,10 @@ const {
   INVASIONS,
   LOGIN_REWARD,
   MARKET,
+  OPERATION_PLAGUE_STAR,
   RAZORBACK_ARMADA,
   RELICS,
+  SANCTUARY_ONSLAUGHT,
   STALKER,
   TENNO_LAB,
   UNOBTAINABLE,
@@ -138,7 +140,7 @@ module.exports = {
     },
     {
       name: 'Braton Vandal',
-      acquisition: UNOBTAINABLE,
+      acquisition: SANCTUARY_ONSLAUGHT,
       category: RIFLE,
       masteryRank: 4,
     },
@@ -300,7 +302,7 @@ module.exports = {
     },
     {
       name: 'Supra Vandal',
-      acquisition: UNOBTAINABLE,
+      acquisition: BARO_KITEER,
       category: RIFLE,
       masteryRank: 14,
     },
@@ -318,7 +320,7 @@ module.exports = {
     },
     {
       name: 'Dex Sybaris',
-      acquisition: UNOBTAINABLE,
+      acquisition: ANNIVERSARY,
       category: RIFLE,
       masteryRank: 7,
     },
@@ -351,6 +353,12 @@ module.exports = {
       acquisition: RELICS,
       category: RIFLE,
       masteryRank: 14,
+    },
+    {
+      name: 'Veldt',
+      acquisition: TENNO_LAB,
+      category: RIFLE,
+      masteryRank: 8,
     },
     {
       name: 'Zenith',
@@ -534,7 +542,7 @@ module.exports = {
     },
     {
       name: 'Snipetron',
-      acquisition: UNOBTAINABLE,
+      acquisition: OPERATION_PLAGUE_STAR,
       category: SNIPER,
       masteryRank: 0,
     },
@@ -555,12 +563,6 @@ module.exports = {
       acquisition: VAULTED,
       category: SNIPER,
       masteryRank: 14,
-    },
-    {
-      name: 'Veldt',
-      acquisition: TENNO_LAB,
-      category: SNIPER,
-      masteryRank: 8,
     },
     {
       name: 'Vulkar',
@@ -836,7 +838,7 @@ module.exports = {
     },
     {
       name: 'Lato Vandal',
-      acquisition: UNOBTAINABLE,
+      acquisition: SANCTUARY_ONSLAUGHT,
       category: SINGLE_PISTOL,
       masteryRank: 7,
     },
@@ -1534,7 +1536,7 @@ module.exports = {
     },
     {
       name: 'Ether Daggers',
-      acquisition: MARKET,
+      acquisition: OPERATION_PLAGUE_STAR,
       category: DUAL_DAGGERS,
       masteryRank: 0,
     },

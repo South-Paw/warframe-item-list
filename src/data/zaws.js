@@ -2,7 +2,7 @@ const constants = require('../constants.js');
 
 const {
   HOKS_ANVIL,
-  NAKAK,
+  OPERATION_PLAGUE_STAR,
 } = constants.acquisitions;
 
 module.exports = {
@@ -44,12 +44,12 @@ module.exports = {
     },
     {
       name: 'Plague Keewar Strike',
-      acquisition: NAKAK,
+      acquisition: OPERATION_PLAGUE_STAR,
       masteryRank: 0,
     },
     {
       name: 'Plague Kripath Strike',
-      acquisition: NAKAK,
+      acquisition: OPERATION_PLAGUE_STAR,
       masteryRank: 0,
     },
     {

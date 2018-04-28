@@ -15,7 +15,7 @@ const acquisitions = {
   INVASIONS: 'Invasions',
   LOGIN_REWARD: 'Login Reward',
   MARKET: 'Market',
-  NAKAK: 'Nakak (Cetus)',
+  OPERATION_PLAGUE_STAR: 'Operation Plague Star',
   OROKIN_LAB: 'Orokin Lab (Dojo)',
   RAZORBACK_ARMADA: 'Razorback Armada',
   RELICS: 'Relics',
