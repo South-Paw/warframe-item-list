@@ -7,4 +7,10 @@ module.exports = {
     'max-len': ['error', 120],
     'object-curly-newline': 'off',
   },
+  overrides: {
+    files: ['**/__tests__/*.js'],
+    env: {
+      jest: true
+    },
+  },
 };

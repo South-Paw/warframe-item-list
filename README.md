@@ -5,6 +5,8 @@
 [![warframe-item-list on npm](https://nodei.co/npm/warframe-item-list.png)](https://www.npmjs.com/package/warframe-item-list)
 
 [![warframe update](https://img.shields.io/badge/warframe_update-22.18.7-blue.svg)](http://warframe.wikia.com/wiki/Update_22#Hotfix_22.18.7)
+[![CI Status](https://img.shields.io/travis/South-Paw/warframe-item-list.svg)](https://travis-ci.org/South-Paw/warframe-item-list)
+[![Coveralls Status](https://img.shields.io/coveralls/github/South-Paw/warframe-item-list.svg)](https://coveralls.io/github/South-Paw/warframe-item-list)
 [![Dependencies](https://david-dm.org/South-Paw/warframe-item-list/status.svg)](https://david-dm.org/South-Paw/warframe-item-list)
 [![Dev Dependencies](https://david-dm.org/South-Paw/warframe-item-list/dev-status.svg)](https://david-dm.org/South-Paw/warframe-item-list?type=dev)
 
@@ -20,16 +22,21 @@ If you come across any missing items, problems or mistakes - please let me know 
 
 ## Install
 
+`yarn add warframe-item-list`
+
+or
+
 `npm i warframe-item-list`
 
 ## Usage
 
 ```js
-const { array, objects, constants } = require('warframe-item-list');
+const { version, array, objects, constants } = require('warframe-item-list');
 
+console.log(version);   // returns the warframe game version of the item list.
 console.log(array);     // returns a big list of every item.
 console.log(objects);   // returns an object containing named lists and objects for more specific uses.
-console.log(constants); // returns the same lists used to define the `acquisition`, `category` and `type` keys.
+console.log(constants); // returns the constant keys used to define keys in the `array` and `objects`.
 ```
 
 ## Objects
@@ -45,9 +52,9 @@ If you `console.log` the root object, you'll get the following:
     ARCHWINGS: [...],
     ARCHWING_GUNS: [...],
     ARCHWING_MELEES: [...],
-    COMPANION_SENTINELS: [...],
-    COMPANION_KUBROWS: [...],
     COMPANION_KAVATS: [...],
+    COMPANION_KUBROWS: [...],
+    COMPANION_SENTINELS: [...],
     SENTINEL_WEAPONS: [...],
     WARFRAMES: [...],
     WEAPON_PRIMARIES: [...],
@@ -56,14 +63,12 @@ If you `console.log` the root object, you'll get the following:
     ZAWS: [...],
   },
   constants: {
-    acquisitions: {...},
-    acquisitionQuests: {...},
-    acquisitionFactions: {...},
-    acquisitionEnemies: {...},
-    primaryCategories: {...},
-    secondaryCategories: {...},
-    meleeCategories: {...},
-    itemTypes: {...},
+    ACQUISITION: {...},
+    ITEM_TYPE: {...},
+    ITEM_TYPES: {...},
+    MELEE_CATEGORIES: {...},
+    PRIMARY_CATEGORIES: {...},
+    SECONDARY_CATEGORIES: {...},
   },
 };
 ```
@@ -72,24 +77,24 @@ Within each list, the objects are pretty similarly structured:
 
 ```js
 {
-  name: 'string',        // name of the item (required).
-  acquisition: 'string', // where to acquire the item (required).
-  category: 'string',    // category of weapon - this is only used for primary/secondary/melee weapons.
-  masteryRank: 0,        // the mastery rank required to craft (required).
-  type: 'string',        // if the using the array export, items will have a type attached as well.
+  name: 'string',        // name of the item.
+  acquisition: 'string', // where to acquire the item.
+  category: 'string',    // category of weapon - this is only used in primary/secondary/melee and sentinel weapons.
+  masteryRank: 0,        // the mastery rank required for the item.
+  type: 'string',        // the type the item belongs to.
 },
 ```
 
-And the `constants` provided are the same that are used to define the `acquisition`, `type` and `group` in the item objects.
+And the `constants` contains those that are provided to define the `acquisition`, `category` and `type` in the item objects.
 
 ## Contributing
 
 Again, if you come across any missing items, problems or mistakes - please let me know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or feel free to have a shot at [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request.
 
-Please ensure that any PRs are linted and keep with the general flow of things.
+Please ensure that any PRs are linted + tested and keep with the general flow of things.
 
-* Items should be grouped by `category` (categories follow the wiki order)
-* Items are alphabetically sorted by `name` within each `category`
+* Items should be grouped in files by `category` (categories follow the wiki order)
+* Ideally; items are alphabetically sorted by `name` within each `category` file
 
 ## License
 

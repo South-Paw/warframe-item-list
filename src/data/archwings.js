@@ -1,40 +1,35 @@
-const constants = require('../constants.js');
+const { ARCHWING } = require('../constants.js').ITEM_TYPE;
+const { LOCATION, QUEST, VAULTED } = require('../constants.js').ACQUISITION;
 
-const {
-  TENNO_LAB,
-  VAULTED,
-} = constants.acquisitions;
+const { DOJO_TENNO_LAB } = LOCATION;
+const { THE_ARCHWING } = QUEST;
 
-const {
-  THE_ARCHWING,
-} = constants.acquisitionQuests;
+const archwings = [
+  {
+    name: 'Amesha',
+    acquisition: DOJO_TENNO_LAB,
+    masteryRank: 0,
+  },
+  {
+    name: 'Elytron',
+    acquisition: DOJO_TENNO_LAB,
+    masteryRank: 0,
+  },
+  {
+    name: 'Itzal',
+    acquisition: DOJO_TENNO_LAB,
+    masteryRank: 0,
+  },
+  {
+    name: 'Odonata',
+    acquisition: THE_ARCHWING,
+    masteryRank: 0,
+  },
+  {
+    name: 'Odonata Prime',
+    acquisition: VAULTED,
+    masteryRank: 0,
+  },
+];
 
-module.exports = {
-  archwings: [
-    {
-      name: 'Amesha',
-      acquisition: TENNO_LAB,
-      masteryRank: 0,
-    },
-    {
-      name: 'Elytron',
-      acquisition: TENNO_LAB,
-      masteryRank: 0,
-    },
-    {
-      name: 'Itzal',
-      acquisition: TENNO_LAB,
-      masteryRank: 0,
-    },
-    {
-      name: 'Odonata',
-      acquisition: THE_ARCHWING,
-      masteryRank: 0,
-    },
-    {
-      name: 'Odonata Prime',
-      acquisition: VAULTED,
-      masteryRank: 0,
-    },
-  ],
-};
+module.exports = archwings.map(object => ({ ...object, type: ARCHWING }));
