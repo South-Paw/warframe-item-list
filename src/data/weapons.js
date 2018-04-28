@@ -15,6 +15,7 @@ const {
   LOGIN_REWARD,
   MARKET,
   NAKAK,
+  OPERATION_PLAGUE_STAR,
   RAZORBACK_ARMADA,
   RELICS,
   SANCTUARY_ONSLAUGHT,
@@ -542,7 +543,7 @@ module.exports = {
     },
     {
       name: 'Snipetron',
-      acquisition: NAKAK,
+      acquisition: OPERATION_PLAGUE_STAR,
       category: SNIPER,
       masteryRank: 0,
     },
@@ -1536,7 +1537,7 @@ module.exports = {
     },
     {
       name: 'Ether Daggers',
-      acquisition: NAKAK,
+      acquisition: OPERATION_PLAGUE_STAR,
       category: DUAL_DAGGERS,
       masteryRank: 0,
     },
