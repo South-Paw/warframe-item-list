@@ -1,55 +1,34 @@
-const { amps } = require('./data/amps.js');
-const { archwings } = require('./data/archwings.js');
-const { archguns, archmelees } = require('./data/archwingWeapons.js');
-const { sentinels, kubrows, kavats } = require('./data/companions.js');
-const { sentinelWeapons } = require('./data/sentinelWeapons.js');
-const { warframes } = require('./data/warframes.js');
-const { primaries, secondaries, melees } = require('./data/weapons.js');
-const { zaws } = require('./data/zaws.js');
+const AMPS = require('./data/amps.js');
+const ARCHWINGS = require('./data/archwings.js');
+const ARCHWING_GUNS = require('./data/archwingGuns.js');
+const ARCHWING_MELEES = require('./data/archwingMelees.js');
+const COMPANION_KAVATS = require('./data/companionKavats.js');
+const COMPANION_KUBROWS = require('./data/companionKubrows.js');
+const COMPANION_SENTINELS = require('./data/companionSentinels.js');
+const SENTINEL_WEAPONS = require('./data/sentinelWeapons.js');
+const WARFRAMES = require('./data/warframes.js');
+const WEAPON_PRIMARIES = require('./data/weaponPrimaries.js');
+const WEAPON_SECONDARIES = require('./data/weaponSecondaries.js');
+const WEAPON_MELEES = require('./data/weaponMelees.js');
+const ZAWS = require('./data/zaws.js');
+const { sortListByInnerKey } = require('./utils.js');
 
-const constants = require('./constants.js');
+const SORT_KEY = 'name';
 
-const {
-  AMP,
-  ARCHWING,
-  ARCHWING_GUN,
-  ARCHWING_MELEE,
-  COMPANION_SENTINEL,
-  COMPANION_KUBROW,
-  COMPANION_KAVAT,
-  SENTINEL_WEAPON,
-  WARFRAME,
-  WEAPON_PRIMARY,
-  WEAPON_SECONDARY,
-  WEAPON_MELEE,
-  ZAW,
-} = constants.itemTypes;
+const array = [
+  ...sortListByInnerKey(AMPS, SORT_KEY),
+  ...sortListByInnerKey(ARCHWINGS, SORT_KEY),
+  ...sortListByInnerKey(ARCHWING_GUNS, SORT_KEY),
+  ...sortListByInnerKey(ARCHWING_MELEES, SORT_KEY),
+  ...sortListByInnerKey(COMPANION_KAVATS, SORT_KEY),
+  ...sortListByInnerKey(COMPANION_KUBROWS, SORT_KEY),
+  ...sortListByInnerKey(COMPANION_SENTINELS, SORT_KEY),
+  ...sortListByInnerKey(SENTINEL_WEAPONS, SORT_KEY),
+  ...sortListByInnerKey(WARFRAMES, SORT_KEY),
+  ...sortListByInnerKey(WEAPON_PRIMARIES, SORT_KEY),
+  ...sortListByInnerKey(WEAPON_SECONDARIES, SORT_KEY),
+  ...sortListByInnerKey(WEAPON_MELEES, SORT_KEY),
+  ...sortListByInnerKey(ZAWS, SORT_KEY),
+];
 
-function addTypeTo(list, type) {
-  const result = [];
-  list.forEach((k, i) => {
-    const item = list[i];
-    item.type = type;
-    result.push(item);
-  });
-  return result;
-}
-
-let array = [];
-array = array.concat(addTypeTo(amps, AMP));
-array = array.concat(addTypeTo(archwings, ARCHWING));
-array = array.concat(addTypeTo(archguns, ARCHWING_GUN));
-array = array.concat(addTypeTo(archmelees, ARCHWING_MELEE));
-array = array.concat(addTypeTo(sentinels, COMPANION_SENTINEL));
-array = array.concat(addTypeTo(kubrows, COMPANION_KUBROW));
-array = array.concat(addTypeTo(kavats, COMPANION_KAVAT));
-array = array.concat(addTypeTo(sentinelWeapons, SENTINEL_WEAPON));
-array = array.concat(addTypeTo(warframes, WARFRAME));
-array = array.concat(addTypeTo(primaries, WEAPON_PRIMARY));
-array = array.concat(addTypeTo(secondaries, WEAPON_SECONDARY));
-array = array.concat(addTypeTo(melees, WEAPON_MELEE));
-array = array.concat(addTypeTo(zaws, ZAW));
-
-module.exports = {
-  array,
-};
+module.exports = [...array];
