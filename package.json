@@ -5,8 +5,8 @@
   "keywords": [
     "warframe"
   ],
-  "homepage": "https://github.com/South-Paw/warframe-item-list",
-  "bugs": "https://github.com/South-Paw/warframe-item-list/issues",
+  "homepage": "https://github.com/andersbrandt/warframe-item-list",
+  "bugs": "https://github.com/andersbrandt/warframe-item-list/issues",
   "license": "GPL-3.0",
   "author": {
     "name": "Alex Gabites",
@@ -19,7 +19,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/South-Paw/warframe-item-list.git"
+    "url": "https://github.com/andersbrandt/warframe-item-list.git"
   },
   "scripts": {
     "build": "rimraf dist && babel src -d dist",
