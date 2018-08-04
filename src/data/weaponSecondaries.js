@@ -348,6 +348,12 @@ const weaponSecondaries = [
     masteryRank: 12,
   },
   {
+    name: 'Pyrana Prime',
+    acquisition: RELICS,
+    category: SINGLE_PISTOL,
+    masteryRank: 13,
+  },
+  {
     name: 'Afuris',
     acquisition: MARKET,
     category: DUAL_PISTOLS,

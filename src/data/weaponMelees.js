@@ -58,6 +58,7 @@ const {
 const {
   THE_SECOND_DREAM,
   THE_WAR_WITHIN,
+  THE_SACRIFICE,
 } = QUEST;
 const {
   ALERTS,
@@ -146,6 +147,12 @@ const weaponMelees = [
     acquisition: UNOBTAINABLE,
     category: SWORD,
     masteryRank: 0,
+  },
+  {
+    name: 'Skiajati',
+    acquisition: THE_SACRIFICE,
+    category: NIKANA,
+    masteryRank: 11,
   },
   {
     name: 'Prisma Skana',
@@ -848,6 +855,12 @@ const weaponMelees = [
     acquisition: MARKET,
     category: RAPIER,
     masteryRank: 7,
+  },
+  {
+    name: 'Destreza Prime',
+    acquisition: RELICS,
+    category: RAPIER,
+    masteryRank: 10,
   },
   {
     name: 'Endura',
