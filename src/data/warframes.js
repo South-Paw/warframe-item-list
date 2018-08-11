@@ -32,7 +32,7 @@ const {
   THE_LIMBO_THEOREM,
   THE_NEW_STRANGE,
   THE_GLAST_GAMBIT,
-  THE_SACRIFICE
+  THE_SACRIFICE,
 } = QUEST;
 const { ALERTS, RELICS, SANCTUARY_ONSLAUGHT, SPY_MISSIONS } = REWARD;
 
@@ -224,7 +224,7 @@ const warframes = [
   },
   {
     name: 'Nyx Prime',
-    acquisition: VAULTED,
+    acquisition: RELICS,
     masteryRank: 0,
   },
   {
@@ -249,7 +249,7 @@ const warframes = [
   },
   {
     name: 'Rhino Prime',
-    acquisition: VAULTED,
+    acquisition: RELICS,
     masteryRank: 0,
   },
   {

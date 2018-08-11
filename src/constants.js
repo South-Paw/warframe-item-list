@@ -56,7 +56,7 @@ const ACQUISITION = {
     THE_GLAST_GAMBIT: 'The Glast Gambit (Quest)',
     THE_LIMBO_THEOREM: 'The Limbo Theorem (Quest)',
     THE_NEW_STRANGE: 'The New Strange (Quest)',
-    THE_SACRIFICE : 'The Sacrifice (Quest)',
+    THE_SACRIFICE: 'The Sacrifice (Quest)',
     THE_SECOND_DREAM: 'The Second Dream (Quest)',
     THE_SILVER_GROVE: 'The Silver Grove (Quest)',
     THE_WAR_WITHIN: 'The War Within (Quest)',

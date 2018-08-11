@@ -547,7 +547,7 @@ const weaponSecondaries = [
   },
   {
     name: 'Hikou Prime',
-    acquisition: VAULTED,
+    acquisition: RELICS,
     category: THROWN_SECONDARY,
     masteryRank: 2,
   },

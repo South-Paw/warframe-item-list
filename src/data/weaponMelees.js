@@ -366,7 +366,7 @@ const weaponMelees = [
   },
   {
     name: 'Ankyros Prime',
-    acquisition: VAULTED,
+    acquisition: RELICS,
     category: FIST,
     masteryRank: 0,
   },
@@ -630,7 +630,7 @@ const weaponMelees = [
   },
   {
     name: 'Scindo Prime',
-    acquisition: VAULTED,
+    acquisition: RELICS,
     category: HEAVY_BLADE,
     masteryRank: 4,
   },
