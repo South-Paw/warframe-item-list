@@ -4,7 +4,7 @@
 
 [![warframe-item-list on npm](https://nodei.co/npm/warframe-item-list.png)](https://www.npmjs.com/package/warframe-item-list)
 
-[![warframe update](https://img.shields.io/badge/warframe_update-22.18.7-blue.svg)](http://warframe.wikia.com/wiki/Update_22#Hotfix_22.18.7)
+[![warframe update](https://img.shields.io/badge/warframe_update-23.2.1-blue.svg)](http://warframe.wikia.com/wiki/Update_23#Hotfix_23.2.1)
 [![CI Status](https://img.shields.io/travis/South-Paw/warframe-item-list.svg)](https://travis-ci.org/South-Paw/warframe-item-list)
 [![Coveralls Status](https://img.shields.io/coveralls/github/South-Paw/warframe-item-list.svg)](https://coveralls.io/github/South-Paw/warframe-item-list)
 [![Dependencies](https://david-dm.org/South-Paw/warframe-item-list/status.svg)](https://david-dm.org/South-Paw/warframe-item-list)
