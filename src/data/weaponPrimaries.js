@@ -57,7 +57,7 @@ const weaponPrimaries = [
   },
   {
     name: 'Boltor Prime',
-    acquisition: VAULTED,
+    acquisition: RELICS,
     category: RIFLE,
     masteryRank: 13,
   },
