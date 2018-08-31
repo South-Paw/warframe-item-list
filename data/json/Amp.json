@@ -1,0 +1,37 @@
+[
+  {
+    "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartC",
+    "name": "Granmu Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Granmu_Prism"
+  },
+  {
+    "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/SentTrainingAmplifier/SentAmpTrainingBarrel",
+    "name": "Mote Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Mote_Prism"
+  },
+  {
+    "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Barrel/SentAmpSet2BarrelPartA",
+    "name": "Rahn Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Rahn_Prism"
+  },
+  {
+    "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartA",
+    "name": "Raplak Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Raplak_Prism"
+  },
+  {
+    "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartB",
+    "name": "Shwaak Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Shwaak_Prism"
+  }
+]

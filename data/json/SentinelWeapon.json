@@ -1,0 +1,86 @@
+[
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/Gremlin",
+    "name": "Artax",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Artax"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol",
+    "name": "Burst Laser",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Burst_Laser"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon",
+    "name": "Deconstructor",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Deconstructor"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon",
+    "name": "Deconstructor Prime",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Deconstructor_Prime"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle",
+    "name": "Deth Machine Rifle",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Deth_Machine_Rifle"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle",
+    "name": "Laser Rifle",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Laser_Rifle"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeLaserRifle",
+    "name": "Prime Laser Rifle",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Prime_Laser_Rifle"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
+    "name": "Prisma Burst Laser",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Prisma_Burst_Laser"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon",
+    "name": "Stinger",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Stinger"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun",
+    "name": "Sweeper",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Sweeper"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun",
+    "name": "Sweeper Prime",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Sweeper_Prime"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun",
+    "name": "Vulklok",
+    "type": "SentinelWeapon",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Vulklok"
+  }
+]

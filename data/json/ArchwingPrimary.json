@@ -1,0 +1,65 @@
+[
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+    "name": "Corvas",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Corvas"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
+    "name": "Cyngas",
+    "type": "ArchwingPrimary",
+    "masteryRank": 4,
+    "wiki": "http://warframe.wikia.com/wiki/Cyngas"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
+    "name": "Dual Decurion",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Dual_Decurion"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+    "name": "Fluctus",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Fluctus"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
+    "name": "Grattler",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Grattler"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
+    "name": "Imperator",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Imperator"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
+    "name": "Imperator Vandal",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Imperator_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+    "name": "Phaedra",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Phaedra"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
+    "name": "Velocitus",
+    "type": "ArchwingPrimary",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Velocitus"
+  }
+]

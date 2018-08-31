@@ -1,0 +1,44 @@
+[
+  {
+    "id": "/Lotus/Types/Game/KubrowPet/RetrieverKubrowPetPowerSuit",
+    "name": "Chesa Kubrow",
+    "type": "Kubrow",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Chesa_Kubrow"
+  },
+  {
+    "id": "/Lotus/Types/Game/KubrowPet/ChargerKubrowPetPowerSuit",
+    "name": "Helminth Charger",
+    "type": "Kubrow",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Helminth_Charger"
+  },
+  {
+    "id": "/Lotus/Types/Game/KubrowPet/FurtiveKubrowPetPowerSuit",
+    "name": "Huras Kubrow",
+    "type": "Kubrow",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Huras_Kubrow"
+  },
+  {
+    "id": "/Lotus/Types/Game/KubrowPet/GuardKubrowPetPowerSuit",
+    "name": "Raksa Kubrow",
+    "type": "Kubrow",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Raksa_Kubrow"
+  },
+  {
+    "id": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
+    "name": "Sahasa Kubrow",
+    "type": "Kubrow",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Sahasa_Kubrow"
+  },
+  {
+    "id": "/Lotus/Types/Game/KubrowPet/HunterKubrowPetPowerSuit",
+    "name": "Sunika Kubrow",
+    "type": "Kubrow",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Sunika_Kubrow"
+  }
+]

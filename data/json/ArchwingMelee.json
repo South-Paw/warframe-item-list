@@ -1,0 +1,58 @@
+[
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon",
+    "name": "Agkuza",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Agkuza"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield",
+    "name": "Centaur",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Centaur"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe",
+    "name": "Kaszas",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Kaszas"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon",
+    "name": "Knux",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Knux"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon",
+    "name": "Onorix",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Onorix"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+    "name": "Prisma Veritux",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Prisma_Veritux"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+    "name": "Rathbone",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Rathbone"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon",
+    "name": "Veritux",
+    "type": "ArchwingMelee",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Veritux"
+  }
+]

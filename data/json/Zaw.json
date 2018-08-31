@@ -1,0 +1,79 @@
+[
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipOne",
+    "name": "Balla",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Balla"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFour",
+    "name": "Cyath",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Cyath"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFive",
+    "name": "Dehtat",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Dehtat"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipEleven",
+    "name": "Dokrahm",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Dokrahm"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipSix",
+    "name": "Kronsh",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Kronsh"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipThree",
+    "name": "Mewan",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Mewan"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipTwo",
+    "name": "Ooltha",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Ooltha"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipTwo",
+    "name": "Plague Keewar",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Plague_Keewar"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipOne",
+    "name": "Plague Kripath",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Plague_Kripath"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipTen",
+    "name": "Rabvee",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Rabvee"
+  },
+  {
+    "id": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipNine",
+    "name": "Sepfahn",
+    "type": "Zaw",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/Sepfahn"
+  }
+]
