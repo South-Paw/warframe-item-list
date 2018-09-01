@@ -3,6 +3,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield",
     "name": "Ack & Brunt",
     "type": "Melee",
+    "category": "Sword-Shield",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Ack_&_Brunt"
   },
@@ -10,6 +11,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Staff/GrnStaff",
     "name": "Amphis",
     "type": "Melee",
+    "category": "Staff",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Amphis"
   },
@@ -17,6 +19,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Scythe/ParisScythe/ParisScythe",
     "name": "Anku",
     "type": "Melee",
+    "category": "Scythe",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Anku"
   },
@@ -24,6 +27,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Gauntlet/Gauntlet",
     "name": "Ankyros",
     "type": "Melee",
+    "category": "Fist",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Ankyros"
   },
@@ -31,6 +35,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Gauntlet/PrimeAnkyros/PrimeAnkyros",
     "name": "Ankyros Prime",
     "type": "Melee",
+    "category": "Fist",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Ankyros_Prime"
   },
@@ -38,6 +43,7 @@
     "id": "/Lotus/Weapons/Corpus/Melee/Hammer/CorpusHammerWeapon",
     "name": "Arca Titron",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Arca_Titron"
   },
@@ -45,6 +51,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerWhip/GrineerWhip",
     "name": "Atterax",
     "type": "Melee",
+    "category": "Whip",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Atterax"
   },
@@ -52,6 +59,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Staff/Staff",
     "name": "Bo",
     "type": "Melee",
+    "category": "Staff",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Bo"
   },
@@ -59,6 +67,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Staff/PrimeBo/PrimeBoWeapon",
     "name": "Bo Prime",
     "type": "Melee",
+    "category": "Staff",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Bo_Prime"
   },
@@ -66,6 +75,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Tonfa/Boltonfa/Boltonfa",
     "name": "Boltace",
     "type": "Melee",
+    "category": "Tonfa",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Boltace"
   },
@@ -73,6 +83,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnQueenSceptre/GrnQueenSceptreWeapon",
     "name": "Broken Scepter",
     "type": "Melee",
+    "category": "Staff",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Broken_Scepter"
   },
@@ -80,6 +91,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoSmallSword",
     "name": "Broken War",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Broken_War"
   },
@@ -87,6 +99,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Polearms/TnHalberdPolearm/TnHalberdPolearmWeapon",
     "name": "Cassowar",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Cassowar"
   },
@@ -94,6 +107,7 @@
     "id": "/Lotus/Weapons/Infested/Melee/InfEmbolistScythe/InfestedScythe",
     "name": "Caustacyst",
     "type": "Melee",
+    "category": "Scythe",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Caustacyst"
   },
@@ -101,6 +115,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Dagger/CeramicDagger",
     "name": "Ceramic Dagger",
     "type": "Melee",
+    "category": "Dagger",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Ceramic_Dagger"
   },
@@ -108,6 +123,7 @@
     "id": "/Lotus/Weapons/Infested/Melee/Glaives/PunctureGlaive/PunctureGlaiveWeapon",
     "name": "Cerata",
     "type": "Melee",
+    "category": "Glaive",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Cerata"
   },
@@ -115,6 +131,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/CronusSword/CronusLongSword",
     "name": "Cronus",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Cronus"
   },
@@ -122,6 +139,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/CronusSword/PrimeCronusLongSword",
     "name": "Dakra Prime",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Dakra_Prime"
   },
@@ -129,20 +147,23 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Dagger/DarkDagger",
     "name": "Dark Dagger",
     "type": "Melee",
+    "category": "Dagger",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Dark_Dagger"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerHybridWeapon",
-    "name": "Dark Split-sword",
+    "name": "Dark Split-Sword",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 0,
-    "wiki": "http://warframe.wikia.com/wiki/Dark_Split-sword"
+    "wiki": "http://warframe.wikia.com/wiki/Dark_Split-Sword"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkLongSword",
     "name": "Dark Sword",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Dark_Sword"
   },
@@ -150,6 +171,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/TnoRapier/TnoRapier",
     "name": "Destreza",
     "type": "Melee",
+    "category": "Rapier",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Destreza"
   },
@@ -157,6 +179,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/PRapier/DestrezaPrime",
     "name": "Destreza Prime",
     "type": "Melee",
+    "category": "Rapier",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Destreza_Prime"
   },
@@ -164,6 +187,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/DexTheSecond/DexTheSecond",
     "name": "Dex Dakra",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Dex_Dakra"
   },
@@ -171,6 +195,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana",
     "name": "Dragon Nikana",
     "type": "Melee",
+    "category": "Nikana",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Dragon_Nikana"
   },
@@ -178,6 +203,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/DualCleaverWeapon",
     "name": "Dual Cleavers",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Cleavers"
   },
@@ -185,6 +211,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualEtherSword",
     "name": "Dual Ether",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Ether"
   },
@@ -192,6 +219,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualHeatSwords",
     "name": "Dual Heat Swords",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Heat_Swords"
   },
@@ -199,6 +227,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Axe/DualInfestedAxesWeapon",
     "name": "Dual Ichor",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Ichor"
   },
@@ -206,6 +235,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualKamas/DualKamas",
     "name": "Dual Kamas",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 1,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Kamas"
   },
@@ -213,6 +243,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/PrimeDualKamas/PrimeDualKamas",
     "name": "Dual Kamas Prime",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Kamas_Prime"
   },
@@ -220,6 +251,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/QuillSword/QuillDualSwords",
     "name": "Dual Keres",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Keres"
   },
@@ -227,6 +259,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Soma/SomaDualKamas",
     "name": "Dual Raza",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Raza"
   },
@@ -234,6 +267,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualShortSword/DualShortSword",
     "name": "Dual Skana",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Skana"
   },
@@ -241,6 +275,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Axe/DualAxeWeapon",
     "name": "Dual Zoren",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Dual_Zoren"
   },
@@ -248,6 +283,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/ThreeLeaf/ThreeLeaf",
     "name": "Endura",
     "type": "Melee",
+    "category": "Rapier",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Endura"
   },
@@ -255,6 +291,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualDagger/DualEtherDagger",
     "name": "Ether Daggers",
     "type": "Melee",
+    "category": "Dual Daggers",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Ether_Daggers"
   },
@@ -262,6 +299,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Scythe/EtherScytheWeapon",
     "name": "Ether Reaper",
     "type": "Melee",
+    "category": "Scythe",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Ether_Reaper"
   },
@@ -269,6 +307,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/LongSword/EtherSword",
     "name": "Ether Sword",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Ether_Sword"
   },
@@ -276,6 +315,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualDagger/DualDagger",
     "name": "Fang",
     "type": "Melee",
+    "category": "Dual Daggers",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Fang"
   },
@@ -283,6 +323,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualDagger/FangPrimeDagger",
     "name": "Fang Prime",
     "type": "Melee",
+    "category": "Dual Daggers",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Fang_Prime"
   },
@@ -290,6 +331,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Hammer/HammerWeapon",
     "name": "Fragor",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Fragor"
   },
@@ -297,6 +339,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/PrimeFragor/PrimeFragor",
     "name": "Fragor Prime",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Fragor_Prime"
   },
@@ -304,6 +347,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Fist/Fist",
     "name": "Furax",
     "type": "Melee",
+    "category": "Fist",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Furax"
   },
@@ -311,6 +355,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Fist/FuraxWraith",
     "name": "Furax Wraith",
     "type": "Melee",
+    "category": "Fist",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Furax_Wraith"
   },
@@ -318,6 +363,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/GreatSword/TennoGreatSword",
     "name": "Galatine",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Galatine"
   },
@@ -325,6 +371,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGalatine/PrimeGalatine",
     "name": "Galatine Prime",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 13,
     "wiki": "http://warframe.wikia.com/wiki/Galatine_Prime"
   },
@@ -332,6 +379,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/PersianMachete/DjinnMachete",
     "name": "Gazal Machete",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Gazal_Machete"
   },
@@ -339,6 +387,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Glaives/LightGlaive/LightGlaiveWeapon",
     "name": "Glaive",
     "type": "Melee",
+    "category": "Glaive",
     "masteryRank": 1,
     "wiki": "http://warframe.wikia.com/wiki/Glaive"
   },
@@ -346,6 +395,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Glaives/PrimeGlaive/PrimeGlaiveWeapon",
     "name": "Glaive Prime",
     "type": "Melee",
+    "category": "Glaive",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Glaive_Prime"
   },
@@ -353,6 +403,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/GreatSword/GreatSword",
     "name": "Gram",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Gram"
   },
@@ -360,6 +411,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Polearms/TnGuandaoPolearm/TnGuandaoPolearmWeapon",
     "name": "Guandao",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 4,
     "wiki": "http://warframe.wikia.com/wiki/Guandao"
   },
@@ -367,6 +419,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Warfan/WarfanWeapon",
     "name": "Gunsen",
     "type": "Melee",
+    "category": "Warfan",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Gunsen"
   },
@@ -374,6 +427,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnBoomerang/GrnBoomerang",
     "name": "Halikar",
     "type": "Melee",
+    "category": "Glaive",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Halikar"
   },
@@ -381,6 +435,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Scythe/StalkerScytheWeapon",
     "name": "Hate",
     "type": "Melee",
+    "category": "Scythe",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Hate"
   },
@@ -388,6 +443,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Dagger/Dagger",
     "name": "Heat Dagger",
     "type": "Melee",
+    "category": "Dagger",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Heat_Dagger"
   },
@@ -395,6 +451,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/HeatSword/HeatLongSword",
     "name": "Heat Sword",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Heat_Sword"
   },
@@ -402,6 +459,7 @@
     "id": "/Lotus/Weapons/Cephalon/Melee/Hammer/CephHammerWeapon",
     "name": "Heliocor",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 9,
     "wiki": "http://warframe.wikia.com/wiki/Heliocor"
   },
@@ -409,6 +467,7 @@
     "id": "/Lotus/Weapons/Infested/Melee/InfWFAccompanyingSparring/InfestedKogake",
     "name": "Hirudo",
     "type": "Melee",
+    "category": "Sparring",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Hirudo"
   },
@@ -416,6 +475,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerJetPoweredPolearm/GrineerJetPolearm",
     "name": "Jat Kittag",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Jat_Kittag"
   },
@@ -423,6 +483,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnKusarigama/GrnKusarigamaWeapon",
     "name": "Jat Kusar",
     "type": "Melee",
+    "category": "Blade-Whip",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Jat_Kusar"
   },
@@ -430,6 +491,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/JawSword/JawLongSword",
     "name": "Jaw Sword",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Jaw_Sword"
   },
@@ -437,6 +499,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/DualKamas/SingleKama",
     "name": "Kama",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 1,
     "wiki": "http://warframe.wikia.com/wiki/Kama"
   },
@@ -444,6 +507,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/KrisDagger/KrisDagger",
     "name": "Karyst",
     "type": "Melee",
+    "category": "Dagger",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Karyst"
   },
@@ -451,6 +515,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerHalberd/GrnHalberd",
     "name": "Kesheg",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Kesheg"
   },
@@ -458,6 +523,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Glaives/Boomerang/BoomerangWeapon",
     "name": "Kestrel",
     "type": "Melee",
+    "category": "Glaive",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Kestrel"
   },
@@ -465,6 +531,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Brass Knuckles/BrassKnuckles",
     "name": "Kogake",
     "type": "Melee",
+    "category": "Sparring",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Kogake"
   },
@@ -472,6 +539,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/PrimeKogake/KogakePrimeKnuckles",
     "name": "Kogake Prime",
     "type": "Melee",
+    "category": "Sparring",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Kogake_Prime"
   },
@@ -479,6 +547,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/GrnEgyptSwdWeapon",
     "name": "Krohkur",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Krohkur"
   },
@@ -486,6 +555,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Tonfa/TonfaContestWinner/TennoTonfa",
     "name": "Kronen",
     "type": "Melee",
+    "category": "Tonfa",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Kronen"
   },
@@ -493,6 +563,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Tonfa/TonfaContestWinnerPrime/TonfaContestWinnerPrimeWeapon",
     "name": "Kronen Prime",
     "type": "Melee",
+    "category": "Tonfa",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Kronen_Prime"
   },
@@ -500,6 +571,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerMios/StalkerMios",
     "name": "Lacera",
     "type": "Melee",
+    "category": "Blade-Whip",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Lacera"
   },
@@ -507,6 +579,7 @@
     "id": "/Lotus/Weapons/Corpus/Melee/Whip/CorpusWhipWeapon",
     "name": "Lecta",
     "type": "Melee",
+    "category": "Whip",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Lecta"
   },
@@ -514,13 +587,31 @@
     "id": "/Lotus/Weapons/Infested/Melee/TipedoStaff/InfTipedoStaff",
     "name": "Lesion",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Lesion"
+  },
+  {
+    "id": "/Lotus/Weapons/MK1Series/MK1Bo",
+    "name": "MK1-Bo",
+    "type": "Melee",
+    "category": "Staff",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/MK1-Bo"
+  },
+  {
+    "id": "/Lotus/Weapons/MK1Series/MK1Furax",
+    "name": "MK1-Furax",
+    "type": "Melee",
+    "category": "Fist",
+    "masteryRank": 0,
+    "wiki": "http://warframe.wikia.com/wiki/MK1-Furax"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/Machete",
     "name": "Machete",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 1,
     "wiki": "http://warframe.wikia.com/wiki/Machete"
   },
@@ -528,6 +619,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/WraithMacheteWeapon",
     "name": "Machete Wraith",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 1,
     "wiki": "http://warframe.wikia.com/wiki/Machete_Wraith"
   },
@@ -535,6 +627,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Maces/PaladinMace/PaladinMaceWeapon",
     "name": "Magistar",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 1,
     "wiki": "http://warframe.wikia.com/wiki/Magistar"
   },
@@ -542,6 +635,7 @@
     "id": "/Lotus/Weapons/Infested/Melee/Swords/Mios/Mios",
     "name": "Mios",
     "type": "Melee",
+    "category": "Blade-Whip",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Mios"
   },
@@ -549,27 +643,15 @@
     "id": "/Lotus/Weapons/Infested/Melee/Swords/Mire/MireSword",
     "name": "Mire",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Mire"
-  },
-  {
-    "id": "/Lotus/Weapons/MK1Series/MK1Bo",
-    "name": "Mk1-bo",
-    "type": "Melee",
-    "masteryRank": 0,
-    "wiki": "http://warframe.wikia.com/wiki/Mk1-bo"
-  },
-  {
-    "id": "/Lotus/Weapons/MK1Series/MK1Furax",
-    "name": "Mk1-furax",
-    "type": "Melee",
-    "masteryRank": 0,
-    "wiki": "http://warframe.wikia.com/wiki/Mk1-furax"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/CutlassPoignardSwords",
     "name": "Nami Skyla",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Nami_Skyla"
   },
@@ -577,6 +659,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeNamiSkyla/PrimeNamiSkyla",
     "name": "Nami Skyla Prime",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 11,
     "wiki": "http://warframe.wikia.com/wiki/Nami_Skyla_Prime"
   },
@@ -584,6 +667,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/CutlassAndPoignard/TennoCutlass",
     "name": "Nami Solo",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Nami_Solo"
   },
@@ -591,6 +675,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/Katana",
     "name": "Nikana",
     "type": "Melee",
+    "category": "Nikana",
     "masteryRank": 4,
     "wiki": "http://warframe.wikia.com/wiki/Nikana"
   },
@@ -598,6 +683,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKatana/PrimeNikana",
     "name": "Nikana Prime",
     "type": "Melee",
+    "category": "Nikana",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Nikana_Prime"
   },
@@ -605,6 +691,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Nunchaku/Nunchaku/Nunchaku",
     "name": "Ninkondi",
     "type": "Melee",
+    "category": "Nunchaku",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Ninkondi"
   },
@@ -612,6 +699,7 @@
     "id": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/KickPunchWeapon",
     "name": "Obex",
     "type": "Melee",
+    "category": "Sparring",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Obex"
   },
@@ -619,6 +707,7 @@
     "id": "/Lotus/Weapons/Corpus/Melee/CrpTonfa/CrpTonfa",
     "name": "Ohma",
     "type": "Melee",
+    "category": "Tonfa",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Ohma"
   },
@@ -626,6 +715,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/TennoSai/TennoSais",
     "name": "Okina",
     "type": "Melee",
+    "category": "Dual Daggers",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Okina"
   },
@@ -633,6 +723,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Polearms/PolearmWeapon",
     "name": "Orthos",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Orthos"
   },
@@ -640,6 +731,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Polearms/PrimePolearmWeapon",
     "name": "Orthos Prime",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Orthos_Prime"
   },
@@ -647,6 +739,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Glaives/TeshinGlaive/TnTeshinGlaiveWep",
     "name": "Orvius",
     "type": "Melee",
+    "category": "Glaive",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Orvius"
   },
@@ -654,6 +747,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/PangolinSword/PangolinLongSword",
     "name": "Pangolin Sword",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Pangolin_Sword"
   },
@@ -661,6 +755,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword",
     "name": "Plasma Sword",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Plasma_Sword"
   },
@@ -668,6 +763,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaDualCleavers",
     "name": "Prisma Dual Cleavers",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Dual_Cleavers"
   },
@@ -675,6 +771,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerMachetteAndCleaver/PrismaMachete",
     "name": "Prisma Machete",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 1,
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Machete"
   },
@@ -682,6 +779,7 @@
     "id": "/Lotus/Weapons/Corpus/Melee/KickAndPunch/PrismaObex",
     "name": "Prisma Obex",
     "type": "Melee",
+    "category": "Sparring",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Obex"
   },
@@ -689,6 +787,7 @@
     "id": "/Lotus/Weapons/VoidTrader/PrismaSkana",
     "name": "Prisma Skana",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Skana"
   },
@@ -696,6 +795,7 @@
     "id": "/Lotus/Weapons/ClanTech/Energy/ElectroProd",
     "name": "Prova",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Prova"
   },
@@ -703,6 +803,7 @@
     "id": "/Lotus/Weapons/ClanTech/Energy/VandalElectroProd",
     "name": "Prova Vandal",
     "type": "Melee",
+    "category": "Machete",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Prova_Vandal"
   },
@@ -710,6 +811,7 @@
     "id": "/Lotus/Weapons/Syndicates/RedVeil/Melee/RVDarkDagger",
     "name": "Rakta Dark Dagger",
     "type": "Melee",
+    "category": "Dagger",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Rakta_Dark_Dagger"
   },
@@ -717,6 +819,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Scythe/ReaperWeapon",
     "name": "Reaper Prime",
     "type": "Melee",
+    "category": "Scythe",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Reaper_Prime"
   },
@@ -724,6 +827,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Gunblade/TnoGunblade",
     "name": "Redeemer",
     "type": "Melee",
+    "category": "Gunblade",
     "masteryRank": 4,
     "wiki": "http://warframe.wikia.com/wiki/Redeemer"
   },
@@ -731,6 +835,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerClaws/GrnClaws",
     "name": "Ripkas",
     "type": "Melee",
+    "category": "Claws",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Ripkas"
   },
@@ -738,6 +843,7 @@
     "id": "/Lotus/Weapons/Syndicates/NewLoka/Melee/NLMagistar",
     "name": "Sancti Magistar",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Sancti_Magistar"
   },
@@ -745,6 +851,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Gunblade/GunbladeAutomatic/TnoGunbladeAutomatic",
     "name": "Sarpa",
     "type": "Melee",
+    "category": "Gunblade",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Sarpa"
   },
@@ -752,6 +859,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Axe/AxeWeapon",
     "name": "Scindo",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Scindo"
   },
@@ -759,6 +867,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Axe/PrimeScindo/PrimeScindoWeapon",
     "name": "Scindo Prime",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 4,
     "wiki": "http://warframe.wikia.com/wiki/Scindo_Prime"
   },
@@ -766,6 +875,7 @@
     "id": "/Lotus/Weapons/Infested/Melee/Whip/InfestedWhip/InfestedWhipWeapon",
     "name": "Scoliac",
     "type": "Melee",
+    "category": "Whip",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Scoliac"
   },
@@ -773,6 +883,7 @@
     "id": "/Lotus/Weapons/Syndicates/PerrinSequence/Melee/PSLecta",
     "name": "Secura Lecta",
     "type": "Melee",
+    "category": "Whip",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Secura_Lecta"
   },
@@ -780,6 +891,7 @@
     "id": "/Lotus/Weapons/Corpus/Melee/Polearm/CorpusPolearm01/CorpusPolearmWeapon",
     "name": "Serro",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Serro"
   },
@@ -787,6 +899,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Nunchaku/TnoNunchaku/TnoNunchaku",
     "name": "Shaku",
     "type": "Melee",
+    "category": "Nunchaku",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Shaku"
   },
@@ -794,6 +907,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerCombatKnife/GrineerCombatKnife",
     "name": "Sheev",
     "type": "Melee",
+    "category": "Dagger",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Sheev"
   },
@@ -801,6 +915,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Hammer/IceHammer/IceHammer",
     "name": "Sibear",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Sibear"
   },
@@ -808,6 +923,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/SundialSwordBoard/SundialBoardSword",
     "name": "Sigma & Octantis",
     "type": "Melee",
+    "category": "Sword-Shield",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Sigma_&_Octantis"
   },
@@ -815,6 +931,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield",
     "name": "Silva & Aegis",
     "type": "Melee",
+    "category": "Sword-Shield",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Silva_&_Aegis"
   },
@@ -822,6 +939,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/PrimeSilvaAegis/PrimeSilvaAegis",
     "name": "Silva & Aegis Prime",
     "type": "Melee",
+    "category": "Sword-Shield",
     "masteryRank": 12,
     "wiki": "http://warframe.wikia.com/wiki/Silva_&_Aegis_Prime"
   },
@@ -829,6 +947,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/LongSword/LongSword",
     "name": "Skana",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Skana"
   },
@@ -836,6 +955,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/LongSword/SkanaPrime",
     "name": "Skana Prime",
     "type": "Melee",
+    "category": "Sword",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Skana_Prime"
   },
@@ -843,6 +963,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/UmbraKatana/UmbraKatana",
     "name": "Skiajati",
     "type": "Melee",
+    "category": "Nikana",
     "masteryRank": 11,
     "wiki": "http://warframe.wikia.com/wiki/Skiajati"
   },
@@ -850,6 +971,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnTrident/GrnTridentWeapon",
     "name": "Sydon",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Sydon"
   },
@@ -857,6 +979,7 @@
     "id": "/Lotus/Weapons/Syndicates/CephalonSuda/Melee/CSHeliocor",
     "name": "Synoid Heliocor",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 9,
     "wiki": "http://warframe.wikia.com/wiki/Synoid_Heliocor"
   },
@@ -864,6 +987,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Gauntlet/BrawlerKnuckles/BrawlerKnuckles",
     "name": "Tekko",
     "type": "Melee",
+    "category": "Fist",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Tekko"
   },
@@ -871,6 +995,7 @@
     "id": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Melee/AHBoltace",
     "name": "Telos Boltace",
     "type": "Melee",
+    "category": "Tonfa",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Telos_Boltace"
   },
@@ -878,6 +1003,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Staff/MonkSpade/TnoMonkStaff",
     "name": "Tipedo",
     "type": "Melee",
+    "category": "Staff",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Tipedo"
   },
@@ -885,6 +1011,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Polearms/FlowerPowerPolearm/FlowerPowerPolearmWep",
     "name": "Tonbo",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Tonbo"
   },
@@ -892,6 +1019,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnDualFireAxe/GrnDualFireAxe",
     "name": "Twin Basolk",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Twin_Basolk"
   },
@@ -899,6 +1027,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnEgyptSwd/DualGrnEgyptSwdWeapon",
     "name": "Twin Krohkur",
     "type": "Melee",
+    "category": "Dual Swords",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Twin_Krohkur"
   },
@@ -906,6 +1035,7 @@
     "id": "/Lotus/Weapons/Syndicates/SteelMeridian/Melee/SMSydon",
     "name": "Vaykor Sydon",
     "type": "Melee",
+    "category": "Polearm",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Vaykor_Sydon"
   },
@@ -913,6 +1043,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Claws/TennoClaws",
     "name": "Venka",
     "type": "Melee",
+    "category": "Claws",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Venka"
   },
@@ -920,6 +1051,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/PrimeVenKa/PrimeVenkaClaws",
     "name": "Venka Prime",
     "type": "Melee",
+    "category": "Claws",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Venka_Prime"
   },
@@ -927,6 +1059,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Hammer/GlassHammer/GlassHammer",
     "name": "Volnus",
     "type": "Melee",
+    "category": "Hammer",
     "masteryRank": 4,
     "wiki": "http://warframe.wikia.com/wiki/Volnus"
   },
@@ -934,20 +1067,15 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerTwo/StalkerTwoGreatSword",
     "name": "War",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/War"
-  },
-  {
-    "id": "/Lotus/Weapons/Ostron/Melee/LotusModularWeapon",
-    "name": "Zaw",
-    "type": "Melee",
-    "masteryRank": 0,
-    "wiki": "http://warframe.wikia.com/wiki/Zaw"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Melee/SunDialAxe/SundialAxeWeapon",
     "name": "Zenistar",
     "type": "Melee",
+    "category": "Heavy Blade",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Zenistar"
   }

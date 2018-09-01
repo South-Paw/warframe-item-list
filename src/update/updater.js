@@ -1,51 +1,57 @@
-// http request files
-// output to raw json file in data folder
-
-// parse raw json file
-// format objects
-// save formatted json to src/data folder
-
-// parse manifest
-// download images
-// save to dist/images/[name]/
-
 /* eslint-disable global-require, import/no-extraneous-dependencies, import/no-dynamic-require, no-console */
 
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-const { missing, supplementary } = require('./supplementary');
+const { CATEGORIES, MISSING_ITEMS } = require('./tools');
 const { asyncForEach, capitalize, sortListByInnerKey, stringify } = require('../utils');
 
+const AMP = 'Amp';
+const ARCHWING = 'Archwing';
+const ARCHWING_MELEE = 'ArchwingMelee';
+const ARCHWING_PRIMARY = 'ArchwingPrimary';
+const KAVAT = 'Kavat';
+const KUBROW = 'Kubrow';
+const MELEE = 'Melee';
 const MISC = 'Misc';
+const PRIMARY = 'Primary';
+const QUEST = 'Quest';
+const SECONDARY = 'Secondary';
+const SENTINEL = 'Sentinel';
+const SENTINEL_WEAPON = 'SentinelWeapon';
+const WARFRAME = 'Warframe';
+const ZAW = 'Zaw';
+const UNKNOWN = 'Unknown';
 
-const getSupplementaryObject = (type, uniqueName) => {
-  if (supplementary[type] && Object.keys(supplementary[type]).length > 0 && supplementary[type][uniqueName]) {
-    return supplementary[type][uniqueName];
-  }
+const categorisedTypes = [
+  ARCHWING_MELEE,
+  ARCHWING_PRIMARY,
+  MELEE,
+  PRIMARY,
+  SECONDARY,
+  SENTINEL_WEAPON,
+];
 
-  return null;
-};
+const normalizeItemName = name => capitalize(name.replace('<ARCHWING> ', '').replace(/-/g, ' ^^^^ '))
+  .replace(/ \^\^\^\^ /g, '-')
+  .replace(/Mk1/g, 'MK1');
 
-const addId = item => item.uniqueName;
-
-const addName = item => capitalize(item.name.replace('<ARCHWING> ', ''));
-
-const addType = (item, rawType) => {
+const getItemType = (item, rawType) => {
   switch (rawType) {
     case 'Weapons':
-      if (item.uniqueName.includes('/SentinelWeapons')) return 'SentinelWeapon';
-      if (item.uniqueName.includes('/Archwing/Primary')) return 'ArchwingPrimary';
-      if (item.uniqueName.includes('/Archwing/Melee')) return 'ArchwingMelee';
-      if (item.uniqueName.includes('/ModularMeleeInfested/Tips')) return 'Zaw';
-      if (item.uniqueName.includes('/ModularMelee01/Tip')) return 'Zaw';
-      if (item.uniqueName.includes('/ModularMelee02/Tip')) return 'Zaw';
-      if (item.uniqueName.includes('/OperatorAmplifiers/SentTrainingAmplifier')) return 'Amp';
-      if (item.uniqueName.includes('/OperatorAmplifiers/Set1/Barrel')) return 'Amp';
-      if (item.uniqueName.includes('/OperatorAmplifiers/Set2/Barrel')) return 'Amp';
-      if (item.slot === 1) return 'Primary';
-      if (item.slot === 0) return 'Secondary';
-      if (item.slot === 5) return 'Melee';
+      if (item.uniqueName.includes('/SentinelWeapons')) return SENTINEL_WEAPON;
+      if (item.uniqueName.includes('/Archwing/Primary')) return ARCHWING_PRIMARY;
+      if (item.uniqueName.includes('/Archwing/Melee')) return ARCHWING_MELEE;
+      if (item.uniqueName.includes('/ModularMeleeInfested/Tips')) return ZAW;
+      if (item.uniqueName.includes('/ModularMelee01/Tip')) return ZAW;
+      if (item.uniqueName.includes('/ModularMelee02/Tip')) return ZAW;
+      if (item.uniqueName.includes('/OperatorAmplifiers/SentTrainingAmplifier')) return AMP;
+      if (item.uniqueName.includes('/OperatorAmplifiers/Set1/Barrel')) return AMP;
+      if (item.uniqueName.includes('/OperatorAmplifiers/Set2/Barrel')) return AMP;
+      if (item.uniqueName.includes('/LotusModularWeapon')) return MISC;
+      if (item.slot === 1) return PRIMARY;
+      if (item.slot === 0) return SECONDARY;
+      if (item.slot === 5) return MELEE;
       // Unwanted / Misc items...
       if (item.uniqueName.includes('/OperatorAmplifiers/Set1/Grip')) return MISC;
       if (item.uniqueName.includes('/OperatorAmplifiers/Set1/Chassis')) return MISC;
@@ -55,66 +61,23 @@ const addType = (item, rawType) => {
       if (item.uniqueName.includes('/ModularMeleeInfested/Handles')) return MISC;
       if (item.uniqueName.includes('/OperatorAmplifiers/Set2/Grip')) return MISC;
       if (item.uniqueName.includes('/OperatorAmplifiers/Set2/Chassis')) return MISC;
-      return 'Unknown';
+      return UNKNOWN;
     case 'Sentinels':
-      if (item.uniqueName.includes('/CatbrowPet')) return 'Kavat';
-      if (item.uniqueName.includes('/KubrowPet')) return 'Kubrow';
-      return 'Sentinel';
+      if (item.uniqueName.includes('/CatbrowPet')) return KAVAT;
+      if (item.uniqueName.includes('/KubrowPet')) return KUBROW;
+      return SENTINEL;
     case 'Keys':
-      // unsure if we want quests or not...
-      if (item.uniqueName.includes('Quest')) return MISC; // 'Quest';
+      if (item.uniqueName.includes('Quest')) return QUEST;
       // Unwanted / Misc items...
       if (item.uniqueName.includes('/Derelict')) return MISC;
       if (item.uniqueName.includes('/TestKeyErisBoss')) return MISC;
-      return 'Unknown';
+      return UNKNOWN;
     case 'Warframes':
-      if (item.uniqueName.includes('/Archwing')) return 'Archwing';
-      return 'Warframe';
+      if (item.uniqueName.includes('/Archwing')) return ARCHWING;
+      return WARFRAME;
     default:
-      return 'Unknown';
+      return UNKNOWN;
   }
-};
-
-const addCategory = (item, rawType, type) => {
-  if (rawType === 'Weapons') {
-    const supplement = getSupplementaryObject(type, item.uniqueName);
-
-    if (supplement && supplement.category) {
-      return supplement.category;
-    }
-  }
-
-  return undefined;
-};
-
-const addMastery = (item) => {
-  if (item.masteryReq) {
-    return item.masteryReq;
-  }
-
-  return 0;
-};
-
-const addImage = () => undefined;
-
-const addWiki = (item) => {
-  const slug = capitalize(item.name.replace('<ARCHWING> ', '')).replace(/ /g, '_');
-
-  return `http://warframe.wikia.com/wiki/${slug}`;
-};
-
-const formatItem = (item, rawType) => {
-  const type = addType(item, rawType);
-
-  return {
-    id: addId(item),
-    name: addName(item),
-    type,
-    category: addCategory(item, rawType, type),
-    masteryRank: addMastery(item, type),
-    image: addImage(item),
-    wiki: addWiki(item),
-  };
 };
 
 class Updater {
@@ -125,21 +88,43 @@ class Updater {
       'http://content.warframe.com/MobileExport/Manifest/ExportSentinels.json',
       'http://content.warframe.com/MobileExport/Manifest/ExportKeys.json',
       'http://content.warframe.com/MobileExport/Manifest/ExportWarframes.json',
-      // 'http://content.warframe.com/MobileExport/Manifest/ExportUpgrades.json',
-      // 'http://content.warframe.com/MobileExport/Manifest/ExportResources.json',
-      // 'http://content.warframe.com/MobileExport/Manifest/ExportDrones.json',
-      // 'http://content.warframe.com/MobileExport/Manifest/ExportCustoms.json',
-      // 'http://content.warframe.com/MobileExport/Manifest/ExportFlavour.json',
-      // 'http://content.warframe.com/MobileExport/Manifest/ExportGear.json',
-      // 'http://content.warframe.com/MobileExport/Manifest/ExportRelicArcane.json',
     ];
 
     this.filenames = [];
 
-    this.data = { ...missing };
+    this.nameToType = new Map();
+
+    this.data = { ...MISSING_ITEMS };
   }
 
-  async fetchRawFiles() {
+  formatItem(item, rawType) {
+    const name = normalizeItemName(item.name);
+    const type = getItemType(item, rawType);
+    let category;
+
+    if (rawType === 'Weapons' && categorisedTypes.includes(type)) {
+      if (!this.nameToType.get(item.uniqueName)) {
+        console.log(`Did not find type for '${name}' (${item.uniqueName})`);
+        category = UNKNOWN;
+      } else {
+        category = this.nameToType.get(item.uniqueName);
+      }
+    }
+
+    const wikiSlug = name.replace(/ /g, '_').replace(/'/g, '%27');
+
+    return {
+      id: item.uniqueName,
+      name,
+      type,
+      category,
+      masteryRank: item.masteryReq || 0,
+      image: undefined,
+      wiki: `http://warframe.wikia.com/wiki/${wikiSlug}`,
+    };
+  }
+
+  async fetchItems() {
     await asyncForEach(this.endpoints, async (url) => {
       let name = url.split('/')[url.split('/').length - 1].split('.')[0];
 
@@ -170,24 +155,60 @@ class Updater {
       } catch (e) {
         throw e;
       }
+
+      console.log('');
     });
   }
 
-  async formatRawDataToFiles() {
+  async createItemCategoryMap() {
+    const rawWeapons = require(`${__dirname}/../../cache/json/Weapons.json`);
+
+    for (let i = 0; i < Object.keys(CATEGORIES).length; i += 1) {
+      const thisCategoryKey = Object.keys(CATEGORIES)[i];
+      const thisCategory = CATEGORIES[thisCategoryKey];
+
+      for (let j = 0; j < Object.keys(thisCategory).length; j += 1) {
+        const thisTypeKey = Object.keys(thisCategory)[j];
+        const thisType = thisCategory[thisTypeKey];
+
+        thisType.forEach((name) => {
+          let uniqueName = null;
+
+          rawWeapons.forEach((weapon) => {
+            if (normalizeItemName(weapon.name) === name) {
+              // eslint-disable-next-line prefer-destructuring
+              uniqueName = weapon.uniqueName;
+            }
+          });
+
+          if (!uniqueName) {
+            console.log(`Did not get uniqueName for '${name}'`);
+          } else {
+            this.nameToType.set(uniqueName, thisTypeKey);
+          }
+        });
+      }
+    }
+
+    console.log(`Created 'nameToType' map containing ${this.nameToType.size} items`);
+    console.log('');
+  }
+
+  async organiseItems() {
     let count = 0;
 
-    this.filenames.forEach((type) => {
+    this.filenames.forEach((rawType) => {
       let json = null;
 
       try {
-        json = require(`${__dirname}/../../cache/json/${type}.json`);
+        json = require(`${__dirname}/../../cache/json/${rawType}.json`);
       } catch (e) {
         throw e;
       }
 
       json.forEach((item) => {
         count += 1;
-        const formatted = formatItem(item, type);
+        const formatted = { ...this.formatItem(item, rawType) };
 
         if (!Object.keys(this.data).includes(formatted.type)) {
           this.data[formatted.type] = [];
@@ -198,15 +219,18 @@ class Updater {
     });
 
     console.log(`Organised ${count} items into types...`);
-    Object.keys(this.data).forEach(k => console.log(`${this.data[k].length} ${k}`));
+    Object.keys(this.data).forEach(k => console.log(`  ${this.data[k].length} ${k}`));
+    console.log('');
 
     Object.keys(this.data).forEach((type) => {
       let itemList = this.data[type];
       itemList = sortListByInnerKey(itemList, 'name');
 
       try {
-        console.log(`Writing ${type}.json`);
-        fs.writeFileSync(`${__dirname}/../../data/json/${type}.json`, stringify(itemList));
+        if (type !== MISC) {
+          console.log(`Writing ${type}.json`);
+          fs.writeFileSync(`${__dirname}/../../data/json/${type}.json`, stringify(itemList));
+        }
       } catch (e) {
         throw e;
       }
@@ -215,8 +239,10 @@ class Updater {
 
   async run() {
     try {
-      await this.fetchRawFiles();
-      await this.formatRawDataToFiles();
+      console.log('');
+      await this.fetchItems();
+      await this.createItemCategoryMap();
+      await this.organiseItems();
       // this.fetchAllImages();
     } catch (e) {
       console.error(e);
