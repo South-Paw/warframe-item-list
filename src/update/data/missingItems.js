@@ -1,3 +1,10 @@
+/**
+ * Add any missing items (those that don't appear in the endpoints or can't be seen in the `cache/json` files) to this
+ * object.
+ *
+ * Also ensure that they have the correct type key otherwise you'll see weird and/or broken outputs.
+ */
+
 const MISSING_ITEMS = {
   Kavat: [
     {

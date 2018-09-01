@@ -34,6 +34,10 @@ const CATEGORISED_TYPES = [
   SENTINEL_WEAPON,
 ];
 
+// We replace the - character with 4x ^'s surrounded by spaces and then run capitalize() on the result.
+// This ensures that words either side of the '-' are capitalized.
+// We then replace the 4x ^'s with a '-' character again.
+// And finally replace 'Mk1' with 'MK1'.
 const normalizeItemName = name => capitalize(name.replace('<ARCHWING> ', '').replace(/-/g, ' ^^^^ '))
   .replace(/ \^\^\^\^ /g, '-')
   .replace(/Mk1/g, 'MK1');
@@ -102,6 +106,8 @@ class Updater {
   formatItem(item, rawType) {
     const name = normalizeItemName(item.name);
     const type = getItemType(item, rawType);
+    const wikiSlug = name.replace(/ /g, '_').replace(/'/g, '%27');
+
     let category;
 
     if (rawType === 'Weapons' && CATEGORISED_TYPES.includes(type)) {
@@ -112,8 +118,6 @@ class Updater {
         category = this.nameToType.get(item.uniqueName);
       }
     }
-
-    const wikiSlug = name.replace(/ /g, '_').replace(/'/g, '%27');
 
     return {
       id: item.uniqueName,
@@ -132,6 +136,7 @@ class Updater {
 
       console.log(`Fetching ${name}.json`);
 
+      // ExportManifest has a different root key than others.
       if (name === 'ExportManifest') {
         name = name.replace('Export', '');
       }
@@ -142,10 +147,13 @@ class Updater {
       request = await fetch(url);
       json = await request.text();
 
+      // Remove all new line and returns from the recieved file.
       json = json.replace(/(?:\\[rn]|[\r\n]+)+/g, '');
 
+      // Create the filename for this iteration.
       const filename = name.replace('Export', '');
 
+      // Add all names to the list of filenames, except Manifest as it doesn't contain game items.
       if (name !== 'Manifest') {
         this.filenames.push(filename);
       }
@@ -173,9 +181,11 @@ class Updater {
         const thisTypeKey = Object.keys(thisCategory)[j];
         const thisType = thisCategory[thisTypeKey];
 
+        // For each name that this CATEGORIES[type] contains.
         thisType.forEach((name) => {
           let uniqueName = null;
 
+          // Find the corresponding uniqueName from the raw list of weapons.
           rawWeapons.forEach((weapon) => {
             if (normalizeItemName(weapon.name) === name) {
               // eslint-disable-next-line prefer-destructuring
@@ -183,6 +193,7 @@ class Updater {
             }
           });
 
+          // Warn if we didn't get a uniqueName, otherwise set it in the `this.nameToType` map.
           if (!uniqueName) {
             console.log(`Did not get uniqueName for '${name}'`);
           } else {
@@ -199,6 +210,7 @@ class Updater {
   async organiseItems() {
     let count = 0;
 
+    // For each file that contains game items.
     this.filenames.forEach((rawType) => {
       let json = null;
 
@@ -223,12 +235,15 @@ class Updater {
     console.log(`Organised ${count} items into types...`);
     Object.keys(this.data).forEach(k => console.log(`  ${this.data[k].length} ${k}`));
     console.log('');
+  }
 
+  async sortAndSaveItems() {
     Object.keys(this.data).forEach((type) => {
       let itemList = this.data[type];
       itemList = sortListByInnerKey(itemList, 'name');
 
       try {
+        // We don't want to save a file of Misc as it contains Derelict keys and other stuff.
         if (type !== MISC) {
           console.log(`Writing ${type}.json`);
           fs.writeFileSync(`${__dirname}/../../data/json/${type}.json`, stringify(itemList));
@@ -242,9 +257,20 @@ class Updater {
   async run() {
     try {
       console.log('');
+
+      // Get json files from the endpoints.
       await this.fetchItems();
+
+      // Create a map of item ids to categories.
       await this.createItemCategoryMap();
+
+      // Organise and format items into `this.data`.
       await this.organiseItems();
+
+      // Save each type and it's items to `data/json/<type>.json`.
+      await this.sortAndSaveItems();
+
+      // TODO: Fetch all images, resize and output files to `data/img/<id>`
       // this.fetchAllImages();
     } catch (e) {
       console.error(e);
@@ -252,5 +278,6 @@ class Updater {
   }
 }
 
+// Update script entry.
 const update = new Updater();
 update.run();
