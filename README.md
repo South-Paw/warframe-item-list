@@ -3,7 +3,7 @@
 👾 A list of all Warframe items that contribute to player mastery rank.
 
 [![npm](https://img.shields.io/npm/v/warframe-item-list.svg)](https://www.npmjs.com/package/warframe-item-list)
-[![warframe update](https://img.shields.io/badge/warframe_update-23.2.1-blue.svg)](http://warframe.wikia.com/wiki/Update_23#Hotfix_23.2.1)
+[![warframe update](https://img.shields.io/badge/warframe_update-23.6.2-blue.svg)](http://warframe.wikia.com/wiki/Update_23#Hotfix_23.6.2)
 [![CI Status](https://img.shields.io/travis/South-Paw/warframe-item-list.svg)](https://travis-ci.org/South-Paw/warframe-item-list)
 [![Coveralls Status](https://img.shields.io/coveralls/github/South-Paw/warframe-item-list.svg)](https://coveralls.io/github/South-Paw/warframe-item-list)
 [![Dependencies](https://david-dm.org/South-Paw/warframe-item-list/status.svg)](https://david-dm.org/South-Paw/warframe-item-list)
@@ -13,11 +13,13 @@
 
 ## Why?
 
-Because I couldn't find a near complete list of all Warframe items that contributed to mastery rank... so I spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
+Because I couldn't find a near complete list of all Warframe items that contributed specifically to player mastery rank... so I originally spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
 
-Since there isn't an official public API or anything to get this information, this project is managed manually with the help of the Warframe wiki. This of course means that it may also contain mistakes and/or inaccuracies on items.
+A fair few commits later, this project uses an updater script which fetches the latest content from the `http://content.warframe.com/MobileExport` endpoints and transforms it into this mastery rank list. This is the same endpoints/urls that the [Warframe Mobile app](https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus) uses to get the current game data - so assuming the endpoints/urls are left as-is, this repo will remain reasonably up to date.
 
-If you come across any missing items, problems or mistakes - please let me know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or even [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request. See contributing section for more info.
+Please note that the endpoints are NOT publicly documented by Digital Extremes (so they could disappear or change at any time) and they do not provide information such a weapon categories. Because of this, we maintain the categories manually in this repo and there may be mistakes and/or inaccuracies with our data or the endpoint/urls.
+
+If you come across any missing items, problems or mistakes - please let us know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or even [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request. See contributing section for more info.
 
 ## Install
 
@@ -33,9 +35,9 @@ or
 const { version, array, objects, constants } = require('warframe-item-list');
 
 console.log(version);   // returns the warframe game version of the item list.
-console.log(array);     // returns a big list of every item.
-console.log(objects);   // returns an object containing named lists and objects for more specific uses.
-console.log(constants); // returns the constant keys used to define keys in the `array` and `objects`.
+console.log(array);     // returns a big list of every item object.
+console.log(objects);   // returns an object keyed by type, these contain lists of item objects.
+console.log(constants); // returns the constants used to define item attributes.
 ```
 
 ## Objects
@@ -47,24 +49,23 @@ If you `console.log` the root object, you'll get the following:
   version: 'string',
   array: [...],
   objects: {
-    AMPS: [...],
-    ARCHWINGS: [...],
-    ARCHWING_GUNS: [...],
-    ARCHWING_MELEES: [...],
-    COMPANION_KAVATS: [...],
-    COMPANION_KUBROWS: [...],
-    COMPANION_SENTINELS: [...],
-    SENTINEL_WEAPONS: [...],
-    WARFRAMES: [...],
-    WEAPON_PRIMARIES: [...],
-    WEAPON_SECONDARIES: [...],
-    WEAPON_MELEES: [...],
-    ZAWS: [...],
+    Amp: [...],
+    Archwing: [...],
+    ArchwingMelee: [...],
+    ArchwingPrimary: [...],
+    Kavat: [...],
+    Kubrow: [...],
+    Melee: [...],
+    Primary: [...],
+    Secondary: [...],
+    Sentinel: [...],
+    SentinelWeapon: [...],
+    Warframe: [...],
+    Zaw: [...],
   },
   constants: {
-    ACQUISITION: {...},
-    ITEM_TYPE: {...},
-    ITEM_TYPES: {...},
+    TYPE: {...},
+    TYPES: {...},
     MELEE_CATEGORIES: {...},
     PRIMARY_CATEGORIES: {...},
     SECONDARY_CATEGORIES: {...},
@@ -76,24 +77,32 @@ Within each list, the objects are pretty similarly structured:
 
 ```js
 {
+  id: 'string',          // unique id for the item.
   name: 'string',        // name of the item.
-  acquisition: 'string', // where to acquire the item.
-  category: 'string',    // category of weapon - this is only used in primary/secondary/melee and sentinel weapons.
-  masteryRank: 0,        // the mastery rank required for the item.
-  type: 'string',        // the type the item belongs to.
+  type: 'string',        // type the item belongs to.
+  category: 'string',    // category of the weapon - this is only used on primary/secondary/melee and sentinel weapons.
+  masteryRank: 0,        // mastery rank required for the item.
+  image: 'string',       // TODO: unimplemented at the moment.
+  wiki: 'string',        // url for the items warframe wiki page.
 },
 ```
 
-And the `constants` contains those that are provided to define the `acquisition`, `category` and `type` in the item objects.
+And the `constants` contains the strings that are used to define the `category` and `type` keys in the item objects.
+
+There is also a handy `types` exposed in the `constants` where by using a `type` key you can get it's pural.
+
+```js
+const { TYPE, TYPES } = require('warframe-item-list').constants;
+
+console.log(TYPE.PRIMARY);        // returns string 'primary'.
+console.log(TYPES[TYPE.PRIMARY]); // returns string 'primaries'.
+```
 
 ## Contributing
 
-Again, if you come across any missing items, problems or mistakes - please let me know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or feel free to have a shot at [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request.
+If you come across any missing items, problems or mistakes - please let me know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or feel free to have a shot at [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request.
 
 Please ensure that any PRs are linted + tested and keep with the general flow of things.
-
-* Items should be grouped in files by `category` (categories follow the wiki order)
-* Ideally; items are alphabetically sorted by `name` within each `category` file
 
 ## License
 
