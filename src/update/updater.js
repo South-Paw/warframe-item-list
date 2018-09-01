@@ -3,27 +3,29 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 
-const { CATEGORIES, MISSING_ITEMS } = require('./tools');
+const { CATEGORIES } = require('./data/categories');
+const { MISSING_ITEMS } = require('./data/missingItems');
 const { asyncForEach, capitalize, sortListByInnerKey, stringify } = require('../utils');
+const {
+  AMP,
+  ARCHWING,
+  ARCHWING_MELEE,
+  ARCHWING_PRIMARY,
+  KAVAT,
+  KUBROW,
+  MELEE,
+  MISC,
+  PRIMARY,
+  QUEST,
+  SECONDARY,
+  SENTINEL,
+  SENTINEL_WEAPON,
+  UNKNOWN,
+  WARFRAME,
+  ZAW,
+} = require('../constants').TYPE;
 
-const AMP = 'Amp';
-const ARCHWING = 'Archwing';
-const ARCHWING_MELEE = 'ArchwingMelee';
-const ARCHWING_PRIMARY = 'ArchwingPrimary';
-const KAVAT = 'Kavat';
-const KUBROW = 'Kubrow';
-const MELEE = 'Melee';
-const MISC = 'Misc';
-const PRIMARY = 'Primary';
-const QUEST = 'Quest';
-const SECONDARY = 'Secondary';
-const SENTINEL = 'Sentinel';
-const SENTINEL_WEAPON = 'SentinelWeapon';
-const WARFRAME = 'Warframe';
-const ZAW = 'Zaw';
-const UNKNOWN = 'Unknown';
-
-const categorisedTypes = [
+const CATEGORISED_TYPES = [
   ARCHWING_MELEE,
   ARCHWING_PRIMARY,
   MELEE,
@@ -102,7 +104,7 @@ class Updater {
     const type = getItemType(item, rawType);
     let category;
 
-    if (rawType === 'Weapons' && categorisedTypes.includes(type)) {
+    if (rawType === 'Weapons' && CATEGORISED_TYPES.includes(type)) {
       if (!this.nameToType.get(item.uniqueName)) {
         console.log(`Did not find type for '${name}' (${item.uniqueName})`);
         category = UNKNOWN;

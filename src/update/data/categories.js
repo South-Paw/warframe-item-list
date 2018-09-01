@@ -1,28 +1,48 @@
-// const EXALTED = 'Exalted';
+const { MELEE_CATEGORIES, PRIMARY_CATEGORIES, SECONDARY_CATEGORIES } = require('../../constants');
 
-const BLADE_WHIP = 'Blade-Whip';
-const CLAWS = 'Claws';
-const DAGGER = 'Dagger';
-const DUAL_DAGGERS = 'Dual Daggers';
-const DUAL_SWORDS = 'Dual Swords';
-const FIST = 'Fist';
-const GLAIVE = 'Glaive';
-const GUNBLADE = 'Gunblade';
-const HAMMER = 'Hammer';
-const HEAVY_BLADE = 'Heavy Blade';
-const MACHETE = 'Machete';
-const NIKANA = 'Nikana';
-const NUNCHAKU = 'Nunchaku';
-const POLEARM = 'Polearm';
-const RAPIER = 'Rapier';
-const SCYTHE = 'Scythe';
-const SPARRING = 'Sparring';
-const STAFF = 'Staff';
-const SWORD = 'Sword';
-const SWORD_SHEILD = 'Sword-Shield';
-const TONFA = 'Tonfa';
-const WARFAN = 'Warfan';
-const WHIP = 'Whip';
+const {
+  BLADE_WHIP,
+  CLAWS,
+  DAGGER,
+  DUAL_DAGGERS,
+  DUAL_SWORDS,
+  FIST,
+  GLAIVE,
+  GUNBLADE,
+  HAMMER,
+  HEAVY_BLADE,
+  MACHETE,
+  NIKANA,
+  NUNCHAKU,
+  POLEARM,
+  RAPIER,
+  SCYTHE,
+  SPARRING,
+  STAFF,
+  SWORD,
+  SWORD_SHEILD,
+  TONFA,
+  WARFAN,
+  WHIP,
+} = MELEE_CATEGORIES;
+
+const {
+  RIFLE,
+  CONTINUOUS_RIFLE,
+  SPEARGUN_RIFLE,
+  SHOTGUN,
+  SNIPER,
+  BOW,
+  LAUNCHER,
+} = PRIMARY_CATEGORIES;
+
+const {
+  SINGLE_PISTOL,
+  CONTINUOUS_PISTOL,
+  SHOTGUN_PISTOL,
+  DUAL_PISTOLS,
+  THROWN_SECONDARY,
+} = SECONDARY_CATEGORIES;
 
 const Melee = {
   [SWORD]: [
@@ -218,14 +238,6 @@ const Melee = {
   // ],
 };
 
-const RIFLE = 'Rifle';
-const CONTINUOUS_RIFLE = 'Continuous Rifle';
-const SPEARGUN_RIFLE = 'Speargun Rifle';
-const SHOTGUN = 'Shotgun';
-const SNIPER = 'Sniper';
-const BOW = 'Bow';
-const LAUNCHER = 'Launcher';
-
 const Primary = {
   [RIFLE]: [
     'Argonak',
@@ -355,12 +367,6 @@ const Primary = {
   //   'Artemis Bow',
   // ],
 };
-
-const SINGLE_PISTOL = 'Single Pistol';
-const CONTINUOUS_PISTOL = 'Continuous Pistol';
-const SHOTGUN_PISTOL = 'Shotgun Pistol';
-const DUAL_PISTOLS = 'Dual Pistols';
-const THROWN_SECONDARY = 'Thrown';
 
 const Secondary = {
   [SINGLE_PISTOL]: [
@@ -535,16 +541,4 @@ const CATEGORIES = {
   SentinelWeapon,
 };
 
-const MISSING_ITEMS = {
-  Kavat: [
-    {
-      id: '/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit',
-      name: 'Venari Kavat',
-      type: 'Kavat',
-      masteryRank: 0,
-      wiki: 'http://warframe.wikia.com/wiki/Kavat#Venari',
-    },
-  ],
-};
-
-module.exports = { CATEGORIES, MISSING_ITEMS };
+module.exports = { CATEGORIES };
