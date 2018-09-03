@@ -3,7 +3,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerTylAxeAndBoar/RegorAxeShield",
     "name": "Ack & Brunt",
     "type": "Melee",
-    "category": "Sword-Shield",
+    "category": "Sword and Shield",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Ack_&_Brunt"
   },
@@ -155,7 +155,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/DarkSword/DarkSwordDaggerHybridWeapon",
     "name": "Dark Split-Sword",
     "type": "Melee",
-    "category": "Heavy Blade",
+    "category": "Hybrid",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Dark_Split-Sword"
   },
@@ -483,7 +483,7 @@
     "id": "/Lotus/Weapons/Grineer/Melee/GrnKusarigama/GrnKusarigamaWeapon",
     "name": "Jat Kusar",
     "type": "Melee",
-    "category": "Blade-Whip",
+    "category": "Blade and Whip",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Jat_Kusar"
   },
@@ -571,7 +571,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/StalkerMios/StalkerMios",
     "name": "Lacera",
     "type": "Melee",
-    "category": "Blade-Whip",
+    "category": "Blade and Whip",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Lacera"
   },
@@ -635,7 +635,7 @@
     "id": "/Lotus/Weapons/Infested/Melee/Swords/Mios/Mios",
     "name": "Mios",
     "type": "Melee",
-    "category": "Blade-Whip",
+    "category": "Blade and Whip",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Mios"
   },
@@ -923,7 +923,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/SundialSwordBoard/SundialBoardSword",
     "name": "Sigma & Octantis",
     "type": "Melee",
-    "category": "Sword-Shield",
+    "category": "Sword and Shield",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Sigma_&_Octantis"
   },
@@ -931,7 +931,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/MeleeContestWinnerOne/TennoSwordShield",
     "name": "Silva & Aegis",
     "type": "Melee",
-    "category": "Sword-Shield",
+    "category": "Sword and Shield",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Silva_&_Aegis"
   },
@@ -939,7 +939,7 @@
     "id": "/Lotus/Weapons/Tenno/Melee/PrimeSilvaAegis/PrimeSilvaAegis",
     "name": "Silva & Aegis Prime",
     "type": "Melee",
-    "category": "Sword-Shield",
+    "category": "Sword and Shield",
     "masteryRank": 12,
     "wiki": "http://warframe.wikia.com/wiki/Silva_&_Aegis_Prime"
   },

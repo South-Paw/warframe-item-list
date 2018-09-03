@@ -3,7 +3,7 @@
     "id": "/Lotus/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle",
     "name": "Amprex",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Amprex"
   },
@@ -35,7 +35,7 @@
     "id": "/Lotus/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon",
     "name": "Attica",
     "type": "Primary",
-    "category": "Bow",
+    "category": "Crossbow",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Attica"
   },
@@ -211,7 +211,7 @@
     "id": "/Lotus/Weapons/Corpus/LongGuns/Spears/Railgun/CorpusRailgun",
     "name": "Ferrox",
     "type": "Primary",
-    "category": "Speargun Rifle",
+    "category": "Speargun",
     "masteryRank": 14,
     "wiki": "http://warframe.wikia.com/wiki/Ferrox"
   },
@@ -219,7 +219,7 @@
     "id": "/Lotus/Weapons/ClanTech/Energy/CrpLaserRifle",
     "name": "Flux Rifle",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Flux_Rifle"
   },
@@ -227,7 +227,7 @@
     "id": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle",
     "name": "Glaxion",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 8,
     "wiki": "http://warframe.wikia.com/wiki/Glaxion"
   },
@@ -299,7 +299,7 @@
     "id": "/Lotus/Weapons/ClanTech/Chemical/FlameThrower",
     "name": "Ignis",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Ignis"
   },
@@ -307,7 +307,7 @@
     "id": "/Lotus/Weapons/ClanTech/Chemical/FlameThrowerWraith",
     "name": "Ignis Wraith",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 9,
     "wiki": "http://warframe.wikia.com/wiki/Ignis_Wraith"
   },
@@ -315,7 +315,7 @@
     "id": "/Lotus/Weapons/Grineer/LongGuns/GrnFlameSpear/GrnFlameSpear",
     "name": "Javlok",
     "type": "Primary",
-    "category": "Speargun Rifle",
+    "category": "Speargun",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Javlok"
   },
@@ -347,7 +347,7 @@
     "id": "/Lotus/Weapons/ClanTech/Energy/Railgun",
     "name": "Lanka",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Lanka"
   },
@@ -411,7 +411,7 @@
     "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun",
     "name": "Miter",
     "type": "Primary",
-    "category": "Launcher",
+    "category": "Rifle",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Miter"
   },
@@ -451,7 +451,7 @@
     "id": "/Lotus/Weapons/Tenno/LongGuns/Miter/TnoMiter",
     "name": "Panthera",
     "type": "Primary",
-    "category": "Launcher",
+    "category": "Rifle",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Panthera"
   },
@@ -531,7 +531,7 @@
     "id": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle",
     "name": "Quanta",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 4,
     "wiki": "http://warframe.wikia.com/wiki/Quanta"
   },
@@ -539,7 +539,7 @@
     "id": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/QuantaVandal",
     "name": "Quanta Vandal",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Quanta_Vandal"
   },
@@ -563,7 +563,7 @@
     "id": "/Lotus/Weapons/Tenno/LongGuns/FiveShotSniper/FiveShotSniper",
     "name": "Rubico",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Rubico"
   },
@@ -579,7 +579,7 @@
     "id": "/Lotus/Weapons/Tenno/LongGuns/TnPriestSpear/TnPriestSpearGun",
     "name": "Scourge",
     "type": "Primary",
-    "category": "Speargun Rifle",
+    "category": "Speargun",
     "masteryRank": 6,
     "wiki": "http://warframe.wikia.com/wiki/Scourge"
   },
@@ -595,7 +595,7 @@
     "id": "/Lotus/Weapons/Cephalon/Primary/CephPrimary/CephPrimary",
     "name": "Simulor",
     "type": "Primary",
-    "category": "Launcher",
+    "category": "Rifle",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Simulor"
   },
@@ -603,7 +603,7 @@
     "id": "/Lotus/Weapons/Tenno/Rifle/SniperRifle",
     "name": "Snipetron",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Snipetron"
   },
@@ -611,7 +611,7 @@
     "id": "/Lotus/Weapons/Tenno/Rifle/VandalSniperRifle",
     "name": "Snipetron Vandal",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 5,
     "wiki": "http://warframe.wikia.com/wiki/Snipetron_Vandal"
   },
@@ -699,7 +699,7 @@
     "id": "/Lotus/Weapons/Infested/LongGuns/InfestedRifle",
     "name": "Synapse",
     "type": "Primary",
-    "category": "Continuous Rifle",
+    "category": "Rifle",
     "masteryRank": 11,
     "wiki": "http://warframe.wikia.com/wiki/Synapse"
   },
@@ -707,7 +707,7 @@
     "id": "/Lotus/Weapons/Syndicates/CephalonSuda/LongGuns/CSSimulor",
     "name": "Synoid Simulor",
     "type": "Primary",
-    "category": "Launcher",
+    "category": "Rifle",
     "masteryRank": 12,
     "wiki": "http://warframe.wikia.com/wiki/Synoid_Simulor"
   },
@@ -795,7 +795,7 @@
     "id": "/Lotus/Weapons/Tenno/Rifle/TennoSniperRifle",
     "name": "Vectis",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 2,
     "wiki": "http://warframe.wikia.com/wiki/Vectis"
   },
@@ -803,7 +803,7 @@
     "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle",
     "name": "Vectis Prime",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 14,
     "wiki": "http://warframe.wikia.com/wiki/Vectis_Prime"
   },
@@ -819,7 +819,7 @@
     "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle",
     "name": "Vulkar",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 3,
     "wiki": "http://warframe.wikia.com/wiki/Vulkar"
   },
@@ -827,7 +827,7 @@
     "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/VulkarWraith",
     "name": "Vulkar Wraith",
     "type": "Primary",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 7,
     "wiki": "http://warframe.wikia.com/wiki/Vulkar_Wraith"
   },
@@ -851,7 +851,7 @@
     "id": "/Lotus/Weapons/Tenno/LongGuns/RepeatingCrossbow/RepeatingCrossbow",
     "name": "Zhuge",
     "type": "Primary",
-    "category": "Bow",
+    "category": "Crossbow",
     "masteryRank": 10,
     "wiki": "http://warframe.wikia.com/wiki/Zhuge"
   }

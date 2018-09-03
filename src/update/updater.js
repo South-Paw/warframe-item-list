@@ -1,9 +1,10 @@
 /* eslint-disable global-require, import/no-extraneous-dependencies, import/no-dynamic-require, no-console */
 
 const fs = require('fs');
+const util = require('util');
 const fetch = require('node-fetch');
+const Lua = require('node-lua');
 
-const { CATEGORIES } = require('./data/categories');
 const { MISSING_ITEMS } = require('./data/missingItems');
 const { asyncForEach, capitalize, sortListByInnerKey, stringify } = require('../utils');
 const {
@@ -96,6 +97,10 @@ class Updater {
       'http://content.warframe.com/MobileExport/Manifest/ExportWarframes.json',
     ];
 
+    this.wikiaLua = [
+      'http://warframe.wikia.com/wiki/Module:Weapons/data?action=raw',
+    ];
+
     this.filenames = [];
 
     this.nameToType = new Map();
@@ -134,7 +139,7 @@ class Updater {
     await asyncForEach(this.endpoints, async (url) => {
       let name = url.split('/')[url.split('/').length - 1].split('.')[0];
 
-      console.log(`Fetching ${name}.json`);
+      console.log(`Fetching ${url}`);
 
       // ExportManifest has a different root key than others.
       if (name === 'ExportManifest') {
@@ -168,40 +173,100 @@ class Updater {
 
       console.log('');
     });
+
+    await asyncForEach(this.wikiaLua, async (url) => {
+      const name = url.split('/')[url.split('/').length - 2].split(':')[1];
+      const filename = `${name}Data`;
+
+      console.log(`Fetching ${url}`);
+
+      let request = null;
+      let wikilua = null;
+
+      request = await fetch(url);
+      wikilua = await request.text();
+
+      const lines = wikilua.split('\n');
+      const modifiedLines = lines.slice(0, lines.length - 2).join('\n');
+
+      const lua = new Lua.LuaState();
+      lua.DoString(`
+        json = (loadfile "src/update/json.lua")()
+        ${modifiedLines}
+        file = io.open("cache/json/tmp_${filename}.json", "w")
+        io.output(file)
+        io.write(json.stringify(WeaponData))
+        io.close(file)
+      `);
+
+      const readFile = util.promisify(fs.readFile);
+      const json = await readFile(`${__dirname}/../../cache/json/tmp_${filename}.json`);
+
+      const ignore = JSON.parse(json).IgnoreInCount;
+      const unordered = JSON.parse(json).Weapons;
+      const ordered = {};
+
+      Object.keys(unordered).sort().forEach((key) => {
+        const unoderedInnerKeys = unordered[key];
+        const orderedInnerKeys = {};
+
+        Object.keys(unoderedInnerKeys).sort().forEach((innerKey) => {
+          orderedInnerKeys[innerKey] = unoderedInnerKeys[innerKey];
+        });
+
+        ordered[key] = orderedInnerKeys;
+      });
+
+      console.log(`Writing ${filename}.json`);
+
+      try {
+        fs.writeFileSync(
+          `${__dirname}/../../cache/json/${filename}.json`,
+          stringify({ IgnoreInCount: ignore, Weapons: ordered }),
+        );
+      } catch (e) {
+        throw e;
+      }
+
+      console.log('Deleting temp file...');
+      fs.unlinkSync(`${__dirname}/../../cache/json/tmp_${filename}.json`);
+
+      console.log('');
+    });
   }
 
   async createItemCategoryMap() {
-    const rawWeapons = require(`${__dirname}/../../cache/json/Weapons.json`);
+    const weaponData = require(`${__dirname}/../../cache/json/WeaponsData.json`);
+    const weapons = require(`${__dirname}/../../cache/json/Weapons.json`);
 
-    for (let i = 0; i < Object.keys(CATEGORIES).length; i += 1) {
-      const thisCategoryKey = Object.keys(CATEGORIES)[i];
-      const thisCategory = CATEGORIES[thisCategoryKey];
 
-      for (let j = 0; j < Object.keys(thisCategory).length; j += 1) {
-        const thisTypeKey = Object.keys(thisCategory)[j];
-        const thisType = thisCategory[thisTypeKey];
+    Object.keys(weaponData.Weapons).forEach((name) => {
+      const weaponDetails = weaponData.Weapons[name];
 
-        // For each name that this CATEGORIES[type] contains.
-        thisType.forEach((name) => {
-          let uniqueName = null;
+      for (let i = 0; i < weapons.length; i += 1) {
+        if (normalizeItemName(weapons[i].name).includes('Dark Split-Sword') && name.includes('Dark Split-Sword')) {
+          this.nameToType.set(weapons[i].uniqueName, 'Hybrid');
+          break;
+        }
 
-          // Find the corresponding uniqueName from the raw list of weapons.
-          rawWeapons.forEach((weapon) => {
-            if (normalizeItemName(weapon.name) === name) {
-              // eslint-disable-next-line prefer-destructuring
-              uniqueName = weapon.uniqueName;
-            }
-          });
+        if (normalizeItemName(weapons[i].name) === name) {
+          let weaponClass = weaponDetails.Class;
 
-          // Warn if we didn't get a uniqueName, otherwise set it in the `this.nameToType` map.
-          if (!uniqueName) {
-            console.log(`Did not get uniqueName for '${name}'`);
-          } else {
-            this.nameToType.set(uniqueName, thisTypeKey);
+          if (weapons[i].uniqueName.includes('/Archwing/Primary')) {
+            weaponClass = 'Archwing Gun';
           }
-        });
+
+          if (weapons[i].uniqueName.includes('/Archwing/Melee')) {
+            weaponClass = 'Archwing Melee';
+          }
+
+          // TODO: for each weapon class, append it to a list somewhere so it can be exported with
+          // other constants (incld hybrid)
+          this.nameToType.set(weapons[i].uniqueName, weaponClass);
+          break;
+        }
       }
-    }
+    });
 
     console.log(`Created 'nameToType' map containing ${this.nameToType.size} items`);
     console.log('');

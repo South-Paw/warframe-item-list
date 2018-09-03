@@ -42,6 +42,7 @@
     "eslint-plugin-import": "^2.14.0",
     "jest": "^23.5.0",
     "node-fetch": "^2.2.0",
+    "node-lua": "^1.0.4",
     "rimraf": "^2.6.2"
   }
 }

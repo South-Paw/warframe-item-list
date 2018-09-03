@@ -19,7 +19,7 @@
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon",
     "name": "Deconstructor",
     "type": "SentinelWeapon",
-    "category": "Melee",
+    "category": "Glaive",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Deconstructor"
   },
@@ -27,7 +27,7 @@
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon",
     "name": "Deconstructor Prime",
     "type": "SentinelWeapon",
-    "category": "Melee",
+    "category": "Glaive",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Deconstructor_Prime"
   },
@@ -91,7 +91,7 @@
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun",
     "name": "Vulklok",
     "type": "SentinelWeapon",
-    "category": "Sniper",
+    "category": "Sniper Rifle",
     "masteryRank": 0,
     "wiki": "http://warframe.wikia.com/wiki/Vulklok"
   }
