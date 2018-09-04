@@ -965,8 +965,8 @@ camelcase@^4.1.0:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-4.1.0.tgz#d545635be1e33c542649c69173e5de6acfae34dd"
 
 caniuse-lite@^1.0.30000844:
-  version "1.0.30000883"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000883.tgz#597c1eabfb379bd9fbeaa778632762eb574706ac"
+  version "1.0.30000884"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000884.tgz#eb82a959698745033b26a4dcd34d89dba7cc6eb3"
 
 capture-exit@^1.2.0:
   version "1.2.0"
@@ -3955,7 +3955,7 @@ symbol-tree@^3.2.2:
 
 table@^4.0.3:
   version "4.0.3"
-  resolved "https://registry.yarnpkg.com/table/-/table-4.0.3.tgz#00b5e2b602f1794b9acaf9ca908a76386a7813bc"
+  resolved "http://registry.npmjs.org/table/-/table-4.0.3.tgz#00b5e2b602f1794b9acaf9ca908a76386a7813bc"
   dependencies:
     ajv "^6.0.1"
     ajv-keywords "^3.0.0"

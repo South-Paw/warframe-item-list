@@ -207,11 +207,11 @@ class Updater {
       const ordered = {};
 
       Object.keys(unordered).sort().forEach((key) => {
-        const unoderedInnerKeys = unordered[key];
+        const unorderedInnerKeys = unordered[key];
         const orderedInnerKeys = {};
 
-        Object.keys(unoderedInnerKeys).sort().forEach((innerKey) => {
-          orderedInnerKeys[innerKey] = unoderedInnerKeys[innerKey];
+        Object.keys(unorderedInnerKeys).sort().forEach((innerKey) => {
+          orderedInnerKeys[innerKey] = unorderedInnerKeys[innerKey];
         });
 
         ordered[key] = orderedInnerKeys;
