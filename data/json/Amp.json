@@ -4,7 +4,7 @@
     "name": "Granmu Prism",
     "type": "Amp",
     "masteryRank": 0,
-    "image": "data/img/Amp/Granmu_Prism.png",
+    "image": "/data/img/Amp/Granmu_Prism.png",
     "wiki": "http://warframe.wikia.com/wiki/Granmu_Prism"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Mote Prism",
     "type": "Amp",
     "masteryRank": 0,
-    "image": "data/img/Amp/Mote_Prism.png",
+    "image": "/data/img/Amp/Mote_Prism.png",
     "wiki": "http://warframe.wikia.com/wiki/Mote_Prism"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Rahn Prism",
     "type": "Amp",
     "masteryRank": 0,
-    "image": "data/img/Amp/Rahn_Prism.png",
+    "image": "/data/img/Amp/Rahn_Prism.png",
     "wiki": "http://warframe.wikia.com/wiki/Rahn_Prism"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Raplak Prism",
     "type": "Amp",
     "masteryRank": 0,
-    "image": "data/img/Amp/Raplak_Prism.png",
+    "image": "/data/img/Amp/Raplak_Prism.png",
     "wiki": "http://warframe.wikia.com/wiki/Raplak_Prism"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Shwaak Prism",
     "type": "Amp",
     "masteryRank": 0,
-    "image": "data/img/Amp/Shwaak_Prism.png",
+    "image": "/data/img/Amp/Shwaak_Prism.png",
     "wiki": "http://warframe.wikia.com/wiki/Shwaak_Prism"
   }
 ]

@@ -5,7 +5,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Agkuza.png",
+    "image": "/data/img/ArchwingMelee/Agkuza.png",
     "wiki": "http://warframe.wikia.com/wiki/Agkuza"
   },
   {
@@ -14,7 +14,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Centaur.png",
+    "image": "/data/img/ArchwingMelee/Centaur.png",
     "wiki": "http://warframe.wikia.com/wiki/Centaur"
   },
   {
@@ -23,7 +23,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Kaszas.png",
+    "image": "/data/img/ArchwingMelee/Kaszas.png",
     "wiki": "http://warframe.wikia.com/wiki/Kaszas"
   },
   {
@@ -32,7 +32,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Knux.png",
+    "image": "/data/img/ArchwingMelee/Knux.png",
     "wiki": "http://warframe.wikia.com/wiki/Knux"
   },
   {
@@ -41,7 +41,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Onorix.png",
+    "image": "/data/img/ArchwingMelee/Onorix.png",
     "wiki": "http://warframe.wikia.com/wiki/Onorix"
   },
   {
@@ -50,7 +50,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Prisma_Veritux.png",
+    "image": "/data/img/ArchwingMelee/Prisma_Veritux.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Veritux"
   },
   {
@@ -59,7 +59,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Rathbone.png",
+    "image": "/data/img/ArchwingMelee/Rathbone.png",
     "wiki": "http://warframe.wikia.com/wiki/Rathbone"
   },
   {
@@ -68,7 +68,7 @@
     "type": "ArchwingMelee",
     "category": "Archwing Melee",
     "masteryRank": 0,
-    "image": "data/img/ArchwingMelee/Veritux.png",
+    "image": "/data/img/ArchwingMelee/Veritux.png",
     "wiki": "http://warframe.wikia.com/wiki/Veritux"
   }
 ]

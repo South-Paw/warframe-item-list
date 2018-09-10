@@ -5,7 +5,7 @@
     "type": "SentinelWeapon",
     "category": "Rifle",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Artax.png",
+    "image": "/data/img/SentinelWeapon/Artax.png",
     "wiki": "http://warframe.wikia.com/wiki/Artax"
   },
   {
@@ -14,7 +14,7 @@
     "type": "SentinelWeapon",
     "category": "Pistol",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Burst_Laser.png",
+    "image": "/data/img/SentinelWeapon/Burst_Laser.png",
     "wiki": "http://warframe.wikia.com/wiki/Burst_Laser"
   },
   {
@@ -23,7 +23,7 @@
     "type": "SentinelWeapon",
     "category": "Glaive",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Deconstructor.png",
+    "image": "/data/img/SentinelWeapon/Deconstructor.png",
     "wiki": "http://warframe.wikia.com/wiki/Deconstructor"
   },
   {
@@ -32,7 +32,7 @@
     "type": "SentinelWeapon",
     "category": "Glaive",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Deconstructor_Prime.png",
+    "image": "/data/img/SentinelWeapon/Deconstructor_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Deconstructor_Prime"
   },
   {
@@ -41,7 +41,7 @@
     "type": "SentinelWeapon",
     "category": "Rifle",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Deth_Machine_Rifle.png",
+    "image": "/data/img/SentinelWeapon/Deth_Machine_Rifle.png",
     "wiki": "http://warframe.wikia.com/wiki/Deth_Machine_Rifle"
   },
   {
@@ -50,7 +50,7 @@
     "type": "SentinelWeapon",
     "category": "Rifle",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Laser_Rifle.png",
+    "image": "/data/img/SentinelWeapon/Laser_Rifle.png",
     "wiki": "http://warframe.wikia.com/wiki/Laser_Rifle"
   },
   {
@@ -59,7 +59,7 @@
     "type": "SentinelWeapon",
     "category": "Rifle",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Prime_Laser_Rifle.png",
+    "image": "/data/img/SentinelWeapon/Prime_Laser_Rifle.png",
     "wiki": "http://warframe.wikia.com/wiki/Prime_Laser_Rifle"
   },
   {
@@ -68,7 +68,7 @@
     "type": "SentinelWeapon",
     "category": "Pistol",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Prisma_Burst_Laser.png",
+    "image": "/data/img/SentinelWeapon/Prisma_Burst_Laser.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Burst_Laser"
   },
   {
@@ -77,7 +77,7 @@
     "type": "SentinelWeapon",
     "category": "Rifle",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Stinger.png",
+    "image": "/data/img/SentinelWeapon/Stinger.png",
     "wiki": "http://warframe.wikia.com/wiki/Stinger"
   },
   {
@@ -86,7 +86,7 @@
     "type": "SentinelWeapon",
     "category": "Shotgun",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Sweeper.png",
+    "image": "/data/img/SentinelWeapon/Sweeper.png",
     "wiki": "http://warframe.wikia.com/wiki/Sweeper"
   },
   {
@@ -95,7 +95,7 @@
     "type": "SentinelWeapon",
     "category": "Shotgun",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Sweeper_Prime.png",
+    "image": "/data/img/SentinelWeapon/Sweeper_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Sweeper_Prime"
   },
   {
@@ -104,7 +104,7 @@
     "type": "SentinelWeapon",
     "category": "Sniper Rifle",
     "masteryRank": 0,
-    "image": "data/img/SentinelWeapon/Vulklok.png",
+    "image": "/data/img/SentinelWeapon/Vulklok.png",
     "wiki": "http://warframe.wikia.com/wiki/Vulklok"
   }
 ]

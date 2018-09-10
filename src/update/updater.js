@@ -6,7 +6,7 @@ const imagemin = require('imagemin');
 const imageminJpegtran = require('imagemin-jpegtran');
 const imageminPngquant = require('imagemin-pngquant');
 const fetch = require('node-fetch');
-const Lua = require('node-lua');
+const Lua = require('node-lua-updated');
 const rimraf = require('rimraf');
 const sharp = require('sharp');
 
@@ -144,7 +144,7 @@ const getImageAndSave = async (type, name, imageUrl) => {
 
   console.log('');
 
-  return `data/img/${type}/${name}.${fileExtension}`;
+  return `/data/img/${type}/${name}.${fileExtension}`;
 };
 
 class Updater {

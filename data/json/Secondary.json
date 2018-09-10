@@ -5,7 +5,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Acrid.png",
+    "image": "/data/img/Secondary/Acrid.png",
     "wiki": "http://warframe.wikia.com/wiki/Acrid"
   },
   {
@@ -14,7 +14,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Afuris.png",
+    "image": "/data/img/Secondary/Afuris.png",
     "wiki": "http://warframe.wikia.com/wiki/Afuris"
   },
   {
@@ -23,7 +23,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Akbolto.png",
+    "image": "/data/img/Secondary/Akbolto.png",
     "wiki": "http://warframe.wikia.com/wiki/Akbolto"
   },
   {
@@ -32,7 +32,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 13,
-    "image": "data/img/Secondary/Akbolto_Prime.png",
+    "image": "/data/img/Secondary/Akbolto_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Akbolto_Prime"
   },
   {
@@ -41,7 +41,7 @@
     "type": "Secondary",
     "category": "Dual Shotguns",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Akbronco.png",
+    "image": "/data/img/Secondary/Akbronco.png",
     "wiki": "http://warframe.wikia.com/wiki/Akbronco"
   },
   {
@@ -50,7 +50,7 @@
     "type": "Secondary",
     "category": "Dual Shotguns",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Akbronco_Prime.png",
+    "image": "/data/img/Secondary/Akbronco_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Akbronco_Prime"
   },
   {
@@ -59,7 +59,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Akjagara.png",
+    "image": "/data/img/Secondary/Akjagara.png",
     "wiki": "http://warframe.wikia.com/wiki/Akjagara"
   },
   {
@@ -68,7 +68,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 3,
-    "image": "data/img/Secondary/Aklato.png",
+    "image": "/data/img/Secondary/Aklato.png",
     "wiki": "http://warframe.wikia.com/wiki/Aklato"
   },
   {
@@ -77,7 +77,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Aklex.png",
+    "image": "/data/img/Secondary/Aklex.png",
     "wiki": "http://warframe.wikia.com/wiki/Aklex"
   },
   {
@@ -86,7 +86,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 15,
-    "image": "data/img/Secondary/Aklex_Prime.png",
+    "image": "/data/img/Secondary/Aklex_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Aklex_Prime"
   },
   {
@@ -95,7 +95,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 12,
-    "image": "data/img/Secondary/Akmagnus.png",
+    "image": "/data/img/Secondary/Akmagnus.png",
     "wiki": "http://warframe.wikia.com/wiki/Akmagnus"
   },
   {
@@ -104,7 +104,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Aksomati.png",
+    "image": "/data/img/Secondary/Aksomati.png",
     "wiki": "http://warframe.wikia.com/wiki/Aksomati"
   },
   {
@@ -113,7 +113,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Akstiletto.png",
+    "image": "/data/img/Secondary/Akstiletto.png",
     "wiki": "http://warframe.wikia.com/wiki/Akstiletto"
   },
   {
@@ -122,7 +122,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Akstiletto_Prime.png",
+    "image": "/data/img/Secondary/Akstiletto_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Akstiletto_Prime"
   },
   {
@@ -131,7 +131,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Akvasto.png",
+    "image": "/data/img/Secondary/Akvasto.png",
     "wiki": "http://warframe.wikia.com/wiki/Akvasto"
   },
   {
@@ -140,7 +140,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Akzani.png",
+    "image": "/data/img/Secondary/Akzani.png",
     "wiki": "http://warframe.wikia.com/wiki/Akzani"
   },
   {
@@ -149,7 +149,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Angstrum.png",
+    "image": "/data/img/Secondary/Angstrum.png",
     "wiki": "http://warframe.wikia.com/wiki/Angstrum"
   },
   {
@@ -158,7 +158,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Arca_Scisco.png",
+    "image": "/data/img/Secondary/Arca_Scisco.png",
     "wiki": "http://warframe.wikia.com/wiki/Arca_Scisco"
   },
   {
@@ -167,7 +167,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 5,
-    "image": "data/img/Secondary/Atomos.png",
+    "image": "/data/img/Secondary/Atomos.png",
     "wiki": "http://warframe.wikia.com/wiki/Atomos"
   },
   {
@@ -176,7 +176,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 6,
-    "image": "data/img/Secondary/Azima.png",
+    "image": "/data/img/Secondary/Azima.png",
     "wiki": "http://warframe.wikia.com/wiki/Azima"
   },
   {
@@ -185,7 +185,7 @@
     "type": "Secondary",
     "category": "Crossbow",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Ballistica.png",
+    "image": "/data/img/Secondary/Ballistica.png",
     "wiki": "http://warframe.wikia.com/wiki/Ballistica"
   },
   {
@@ -194,7 +194,7 @@
     "type": "Secondary",
     "category": "Crossbow",
     "masteryRank": 14,
-    "image": "data/img/Secondary/Ballistica_Prime.png",
+    "image": "/data/img/Secondary/Ballistica_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Ballistica_Prime"
   },
   {
@@ -203,7 +203,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Bolto.png",
+    "image": "/data/img/Secondary/Bolto.png",
     "wiki": "http://warframe.wikia.com/wiki/Bolto"
   },
   {
@@ -212,7 +212,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 6,
-    "image": "data/img/Secondary/Brakk.png",
+    "image": "/data/img/Secondary/Brakk.png",
     "wiki": "http://warframe.wikia.com/wiki/Brakk"
   },
   {
@@ -221,7 +221,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 0,
-    "image": "data/img/Secondary/Bronco.png",
+    "image": "/data/img/Secondary/Bronco.png",
     "wiki": "http://warframe.wikia.com/wiki/Bronco"
   },
   {
@@ -230,7 +230,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Bronco_Prime.png",
+    "image": "/data/img/Secondary/Bronco_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Bronco_Prime"
   },
   {
@@ -239,7 +239,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 3,
-    "image": "data/img/Secondary/Castanas.png",
+    "image": "/data/img/Secondary/Castanas.png",
     "wiki": "http://warframe.wikia.com/wiki/Castanas"
   },
   {
@@ -248,7 +248,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Cestra.png",
+    "image": "/data/img/Secondary/Cestra.png",
     "wiki": "http://warframe.wikia.com/wiki/Cestra"
   },
   {
@@ -257,7 +257,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Cycron.png",
+    "image": "/data/img/Secondary/Cycron.png",
     "wiki": "http://warframe.wikia.com/wiki/Cycron"
   },
   {
@@ -266,7 +266,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Despair.png",
+    "image": "/data/img/Secondary/Despair.png",
     "wiki": "http://warframe.wikia.com/wiki/Despair"
   },
   {
@@ -275,7 +275,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 6,
-    "image": "data/img/Secondary/Detron.png",
+    "image": "/data/img/Secondary/Detron.png",
     "wiki": "http://warframe.wikia.com/wiki/Detron"
   },
   {
@@ -284,7 +284,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Dex_Furis.png",
+    "image": "/data/img/Secondary/Dex_Furis.png",
     "wiki": "http://warframe.wikia.com/wiki/Dex_Furis"
   },
   {
@@ -293,7 +293,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Dual_Cestra.png",
+    "image": "/data/img/Secondary/Dual_Cestra.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Cestra"
   },
   {
@@ -302,7 +302,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 11,
-    "image": "data/img/Secondary/Dual_Toxocyst.png",
+    "image": "/data/img/Secondary/Dual_Toxocyst.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Toxocyst"
   },
   {
@@ -311,7 +311,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Embolist.png",
+    "image": "/data/img/Secondary/Embolist.png",
     "wiki": "http://warframe.wikia.com/wiki/Embolist"
   },
   {
@@ -320,7 +320,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 14,
-    "image": "data/img/Secondary/Euphona_Prime.png",
+    "image": "/data/img/Secondary/Euphona_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Euphona_Prime"
   },
   {
@@ -329,7 +329,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Furis.png",
+    "image": "/data/img/Secondary/Furis.png",
     "wiki": "http://warframe.wikia.com/wiki/Furis"
   },
   {
@@ -338,7 +338,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Fusilai.png",
+    "image": "/data/img/Secondary/Fusilai.png",
     "wiki": "http://warframe.wikia.com/wiki/Fusilai"
   },
   {
@@ -347,7 +347,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Gammacor.png",
+    "image": "/data/img/Secondary/Gammacor.png",
     "wiki": "http://warframe.wikia.com/wiki/Gammacor"
   },
   {
@@ -356,7 +356,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Hikou.png",
+    "image": "/data/img/Secondary/Hikou.png",
     "wiki": "http://warframe.wikia.com/wiki/Hikou"
   },
   {
@@ -365,7 +365,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Hikou_Prime.png",
+    "image": "/data/img/Secondary/Hikou_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Hikou_Prime"
   },
   {
@@ -374,7 +374,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Hystrix.png",
+    "image": "/data/img/Secondary/Hystrix.png",
     "wiki": "http://warframe.wikia.com/wiki/Hystrix"
   },
   {
@@ -383,7 +383,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Knell.png",
+    "image": "/data/img/Secondary/Knell.png",
     "wiki": "http://warframe.wikia.com/wiki/Knell"
   },
   {
@@ -392,7 +392,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 5,
-    "image": "data/img/Secondary/Kohmak.png",
+    "image": "/data/img/Secondary/Kohmak.png",
     "wiki": "http://warframe.wikia.com/wiki/Kohmak"
   },
   {
@@ -401,7 +401,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 0,
-    "image": "data/img/Secondary/Kraken.png",
+    "image": "/data/img/Secondary/Kraken.png",
     "wiki": "http://warframe.wikia.com/wiki/Kraken"
   },
   {
@@ -410,7 +410,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 5,
-    "image": "data/img/Secondary/Kulstar.png",
+    "image": "/data/img/Secondary/Kulstar.png",
     "wiki": "http://warframe.wikia.com/wiki/Kulstar"
   },
   {
@@ -419,7 +419,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Kunai.png",
+    "image": "/data/img/Secondary/Kunai.png",
     "wiki": "http://warframe.wikia.com/wiki/Kunai"
   },
   {
@@ -428,7 +428,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 0,
-    "image": "data/img/Secondary/Lato.png",
+    "image": "/data/img/Secondary/Lato.png",
     "wiki": "http://warframe.wikia.com/wiki/Lato"
   },
   {
@@ -437,7 +437,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 14,
-    "image": "data/img/Secondary/Lato_Prime.png",
+    "image": "/data/img/Secondary/Lato_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Lato_Prime"
   },
   {
@@ -446,7 +446,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Lato_Vandal.png",
+    "image": "/data/img/Secondary/Lato_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Lato_Vandal"
   },
   {
@@ -455,7 +455,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 3,
-    "image": "data/img/Secondary/Lex.png",
+    "image": "/data/img/Secondary/Lex.png",
     "wiki": "http://warframe.wikia.com/wiki/Lex"
   },
   {
@@ -464,7 +464,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Lex_Prime.png",
+    "image": "/data/img/Secondary/Lex_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Lex_Prime"
   },
   {
@@ -473,7 +473,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 0,
-    "image": "data/img/Secondary/MK1-Furis.png",
+    "image": "/data/img/Secondary/MK1-Furis.png",
     "wiki": "http://warframe.wikia.com/wiki/MK1-Furis"
   },
   {
@@ -482,7 +482,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 0,
-    "image": "data/img/Secondary/MK1-Kunai.png",
+    "image": "/data/img/Secondary/MK1-Kunai.png",
     "wiki": "http://warframe.wikia.com/wiki/MK1-Kunai"
   },
   {
@@ -491,7 +491,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Magnus.png",
+    "image": "/data/img/Secondary/Magnus.png",
     "wiki": "http://warframe.wikia.com/wiki/Magnus"
   },
   {
@@ -500,7 +500,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Mara_Detron.png",
+    "image": "/data/img/Secondary/Mara_Detron.png",
     "wiki": "http://warframe.wikia.com/wiki/Mara_Detron"
   },
   {
@@ -509,7 +509,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Marelok.png",
+    "image": "/data/img/Secondary/Marelok.png",
     "wiki": "http://warframe.wikia.com/wiki/Marelok"
   },
   {
@@ -518,7 +518,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Nukor.png",
+    "image": "/data/img/Secondary/Nukor.png",
     "wiki": "http://warframe.wikia.com/wiki/Nukor"
   },
   {
@@ -527,7 +527,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Pandero.png",
+    "image": "/data/img/Secondary/Pandero.png",
     "wiki": "http://warframe.wikia.com/wiki/Pandero"
   },
   {
@@ -536,7 +536,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Pox.png",
+    "image": "/data/img/Secondary/Pox.png",
     "wiki": "http://warframe.wikia.com/wiki/Pox"
   },
   {
@@ -545,7 +545,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Prisma_Angstrum.png",
+    "image": "/data/img/Secondary/Prisma_Angstrum.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Angstrum"
   },
   {
@@ -554,7 +554,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 11,
-    "image": "data/img/Secondary/Prisma_Twin_Gremlins.png",
+    "image": "/data/img/Secondary/Prisma_Twin_Gremlins.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Twin_Gremlins"
   },
   {
@@ -563,7 +563,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 12,
-    "image": "data/img/Secondary/Pyrana.png",
+    "image": "/data/img/Secondary/Pyrana.png",
     "wiki": "http://warframe.wikia.com/wiki/Pyrana"
   },
   {
@@ -572,7 +572,7 @@
     "type": "Secondary",
     "category": "Shotgun Sidearm",
     "masteryRank": 13,
-    "image": "data/img/Secondary/Pyrana_Prime.png",
+    "image": "/data/img/Secondary/Pyrana_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Pyrana_Prime"
   },
   {
@@ -581,7 +581,7 @@
     "type": "Secondary",
     "category": "Crossbow",
     "masteryRank": 6,
-    "image": "data/img/Secondary/Rakta_Ballistica.png",
+    "image": "/data/img/Secondary/Rakta_Ballistica.png",
     "wiki": "http://warframe.wikia.com/wiki/Rakta_Ballistica"
   },
   {
@@ -590,7 +590,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Sancti_Castanas.png",
+    "image": "/data/img/Secondary/Sancti_Castanas.png",
     "wiki": "http://warframe.wikia.com/wiki/Sancti_Castanas"
   },
   {
@@ -599,7 +599,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Secura_Dual_Cestra.png",
+    "image": "/data/img/Secondary/Secura_Dual_Cestra.png",
     "wiki": "http://warframe.wikia.com/wiki/Secura_Dual_Cestra"
   },
   {
@@ -608,7 +608,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 0,
-    "image": "data/img/Secondary/Seer.png",
+    "image": "/data/img/Secondary/Seer.png",
     "wiki": "http://warframe.wikia.com/wiki/Seer"
   },
   {
@@ -617,7 +617,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 3,
-    "image": "data/img/Secondary/Sicarus.png",
+    "image": "/data/img/Secondary/Sicarus.png",
     "wiki": "http://warframe.wikia.com/wiki/Sicarus"
   },
   {
@@ -626,7 +626,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 14,
-    "image": "data/img/Secondary/Sicarus_Prime.png",
+    "image": "/data/img/Secondary/Sicarus_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Sicarus_Prime"
   },
   {
@@ -635,7 +635,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Sonicor.png",
+    "image": "/data/img/Secondary/Sonicor.png",
     "wiki": "http://warframe.wikia.com/wiki/Sonicor"
   },
   {
@@ -644,7 +644,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Spectra.png",
+    "image": "/data/img/Secondary/Spectra.png",
     "wiki": "http://warframe.wikia.com/wiki/Spectra"
   },
   {
@@ -653,7 +653,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Spira.png",
+    "image": "/data/img/Secondary/Spira.png",
     "wiki": "http://warframe.wikia.com/wiki/Spira"
   },
   {
@@ -662,7 +662,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Spira_Prime.png",
+    "image": "/data/img/Secondary/Spira_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Spira_Prime"
   },
   {
@@ -671,7 +671,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Staticor.png",
+    "image": "/data/img/Secondary/Staticor.png",
     "wiki": "http://warframe.wikia.com/wiki/Staticor"
   },
   {
@@ -680,7 +680,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Stubba.png",
+    "image": "/data/img/Secondary/Stubba.png",
     "wiki": "http://warframe.wikia.com/wiki/Stubba"
   },
   {
@@ -689,7 +689,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 2,
-    "image": "data/img/Secondary/Stug.png",
+    "image": "/data/img/Secondary/Stug.png",
     "wiki": "http://warframe.wikia.com/wiki/Stug"
   },
   {
@@ -698,7 +698,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Synoid_Gammacor.png",
+    "image": "/data/img/Secondary/Synoid_Gammacor.png",
     "wiki": "http://warframe.wikia.com/wiki/Synoid_Gammacor"
   },
   {
@@ -707,7 +707,7 @@
     "type": "Secondary",
     "category": "Thrown",
     "masteryRank": 8,
-    "image": "data/img/Secondary/Talons.png",
+    "image": "/data/img/Secondary/Talons.png",
     "wiki": "http://warframe.wikia.com/wiki/Talons"
   },
   {
@@ -716,7 +716,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 11,
-    "image": "data/img/Secondary/Telos_Akbolto.png",
+    "image": "/data/img/Secondary/Telos_Akbolto.png",
     "wiki": "http://warframe.wikia.com/wiki/Telos_Akbolto"
   },
   {
@@ -725,7 +725,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Twin_Grakatas.png",
+    "image": "/data/img/Secondary/Twin_Grakatas.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Grakatas"
   },
   {
@@ -734,7 +734,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 5,
-    "image": "data/img/Secondary/Twin_Gremlins.png",
+    "image": "/data/img/Secondary/Twin_Gremlins.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Gremlins"
   },
   {
@@ -743,7 +743,7 @@
     "type": "Secondary",
     "category": "Dual Shotguns",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Twin_Kohmak.png",
+    "image": "/data/img/Secondary/Twin_Kohmak.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Kohmak"
   },
   {
@@ -752,7 +752,7 @@
     "type": "Secondary",
     "category": "Dual Shotguns",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Twin_Rogga.png",
+    "image": "/data/img/Secondary/Twin_Rogga.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Rogga"
   },
   {
@@ -761,7 +761,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 5,
-    "image": "data/img/Secondary/Twin_Vipers.png",
+    "image": "/data/img/Secondary/Twin_Vipers.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Vipers"
   },
   {
@@ -770,7 +770,7 @@
     "type": "Secondary",
     "category": "Dual Pistols",
     "masteryRank": 7,
-    "image": "data/img/Secondary/Twin_Vipers_Wraith.png",
+    "image": "/data/img/Secondary/Twin_Vipers_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Vipers_Wraith"
   },
   {
@@ -779,7 +779,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 9,
-    "image": "data/img/Secondary/Tysis.png",
+    "image": "/data/img/Secondary/Tysis.png",
     "wiki": "http://warframe.wikia.com/wiki/Tysis"
   },
   {
@@ -788,7 +788,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Vasto.png",
+    "image": "/data/img/Secondary/Vasto.png",
     "wiki": "http://warframe.wikia.com/wiki/Vasto"
   },
   {
@@ -797,7 +797,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Vasto_Prime.png",
+    "image": "/data/img/Secondary/Vasto_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Vasto_Prime"
   },
   {
@@ -806,7 +806,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Vaykor_Marelok.png",
+    "image": "/data/img/Secondary/Vaykor_Marelok.png",
     "wiki": "http://warframe.wikia.com/wiki/Vaykor_Marelok"
   },
   {
@@ -815,7 +815,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Viper.png",
+    "image": "/data/img/Secondary/Viper.png",
     "wiki": "http://warframe.wikia.com/wiki/Viper"
   },
   {
@@ -824,7 +824,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 4,
-    "image": "data/img/Secondary/Viper_Wraith.png",
+    "image": "/data/img/Secondary/Viper_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Viper_Wraith"
   },
   {
@@ -833,7 +833,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 10,
-    "image": "data/img/Secondary/Zakti.png",
+    "image": "/data/img/Secondary/Zakti.png",
     "wiki": "http://warframe.wikia.com/wiki/Zakti"
   },
   {
@@ -842,7 +842,7 @@
     "type": "Secondary",
     "category": "Pistol",
     "masteryRank": 6,
-    "image": "data/img/Secondary/Zylok.png",
+    "image": "/data/img/Secondary/Zylok.png",
     "wiki": "http://warframe.wikia.com/wiki/Zylok"
   }
 ]

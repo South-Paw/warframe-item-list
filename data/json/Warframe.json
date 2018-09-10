@@ -4,7 +4,7 @@
     "name": "Ash",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Ash.png",
+    "image": "/data/img/Warframe/Ash.png",
     "wiki": "http://warframe.wikia.com/wiki/Ash"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Ash Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Ash_Prime.png",
+    "image": "/data/img/Warframe/Ash_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Ash_Prime"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Atlas",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Atlas.png",
+    "image": "/data/img/Warframe/Atlas.png",
     "wiki": "http://warframe.wikia.com/wiki/Atlas"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Banshee",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Banshee.png",
+    "image": "/data/img/Warframe/Banshee.png",
     "wiki": "http://warframe.wikia.com/wiki/Banshee"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Banshee Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Banshee_Prime.png",
+    "image": "/data/img/Warframe/Banshee_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Banshee_Prime"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Chroma",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Chroma.png",
+    "image": "/data/img/Warframe/Chroma.png",
     "wiki": "http://warframe.wikia.com/wiki/Chroma"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Ember",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Ember.png",
+    "image": "/data/img/Warframe/Ember.png",
     "wiki": "http://warframe.wikia.com/wiki/Ember"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Ember Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Ember_Prime.png",
+    "image": "/data/img/Warframe/Ember_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Ember_Prime"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Equinox",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Equinox.png",
+    "image": "/data/img/Warframe/Equinox.png",
     "wiki": "http://warframe.wikia.com/wiki/Equinox"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Excalibur",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Excalibur.png",
+    "image": "/data/img/Warframe/Excalibur.png",
     "wiki": "http://warframe.wikia.com/wiki/Excalibur"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Excalibur Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Excalibur_Prime.png",
+    "image": "/data/img/Warframe/Excalibur_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Excalibur_Prime"
   },
   {
@@ -92,7 +92,7 @@
     "name": "Excalibur Umbra",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Excalibur_Umbra.png",
+    "image": "/data/img/Warframe/Excalibur_Umbra.png",
     "wiki": "http://warframe.wikia.com/wiki/Excalibur_Umbra"
   },
   {
@@ -100,7 +100,7 @@
     "name": "Frost",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Frost.png",
+    "image": "/data/img/Warframe/Frost.png",
     "wiki": "http://warframe.wikia.com/wiki/Frost"
   },
   {
@@ -108,7 +108,7 @@
     "name": "Frost Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Frost_Prime.png",
+    "image": "/data/img/Warframe/Frost_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Frost_Prime"
   },
   {
@@ -116,7 +116,7 @@
     "name": "Gara",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Gara.png",
+    "image": "/data/img/Warframe/Gara.png",
     "wiki": "http://warframe.wikia.com/wiki/Gara"
   },
   {
@@ -124,7 +124,7 @@
     "name": "Harrow",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Harrow.png",
+    "image": "/data/img/Warframe/Harrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Harrow"
   },
   {
@@ -132,7 +132,7 @@
     "name": "Hydroid",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Hydroid.png",
+    "image": "/data/img/Warframe/Hydroid.png",
     "wiki": "http://warframe.wikia.com/wiki/Hydroid"
   },
   {
@@ -140,7 +140,7 @@
     "name": "Hydroid Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Hydroid_Prime.png",
+    "image": "/data/img/Warframe/Hydroid_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Hydroid_Prime"
   },
   {
@@ -148,7 +148,7 @@
     "name": "Inaros",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Inaros.png",
+    "image": "/data/img/Warframe/Inaros.png",
     "wiki": "http://warframe.wikia.com/wiki/Inaros"
   },
   {
@@ -156,7 +156,7 @@
     "name": "Ivara",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Ivara.png",
+    "image": "/data/img/Warframe/Ivara.png",
     "wiki": "http://warframe.wikia.com/wiki/Ivara"
   },
   {
@@ -164,7 +164,7 @@
     "name": "Khora",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Khora.png",
+    "image": "/data/img/Warframe/Khora.png",
     "wiki": "http://warframe.wikia.com/wiki/Khora"
   },
   {
@@ -172,7 +172,7 @@
     "name": "Limbo",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Limbo.png",
+    "image": "/data/img/Warframe/Limbo.png",
     "wiki": "http://warframe.wikia.com/wiki/Limbo"
   },
   {
@@ -180,7 +180,7 @@
     "name": "Limbo Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Limbo_Prime.png",
+    "image": "/data/img/Warframe/Limbo_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Limbo_Prime"
   },
   {
@@ -188,7 +188,7 @@
     "name": "Loki",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Loki.png",
+    "image": "/data/img/Warframe/Loki.png",
     "wiki": "http://warframe.wikia.com/wiki/Loki"
   },
   {
@@ -196,7 +196,7 @@
     "name": "Loki Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Loki_Prime.png",
+    "image": "/data/img/Warframe/Loki_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Loki_Prime"
   },
   {
@@ -204,7 +204,7 @@
     "name": "Mag",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Mag.png",
+    "image": "/data/img/Warframe/Mag.png",
     "wiki": "http://warframe.wikia.com/wiki/Mag"
   },
   {
@@ -212,7 +212,7 @@
     "name": "Mag Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Mag_Prime.png",
+    "image": "/data/img/Warframe/Mag_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Mag_Prime"
   },
   {
@@ -220,7 +220,7 @@
     "name": "Mesa",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Mesa.png",
+    "image": "/data/img/Warframe/Mesa.png",
     "wiki": "http://warframe.wikia.com/wiki/Mesa"
   },
   {
@@ -228,7 +228,7 @@
     "name": "Mirage",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Mirage.png",
+    "image": "/data/img/Warframe/Mirage.png",
     "wiki": "http://warframe.wikia.com/wiki/Mirage"
   },
   {
@@ -236,7 +236,7 @@
     "name": "Mirage Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Mirage_Prime.png",
+    "image": "/data/img/Warframe/Mirage_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Mirage_Prime"
   },
   {
@@ -244,7 +244,7 @@
     "name": "Nekros",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nekros.png",
+    "image": "/data/img/Warframe/Nekros.png",
     "wiki": "http://warframe.wikia.com/wiki/Nekros"
   },
   {
@@ -252,7 +252,7 @@
     "name": "Nekros Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nekros_Prime.png",
+    "image": "/data/img/Warframe/Nekros_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Nekros_Prime"
   },
   {
@@ -260,7 +260,7 @@
     "name": "Nezha",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nezha.png",
+    "image": "/data/img/Warframe/Nezha.png",
     "wiki": "http://warframe.wikia.com/wiki/Nezha"
   },
   {
@@ -268,7 +268,7 @@
     "name": "Nidus",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nidus.png",
+    "image": "/data/img/Warframe/Nidus.png",
     "wiki": "http://warframe.wikia.com/wiki/Nidus"
   },
   {
@@ -276,7 +276,7 @@
     "name": "Nova",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nova.png",
+    "image": "/data/img/Warframe/Nova.png",
     "wiki": "http://warframe.wikia.com/wiki/Nova"
   },
   {
@@ -284,7 +284,7 @@
     "name": "Nova Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nova_Prime.png",
+    "image": "/data/img/Warframe/Nova_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Nova_Prime"
   },
   {
@@ -292,7 +292,7 @@
     "name": "Nyx",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nyx.png",
+    "image": "/data/img/Warframe/Nyx.png",
     "wiki": "http://warframe.wikia.com/wiki/Nyx"
   },
   {
@@ -300,7 +300,7 @@
     "name": "Nyx Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Nyx_Prime.png",
+    "image": "/data/img/Warframe/Nyx_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Nyx_Prime"
   },
   {
@@ -308,7 +308,7 @@
     "name": "Oberon",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Oberon.png",
+    "image": "/data/img/Warframe/Oberon.png",
     "wiki": "http://warframe.wikia.com/wiki/Oberon"
   },
   {
@@ -316,7 +316,7 @@
     "name": "Oberon Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Oberon_Prime.png",
+    "image": "/data/img/Warframe/Oberon_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Oberon_Prime"
   },
   {
@@ -324,7 +324,7 @@
     "name": "Octavia",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Octavia.png",
+    "image": "/data/img/Warframe/Octavia.png",
     "wiki": "http://warframe.wikia.com/wiki/Octavia"
   },
   {
@@ -332,7 +332,7 @@
     "name": "Revenant",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Revenant.png",
+    "image": "/data/img/Warframe/Revenant.png",
     "wiki": "http://warframe.wikia.com/wiki/Revenant"
   },
   {
@@ -340,7 +340,7 @@
     "name": "Rhino",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Rhino.png",
+    "image": "/data/img/Warframe/Rhino.png",
     "wiki": "http://warframe.wikia.com/wiki/Rhino"
   },
   {
@@ -348,7 +348,7 @@
     "name": "Rhino Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Rhino_Prime.png",
+    "image": "/data/img/Warframe/Rhino_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Rhino_Prime"
   },
   {
@@ -356,7 +356,7 @@
     "name": "Saryn",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Saryn.png",
+    "image": "/data/img/Warframe/Saryn.png",
     "wiki": "http://warframe.wikia.com/wiki/Saryn"
   },
   {
@@ -364,7 +364,7 @@
     "name": "Saryn Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Saryn_Prime.png",
+    "image": "/data/img/Warframe/Saryn_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Saryn_Prime"
   },
   {
@@ -372,7 +372,7 @@
     "name": "Titania",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Titania.png",
+    "image": "/data/img/Warframe/Titania.png",
     "wiki": "http://warframe.wikia.com/wiki/Titania"
   },
   {
@@ -380,7 +380,7 @@
     "name": "Trinity",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Trinity.png",
+    "image": "/data/img/Warframe/Trinity.png",
     "wiki": "http://warframe.wikia.com/wiki/Trinity"
   },
   {
@@ -388,7 +388,7 @@
     "name": "Trinity Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Trinity_Prime.png",
+    "image": "/data/img/Warframe/Trinity_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Trinity_Prime"
   },
   {
@@ -396,7 +396,7 @@
     "name": "Valkyr",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Valkyr.png",
+    "image": "/data/img/Warframe/Valkyr.png",
     "wiki": "http://warframe.wikia.com/wiki/Valkyr"
   },
   {
@@ -404,7 +404,7 @@
     "name": "Valkyr Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Valkyr_Prime.png",
+    "image": "/data/img/Warframe/Valkyr_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Valkyr_Prime"
   },
   {
@@ -412,7 +412,7 @@
     "name": "Vauban",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Vauban.png",
+    "image": "/data/img/Warframe/Vauban.png",
     "wiki": "http://warframe.wikia.com/wiki/Vauban"
   },
   {
@@ -420,7 +420,7 @@
     "name": "Vauban Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Vauban_Prime.png",
+    "image": "/data/img/Warframe/Vauban_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Vauban_Prime"
   },
   {
@@ -428,7 +428,7 @@
     "name": "Volt",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Volt.png",
+    "image": "/data/img/Warframe/Volt.png",
     "wiki": "http://warframe.wikia.com/wiki/Volt"
   },
   {
@@ -436,7 +436,7 @@
     "name": "Volt Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Volt_Prime.png",
+    "image": "/data/img/Warframe/Volt_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Volt_Prime"
   },
   {
@@ -444,7 +444,7 @@
     "name": "Wukong",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Wukong.png",
+    "image": "/data/img/Warframe/Wukong.png",
     "wiki": "http://warframe.wikia.com/wiki/Wukong"
   },
   {
@@ -452,7 +452,7 @@
     "name": "Zephyr",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Zephyr.png",
+    "image": "/data/img/Warframe/Zephyr.png",
     "wiki": "http://warframe.wikia.com/wiki/Zephyr"
   },
   {
@@ -460,7 +460,7 @@
     "name": "Zephyr Prime",
     "type": "Warframe",
     "masteryRank": 0,
-    "image": "data/img/Warframe/Zephyr_Prime.png",
+    "image": "/data/img/Warframe/Zephyr_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Zephyr_Prime"
   }
 ]

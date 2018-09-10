@@ -82,7 +82,7 @@ Within each list, the objects are pretty similarly structured:
   type: 'string',        // type the item belongs to.
   category: 'string',    // category of the weapon - this is only used on primary/secondary/melee and sentinel weapons.
   masteryRank: 0,        // mastery rank required for the item.
-  image: 'string',       // TODO: unimplemented at the moment.
+  image: 'string',       // Path to the image file for this item, relative to the root of the package.
   wiki: 'string',        // url for the items warframe wiki page.
 },
 ```

@@ -5,7 +5,7 @@
     "type": "Melee",
     "category": "Sword and Shield",
     "masteryRank": 3,
-    "image": "data/img/Melee/Ack_&_Brunt.png",
+    "image": "/data/img/Melee/Ack_&_Brunt.png",
     "wiki": "http://warframe.wikia.com/wiki/Ack_&_Brunt"
   },
   {
@@ -14,7 +14,7 @@
     "type": "Melee",
     "category": "Staff",
     "masteryRank": 0,
-    "image": "data/img/Melee/Amphis.png",
+    "image": "/data/img/Melee/Amphis.png",
     "wiki": "http://warframe.wikia.com/wiki/Amphis"
   },
   {
@@ -23,7 +23,7 @@
     "type": "Melee",
     "category": "Scythe",
     "masteryRank": 3,
-    "image": "data/img/Melee/Anku.png",
+    "image": "/data/img/Melee/Anku.png",
     "wiki": "http://warframe.wikia.com/wiki/Anku"
   },
   {
@@ -32,7 +32,7 @@
     "type": "Melee",
     "category": "Fist",
     "masteryRank": 0,
-    "image": "data/img/Melee/Ankyros.png",
+    "image": "/data/img/Melee/Ankyros.png",
     "wiki": "http://warframe.wikia.com/wiki/Ankyros"
   },
   {
@@ -41,7 +41,7 @@
     "type": "Melee",
     "category": "Fist",
     "masteryRank": 0,
-    "image": "data/img/Melee/Ankyros_Prime.png",
+    "image": "/data/img/Melee/Ankyros_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Ankyros_Prime"
   },
   {
@@ -50,7 +50,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 10,
-    "image": "data/img/Melee/Arca_Titron.png",
+    "image": "/data/img/Melee/Arca_Titron.png",
     "wiki": "http://warframe.wikia.com/wiki/Arca_Titron"
   },
   {
@@ -59,7 +59,7 @@
     "type": "Melee",
     "category": "Whip",
     "masteryRank": 2,
-    "image": "data/img/Melee/Atterax.png",
+    "image": "/data/img/Melee/Atterax.png",
     "wiki": "http://warframe.wikia.com/wiki/Atterax"
   },
   {
@@ -68,7 +68,7 @@
     "type": "Melee",
     "category": "Staff",
     "masteryRank": 0,
-    "image": "data/img/Melee/Bo.png",
+    "image": "/data/img/Melee/Bo.png",
     "wiki": "http://warframe.wikia.com/wiki/Bo"
   },
   {
@@ -77,7 +77,7 @@
     "type": "Melee",
     "category": "Staff",
     "masteryRank": 5,
-    "image": "data/img/Melee/Bo_Prime.png",
+    "image": "/data/img/Melee/Bo_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Bo_Prime"
   },
   {
@@ -86,7 +86,7 @@
     "type": "Melee",
     "category": "Tonfa",
     "masteryRank": 2,
-    "image": "data/img/Melee/Boltace.png",
+    "image": "/data/img/Melee/Boltace.png",
     "wiki": "http://warframe.wikia.com/wiki/Boltace"
   },
   {
@@ -95,7 +95,7 @@
     "type": "Melee",
     "category": "Staff",
     "masteryRank": 5,
-    "image": "data/img/Melee/Broken_Scepter.png",
+    "image": "/data/img/Melee/Broken_Scepter.png",
     "wiki": "http://warframe.wikia.com/wiki/Broken_Scepter"
   },
   {
@@ -104,7 +104,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 10,
-    "image": "data/img/Melee/Broken_War.png",
+    "image": "/data/img/Melee/Broken_War.png",
     "wiki": "http://warframe.wikia.com/wiki/Broken_War"
   },
   {
@@ -113,7 +113,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 5,
-    "image": "data/img/Melee/Cassowar.png",
+    "image": "/data/img/Melee/Cassowar.png",
     "wiki": "http://warframe.wikia.com/wiki/Cassowar"
   },
   {
@@ -122,7 +122,7 @@
     "type": "Melee",
     "category": "Scythe",
     "masteryRank": 7,
-    "image": "data/img/Melee/Caustacyst.png",
+    "image": "/data/img/Melee/Caustacyst.png",
     "wiki": "http://warframe.wikia.com/wiki/Caustacyst"
   },
   {
@@ -131,7 +131,7 @@
     "type": "Melee",
     "category": "Dagger",
     "masteryRank": 3,
-    "image": "data/img/Melee/Ceramic_Dagger.png",
+    "image": "/data/img/Melee/Ceramic_Dagger.png",
     "wiki": "http://warframe.wikia.com/wiki/Ceramic_Dagger"
   },
   {
@@ -140,7 +140,7 @@
     "type": "Melee",
     "category": "Glaive",
     "masteryRank": 3,
-    "image": "data/img/Melee/Cerata.png",
+    "image": "/data/img/Melee/Cerata.png",
     "wiki": "http://warframe.wikia.com/wiki/Cerata"
   },
   {
@@ -149,7 +149,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Cronus.png",
+    "image": "/data/img/Melee/Cronus.png",
     "wiki": "http://warframe.wikia.com/wiki/Cronus"
   },
   {
@@ -158,7 +158,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 6,
-    "image": "data/img/Melee/Dakra_Prime.png",
+    "image": "/data/img/Melee/Dakra_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Dakra_Prime"
   },
   {
@@ -167,7 +167,7 @@
     "type": "Melee",
     "category": "Dagger",
     "masteryRank": 0,
-    "image": "data/img/Melee/Dark_Dagger.png",
+    "image": "/data/img/Melee/Dark_Dagger.png",
     "wiki": "http://warframe.wikia.com/wiki/Dark_Dagger"
   },
   {
@@ -176,7 +176,7 @@
     "type": "Melee",
     "category": "Hybrid",
     "masteryRank": 0,
-    "image": "data/img/Melee/Dark_Split-Sword.png",
+    "image": "/data/img/Melee/Dark_Split-Sword.png",
     "wiki": "http://warframe.wikia.com/wiki/Dark_Split-Sword"
   },
   {
@@ -185,7 +185,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Dark_Sword.png",
+    "image": "/data/img/Melee/Dark_Sword.png",
     "wiki": "http://warframe.wikia.com/wiki/Dark_Sword"
   },
   {
@@ -194,7 +194,7 @@
     "type": "Melee",
     "category": "Rapier",
     "masteryRank": 7,
-    "image": "data/img/Melee/Destreza.png",
+    "image": "/data/img/Melee/Destreza.png",
     "wiki": "http://warframe.wikia.com/wiki/Destreza"
   },
   {
@@ -203,7 +203,7 @@
     "type": "Melee",
     "category": "Rapier",
     "masteryRank": 10,
-    "image": "data/img/Melee/Destreza_Prime.png",
+    "image": "/data/img/Melee/Destreza_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Destreza_Prime"
   },
   {
@@ -212,7 +212,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 6,
-    "image": "data/img/Melee/Dex_Dakra.png",
+    "image": "/data/img/Melee/Dex_Dakra.png",
     "wiki": "http://warframe.wikia.com/wiki/Dex_Dakra"
   },
   {
@@ -221,7 +221,7 @@
     "type": "Melee",
     "category": "Nikana",
     "masteryRank": 8,
-    "image": "data/img/Melee/Dragon_Nikana.png",
+    "image": "/data/img/Melee/Dragon_Nikana.png",
     "wiki": "http://warframe.wikia.com/wiki/Dragon_Nikana"
   },
   {
@@ -230,7 +230,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 3,
-    "image": "data/img/Melee/Dual_Cleavers.png",
+    "image": "/data/img/Melee/Dual_Cleavers.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Cleavers"
   },
   {
@@ -239,7 +239,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 0,
-    "image": "data/img/Melee/Dual_Ether.png",
+    "image": "/data/img/Melee/Dual_Ether.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Ether"
   },
   {
@@ -248,7 +248,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 0,
-    "image": "data/img/Melee/Dual_Heat_Swords.png",
+    "image": "/data/img/Melee/Dual_Heat_Swords.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Heat_Swords"
   },
   {
@@ -257,7 +257,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 6,
-    "image": "data/img/Melee/Dual_Ichor.png",
+    "image": "/data/img/Melee/Dual_Ichor.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Ichor"
   },
   {
@@ -266,7 +266,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 1,
-    "image": "data/img/Melee/Dual_Kamas.png",
+    "image": "/data/img/Melee/Dual_Kamas.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Kamas"
   },
   {
@@ -275,7 +275,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 6,
-    "image": "data/img/Melee/Dual_Kamas_Prime.png",
+    "image": "/data/img/Melee/Dual_Kamas_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Kamas_Prime"
   },
   {
@@ -284,7 +284,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 7,
-    "image": "data/img/Melee/Dual_Keres.png",
+    "image": "/data/img/Melee/Dual_Keres.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Keres"
   },
   {
@@ -293,7 +293,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 6,
-    "image": "data/img/Melee/Dual_Raza.png",
+    "image": "/data/img/Melee/Dual_Raza.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Raza"
   },
   {
@@ -302,7 +302,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 0,
-    "image": "data/img/Melee/Dual_Skana.png",
+    "image": "/data/img/Melee/Dual_Skana.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Skana"
   },
   {
@@ -311,7 +311,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 2,
-    "image": "data/img/Melee/Dual_Zoren.png",
+    "image": "/data/img/Melee/Dual_Zoren.png",
     "wiki": "http://warframe.wikia.com/wiki/Dual_Zoren"
   },
   {
@@ -320,7 +320,7 @@
     "type": "Melee",
     "category": "Rapier",
     "masteryRank": 7,
-    "image": "data/img/Melee/Endura.png",
+    "image": "/data/img/Melee/Endura.png",
     "wiki": "http://warframe.wikia.com/wiki/Endura"
   },
   {
@@ -329,7 +329,7 @@
     "type": "Melee",
     "category": "Dual Daggers",
     "masteryRank": 0,
-    "image": "data/img/Melee/Ether_Daggers.png",
+    "image": "/data/img/Melee/Ether_Daggers.png",
     "wiki": "http://warframe.wikia.com/wiki/Ether_Daggers"
   },
   {
@@ -338,7 +338,7 @@
     "type": "Melee",
     "category": "Scythe",
     "masteryRank": 3,
-    "image": "data/img/Melee/Ether_Reaper.png",
+    "image": "/data/img/Melee/Ether_Reaper.png",
     "wiki": "http://warframe.wikia.com/wiki/Ether_Reaper"
   },
   {
@@ -347,7 +347,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Ether_Sword.png",
+    "image": "/data/img/Melee/Ether_Sword.png",
     "wiki": "http://warframe.wikia.com/wiki/Ether_Sword"
   },
   {
@@ -356,7 +356,7 @@
     "type": "Melee",
     "category": "Dual Daggers",
     "masteryRank": 0,
-    "image": "data/img/Melee/Fang.png",
+    "image": "/data/img/Melee/Fang.png",
     "wiki": "http://warframe.wikia.com/wiki/Fang"
   },
   {
@@ -365,7 +365,7 @@
     "type": "Melee",
     "category": "Dual Daggers",
     "masteryRank": 0,
-    "image": "data/img/Melee/Fang_Prime.png",
+    "image": "/data/img/Melee/Fang_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Fang_Prime"
   },
   {
@@ -374,7 +374,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 2,
-    "image": "data/img/Melee/Fragor.png",
+    "image": "/data/img/Melee/Fragor.png",
     "wiki": "http://warframe.wikia.com/wiki/Fragor"
   },
   {
@@ -383,7 +383,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 7,
-    "image": "data/img/Melee/Fragor_Prime.png",
+    "image": "/data/img/Melee/Fragor_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Fragor_Prime"
   },
   {
@@ -392,7 +392,7 @@
     "type": "Melee",
     "category": "Fist",
     "masteryRank": 0,
-    "image": "data/img/Melee/Furax.png",
+    "image": "/data/img/Melee/Furax.png",
     "wiki": "http://warframe.wikia.com/wiki/Furax"
   },
   {
@@ -401,7 +401,7 @@
     "type": "Melee",
     "category": "Fist",
     "masteryRank": 3,
-    "image": "data/img/Melee/Furax_Wraith.png",
+    "image": "/data/img/Melee/Furax_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Furax_Wraith"
   },
   {
@@ -410,7 +410,7 @@
     "type": "Melee",
     "category": "Heavy Blade",
     "masteryRank": 3,
-    "image": "data/img/Melee/Galatine.png",
+    "image": "/data/img/Melee/Galatine.png",
     "wiki": "http://warframe.wikia.com/wiki/Galatine"
   },
   {
@@ -419,7 +419,7 @@
     "type": "Melee",
     "category": "Heavy Blade",
     "masteryRank": 13,
-    "image": "data/img/Melee/Galatine_Prime.png",
+    "image": "/data/img/Melee/Galatine_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Galatine_Prime"
   },
   {
@@ -428,7 +428,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 5,
-    "image": "data/img/Melee/Gazal_Machete.png",
+    "image": "/data/img/Melee/Gazal_Machete.png",
     "wiki": "http://warframe.wikia.com/wiki/Gazal_Machete"
   },
   {
@@ -437,7 +437,7 @@
     "type": "Melee",
     "category": "Glaive",
     "masteryRank": 1,
-    "image": "data/img/Melee/Glaive.png",
+    "image": "/data/img/Melee/Glaive.png",
     "wiki": "http://warframe.wikia.com/wiki/Glaive"
   },
   {
@@ -446,7 +446,7 @@
     "type": "Melee",
     "category": "Glaive",
     "masteryRank": 10,
-    "image": "data/img/Melee/Glaive_Prime.png",
+    "image": "/data/img/Melee/Glaive_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Glaive_Prime"
   },
   {
@@ -455,7 +455,7 @@
     "type": "Melee",
     "category": "Heavy Blade",
     "masteryRank": 2,
-    "image": "data/img/Melee/Gram.png",
+    "image": "/data/img/Melee/Gram.png",
     "wiki": "http://warframe.wikia.com/wiki/Gram"
   },
   {
@@ -464,7 +464,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 4,
-    "image": "data/img/Melee/Guandao.png",
+    "image": "/data/img/Melee/Guandao.png",
     "wiki": "http://warframe.wikia.com/wiki/Guandao"
   },
   {
@@ -473,7 +473,7 @@
     "type": "Melee",
     "category": "Warfan",
     "masteryRank": 10,
-    "image": "data/img/Melee/Gunsen.png",
+    "image": "/data/img/Melee/Gunsen.png",
     "wiki": "http://warframe.wikia.com/wiki/Gunsen"
   },
   {
@@ -482,7 +482,7 @@
     "type": "Melee",
     "category": "Glaive",
     "masteryRank": 7,
-    "image": "data/img/Melee/Halikar.png",
+    "image": "/data/img/Melee/Halikar.png",
     "wiki": "http://warframe.wikia.com/wiki/Halikar"
   },
   {
@@ -491,7 +491,7 @@
     "type": "Melee",
     "category": "Scythe",
     "masteryRank": 2,
-    "image": "data/img/Melee/Hate.png",
+    "image": "/data/img/Melee/Hate.png",
     "wiki": "http://warframe.wikia.com/wiki/Hate"
   },
   {
@@ -500,7 +500,7 @@
     "type": "Melee",
     "category": "Dagger",
     "masteryRank": 0,
-    "image": "data/img/Melee/Heat_Dagger.png",
+    "image": "/data/img/Melee/Heat_Dagger.png",
     "wiki": "http://warframe.wikia.com/wiki/Heat_Dagger"
   },
   {
@@ -509,7 +509,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Heat_Sword.png",
+    "image": "/data/img/Melee/Heat_Sword.png",
     "wiki": "http://warframe.wikia.com/wiki/Heat_Sword"
   },
   {
@@ -518,7 +518,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 9,
-    "image": "data/img/Melee/Heliocor.png",
+    "image": "/data/img/Melee/Heliocor.png",
     "wiki": "http://warframe.wikia.com/wiki/Heliocor"
   },
   {
@@ -527,7 +527,7 @@
     "type": "Melee",
     "category": "Sparring",
     "masteryRank": 7,
-    "image": "data/img/Melee/Hirudo.png",
+    "image": "/data/img/Melee/Hirudo.png",
     "wiki": "http://warframe.wikia.com/wiki/Hirudo"
   },
   {
@@ -536,7 +536,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 5,
-    "image": "data/img/Melee/Jat_Kittag.png",
+    "image": "/data/img/Melee/Jat_Kittag.png",
     "wiki": "http://warframe.wikia.com/wiki/Jat_Kittag"
   },
   {
@@ -545,7 +545,7 @@
     "type": "Melee",
     "category": "Blade and Whip",
     "masteryRank": 10,
-    "image": "data/img/Melee/Jat_Kusar.png",
+    "image": "/data/img/Melee/Jat_Kusar.png",
     "wiki": "http://warframe.wikia.com/wiki/Jat_Kusar"
   },
   {
@@ -554,7 +554,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Jaw_Sword.png",
+    "image": "/data/img/Melee/Jaw_Sword.png",
     "wiki": "http://warframe.wikia.com/wiki/Jaw_Sword"
   },
   {
@@ -563,7 +563,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 1,
-    "image": "data/img/Melee/Kama.png",
+    "image": "/data/img/Melee/Kama.png",
     "wiki": "http://warframe.wikia.com/wiki/Kama"
   },
   {
@@ -572,7 +572,7 @@
     "type": "Melee",
     "category": "Dagger",
     "masteryRank": 0,
-    "image": "data/img/Melee/Karyst.png",
+    "image": "/data/img/Melee/Karyst.png",
     "wiki": "http://warframe.wikia.com/wiki/Karyst"
   },
   {
@@ -581,7 +581,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 7,
-    "image": "data/img/Melee/Kesheg.png",
+    "image": "/data/img/Melee/Kesheg.png",
     "wiki": "http://warframe.wikia.com/wiki/Kesheg"
   },
   {
@@ -590,7 +590,7 @@
     "type": "Melee",
     "category": "Glaive",
     "masteryRank": 0,
-    "image": "data/img/Melee/Kestrel.png",
+    "image": "/data/img/Melee/Kestrel.png",
     "wiki": "http://warframe.wikia.com/wiki/Kestrel"
   },
   {
@@ -599,7 +599,7 @@
     "type": "Melee",
     "category": "Sparring",
     "masteryRank": 0,
-    "image": "data/img/Melee/Kogake.png",
+    "image": "/data/img/Melee/Kogake.png",
     "wiki": "http://warframe.wikia.com/wiki/Kogake"
   },
   {
@@ -608,7 +608,7 @@
     "type": "Melee",
     "category": "Sparring",
     "masteryRank": 10,
-    "image": "data/img/Melee/Kogake_Prime.png",
+    "image": "/data/img/Melee/Kogake_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Kogake_Prime"
   },
   {
@@ -617,7 +617,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 5,
-    "image": "data/img/Melee/Krohkur.png",
+    "image": "/data/img/Melee/Krohkur.png",
     "wiki": "http://warframe.wikia.com/wiki/Krohkur"
   },
   {
@@ -626,7 +626,7 @@
     "type": "Melee",
     "category": "Tonfa",
     "masteryRank": 3,
-    "image": "data/img/Melee/Kronen.png",
+    "image": "/data/img/Melee/Kronen.png",
     "wiki": "http://warframe.wikia.com/wiki/Kronen"
   },
   {
@@ -635,7 +635,7 @@
     "type": "Melee",
     "category": "Tonfa",
     "masteryRank": 8,
-    "image": "data/img/Melee/Kronen_Prime.png",
+    "image": "/data/img/Melee/Kronen_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Kronen_Prime"
   },
   {
@@ -644,7 +644,7 @@
     "type": "Melee",
     "category": "Blade and Whip",
     "masteryRank": 7,
-    "image": "data/img/Melee/Lacera.png",
+    "image": "/data/img/Melee/Lacera.png",
     "wiki": "http://warframe.wikia.com/wiki/Lacera"
   },
   {
@@ -653,7 +653,7 @@
     "type": "Melee",
     "category": "Whip",
     "masteryRank": 0,
-    "image": "data/img/Melee/Lecta.png",
+    "image": "/data/img/Melee/Lecta.png",
     "wiki": "http://warframe.wikia.com/wiki/Lecta"
   },
   {
@@ -662,7 +662,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 7,
-    "image": "data/img/Melee/Lesion.png",
+    "image": "/data/img/Melee/Lesion.png",
     "wiki": "http://warframe.wikia.com/wiki/Lesion"
   },
   {
@@ -671,7 +671,7 @@
     "type": "Melee",
     "category": "Staff",
     "masteryRank": 0,
-    "image": "data/img/Melee/MK1-Bo.png",
+    "image": "/data/img/Melee/MK1-Bo.png",
     "wiki": "http://warframe.wikia.com/wiki/MK1-Bo"
   },
   {
@@ -680,7 +680,7 @@
     "type": "Melee",
     "category": "Fist",
     "masteryRank": 0,
-    "image": "data/img/Melee/MK1-Furax.png",
+    "image": "/data/img/Melee/MK1-Furax.png",
     "wiki": "http://warframe.wikia.com/wiki/MK1-Furax"
   },
   {
@@ -689,7 +689,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 1,
-    "image": "data/img/Melee/Machete.png",
+    "image": "/data/img/Melee/Machete.png",
     "wiki": "http://warframe.wikia.com/wiki/Machete"
   },
   {
@@ -698,7 +698,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 1,
-    "image": "data/img/Melee/Machete_Wraith.png",
+    "image": "/data/img/Melee/Machete_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Machete_Wraith"
   },
   {
@@ -707,7 +707,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 1,
-    "image": "data/img/Melee/Magistar.png",
+    "image": "/data/img/Melee/Magistar.png",
     "wiki": "http://warframe.wikia.com/wiki/Magistar"
   },
   {
@@ -716,7 +716,7 @@
     "type": "Melee",
     "category": "Blade and Whip",
     "masteryRank": 8,
-    "image": "data/img/Melee/Mios.png",
+    "image": "/data/img/Melee/Mios.png",
     "wiki": "http://warframe.wikia.com/wiki/Mios"
   },
   {
@@ -725,7 +725,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Mire.png",
+    "image": "/data/img/Melee/Mire.png",
     "wiki": "http://warframe.wikia.com/wiki/Mire"
   },
   {
@@ -734,7 +734,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 0,
-    "image": "data/img/Melee/Nami_Skyla.png",
+    "image": "/data/img/Melee/Nami_Skyla.png",
     "wiki": "http://warframe.wikia.com/wiki/Nami_Skyla"
   },
   {
@@ -743,7 +743,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 11,
-    "image": "data/img/Melee/Nami_Skyla_Prime.png",
+    "image": "/data/img/Melee/Nami_Skyla_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Nami_Skyla_Prime"
   },
   {
@@ -752,7 +752,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 0,
-    "image": "data/img/Melee/Nami_Solo.png",
+    "image": "/data/img/Melee/Nami_Solo.png",
     "wiki": "http://warframe.wikia.com/wiki/Nami_Solo"
   },
   {
@@ -761,7 +761,7 @@
     "type": "Melee",
     "category": "Nikana",
     "masteryRank": 4,
-    "image": "data/img/Melee/Nikana.png",
+    "image": "/data/img/Melee/Nikana.png",
     "wiki": "http://warframe.wikia.com/wiki/Nikana"
   },
   {
@@ -770,7 +770,7 @@
     "type": "Melee",
     "category": "Nikana",
     "masteryRank": 0,
-    "image": "data/img/Melee/Nikana_Prime.png",
+    "image": "/data/img/Melee/Nikana_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Nikana_Prime"
   },
   {
@@ -779,7 +779,7 @@
     "type": "Melee",
     "category": "Nunchaku",
     "masteryRank": 0,
-    "image": "data/img/Melee/Ninkondi.png",
+    "image": "/data/img/Melee/Ninkondi.png",
     "wiki": "http://warframe.wikia.com/wiki/Ninkondi"
   },
   {
@@ -788,7 +788,7 @@
     "type": "Melee",
     "category": "Sparring",
     "masteryRank": 0,
-    "image": "data/img/Melee/Obex.png",
+    "image": "/data/img/Melee/Obex.png",
     "wiki": "http://warframe.wikia.com/wiki/Obex"
   },
   {
@@ -797,7 +797,7 @@
     "type": "Melee",
     "category": "Tonfa",
     "masteryRank": 8,
-    "image": "data/img/Melee/Ohma.png",
+    "image": "/data/img/Melee/Ohma.png",
     "wiki": "http://warframe.wikia.com/wiki/Ohma"
   },
   {
@@ -806,7 +806,7 @@
     "type": "Melee",
     "category": "Dual Daggers",
     "masteryRank": 5,
-    "image": "data/img/Melee/Okina.png",
+    "image": "/data/img/Melee/Okina.png",
     "wiki": "http://warframe.wikia.com/wiki/Okina"
   },
   {
@@ -815,7 +815,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 2,
-    "image": "data/img/Melee/Orthos.png",
+    "image": "/data/img/Melee/Orthos.png",
     "wiki": "http://warframe.wikia.com/wiki/Orthos"
   },
   {
@@ -824,7 +824,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 2,
-    "image": "data/img/Melee/Orthos_Prime.png",
+    "image": "/data/img/Melee/Orthos_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Orthos_Prime"
   },
   {
@@ -833,7 +833,7 @@
     "type": "Melee",
     "category": "Glaive",
     "masteryRank": 5,
-    "image": "data/img/Melee/Orvius.png",
+    "image": "/data/img/Melee/Orvius.png",
     "wiki": "http://warframe.wikia.com/wiki/Orvius"
   },
   {
@@ -842,7 +842,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Pangolin_Sword.png",
+    "image": "/data/img/Melee/Pangolin_Sword.png",
     "wiki": "http://warframe.wikia.com/wiki/Pangolin_Sword"
   },
   {
@@ -851,7 +851,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Plasma_Sword.png",
+    "image": "/data/img/Melee/Plasma_Sword.png",
     "wiki": "http://warframe.wikia.com/wiki/Plasma_Sword"
   },
   {
@@ -860,7 +860,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 3,
-    "image": "data/img/Melee/Prisma_Dual_Cleavers.png",
+    "image": "/data/img/Melee/Prisma_Dual_Cleavers.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Dual_Cleavers"
   },
   {
@@ -869,7 +869,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 1,
-    "image": "data/img/Melee/Prisma_Machete.png",
+    "image": "/data/img/Melee/Prisma_Machete.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Machete"
   },
   {
@@ -878,7 +878,7 @@
     "type": "Melee",
     "category": "Sparring",
     "masteryRank": 0,
-    "image": "data/img/Melee/Prisma_Obex.png",
+    "image": "/data/img/Melee/Prisma_Obex.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Obex"
   },
   {
@@ -887,7 +887,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Prisma_Skana.png",
+    "image": "/data/img/Melee/Prisma_Skana.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Skana"
   },
   {
@@ -896,7 +896,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 3,
-    "image": "data/img/Melee/Prova.png",
+    "image": "/data/img/Melee/Prova.png",
     "wiki": "http://warframe.wikia.com/wiki/Prova"
   },
   {
@@ -905,7 +905,7 @@
     "type": "Melee",
     "category": "Machete",
     "masteryRank": 3,
-    "image": "data/img/Melee/Prova_Vandal.png",
+    "image": "/data/img/Melee/Prova_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Prova_Vandal"
   },
   {
@@ -914,7 +914,7 @@
     "type": "Melee",
     "category": "Dagger",
     "masteryRank": 8,
-    "image": "data/img/Melee/Rakta_Dark_Dagger.png",
+    "image": "/data/img/Melee/Rakta_Dark_Dagger.png",
     "wiki": "http://warframe.wikia.com/wiki/Rakta_Dark_Dagger"
   },
   {
@@ -923,7 +923,7 @@
     "type": "Melee",
     "category": "Scythe",
     "masteryRank": 2,
-    "image": "data/img/Melee/Reaper_Prime.png",
+    "image": "/data/img/Melee/Reaper_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Reaper_Prime"
   },
   {
@@ -932,7 +932,7 @@
     "type": "Melee",
     "category": "Gunblade",
     "masteryRank": 4,
-    "image": "data/img/Melee/Redeemer.png",
+    "image": "/data/img/Melee/Redeemer.png",
     "wiki": "http://warframe.wikia.com/wiki/Redeemer"
   },
   {
@@ -941,7 +941,7 @@
     "type": "Melee",
     "category": "Claws",
     "masteryRank": 3,
-    "image": "data/img/Melee/Ripkas.png",
+    "image": "/data/img/Melee/Ripkas.png",
     "wiki": "http://warframe.wikia.com/wiki/Ripkas"
   },
   {
@@ -950,7 +950,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 8,
-    "image": "data/img/Melee/Sancti_Magistar.png",
+    "image": "/data/img/Melee/Sancti_Magistar.png",
     "wiki": "http://warframe.wikia.com/wiki/Sancti_Magistar"
   },
   {
@@ -959,7 +959,7 @@
     "type": "Melee",
     "category": "Gunblade",
     "masteryRank": 8,
-    "image": "data/img/Melee/Sarpa.png",
+    "image": "/data/img/Melee/Sarpa.png",
     "wiki": "http://warframe.wikia.com/wiki/Sarpa"
   },
   {
@@ -968,7 +968,7 @@
     "type": "Melee",
     "category": "Heavy Blade",
     "masteryRank": 2,
-    "image": "data/img/Melee/Scindo.png",
+    "image": "/data/img/Melee/Scindo.png",
     "wiki": "http://warframe.wikia.com/wiki/Scindo"
   },
   {
@@ -977,7 +977,7 @@
     "type": "Melee",
     "category": "Heavy Blade",
     "masteryRank": 4,
-    "image": "data/img/Melee/Scindo_Prime.png",
+    "image": "/data/img/Melee/Scindo_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Scindo_Prime"
   },
   {
@@ -986,7 +986,7 @@
     "type": "Melee",
     "category": "Whip",
     "masteryRank": 6,
-    "image": "data/img/Melee/Scoliac.png",
+    "image": "/data/img/Melee/Scoliac.png",
     "wiki": "http://warframe.wikia.com/wiki/Scoliac"
   },
   {
@@ -995,7 +995,7 @@
     "type": "Melee",
     "category": "Whip",
     "masteryRank": 8,
-    "image": "data/img/Melee/Secura_Lecta.png",
+    "image": "/data/img/Melee/Secura_Lecta.png",
     "wiki": "http://warframe.wikia.com/wiki/Secura_Lecta"
   },
   {
@@ -1004,7 +1004,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 2,
-    "image": "data/img/Melee/Serro.png",
+    "image": "/data/img/Melee/Serro.png",
     "wiki": "http://warframe.wikia.com/wiki/Serro"
   },
   {
@@ -1013,7 +1013,7 @@
     "type": "Melee",
     "category": "Nunchaku",
     "masteryRank": 0,
-    "image": "data/img/Melee/Shaku.png",
+    "image": "/data/img/Melee/Shaku.png",
     "wiki": "http://warframe.wikia.com/wiki/Shaku"
   },
   {
@@ -1022,7 +1022,7 @@
     "type": "Melee",
     "category": "Dagger",
     "masteryRank": 0,
-    "image": "data/img/Melee/Sheev.png",
+    "image": "/data/img/Melee/Sheev.png",
     "wiki": "http://warframe.wikia.com/wiki/Sheev"
   },
   {
@@ -1031,7 +1031,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 6,
-    "image": "data/img/Melee/Sibear.png",
+    "image": "/data/img/Melee/Sibear.png",
     "wiki": "http://warframe.wikia.com/wiki/Sibear"
   },
   {
@@ -1040,7 +1040,7 @@
     "type": "Melee",
     "category": "Sword and Shield",
     "masteryRank": 0,
-    "image": "data/img/Melee/Sigma_&_Octantis.png",
+    "image": "/data/img/Melee/Sigma_&_Octantis.png",
     "wiki": "http://warframe.wikia.com/wiki/Sigma_&_Octantis"
   },
   {
@@ -1049,7 +1049,7 @@
     "type": "Melee",
     "category": "Sword and Shield",
     "masteryRank": 0,
-    "image": "data/img/Melee/Silva_&_Aegis.png",
+    "image": "/data/img/Melee/Silva_&_Aegis.png",
     "wiki": "http://warframe.wikia.com/wiki/Silva_&_Aegis"
   },
   {
@@ -1058,7 +1058,7 @@
     "type": "Melee",
     "category": "Sword and Shield",
     "masteryRank": 12,
-    "image": "data/img/Melee/Silva_&_Aegis_Prime.png",
+    "image": "/data/img/Melee/Silva_&_Aegis_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Silva_&_Aegis_Prime"
   },
   {
@@ -1067,7 +1067,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Skana.png",
+    "image": "/data/img/Melee/Skana.png",
     "wiki": "http://warframe.wikia.com/wiki/Skana"
   },
   {
@@ -1076,7 +1076,7 @@
     "type": "Melee",
     "category": "Sword",
     "masteryRank": 0,
-    "image": "data/img/Melee/Skana_Prime.png",
+    "image": "/data/img/Melee/Skana_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Skana_Prime"
   },
   {
@@ -1085,7 +1085,7 @@
     "type": "Melee",
     "category": "Nikana",
     "masteryRank": 11,
-    "image": "data/img/Melee/Skiajati.png",
+    "image": "/data/img/Melee/Skiajati.png",
     "wiki": "http://warframe.wikia.com/wiki/Skiajati"
   },
   {
@@ -1094,7 +1094,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 2,
-    "image": "data/img/Melee/Sydon.png",
+    "image": "/data/img/Melee/Sydon.png",
     "wiki": "http://warframe.wikia.com/wiki/Sydon"
   },
   {
@@ -1103,7 +1103,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 9,
-    "image": "data/img/Melee/Synoid_Heliocor.png",
+    "image": "/data/img/Melee/Synoid_Heliocor.png",
     "wiki": "http://warframe.wikia.com/wiki/Synoid_Heliocor"
   },
   {
@@ -1112,7 +1112,7 @@
     "type": "Melee",
     "category": "Fist",
     "masteryRank": 2,
-    "image": "data/img/Melee/Tekko.png",
+    "image": "/data/img/Melee/Tekko.png",
     "wiki": "http://warframe.wikia.com/wiki/Tekko"
   },
   {
@@ -1121,7 +1121,7 @@
     "type": "Melee",
     "category": "Tonfa",
     "masteryRank": 8,
-    "image": "data/img/Melee/Telos_Boltace.png",
+    "image": "/data/img/Melee/Telos_Boltace.png",
     "wiki": "http://warframe.wikia.com/wiki/Telos_Boltace"
   },
   {
@@ -1130,7 +1130,7 @@
     "type": "Melee",
     "category": "Staff",
     "masteryRank": 3,
-    "image": "data/img/Melee/Tipedo.png",
+    "image": "/data/img/Melee/Tipedo.png",
     "wiki": "http://warframe.wikia.com/wiki/Tipedo"
   },
   {
@@ -1139,7 +1139,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 3,
-    "image": "data/img/Melee/Tonbo.png",
+    "image": "/data/img/Melee/Tonbo.png",
     "wiki": "http://warframe.wikia.com/wiki/Tonbo"
   },
   {
@@ -1148,7 +1148,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 3,
-    "image": "data/img/Melee/Twin_Basolk.png",
+    "image": "/data/img/Melee/Twin_Basolk.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Basolk"
   },
   {
@@ -1157,7 +1157,7 @@
     "type": "Melee",
     "category": "Dual Swords",
     "masteryRank": 6,
-    "image": "data/img/Melee/Twin_Krohkur.png",
+    "image": "/data/img/Melee/Twin_Krohkur.png",
     "wiki": "http://warframe.wikia.com/wiki/Twin_Krohkur"
   },
   {
@@ -1166,7 +1166,7 @@
     "type": "Melee",
     "category": "Polearm",
     "masteryRank": 8,
-    "image": "data/img/Melee/Vaykor_Sydon.png",
+    "image": "/data/img/Melee/Vaykor_Sydon.png",
     "wiki": "http://warframe.wikia.com/wiki/Vaykor_Sydon"
   },
   {
@@ -1175,7 +1175,7 @@
     "type": "Melee",
     "category": "Claws",
     "masteryRank": 3,
-    "image": "data/img/Melee/Venka.png",
+    "image": "/data/img/Melee/Venka.png",
     "wiki": "http://warframe.wikia.com/wiki/Venka"
   },
   {
@@ -1184,7 +1184,7 @@
     "type": "Melee",
     "category": "Claws",
     "masteryRank": 8,
-    "image": "data/img/Melee/Venka_Prime.png",
+    "image": "/data/img/Melee/Venka_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Venka_Prime"
   },
   {
@@ -1193,7 +1193,7 @@
     "type": "Melee",
     "category": "Hammer",
     "masteryRank": 4,
-    "image": "data/img/Melee/Volnus.png",
+    "image": "/data/img/Melee/Volnus.png",
     "wiki": "http://warframe.wikia.com/wiki/Volnus"
   },
   {
@@ -1202,7 +1202,7 @@
     "type": "Melee",
     "category": "Heavy Blade",
     "masteryRank": 10,
-    "image": "data/img/Melee/War.png",
+    "image": "/data/img/Melee/War.png",
     "wiki": "http://warframe.wikia.com/wiki/War"
   },
   {
@@ -1211,7 +1211,7 @@
     "type": "Melee",
     "category": "Heavy Blade",
     "masteryRank": 6,
-    "image": "data/img/Melee/Zenistar.png",
+    "image": "/data/img/Melee/Zenistar.png",
     "wiki": "http://warframe.wikia.com/wiki/Zenistar"
   }
 ]

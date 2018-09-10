@@ -4,7 +4,7 @@
     "name": "Balla",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Balla.png",
+    "image": "/data/img/Zaw/Balla.png",
     "wiki": "http://warframe.wikia.com/wiki/Balla"
   },
   {
@@ -12,7 +12,7 @@
     "name": "Cyath",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Cyath.png",
+    "image": "/data/img/Zaw/Cyath.png",
     "wiki": "http://warframe.wikia.com/wiki/Cyath"
   },
   {
@@ -20,7 +20,7 @@
     "name": "Dehtat",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Dehtat.png",
+    "image": "/data/img/Zaw/Dehtat.png",
     "wiki": "http://warframe.wikia.com/wiki/Dehtat"
   },
   {
@@ -28,7 +28,7 @@
     "name": "Dokrahm",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Dokrahm.png",
+    "image": "/data/img/Zaw/Dokrahm.png",
     "wiki": "http://warframe.wikia.com/wiki/Dokrahm"
   },
   {
@@ -36,7 +36,7 @@
     "name": "Kronsh",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Kronsh.png",
+    "image": "/data/img/Zaw/Kronsh.png",
     "wiki": "http://warframe.wikia.com/wiki/Kronsh"
   },
   {
@@ -44,7 +44,7 @@
     "name": "Mewan",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Mewan.png",
+    "image": "/data/img/Zaw/Mewan.png",
     "wiki": "http://warframe.wikia.com/wiki/Mewan"
   },
   {
@@ -52,7 +52,7 @@
     "name": "Ooltha",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Ooltha.png",
+    "image": "/data/img/Zaw/Ooltha.png",
     "wiki": "http://warframe.wikia.com/wiki/Ooltha"
   },
   {
@@ -60,7 +60,7 @@
     "name": "Plague Keewar",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Plague_Keewar.png",
+    "image": "/data/img/Zaw/Plague_Keewar.png",
     "wiki": "http://warframe.wikia.com/wiki/Plague_Keewar"
   },
   {
@@ -68,7 +68,7 @@
     "name": "Plague Kripath",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Plague_Kripath.png",
+    "image": "/data/img/Zaw/Plague_Kripath.png",
     "wiki": "http://warframe.wikia.com/wiki/Plague_Kripath"
   },
   {
@@ -76,7 +76,7 @@
     "name": "Rabvee",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Rabvee.png",
+    "image": "/data/img/Zaw/Rabvee.png",
     "wiki": "http://warframe.wikia.com/wiki/Rabvee"
   },
   {
@@ -84,7 +84,7 @@
     "name": "Sepfahn",
     "type": "Zaw",
     "masteryRank": 0,
-    "image": "data/img/Zaw/Sepfahn.png",
+    "image": "/data/img/Zaw/Sepfahn.png",
     "wiki": "http://warframe.wikia.com/wiki/Sepfahn"
   }
 ]
