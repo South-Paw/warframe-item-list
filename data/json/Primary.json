@@ -5,6 +5,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Amprex.png",
     "wiki": "http://warframe.wikia.com/wiki/Amprex"
   },
   {
@@ -13,6 +14,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 10,
+    "image": "data/img/Primary/Arca_Plasmor.png",
     "wiki": "http://warframe.wikia.com/wiki/Arca_Plasmor"
   },
   {
@@ -21,6 +23,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Argonak.png",
     "wiki": "http://warframe.wikia.com/wiki/Argonak"
   },
   {
@@ -29,6 +32,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 10,
+    "image": "data/img/Primary/Astilla.png",
     "wiki": "http://warframe.wikia.com/wiki/Astilla"
   },
   {
@@ -37,6 +41,7 @@
     "type": "Primary",
     "category": "Crossbow",
     "masteryRank": 7,
+    "image": "data/img/Primary/Attica.png",
     "wiki": "http://warframe.wikia.com/wiki/Attica"
   },
   {
@@ -45,6 +50,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Baza.png",
     "wiki": "http://warframe.wikia.com/wiki/Baza"
   },
   {
@@ -53,6 +59,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 2,
+    "image": "data/img/Primary/Boar.png",
     "wiki": "http://warframe.wikia.com/wiki/Boar"
   },
   {
@@ -61,6 +68,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 11,
+    "image": "data/img/Primary/Boar_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Boar_Prime"
   },
   {
@@ -69,6 +77,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 2,
+    "image": "data/img/Primary/Boltor.png",
     "wiki": "http://warframe.wikia.com/wiki/Boltor"
   },
   {
@@ -77,6 +86,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 13,
+    "image": "data/img/Primary/Boltor_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Boltor_Prime"
   },
   {
@@ -85,6 +95,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 0,
+    "image": "data/img/Primary/Braton.png",
     "wiki": "http://warframe.wikia.com/wiki/Braton"
   },
   {
@@ -93,6 +104,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 8,
+    "image": "data/img/Primary/Braton_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Braton_Prime"
   },
   {
@@ -101,6 +113,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 4,
+    "image": "data/img/Primary/Braton_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Braton_Vandal"
   },
   {
@@ -109,6 +122,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 0,
+    "image": "data/img/Primary/Burston.png",
     "wiki": "http://warframe.wikia.com/wiki/Burston"
   },
   {
@@ -117,6 +131,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 12,
+    "image": "data/img/Primary/Burston_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Burston_Prime"
   },
   {
@@ -125,6 +140,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 11,
+    "image": "data/img/Primary/Buzlok.png",
     "wiki": "http://warframe.wikia.com/wiki/Buzlok"
   },
   {
@@ -133,6 +149,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 6,
+    "image": "data/img/Primary/Cernos.png",
     "wiki": "http://warframe.wikia.com/wiki/Cernos"
   },
   {
@@ -141,6 +158,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 12,
+    "image": "data/img/Primary/Cernos_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Cernos_Prime"
   },
   {
@@ -149,6 +167,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 7,
+    "image": "data/img/Primary/Convectrix.png",
     "wiki": "http://warframe.wikia.com/wiki/Convectrix"
   },
   {
@@ -157,6 +176,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 10,
+    "image": "data/img/Primary/Corinth.png",
     "wiki": "http://warframe.wikia.com/wiki/Corinth"
   },
   {
@@ -165,6 +185,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 10,
+    "image": "data/img/Primary/Daikyu.png",
     "wiki": "http://warframe.wikia.com/wiki/Daikyu"
   },
   {
@@ -173,6 +194,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 4,
+    "image": "data/img/Primary/Dera.png",
     "wiki": "http://warframe.wikia.com/wiki/Dera"
   },
   {
@@ -181,6 +203,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Dera_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Dera_Vandal"
   },
   {
@@ -189,6 +212,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Dex_Sybaris.png",
     "wiki": "http://warframe.wikia.com/wiki/Dex_Sybaris"
   },
   {
@@ -197,6 +221,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 5,
+    "image": "data/img/Primary/Drakgoon.png",
     "wiki": "http://warframe.wikia.com/wiki/Drakgoon"
   },
   {
@@ -205,6 +230,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 5,
+    "image": "data/img/Primary/Dread.png",
     "wiki": "http://warframe.wikia.com/wiki/Dread"
   },
   {
@@ -213,6 +239,7 @@
     "type": "Primary",
     "category": "Speargun",
     "masteryRank": 14,
+    "image": "data/img/Primary/Ferrox.png",
     "wiki": "http://warframe.wikia.com/wiki/Ferrox"
   },
   {
@@ -221,6 +248,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 6,
+    "image": "data/img/Primary/Flux_Rifle.png",
     "wiki": "http://warframe.wikia.com/wiki/Flux_Rifle"
   },
   {
@@ -229,6 +257,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 8,
+    "image": "data/img/Primary/Glaxion.png",
     "wiki": "http://warframe.wikia.com/wiki/Glaxion"
   },
   {
@@ -237,6 +266,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 3,
+    "image": "data/img/Primary/Gorgon.png",
     "wiki": "http://warframe.wikia.com/wiki/Gorgon"
   },
   {
@@ -245,6 +275,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Gorgon_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Gorgon_Wraith"
   },
   {
@@ -253,6 +284,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 5,
+    "image": "data/img/Primary/Grakata.png",
     "wiki": "http://warframe.wikia.com/wiki/Grakata"
   },
   {
@@ -261,6 +293,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Grinlok.png",
     "wiki": "http://warframe.wikia.com/wiki/Grinlok"
   },
   {
@@ -269,6 +302,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Harpak.png",
     "wiki": "http://warframe.wikia.com/wiki/Harpak"
   },
   {
@@ -277,6 +311,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 4,
+    "image": "data/img/Primary/Hek.png",
     "wiki": "http://warframe.wikia.com/wiki/Hek"
   },
   {
@@ -285,6 +320,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Hema.png",
     "wiki": "http://warframe.wikia.com/wiki/Hema"
   },
   {
@@ -293,6 +329,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 0,
+    "image": "data/img/Primary/Hind.png",
     "wiki": "http://warframe.wikia.com/wiki/Hind"
   },
   {
@@ -301,6 +338,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 5,
+    "image": "data/img/Primary/Ignis.png",
     "wiki": "http://warframe.wikia.com/wiki/Ignis"
   },
   {
@@ -309,6 +347,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 9,
+    "image": "data/img/Primary/Ignis_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Ignis_Wraith"
   },
   {
@@ -317,6 +356,7 @@
     "type": "Primary",
     "category": "Speargun",
     "masteryRank": 7,
+    "image": "data/img/Primary/Javlok.png",
     "wiki": "http://warframe.wikia.com/wiki/Javlok"
   },
   {
@@ -325,6 +365,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 1,
+    "image": "data/img/Primary/Karak.png",
     "wiki": "http://warframe.wikia.com/wiki/Karak"
   },
   {
@@ -333,6 +374,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Karak_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Karak_Wraith"
   },
   {
@@ -341,6 +383,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 5,
+    "image": "data/img/Primary/Kohm.png",
     "wiki": "http://warframe.wikia.com/wiki/Kohm"
   },
   {
@@ -349,6 +392,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Lanka.png",
     "wiki": "http://warframe.wikia.com/wiki/Lanka"
   },
   {
@@ -357,6 +401,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 0,
+    "image": "data/img/Primary/Latron.png",
     "wiki": "http://warframe.wikia.com/wiki/Latron"
   },
   {
@@ -365,6 +410,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Latron_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Latron_Prime"
   },
   {
@@ -373,6 +419,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Latron_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Latron_Wraith"
   },
   {
@@ -381,6 +428,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 8,
+    "image": "data/img/Primary/Lenz.png",
     "wiki": "http://warframe.wikia.com/wiki/Lenz"
   },
   {
@@ -389,6 +437,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 0,
+    "image": "data/img/Primary/MK1-Braton.png",
     "wiki": "http://warframe.wikia.com/wiki/MK1-Braton"
   },
   {
@@ -397,6 +446,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 0,
+    "image": "data/img/Primary/MK1-Paris.png",
     "wiki": "http://warframe.wikia.com/wiki/MK1-Paris"
   },
   {
@@ -405,6 +455,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 0,
+    "image": "data/img/Primary/MK1-Strun.png",
     "wiki": "http://warframe.wikia.com/wiki/MK1-Strun"
   },
   {
@@ -413,6 +464,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 6,
+    "image": "data/img/Primary/Miter.png",
     "wiki": "http://warframe.wikia.com/wiki/Miter"
   },
   {
@@ -421,6 +473,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 7,
+    "image": "data/img/Primary/Mutalist_Cernos.png",
     "wiki": "http://warframe.wikia.com/wiki/Mutalist_Cernos"
   },
   {
@@ -429,6 +482,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 2,
+    "image": "data/img/Primary/Mutalist_Quanta.png",
     "wiki": "http://warframe.wikia.com/wiki/Mutalist_Quanta"
   },
   {
@@ -437,6 +491,7 @@
     "type": "Primary",
     "category": "Launcher",
     "masteryRank": 9,
+    "image": "data/img/Primary/Ogris.png",
     "wiki": "http://warframe.wikia.com/wiki/Ogris"
   },
   {
@@ -445,6 +500,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 14,
+    "image": "data/img/Primary/Opticor.png",
     "wiki": "http://warframe.wikia.com/wiki/Opticor"
   },
   {
@@ -453,6 +509,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Panthera.png",
     "wiki": "http://warframe.wikia.com/wiki/Panthera"
   },
   {
@@ -461,6 +518,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Paracyst.png",
     "wiki": "http://warframe.wikia.com/wiki/Paracyst"
   },
   {
@@ -469,6 +527,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 3,
+    "image": "data/img/Primary/Paris.png",
     "wiki": "http://warframe.wikia.com/wiki/Paris"
   },
   {
@@ -477,6 +536,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 8,
+    "image": "data/img/Primary/Paris_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Paris_Prime"
   },
   {
@@ -485,6 +545,7 @@
     "type": "Primary",
     "category": "Launcher",
     "masteryRank": 6,
+    "image": "data/img/Primary/Penta.png",
     "wiki": "http://warframe.wikia.com/wiki/Penta"
   },
   {
@@ -493,6 +554,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 11,
+    "image": "data/img/Primary/Phage.png",
     "wiki": "http://warframe.wikia.com/wiki/Phage"
   },
   {
@@ -501,6 +563,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 9,
+    "image": "data/img/Primary/Phantasma.png",
     "wiki": "http://warframe.wikia.com/wiki/Phantasma"
   },
   {
@@ -509,6 +572,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 11,
+    "image": "data/img/Primary/Prisma_Gorgon.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Gorgon"
   },
   {
@@ -517,6 +581,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 11,
+    "image": "data/img/Primary/Prisma_Grakata.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Grakata"
   },
   {
@@ -525,6 +590,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 4,
+    "image": "data/img/Primary/Prisma_Tetra.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Tetra"
   },
   {
@@ -533,6 +599,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 4,
+    "image": "data/img/Primary/Quanta.png",
     "wiki": "http://warframe.wikia.com/wiki/Quanta"
   },
   {
@@ -541,6 +608,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Quanta_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Quanta_Vandal"
   },
   {
@@ -549,6 +617,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Quartakk.png",
     "wiki": "http://warframe.wikia.com/wiki/Quartakk"
   },
   {
@@ -557,6 +626,7 @@
     "type": "Primary",
     "category": "Bow",
     "masteryRank": 12,
+    "image": "data/img/Primary/Rakta_Cernos.png",
     "wiki": "http://warframe.wikia.com/wiki/Rakta_Cernos"
   },
   {
@@ -565,6 +635,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 6,
+    "image": "data/img/Primary/Rubico.png",
     "wiki": "http://warframe.wikia.com/wiki/Rubico"
   },
   {
@@ -573,6 +644,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 12,
+    "image": "data/img/Primary/Sancti_Tigris.png",
     "wiki": "http://warframe.wikia.com/wiki/Sancti_Tigris"
   },
   {
@@ -581,6 +653,7 @@
     "type": "Primary",
     "category": "Speargun",
     "masteryRank": 6,
+    "image": "data/img/Primary/Scourge.png",
     "wiki": "http://warframe.wikia.com/wiki/Scourge"
   },
   {
@@ -589,6 +662,7 @@
     "type": "Primary",
     "category": "Launcher",
     "masteryRank": 12,
+    "image": "data/img/Primary/Secura_Penta.png",
     "wiki": "http://warframe.wikia.com/wiki/Secura_Penta"
   },
   {
@@ -597,6 +671,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 5,
+    "image": "data/img/Primary/Simulor.png",
     "wiki": "http://warframe.wikia.com/wiki/Simulor"
   },
   {
@@ -605,6 +680,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 0,
+    "image": "data/img/Primary/Snipetron.png",
     "wiki": "http://warframe.wikia.com/wiki/Snipetron"
   },
   {
@@ -613,6 +689,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 5,
+    "image": "data/img/Primary/Snipetron_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Snipetron_Vandal"
   },
   {
@@ -621,6 +698,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 7,
+    "image": "data/img/Primary/Sobek.png",
     "wiki": "http://warframe.wikia.com/wiki/Sobek"
   },
   {
@@ -629,6 +707,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 6,
+    "image": "data/img/Primary/Soma.png",
     "wiki": "http://warframe.wikia.com/wiki/Soma"
   },
   {
@@ -637,6 +716,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Soma_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Soma_Prime"
   },
   {
@@ -645,6 +725,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 8,
+    "image": "data/img/Primary/Stradavar.png",
     "wiki": "http://warframe.wikia.com/wiki/Stradavar"
   },
   {
@@ -653,6 +734,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 1,
+    "image": "data/img/Primary/Strun.png",
     "wiki": "http://warframe.wikia.com/wiki/Strun"
   },
   {
@@ -661,6 +743,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 10,
+    "image": "data/img/Primary/Strun_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Strun_Wraith"
   },
   {
@@ -669,6 +752,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 12,
+    "image": "data/img/Primary/Supra.png",
     "wiki": "http://warframe.wikia.com/wiki/Supra"
   },
   {
@@ -677,6 +761,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 14,
+    "image": "data/img/Primary/Supra_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Supra_Vandal"
   },
   {
@@ -685,6 +770,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 5,
+    "image": "data/img/Primary/Sybaris.png",
     "wiki": "http://warframe.wikia.com/wiki/Sybaris"
   },
   {
@@ -693,6 +779,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 12,
+    "image": "data/img/Primary/Sybaris_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Sybaris_Prime"
   },
   {
@@ -701,6 +788,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 11,
+    "image": "data/img/Primary/Synapse.png",
     "wiki": "http://warframe.wikia.com/wiki/Synapse"
   },
   {
@@ -709,6 +797,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 12,
+    "image": "data/img/Primary/Synoid_Simulor.png",
     "wiki": "http://warframe.wikia.com/wiki/Synoid_Simulor"
   },
   {
@@ -717,6 +806,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 12,
+    "image": "data/img/Primary/Telos_Boltor.png",
     "wiki": "http://warframe.wikia.com/wiki/Telos_Boltor"
   },
   {
@@ -725,6 +815,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Tenora.png",
     "wiki": "http://warframe.wikia.com/wiki/Tenora"
   },
   {
@@ -733,6 +824,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 3,
+    "image": "data/img/Primary/Tetra.png",
     "wiki": "http://warframe.wikia.com/wiki/Tetra"
   },
   {
@@ -741,6 +833,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Tiberon.png",
     "wiki": "http://warframe.wikia.com/wiki/Tiberon"
   },
   {
@@ -749,6 +842,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 14,
+    "image": "data/img/Primary/Tiberon_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Tiberon_Prime"
   },
   {
@@ -757,6 +851,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 7,
+    "image": "data/img/Primary/Tigris.png",
     "wiki": "http://warframe.wikia.com/wiki/Tigris"
   },
   {
@@ -765,6 +860,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 13,
+    "image": "data/img/Primary/Tigris_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Tigris_Prime"
   },
   {
@@ -773,6 +869,7 @@
     "type": "Primary",
     "category": "Launcher",
     "masteryRank": 5,
+    "image": "data/img/Primary/Tonkor.png",
     "wiki": "http://warframe.wikia.com/wiki/Tonkor"
   },
   {
@@ -781,6 +878,7 @@
     "type": "Primary",
     "category": "Launcher",
     "masteryRank": 4,
+    "image": "data/img/Primary/Torid.png",
     "wiki": "http://warframe.wikia.com/wiki/Torid"
   },
   {
@@ -789,6 +887,7 @@
     "type": "Primary",
     "category": "Shotgun",
     "masteryRank": 12,
+    "image": "data/img/Primary/Vaykor_Hek.png",
     "wiki": "http://warframe.wikia.com/wiki/Vaykor_Hek"
   },
   {
@@ -797,6 +896,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 2,
+    "image": "data/img/Primary/Vectis.png",
     "wiki": "http://warframe.wikia.com/wiki/Vectis"
   },
   {
@@ -805,6 +905,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 14,
+    "image": "data/img/Primary/Vectis_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Vectis_Prime"
   },
   {
@@ -813,6 +914,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 8,
+    "image": "data/img/Primary/Veldt.png",
     "wiki": "http://warframe.wikia.com/wiki/Veldt"
   },
   {
@@ -821,6 +923,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 3,
+    "image": "data/img/Primary/Vulkar.png",
     "wiki": "http://warframe.wikia.com/wiki/Vulkar"
   },
   {
@@ -829,6 +932,7 @@
     "type": "Primary",
     "category": "Sniper Rifle",
     "masteryRank": 7,
+    "image": "data/img/Primary/Vulkar_Wraith.png",
     "wiki": "http://warframe.wikia.com/wiki/Vulkar_Wraith"
   },
   {
@@ -837,6 +941,7 @@
     "type": "Primary",
     "category": "Launcher",
     "masteryRank": 7,
+    "image": "data/img/Primary/Zarr.png",
     "wiki": "http://warframe.wikia.com/wiki/Zarr"
   },
   {
@@ -845,6 +950,7 @@
     "type": "Primary",
     "category": "Rifle",
     "masteryRank": 10,
+    "image": "data/img/Primary/Zenith.png",
     "wiki": "http://warframe.wikia.com/wiki/Zenith"
   },
   {
@@ -853,6 +959,7 @@
     "type": "Primary",
     "category": "Crossbow",
     "masteryRank": 10,
+    "image": "data/img/Primary/Zhuge.png",
     "wiki": "http://warframe.wikia.com/wiki/Zhuge"
   }
 ]

@@ -4,6 +4,7 @@
     "name": "Chesa Kubrow",
     "type": "Kubrow",
     "masteryRank": 0,
+    "image": "data/img/Kubrow/Chesa_Kubrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Chesa_Kubrow"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Helminth Charger",
     "type": "Kubrow",
     "masteryRank": 0,
+    "image": "data/img/Kubrow/Helminth_Charger.png",
     "wiki": "http://warframe.wikia.com/wiki/Helminth_Charger"
   },
   {
@@ -18,6 +20,7 @@
     "name": "Huras Kubrow",
     "type": "Kubrow",
     "masteryRank": 0,
+    "image": "data/img/Kubrow/Huras_Kubrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Huras_Kubrow"
   },
   {
@@ -25,6 +28,7 @@
     "name": "Raksa Kubrow",
     "type": "Kubrow",
     "masteryRank": 0,
+    "image": "data/img/Kubrow/Raksa_Kubrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Raksa_Kubrow"
   },
   {
@@ -32,6 +36,7 @@
     "name": "Sahasa Kubrow",
     "type": "Kubrow",
     "masteryRank": 0,
+    "image": "data/img/Kubrow/Sahasa_Kubrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Sahasa_Kubrow"
   },
   {
@@ -39,6 +44,7 @@
     "name": "Sunika Kubrow",
     "type": "Kubrow",
     "masteryRank": 0,
+    "image": "data/img/Kubrow/Sunika_Kubrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Sunika_Kubrow"
   }
 ]

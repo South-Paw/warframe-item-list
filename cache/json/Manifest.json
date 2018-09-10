@@ -3810,6 +3810,11 @@
     "fileTime": 131524868601611520
   },
   {
+    "uniqueName": "/Lotus/Powersuits/MonkeyKing/MonkeyCloudAugmentCard",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\MonkeyCloudWalkerAugment.jpeg",
+    "fileTime": 131805500270212370
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Magician/VolatileAugmentCard",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\LimboRiftWalkAugment.jpeg",
     "fileTime": 131524868601299520
@@ -3880,6 +3885,11 @@
     "fileTime": 131524868601299520
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Khora/KhoraCrackAugmentCard",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\KhoraWhipclawAugment.jpeg",
+    "fileTime": 131807166953325180
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Jade/SelfBulletAttractorPvPAugmentCard",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\NyxSelfBulletAttractorPvPAugment.jpeg",
     "fileTime": 131524868601923520
@@ -3933,6 +3943,11 @@
     "uniqueName": "/Lotus/Powersuits/Harlequin/IllusionAugmentCard",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\MirageIllusionAugment1.jpeg",
     "fileTime": 131524868601611520
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Glass/GlassShatterAugmentCard",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\GaraShatterStormAugment.jpeg",
+    "fileTime": 131805500270056370
   },
   {
     "uniqueName": "/Lotus/Powersuits/Frost/IcicleAugmentCard",
@@ -4113,6 +4128,11 @@
     "uniqueName": "/Lotus/Powersuits/Bard/BardMusicAugmentCard",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\OctaviaMalletAugment.jpeg",
     "fileTime": 131741726124268700
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Bard/BardCharmAugmentCard",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AbilityAugments\\OctaviaResonatorAugment.jpeg",
+    "fileTime": 131805500270212370
   },
   {
     "uniqueName": "/Lotus/Powersuits/Banshee/SonarAugmentCard",
@@ -29580,6 +29600,11 @@
     "fileTime": 131557708211120600
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageAlternateSkin",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\MirageAlternateSkin.png",
+    "fileTime": 131806436328791500
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Harlequin/MirageAltBHelmet",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\MirageAltBHelmet.png",
     "fileTime": 131524868946841730
@@ -34357,7 +34382,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageZopney",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Zopney.png",
-    "fileTime": 131612239547781900
+    "fileTime": 131807217637304180
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageZanagoth",
@@ -35357,7 +35382,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAywi",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Aywi.png",
-    "fileTime": 131612239540605860
+    "fileTime": 131807217637304180
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAshi",
@@ -41508,6 +41533,26 @@
     "uniqueName": "/Lotus/Types/Items/Plants/MiscItems/ZenPitcherPlantItem",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Scans\\ZenPitcher.png",
     "fileTime": 131524868913301520
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseOneClanItem",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ThermicStrut.png",
+    "fileTime": 131799494468979980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeClanItem",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ThermicStrut.png",
+    "fileTime": 131799494468979980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseThreeEarthEssence",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\RelayEssenceEarth.png",
+    "fileTime": 131524868964781860
+  },
+  {
+    "uniqueName": "/Lotus/Types/Items/RelayRebuild/PhaseTwoClanItem",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ThermicStrut.png",
+    "fileTime": 131799494468979980
   },
   {
     "uniqueName": "/Lotus/Types/Items/Research/DojoColors/DojoColorEarthA",

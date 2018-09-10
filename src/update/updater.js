@@ -2,8 +2,13 @@
 
 const fs = require('fs');
 const util = require('util');
+const imagemin = require('imagemin');
+const imageminJpegtran = require('imagemin-jpegtran');
+const imageminPngquant = require('imagemin-pngquant');
 const fetch = require('node-fetch');
 const Lua = require('node-lua');
+const rimraf = require('rimraf');
+const sharp = require('sharp');
 
 const { MISSING_ITEMS } = require('./data/missingItems');
 const { asyncForEach, capitalize, sortListByInnerKey, stringify } = require('../utils');
@@ -87,30 +92,103 @@ const getItemType = (item, rawType) => {
   }
 };
 
+const getImageUrl = (item, manifest, contentUrl) => {
+  for (let i = 0; i < manifest.length; i += 1) {
+    if (manifest[i].uniqueName === item.uniqueName) {
+      return `${contentUrl}${manifest[i].textureLocation}`;
+    }
+  }
+
+  return null;
+};
+
+const getImageAndSave = async (type, name, imageUrl) => {
+  if (!imageUrl) {
+    console.log(`No image url found for ${name.uniqueName}`);
+    console.log('');
+
+    return undefined;
+  }
+
+  console.log(`Fetching image (${imageUrl})`);
+
+  let request = null;
+  let imageBuffer = null;
+
+  request = await fetch(imageUrl);
+  imageBuffer = await request.buffer();
+
+  const fileExtension = request.headers.get('content-type').split('/')[1];
+  const folderPath = `${__dirname}/../../data/img/${type}`;
+  const filePath = `${folderPath}/${name}.${fileExtension}`;
+
+  if (!fs.existsSync(folderPath)) {
+    fs.mkdirSync(folderPath);
+  }
+
+  console.log(`Writing image (${type}/${name}.${fileExtension})`);
+
+  await sharp(imageBuffer)
+    .resize(512, 342)
+    .ignoreAspectRatio()
+    .toFile(filePath);
+
+  console.log(`Minifying image (${type}/${name}.${fileExtension})`);
+
+  await imagemin([filePath], folderPath, {
+    plugins: [
+      imageminJpegtran(),
+      imageminPngquant({ quality: '65-80' }),
+    ],
+  });
+
+  console.log('');
+
+  return `data/img/${type}/${name}.${fileExtension}`;
+};
+
 class Updater {
   constructor() {
+    this.mobileExport = 'http://content.warframe.com/MobileExport';
+
     this.endpoints = [
-      'http://content.warframe.com/MobileExport/Manifest/ExportManifest.json',
-      'http://content.warframe.com/MobileExport/Manifest/ExportWeapons.json',
-      'http://content.warframe.com/MobileExport/Manifest/ExportSentinels.json',
-      'http://content.warframe.com/MobileExport/Manifest/ExportKeys.json',
-      'http://content.warframe.com/MobileExport/Manifest/ExportWarframes.json',
+      '/Manifest/ExportManifest.json',
+      '/Manifest/ExportWeapons.json',
+      '/Manifest/ExportSentinels.json',
+      '/Manifest/ExportKeys.json',
+      '/Manifest/ExportWarframes.json',
     ];
 
     this.wikiaLua = [
       'http://warframe.wikia.com/wiki/Module:Weapons/data?action=raw',
     ];
 
+    this.imagesFolder = `${__dirname}/../../data/img`;
+
     this.filenames = [];
 
     this.nameToType = new Map();
 
+    this.manifest = [];
+
     this.data = { ...MISSING_ITEMS };
   }
 
-  formatItem(item, rawType) {
+  async cleanup() {
+    // Delete the images folder.
+    await rimraf.sync(this.imagesFolder);
+
+    // Recreate the images folder.
+    if (!fs.existsSync(this.imagesFolder)) {
+      fs.mkdirSync(this.imagesFolder);
+    }
+  }
+
+  async formatItem(item, rawType) {
     const name = normalizeItemName(item.name);
     const type = getItemType(item, rawType);
+    const imageUrl = getImageUrl(item, this.manifest, this.mobileExport);
+    const image = await getImageAndSave(type, name.replace(/ /g, '_').replace(/'/g, ''), imageUrl);
     const wikiSlug = name.replace(/ /g, '_').replace(/'/g, '%27');
 
     let category;
@@ -130,13 +208,15 @@ class Updater {
       type,
       category,
       masteryRank: item.masteryReq || 0,
-      image: undefined,
+      image,
       wiki: `http://warframe.wikia.com/wiki/${wikiSlug}`,
     };
   }
 
   async fetchItems() {
-    await asyncForEach(this.endpoints, async (url) => {
+    await asyncForEach(this.endpoints, async (endpoint) => {
+      const url = `${this.mobileExport}${endpoint}`;
+
       let name = url.split('/')[url.split('/').length - 1].split('.')[0];
 
       console.log(`Fetching ${url}`);
@@ -235,6 +315,16 @@ class Updater {
     });
   }
 
+  async setupManifest() {
+    const manifest = require('../../cache/json/Manifest.json');
+
+    this.manifest = manifest.map(item => ({
+      uniqueName: item.uniqueName,
+      textureLocation: item.textureLocation.replace(/\\/g, '/'),
+      fileTime: item.fileTime,
+    }));
+  }
+
   async createItemCategoryMap() {
     const weaponData = require(`${__dirname}/../../cache/json/WeaponsData.json`);
     const weapons = require(`${__dirname}/../../cache/json/Weapons.json`);
@@ -272,11 +362,11 @@ class Updater {
     console.log('');
   }
 
-  async organiseItems() {
+  async formatItemsAndGetImages() {
     let count = 0;
 
     // For each file that contains game items.
-    this.filenames.forEach((rawType) => {
+    await asyncForEach(this.filenames, async (rawType) => {
       let json = null;
 
       try {
@@ -285,9 +375,11 @@ class Updater {
         throw e;
       }
 
-      json.forEach((item) => {
+      await asyncForEach(json, async (item) => {
         count += 1;
-        const formatted = { ...this.formatItem(item, rawType) };
+
+        const formattedItem = await this.formatItem(item, rawType);
+        const formatted = { ...formattedItem };
 
         if (!Object.keys(this.data).includes(formatted.type)) {
           this.data[formatted.type] = [];
@@ -298,7 +390,9 @@ class Updater {
     });
 
     console.log(`Organised ${count} items into types...`);
+
     Object.keys(this.data).forEach(k => console.log(`  ${this.data[k].length} ${k}`));
+
     console.log('');
   }
 
@@ -323,20 +417,23 @@ class Updater {
     try {
       console.log('');
 
+      // Clean up the data/img folder before begining.
+      await this.cleanup();
+
       // Get json files from the endpoints.
       await this.fetchItems();
+
+      // Gets the manifest file and cleans up the keys for use.
+      await this.setupManifest();
 
       // Create a map of item ids to categories.
       await this.createItemCategoryMap();
 
       // Organise and format items into `this.data`.
-      await this.organiseItems();
+      await this.formatItemsAndGetImages();
 
       // Save each type and it's items to `data/json/<type>.json`.
       await this.sortAndSaveItems();
-
-      // TODO: Fetch all images, resize and output files to `data/img/<id>`
-      // this.fetchAllImages();
     } catch (e) {
       console.error(e);
     }

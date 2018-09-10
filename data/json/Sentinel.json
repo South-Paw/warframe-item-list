@@ -4,6 +4,7 @@
     "name": "Carrier",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Carrier.png",
     "wiki": "http://warframe.wikia.com/wiki/Carrier"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Carrier Prime",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Carrier_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Carrier_Prime"
   },
   {
@@ -18,6 +20,7 @@
     "name": "Dethcube",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Dethcube.png",
     "wiki": "http://warframe.wikia.com/wiki/Dethcube"
   },
   {
@@ -25,6 +28,7 @@
     "name": "Diriga",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Diriga.png",
     "wiki": "http://warframe.wikia.com/wiki/Diriga"
   },
   {
@@ -32,6 +36,7 @@
     "name": "Djinn",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Djinn.png",
     "wiki": "http://warframe.wikia.com/wiki/Djinn"
   },
   {
@@ -39,6 +44,7 @@
     "name": "Helios",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Helios.png",
     "wiki": "http://warframe.wikia.com/wiki/Helios"
   },
   {
@@ -46,6 +52,7 @@
     "name": "Helios Prime",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Helios_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Helios_Prime"
   },
   {
@@ -53,6 +60,7 @@
     "name": "Prisma Shade",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Prisma_Shade.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Shade"
   },
   {
@@ -60,6 +68,7 @@
     "name": "Shade",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Shade.png",
     "wiki": "http://warframe.wikia.com/wiki/Shade"
   },
   {
@@ -67,6 +76,7 @@
     "name": "Taxon",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Taxon.png",
     "wiki": "http://warframe.wikia.com/wiki/Taxon"
   },
   {
@@ -74,6 +84,7 @@
     "name": "Wyrm",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Wyrm.png",
     "wiki": "http://warframe.wikia.com/wiki/Wyrm"
   },
   {
@@ -81,6 +92,7 @@
     "name": "Wyrm Prime",
     "type": "Sentinel",
     "masteryRank": 0,
+    "image": "data/img/Sentinel/Wyrm_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Wyrm_Prime"
   }
 ]

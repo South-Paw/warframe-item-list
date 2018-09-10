@@ -4,6 +4,7 @@
     "name": "A Man Of Few Words",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/A_Man_Of_Few_Words.png",
     "wiki": "http://warframe.wikia.com/wiki/A_Man_Of_Few_Words"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Apostasy Prologue",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Apostasy_Prologue.png",
     "wiki": "http://warframe.wikia.com/wiki/Apostasy_Prologue"
   },
   {
@@ -18,6 +20,7 @@
     "name": "Chains Of Harrow",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Chains_Of_Harrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Chains_Of_Harrow"
   },
   {
@@ -25,6 +28,7 @@
     "name": "Hidden Messages",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Hidden_Messages.png",
     "wiki": "http://warframe.wikia.com/wiki/Hidden_Messages"
   },
   {
@@ -32,6 +36,7 @@
     "name": "Howl Of The Kubrow",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Howl_Of_The_Kubrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Howl_Of_The_Kubrow"
   },
   {
@@ -39,6 +44,7 @@
     "name": "Mutalist Alad V Assassinate",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Mutalist_Alad_V_Assassinate.png",
     "wiki": "http://warframe.wikia.com/wiki/Mutalist_Alad_V_Assassinate"
   },
   {
@@ -46,6 +52,7 @@
     "name": "Natah",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Natah.png",
     "wiki": "http://warframe.wikia.com/wiki/Natah"
   },
   {
@@ -53,6 +60,7 @@
     "name": "Octavia's Anthem",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Octavias_Anthem.png",
     "wiki": "http://warframe.wikia.com/wiki/Octavia%27s_Anthem"
   },
   {
@@ -60,6 +68,7 @@
     "name": "Once Awake",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Once_Awake.png",
     "wiki": "http://warframe.wikia.com/wiki/Once_Awake"
   },
   {
@@ -67,6 +76,7 @@
     "name": "Patient Zero",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Patient_Zero.png",
     "wiki": "http://warframe.wikia.com/wiki/Patient_Zero"
   },
   {
@@ -74,6 +84,7 @@
     "name": "Sands Of Inaros",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Sands_Of_Inaros.png",
     "wiki": "http://warframe.wikia.com/wiki/Sands_Of_Inaros"
   },
   {
@@ -81,6 +92,7 @@
     "name": "Saya's Vigil",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Sayas_Vigil.png",
     "wiki": "http://warframe.wikia.com/wiki/Saya%27s_Vigil"
   },
   {
@@ -88,6 +100,7 @@
     "name": "Stolen Dreams",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Stolen_Dreams.png",
     "wiki": "http://warframe.wikia.com/wiki/Stolen_Dreams"
   },
   {
@@ -95,6 +108,7 @@
     "name": "The Archwing",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_Archwing.png",
     "wiki": "http://warframe.wikia.com/wiki/The_Archwing"
   },
   {
@@ -102,6 +116,7 @@
     "name": "The Glast Gambit",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_Glast_Gambit.png",
     "wiki": "http://warframe.wikia.com/wiki/The_Glast_Gambit"
   },
   {
@@ -109,6 +124,7 @@
     "name": "The Jordas Precept",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_Jordas_Precept.png",
     "wiki": "http://warframe.wikia.com/wiki/The_Jordas_Precept"
   },
   {
@@ -116,6 +132,7 @@
     "name": "The Limbo Theorem",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_Limbo_Theorem.png",
     "wiki": "http://warframe.wikia.com/wiki/The_Limbo_Theorem"
   },
   {
@@ -123,6 +140,7 @@
     "name": "The New Strange",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_New_Strange.png",
     "wiki": "http://warframe.wikia.com/wiki/The_New_Strange"
   },
   {
@@ -130,6 +148,7 @@
     "name": "The Sacrifice",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_Sacrifice.png",
     "wiki": "http://warframe.wikia.com/wiki/The_Sacrifice"
   },
   {
@@ -137,6 +156,7 @@
     "name": "The Second Dream",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_Second_Dream.png",
     "wiki": "http://warframe.wikia.com/wiki/The_Second_Dream"
   },
   {
@@ -144,6 +164,7 @@
     "name": "The Silver Grove",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_Silver_Grove.png",
     "wiki": "http://warframe.wikia.com/wiki/The_Silver_Grove"
   },
   {
@@ -151,6 +172,7 @@
     "name": "The War Within",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/The_War_Within.png",
     "wiki": "http://warframe.wikia.com/wiki/The_War_Within"
   },
   {
@@ -158,6 +180,7 @@
     "name": "Vor's Prize",
     "type": "Quest",
     "masteryRank": 0,
+    "image": "data/img/Quest/Vors_Prize.png",
     "wiki": "http://warframe.wikia.com/wiki/Vor%27s_Prize"
   }
 ]

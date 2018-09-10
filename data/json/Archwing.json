@@ -4,6 +4,7 @@
     "name": "Amesha",
     "type": "Archwing",
     "masteryRank": 0,
+    "image": "data/img/Archwing/Amesha.png",
     "wiki": "http://warframe.wikia.com/wiki/Amesha"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Elytron",
     "type": "Archwing",
     "masteryRank": 0,
+    "image": "data/img/Archwing/Elytron.png",
     "wiki": "http://warframe.wikia.com/wiki/Elytron"
   },
   {
@@ -18,6 +20,7 @@
     "name": "Itzal",
     "type": "Archwing",
     "masteryRank": 0,
+    "image": "data/img/Archwing/Itzal.png",
     "wiki": "http://warframe.wikia.com/wiki/Itzal"
   },
   {
@@ -25,6 +28,7 @@
     "name": "Odonata",
     "type": "Archwing",
     "masteryRank": 0,
+    "image": "data/img/Archwing/Odonata.png",
     "wiki": "http://warframe.wikia.com/wiki/Odonata"
   },
   {
@@ -32,6 +36,7 @@
     "name": "Odonata Prime",
     "type": "Archwing",
     "masteryRank": 0,
+    "image": "data/img/Archwing/Odonata_Prime.png",
     "wiki": "http://warframe.wikia.com/wiki/Odonata_Prime"
   }
 ]

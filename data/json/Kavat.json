@@ -4,6 +4,7 @@
     "name": "Adarza Kavat",
     "type": "Kavat",
     "masteryRank": 0,
+    "image": "data/img/Kavat/Adarza_Kavat.png",
     "wiki": "http://warframe.wikia.com/wiki/Adarza_Kavat"
   },
   {
@@ -11,6 +12,7 @@
     "name": "Smeeta Kavat",
     "type": "Kavat",
     "masteryRank": 0,
+    "image": "data/img/Kavat/Smeeta_Kavat.png",
     "wiki": "http://warframe.wikia.com/wiki/Smeeta_Kavat"
   },
   {

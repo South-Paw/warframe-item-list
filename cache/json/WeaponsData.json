@@ -15143,7 +15143,7 @@
       "Traits": [ "Tenno" ],
       "Trigger": "Semi-Auto",
       "Type": "Primary",
-      "Zoom": [ "3.5x (+35% Critical Damage)", "6x (+50% Critical Damage)" ]
+      "Zoom": [ "3.5x (+35% Critical multiplier)", "6x (+50% Critical multiplier)" ]
     },
     "Sancti Castanas": {
       "Accuracy": 100,

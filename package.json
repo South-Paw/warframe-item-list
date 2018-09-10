@@ -40,9 +40,13 @@
     "eslint": "^5.4.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
+    "imagemin": "^6.0.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-pngquant": "^6.0.0",
     "jest": "^23.5.0",
     "node-fetch": "^2.2.0",
     "node-lua": "^1.0.4",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.2",
+    "sharp": "^0.20.8"
   }
 }
