@@ -24695,46 +24695,6 @@
     "fileTime": 131524868885533340
   },
   {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingTesla",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingTesla.png",
-    "fileTime": 131524868886157340
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingShield",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingShield.png",
-    "fileTime": 131524868886001340
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingLaser",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingLaser.png",
-    "fileTime": 131524868886001340
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingDetector",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingDetector.png",
-    "fileTime": 131524868886001340
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingTesla",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingTesla.png",
-    "fileTime": 131524868886001340
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingShield",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingShield.png",
-    "fileTime": 131524868886001340
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingLaser",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingLaser.png",
-    "fileTime": 131524868886001340
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingDetector",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingDetector.png",
-    "fileTime": 131524868886001340
-  },
-  {
     "uniqueName": "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantNovaAvatar",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Antimatter.png",
     "fileTime": 131524868916109540
@@ -24768,16 +24728,6 @@
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/LeechDroneAvatarLeader",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\OspreyLeech.png",
     "fileTime": 131524868893489390
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAvatar",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\MoaRicochet.png",
-    "fileTime": 131524868892085390
-  },
-  {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAvatarLeader",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\MoaRicochet.png",
-    "fileTime": 131524868892085390
   },
   {
     "uniqueName": "/Lotus/Types/Enemies/TennoReplicants/RelayBoss/TennoReplicantTrinityAvatar",
@@ -25490,6 +25440,46 @@
     "fileTime": 131524868980537950
   },
   {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingTesla",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingTesla.png",
+    "fileTime": 131524868886157340
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingShield",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingShield.png",
+    "fileTime": 131524868886001340
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingLaser",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingLaser.png",
+    "fileTime": 131524868886001340
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarWalkingDetector",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentWalkingDetector.png",
+    "fileTime": 131524868886001340
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingTesla",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingTesla.png",
+    "fileTime": 131524868886001340
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingShield",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingShield.png",
+    "fileTime": 131524868886001340
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingLaser",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingLaser.png",
+    "fileTime": 131524868886001340
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/ModularSpacemanAvatarSkatingDetector",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Corpus\\ModularSpacemanAgentSkatingDetector.png",
+    "fileTime": 131524868886001340
+  },
+  {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/VacDroneAvatar",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\OspreyScavenger.png",
     "fileTime": 131524868893489390
@@ -25498,6 +25488,16 @@
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/VacDroneAvatarLeader",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\OspreyScavenger.png",
     "fileTime": 131524868893489390
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAvatar",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\MoaRicochet.png",
+    "fileTime": 131524868892085390
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/LaserDiscBipedAvatarLeader",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\MoaRicochet.png",
+    "fileTime": 131524868892085390
   },
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/RiotBipedPreventionAvatar",
@@ -25575,11 +25575,6 @@
     "fileTime": 131524868887405360
   },
   {
-    "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/SuicideDroneAvatar",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\OspreySuicide.png",
-    "fileTime": 131524868893489390
-  },
-  {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/ShockwaveBipedAvatar",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\MoaShockwave.png",
     "fileTime": 131524868892241390
@@ -25588,6 +25583,11 @@
     "uniqueName": "/Lotus/Types/Enemies/Corpus/BipedRobot/AIWeek/ShockwaveBipedAvatarLeader",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\MoaShockwave.png",
     "fileTime": 131524868892241390
+  },
+  {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/SuicideDroneAvatar",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\OspreySuicide.png",
+    "fileTime": 131524868893489390
   },
   {
     "uniqueName": "/Lotus/Types/Enemies/Corpus/Spaceman/AIWeek/ShotgunSpacemanAvatar",
@@ -28225,6 +28225,11 @@
     "fileTime": 131739821008535280
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NezhaDeluxeScarf",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\NezhaDeluxeScarf.png",
+    "fileTime": 131810793199498320
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/MagDeluxeScarf",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\MagDeluxeScarf.png",
     "fileTime": 131524868946217730
@@ -28863,6 +28868,21 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Nezha/SWDevineHelmet",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\SteamWorkshop\\Skins\\Nezha\\SWDevineHelmet.png",
     "fileTime": 131524868974297920
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeSkin",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\NezhaDeluxeSkin.png",
+    "fileTime": 131810793199498320
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeHelmet",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\NezhaDeluxeHelmet.png",
+    "fileTime": 131810793199498320
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaDeluxeDaggerSkin",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\NezhaDeluxeDaggerSkin.png",
+    "fileTime": 131810793199498320
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Nezha/NezhaAltHelmet",

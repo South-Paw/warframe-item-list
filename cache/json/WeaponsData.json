@@ -14244,6 +14244,7 @@
       "Name": "Prisma Twin Gremlins",
       "NormalAttack": {
         "CritMultiplier": 1.9,
+        "FireRate": 8.83,
         "CritChance": 0.23,
         "Damage": {
           "Slash": 11.3,
@@ -14251,8 +14252,8 @@
           "Impact": 3
         },
         "StatusChance": 0.23,
-        "FireRate": 8.83,
-        "ShotType": "Hit-Scan"
+        "ShotSpeed": 65,
+        "ShotType": "Projectile"
       },
       "Polarities": [ "V" ],
       "Reload": 0.9,

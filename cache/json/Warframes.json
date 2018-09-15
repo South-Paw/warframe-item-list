@@ -679,22 +679,22 @@
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RevenantMarkAbility",
-        "abilityName": "ENTHRALL",
+        "abilityName": "Enthrall",
         "description": "Convert a target into a zealous thrall. Thralls turn on their allies and enthrall through damage. On death, they disintegrate into a damaging pillar of energy. The thrall horde remains under Revenants spell until this ability runs out."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RevenantSentientAbility",
-        "abilityName": "MESMER SKIN",
+        "abilityName": "Mesmer Skin",
         "description": "Become enveloped in Sentient energy, redirecting damage and stunning all those who dare attack. Stunned enemies can be Enthralled at no energy cost."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RevenantAfflictionAbility",
-        "abilityName": "REAVE",
+        "abilityName": "Reave",
         "description": "Dash through enemies as a wall of sentient energy, leeching shields and health from any encountered, enhanced for thralls."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RevenantRebornAbility",
-        "abilityName": "DANSE MACABRE",
+        "abilityName": "Danse Macabre",
         "description": "Erupt with a multitude of Eidolon energy beams and sweep a circle of death around Revenant. The beams will modify their Damage Type to target select defenses, while incoming damage is redirected back into the beams. Hold fire to boost Status Effects and Damage, at the cost of increased energy consumption. Thralls killed by this ability leave overshield pickups."
       }
     ]
@@ -985,8 +985,8 @@
     "parentName": "/Lotus/Types/Game/PowerSuits/PlayerPowerSuit",
     "description": "A petite and playful facade conceals this frame’s immense power.",
     "longDescription": "",
-    "health": 75,
-    "shield": 75,
+    "health": 125,
+    "shield": 50,
     "armor": 175,
     "stamina": 3,
     "power": 150,
@@ -995,12 +995,12 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/NezhaTrailAbility",
         "abilityName": "Fire Walker",
-        "description": "Blaze a trail of flames, scorching enemies and cleansing allies."
+        "description": "Blaze a trail of flames, scorching enemies and cleansing allies. Teleporting blasts the landing area with a ring of fire."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/NezhaRingAbility",
         "abilityName": "Blazing Chakram",
-        "description": "Hurl a flaming ring that burns enemies and causes them to emit a healing blast on death. Reactivate to instantly travel to the ring's location."
+        "description": "Hurl a flaming ring that sets enemies ablaze making them vulnerable to any damage. Flaming enemies drop Restorative Orbs on death. Charge to amplify the power of the ring, and reactivate to instantly travel to the ring's location."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/NezhaSashAbility",
@@ -1010,7 +1010,7 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/NezhaSpearAbility",
         "abilityName": "Divine Spears",
-        "description": "Impale nearby enemies on spears that erupt from the ground."
+        "description": "Impale nearby enemies on spears that erupt from the below. Activate again to slam surviving enemies back into the ground."
       }
     ]
   },
@@ -1344,22 +1344,22 @@
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/KhoraCrackAbility",
-        "abilityName": "WHIPCLAW",
+        "abilityName": "Whipclaw",
         "description": "Send enemies reeling with a deafening whipcrack."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/KhoraTwirlAbility",
-        "abilityName": "ENSNARE",
+        "abilityName": "Ensnare",
         "description": "Bind a hapless target in living metal, entangling others who stray too close. Whipclaw will refresh the trap allowing it to capture more enemies."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/KhoraKavatAbility",
-        "abilityName": "VENARI",
+        "abilityName": "Venari",
         "description": "Command Venari to focus on a target. Hold to cycle between Attack, Protect, and Heal postures. If Venari is killed, use this ability to revive her instantly."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/KhoraCageAbility",
-        "abilityName": "STRANGLEDOME",
+        "abilityName": "Strangledome",
         "description": "Weave a dome of living chain that ensnares and strangles any enemy within, and any foolish enough to approach. Foes outside the trap will try to hasten their comrade's deaths by shooting them. Crack Whipclaw on the dome to further damage any trapped enemies."
       }
     ]
