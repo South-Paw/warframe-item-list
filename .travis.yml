@@ -8,11 +8,7 @@ node_js:
 env:
   global:
     - LUAROCKS=2.3.0
-    - LUA=lua5.1
-
-branches:
-  only:
-    - master
+    - LUA=luajit
 
 before_install:
   - source .travis/setenv_lua.sh
