@@ -1,18 +1,7 @@
 language: node_js
 
-sudo: false
-
 node_js:
   - "10"
-
-env:
-  global:
-    - LUAROCKS=2.3.0
-    - LUA=luajit
-
-before_install:
-  - source .travis/setenv_lua.sh
-  - ls /usr/local/lib
 
 script:
   - npm run lint
