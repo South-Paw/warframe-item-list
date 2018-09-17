@@ -12,6 +12,7 @@ env:
 
 before_install:
   - source .travis/setenv_lua.sh
+  - ls /usr/local/lib
 
 script:
   - npm run lint
