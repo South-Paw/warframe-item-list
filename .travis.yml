@@ -1,27 +1,12 @@
 language: node_js
 
-sudo: false
-
 node_js:
   - "10"
 
-env:
-  global:
-    - LUAROCKS=2.3.0
-    - LUA=lua5.1
-
-branches:
-  only:
-    - master
-
 before_install:
-  - source .travis/setenv_lua.sh
+  - find /usr/include /usr/local/include $NODELUA_INCLUDE -name lua.h | sed s/lua.h// | sort | head -n 1
+  - find /usr/lib /usr/local/lib /usr/include /usr/local/include $NODELUA_LIB -name libluajit-5.1.so | tail -n 1
 
 script:
   - npm run lint
   - npm run test/coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
-
-notifications:
-  email:
-    on_success: change
-    on_failure: always
