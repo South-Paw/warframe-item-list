@@ -6,7 +6,7 @@ const imagemin = require('imagemin');
 const imageminJpegtran = require('imagemin-jpegtran');
 const imageminPngquant = require('imagemin-pngquant');
 const fetch = require('node-fetch');
-const LuaJIT = require('node-luajit');
+const Lua = require('node-lua-updated');
 const rimraf = require('rimraf');
 const sharp = require('sharp');
 
@@ -269,7 +269,7 @@ class Updater {
       const lines = wikilua.split('\n');
       const modifiedLines = lines.slice(0, lines.length - 2).join('\n');
 
-      const lua = new LuaJIT();
+      const lua = new Lua.LuaState();
       lua.DoString(`
         json = (loadfile "src/update/json.lua")()
         ${modifiedLines}

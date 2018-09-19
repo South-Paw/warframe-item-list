@@ -3927,7 +3927,7 @@ mute-stream@0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/mute-stream/-/mute-stream-0.0.7.tgz#3075ce93bc21b8fab43e1bc4da7e8115ed1e7bab"
 
-nan@*, nan@^2.11.0, nan@^2.9.2:
+nan@^2.11.0, nan@^2.6.2, nan@^2.9.2:
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.11.0.tgz#574e360e4d954ab16966ec102c0c049fd961a099"
 
@@ -3977,11 +3977,11 @@ node-int64@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/node-int64/-/node-int64-0.4.0.tgz#87a9065cdb355d3182d8f94ce11188b825c68a3b"
 
-node-luajit@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/node-luajit/-/node-luajit-1.2.0.tgz#c12ec406b44222467b4efe24cb1f7d466dc96036"
+node-lua-updated@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/node-lua-updated/-/node-lua-updated-1.0.0.tgz#bb566dab0a2c09665e692769bd8b6b565a24a44f"
   dependencies:
-    nan "*"
+    nan "^2.6.2"
 
 node-notifier@^5.2.1:
   version "5.2.1"
