@@ -8,7 +8,6 @@ node_js:
 addons:
   apt:
     packages:
-      - luajit
       - libluajit-5.1-dev
 
 script:
