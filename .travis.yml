@@ -5,8 +5,10 @@ sudo: required
 node_js:
   - "10"
 
-before_install:
-  - sudo -su
+addons:
+  apt:
+    packages:
+      - luajit
 
 script:
   - npm run lint
