@@ -3977,9 +3977,9 @@ node-int64@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/node-int64/-/node-int64-0.4.0.tgz#87a9065cdb355d3182d8f94ce11188b825c68a3b"
 
-node-lua-updated@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/node-lua-updated/-/node-lua-updated-1.0.0.tgz#bb566dab0a2c09665e692769bd8b6b565a24a44f"
+node-lua@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/node-lua/-/node-lua-1.0.4.tgz#c04df7ad44d6a03d547b18770382fe628014a006"
   dependencies:
     nan "^2.6.2"
 
