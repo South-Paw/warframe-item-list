@@ -895,6 +895,11 @@
     "fileTime": 131524868618615630
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponElectricityDamageModExpert",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Shotgun\\ShotgunElectricityDamageMod.jpeg",
+    "fileTime": 131524868618771630
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Shotgun/Expert/WeaponDamageAmountModExpert",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Shotgun\\ShotgunDamageAmountMod.jpeg",
     "fileTime": 131524868618615630
@@ -27940,6 +27945,11 @@
     "fileTime": 131524868944969730
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Skins/DesertTaxonSkin",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\DesertTaxonSkin.png",
+    "fileTime": 131816881750847090
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Sentinels/Masks/ParrotMask",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\PetParrotMask.png",
     "fileTime": 131524868951989780
@@ -32063,6 +32073,11 @@
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerEasterItemA",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\EasterColorPickerIcon.png",
     "fileTime": 131524868925469600
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemB",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ColorPickerTennoB.png",
+    "fileTime": 131813328522186350
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/ColourPickerDefaultsItemA",

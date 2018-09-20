@@ -3,7 +3,7 @@
 👾 A list of all Warframe items that contribute to player mastery rank.
 
 [![npm](https://img.shields.io/npm/v/warframe-item-list.svg)](https://www.npmjs.com/package/warframe-item-list)
-[![warframe update](https://img.shields.io/badge/warframe_update-23.6.2-blue.svg)](http://warframe.wikia.com/wiki/Update_23#Hotfix_23.6.2)
+[![warframe update](https://img.shields.io/badge/warframe_update-23.8.2-blue.svg)](http://warframe.wikia.com/wiki/Update_23#Hotfix_23.8.2)
 [![CI Status](https://img.shields.io/travis/South-Paw/warframe-item-list.svg)](https://travis-ci.org/South-Paw/warframe-item-list)
 [![Coveralls Status](https://img.shields.io/coveralls/github/South-Paw/warframe-item-list.svg)](https://coveralls.io/github/South-Paw/warframe-item-list)
 [![Dependencies](https://david-dm.org/South-Paw/warframe-item-list/status.svg)](https://david-dm.org/South-Paw/warframe-item-list)
