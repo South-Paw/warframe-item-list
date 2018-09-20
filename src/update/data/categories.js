@@ -1,7 +1,10 @@
 /**
+ * This file is the mapper between item names to their categories.
+ *
  * Add new item names EXACTLY as they appear in the wiki and it's summary table at the bottom of weapon pages
- * (http://warframe.wikia.com/wiki/Weapons#See_Also). If unsure have a look through the other names (primes, prismas and
- * wraiths are the gotchas.)
+ * (http://warframe.wikia.com/wiki/Weapons#See_Also).
+ *
+ * If unsure, have a look through the other names as an example (the primes, prismas and wraith items are the gotchas).
  */
 
 const { MELEE_CATEGORIES, PRIMARY_CATEGORIES, SECONDARY_CATEGORIES } = require('../../constants');

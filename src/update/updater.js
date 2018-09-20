@@ -92,6 +92,7 @@ const getItemType = (item, rawType) => {
   }
 };
 
+// Finds the given item in the manifest and creates a request url for it.
 const getImageUrl = (item, manifest, contentUrl) => {
   for (let i = 0; i < manifest.length; i += 1) {
     if (manifest[i].uniqueName === item.uniqueName) {
@@ -102,6 +103,7 @@ const getImageUrl = (item, manifest, contentUrl) => {
   return null;
 };
 
+// Retrieves and saves an image from a given url.
 const getImageAndSave = async (type, name, imageUrl) => {
   if (!imageUrl) {
     console.log(`No image url found for ${name.uniqueName}`);
