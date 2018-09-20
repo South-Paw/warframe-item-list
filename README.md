@@ -82,14 +82,14 @@ Within each list, the objects are pretty similarly structured:
   type: 'string',        // type the item belongs to.
   category: 'string',    // category of the weapon - this is only used on primary/secondary/melee and sentinel weapons.
   masteryRank: 0,        // mastery rank required for the item.
-  image: 'string',       // Path to the image file for this item, relative to the root of the package.
+  image: 'string',       // path to the image file for this item, relative to the root of the package.
   wiki: 'string',        // url for the items warframe wiki page.
 },
 ```
 
 And the `constants` contains the strings that are used to define the `category` and `type` keys in the item objects.
 
-There is also a handy `types` exposed in the `constants` where by using a `type` key you can get it's pural.
+There is also a handy `types` exposed in the `constants` where by using a `type` key you can get it's plural.
 
 ```js
 const { TYPE, TYPES } = require('warframe-item-list').constants;
