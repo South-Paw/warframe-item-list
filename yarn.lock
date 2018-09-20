@@ -3977,9 +3977,9 @@ node-int64@^0.4.0:
   version "0.4.0"
   resolved "https://registry.yarnpkg.com/node-int64/-/node-int64-0.4.0.tgz#87a9065cdb355d3182d8f94ce11188b825c68a3b"
 
-node-lua-updated@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/node-lua-updated/-/node-lua-updated-1.0.0.tgz#bb566dab0a2c09665e692769bd8b6b565a24a44f"
+"node-lua@github:adaxi/node-lua":
+  version "1.0.4"
+  resolved "https://codeload.github.com/adaxi/node-lua/tar.gz/24c84df6847eb0ae3fec3cd688a42d3e7ef47734"
   dependencies:
     nan "^2.6.2"
 

@@ -6,7 +6,7 @@ const imagemin = require('imagemin');
 const imageminJpegtran = require('imagemin-jpegtran');
 const imageminPngquant = require('imagemin-pngquant');
 const fetch = require('node-fetch');
-const Lua = require('node-lua-updated');
+const Lua = require('node-lua');
 const rimraf = require('rimraf');
 const sharp = require('sharp');
 
