@@ -1,24 +1,8 @@
 const { name } = require('../../package.json');
-const { asyncForEach, capitalize, sortListByInnerKey, stringify } = require('../utils.js');
+const { capitalize, sortListByInnerKey, stringify } = require('../utils.js');
 
 describe(name, () => {
   describe('utils', () => {
-    describe('asyncForEach', () => {
-      test('that given a list of objects, async foreach will ', async () => {
-        const items = [{ key: 'a' }, { key: 'b' }, { key: 'c' }];
-        const expected = [];
-        let cbCount = 0;
-
-        await asyncForEach(items, async (item) => {
-          expected.push(item.key);
-          cbCount += 1;
-        });
-
-        expect(expected).toEqual(['a', 'b', 'c']);
-        expect(cbCount).toBe(3);
-      });
-    });
-
     describe('capitalize', () => {
       test('that given a word, the word is capitalized', () => {
         const given = 'apples';

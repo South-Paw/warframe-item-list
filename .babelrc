@@ -4,5 +4,8 @@
     "inline-json",
     "transform-object-rest-spread"
   ],
-  "ignore": ["__tests__"]
+  "ignore": [
+    "__tests__",
+    "update"
+  ]
 }

@@ -1,10 +1,3 @@
-const asyncForEach = async (a, cb) => {
-  for (let i = 0; i < a.length; i += 1) {
-    // eslint-disable-next-line no-await-in-loop
-    await cb(a[i], i, a);
-  }
-};
-
 const capitalize = s => s.toLowerCase().split(' ').map(word => word[0].toUpperCase() + word.slice(1)).join(' ');
 
 const sortListByInnerKey = (list, innerKey) => {
@@ -28,4 +21,4 @@ const stringify = (object) => {
   return expand(JSON.stringify(object, replacer, 2));
 };
 
-module.exports = { asyncForEach, capitalize, sortListByInnerKey, stringify };
+module.exports = { capitalize, sortListByInnerKey, stringify };

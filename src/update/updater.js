@@ -11,7 +11,7 @@ const rimraf = require('rimraf');
 const sharp = require('sharp');
 
 const { MISSING_ITEMS } = require('./data/missingItems');
-const { asyncForEach, capitalize, sortListByInnerKey, stringify } = require('../utils');
+const { capitalize, sortListByInnerKey, stringify } = require('../utils');
 const {
   AMP,
   ARCHWING,
@@ -39,6 +39,13 @@ const CATEGORISED_TYPES = [
   SECONDARY,
   SENTINEL_WEAPON,
 ];
+
+const asyncForEach = async (a, cb) => {
+  for (let i = 0; i < a.length; i += 1) {
+    // eslint-disable-next-line no-await-in-loop
+    await cb(a[i], i, a);
+  }
+};
 
 // We replace the - character with 4x ^'s surrounded by spaces and then run capitalize() on the result.
 // This ensures that words either side of the '-' are capitalized.
