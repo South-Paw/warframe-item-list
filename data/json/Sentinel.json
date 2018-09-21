@@ -1,0 +1,98 @@
+[
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/CarrierPowerSuit",
+    "name": "Carrier",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Carrier.png",
+    "wiki": "http://warframe.wikia.com/wiki/Carrier"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeCarrierPowerSuit",
+    "name": "Carrier Prime",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Carrier_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Carrier_Prime"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/DethCubePowerSuit",
+    "name": "Dethcube",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Dethcube.png",
+    "wiki": "http://warframe.wikia.com/wiki/Dethcube"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/ArcDronePowerSuit",
+    "name": "Diriga",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Diriga.png",
+    "wiki": "http://warframe.wikia.com/wiki/Diriga"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/GubberPowerSuit",
+    "name": "Djinn",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Djinn.png",
+    "wiki": "http://warframe.wikia.com/wiki/Djinn"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/MeleePetPowerSuit",
+    "name": "Helios",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Helios.png",
+    "wiki": "http://warframe.wikia.com/wiki/Helios"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeHeliosPowerSuit",
+    "name": "Helios Prime",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Helios_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Helios_Prime"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/PrismaShadePowerSuit",
+    "name": "Prisma Shade",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Prisma_Shade.png",
+    "wiki": "http://warframe.wikia.com/wiki/Prisma_Shade"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/ShadePowerSuit",
+    "name": "Shade",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Shade.png",
+    "wiki": "http://warframe.wikia.com/wiki/Shade"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/TnSentinelCrossPowerSuit",
+    "name": "Taxon",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Taxon.png",
+    "wiki": "http://warframe.wikia.com/wiki/Taxon"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/WyrmPowerSuit",
+    "name": "Wyrm",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Wyrm.png",
+    "wiki": "http://warframe.wikia.com/wiki/Wyrm"
+  },
+  {
+    "id": "/Lotus/Types/Sentinels/SentinelPowersuits/PrimeWyrmPowerSuit",
+    "name": "Wyrm Prime",
+    "type": "Sentinel",
+    "masteryRank": 0,
+    "image": "/data/img/Sentinel/Wyrm_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Wyrm_Prime"
+  }
+]

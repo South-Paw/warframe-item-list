@@ -1,34 +1,49 @@
-const AMPS = require('./data/amps.js');
-const ARCHWINGS = require('./data/archwings.js');
-const ARCHWING_GUNS = require('./data/archwingGuns.js');
-const ARCHWING_MELEES = require('./data/archwingMelees.js');
-const COMPANION_KAVATS = require('./data/companionKavats.js');
-const COMPANION_KUBROWS = require('./data/companionKubrows.js');
-const COMPANION_SENTINELS = require('./data/companionSentinels.js');
-const SENTINEL_WEAPONS = require('./data/sentinelWeapons.js');
-const WARFRAMES = require('./data/warframes.js');
-const WEAPON_PRIMARIES = require('./data/weaponPrimaries.js');
-const WEAPON_SECONDARIES = require('./data/weaponSecondaries.js');
-const WEAPON_MELEES = require('./data/weaponMelees.js');
-const ZAWS = require('./data/zaws.js');
+const Amp = require('../data/json/Amp.json');
+const Archwing = require('../data/json/Archwing.json');
+const ArchwingMelee = require('../data/json/ArchwingMelee.json');
+const ArchwingPrimary = require('../data/json/ArchwingPrimary.json');
+const Kavat = require('../data/json/Kavat.json');
+const Kubrow = require('../data/json/Kubrow.json');
+const Melee = require('../data/json/Melee.json');
+const Primary = require('../data/json/Primary.json');
+const Secondary = require('../data/json/Secondary.json');
+const Sentinel = require('../data/json/Sentinel.json');
+const SentinelWeapon = require('../data/json/SentinelWeapon.json');
+const Warframe = require('../data/json/Warframe.json');
+const Zaw = require('../data/json/Zaw.json');
+const {
+  AMP,
+  ARCHWING,
+  ARCHWING_MELEE,
+  ARCHWING_PRIMARY,
+  KAVAT,
+  KUBROW,
+  MELEE,
+  PRIMARY,
+  SECONDARY,
+  SENTINEL,
+  SENTINEL_WEAPON,
+  WARFRAME,
+  ZAW,
+} = require('./constants').TYPE;
 const { sortListByInnerKey } = require('./utils.js');
 
 const SORT_KEY = 'name';
 
 const objects = {
-  AMPS: sortListByInnerKey(AMPS, SORT_KEY),
-  ARCHWINGS: sortListByInnerKey(ARCHWINGS, SORT_KEY),
-  ARCHWING_GUNS: sortListByInnerKey(ARCHWING_GUNS, SORT_KEY),
-  ARCHWING_MELEES: sortListByInnerKey(ARCHWING_MELEES, SORT_KEY),
-  COMPANION_KAVATS: sortListByInnerKey(COMPANION_KAVATS, SORT_KEY),
-  COMPANION_KUBROWS: sortListByInnerKey(COMPANION_KUBROWS, SORT_KEY),
-  COMPANION_SENTINELS: sortListByInnerKey(COMPANION_SENTINELS, SORT_KEY),
-  SENTINEL_WEAPONS: sortListByInnerKey(SENTINEL_WEAPONS, SORT_KEY),
-  WARFRAMES: sortListByInnerKey(WARFRAMES, SORT_KEY),
-  WEAPON_PRIMARIES: sortListByInnerKey(WEAPON_PRIMARIES, SORT_KEY),
-  WEAPON_SECONDARIES: sortListByInnerKey(WEAPON_SECONDARIES, SORT_KEY),
-  WEAPON_MELEES: sortListByInnerKey(WEAPON_MELEES, SORT_KEY),
-  ZAWS: sortListByInnerKey(ZAWS, SORT_KEY),
+  [AMP]: sortListByInnerKey(Amp, SORT_KEY),
+  [ARCHWING]: sortListByInnerKey(Archwing, SORT_KEY),
+  [ARCHWING_MELEE]: sortListByInnerKey(ArchwingMelee, SORT_KEY),
+  [ARCHWING_PRIMARY]: sortListByInnerKey(ArchwingPrimary, SORT_KEY),
+  [KAVAT]: sortListByInnerKey(Kavat, SORT_KEY),
+  [KUBROW]: sortListByInnerKey(Kubrow, SORT_KEY),
+  [MELEE]: sortListByInnerKey(Melee, SORT_KEY),
+  [PRIMARY]: sortListByInnerKey(Primary, SORT_KEY),
+  [SECONDARY]: sortListByInnerKey(Secondary, SORT_KEY),
+  [SENTINEL]: sortListByInnerKey(Sentinel, SORT_KEY),
+  [SENTINEL_WEAPON]: sortListByInnerKey(SentinelWeapon, SORT_KEY),
+  [WARFRAME]: sortListByInnerKey(Warframe, SORT_KEY),
+  [ZAW]: sortListByInnerKey(Zaw, SORT_KEY),
 };
 
 module.exports = { ...objects };

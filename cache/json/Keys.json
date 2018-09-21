@@ -1,0 +1,250 @@
+[
+  {
+    "uniqueName": "/Lotus/Types/Keys/TestKeyErisBoss",
+    "name": "JORDAS GOLEM ASSASSINATE",
+    "description": "Access this assassination mission by completing the Jordas Precept quest.",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DerelictSurvivalKey",
+    "name": "OROKIN DERELICT SURVIVAL",
+    "description": "A Survival mission on board an Orokin Derelict ship",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DerelictSabotageKey",
+    "name": "OROKIN DERELICT SABOTAGE",
+    "description": "A Sabotage mission on board an Orokin Derelict ship",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DerelictMobileDefenseKey",
+    "name": "OROKIN DERELICT MOBILE DEFENSE",
+    "description": "A Mobile Defense mission on board an Orokin Derelict ship",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DerelictGolemKey",
+    "name": "OROKIN DERELICT ASSASSINATE",
+    "description": "An Assassination mission on board an Orokin Derelict ship",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DerelictExterminateKey",
+    "name": "OROKIN DERELICT EXTERMINATE",
+    "description": "An Exterminate mission on board an Orokin Derelict ship",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DerelictDefenseKey",
+    "name": "OROKIN DERELICT DEFENSE",
+    "description": "An Endless Defense mission on board an Orokin Derelict ship",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DerelictCaptureKey",
+    "name": "OROKIN DERELICT CAPTURE",
+    "description": "A Capture mission on board an Orokin Derelict ship",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Game/KeyItems/DerelictKeyItem",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
+    "name": "MUTALIST ALAD V ASSASSINATE",
+    "description": "Put an end to Alad V and his Mutalist experiments",
+    "longDescription": "",
+    "parentName": "/Lotus/Types/Keys/TestKeyA",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
+    "name": "APOSTASY PROLOGUE",
+    "description": "Inspect your personal quarters upon finishing the Chains of Harrow quest.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": true
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/ArchwingQuest/ArchwingQuestKeyChain",
+    "name": "THE ARCHWING",
+    "description": "The Balor Fomorians are coming but we are ready. Through your efforts we finally have a working Archwing prototype and I am sending you the blueprint. However, your task is not yet complete. You still must discover the component parts.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/BardQuest/BardQuestKeyChain",
+    "name": "OCTAVIA'S ANTHEM",
+    "description": "Build the Mandachord and find the cause of Cephalon Suda’s erratic behavior.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
+    "name": "THE NEW STRANGE",
+    "description": "Work with Cephalon Simaris to find the source of a mysterious voice.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain",
+    "name": "THE SILVER GROVE",
+    "description": "New Loka seeks help protecting a sacred forest from Grineer incursions, but are they ready to face the forest’s true nature?",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GetClemQuest/GetClemQuestKeyChain",
+    "name": "A MAN OF FEW WORDS",
+    "description": "Darvo needs your help again. Save one of his best contractors from Grineer execution.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain",
+    "name": "SAYA'S VIGIL",
+    "description": "On the Plains of Eidolon a mystery has lain buried for years: one that will mend or destroy a heart, and open the door to a hidden past.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem",
+    "name": "THE JORDAS PRECEPT",
+    "description": "Ordis is determined to help a fellow Cephalon overcome a ship wide infestation.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain",
+    "name": "THE GLAST GAMBIT",
+    "description": "Nef Anyo has stolen the children of the Mycona Colony and it is up to you to get them back. You must challenge Nef on The Index and beat him at his own game. But Tenno, beware, not all is as it seems.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain",
+    "name": "PATIENT ZERO",
+    "description": "Find Alad V’s laboratory and put a stop to his madness",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain",
+    "name": "ONCE AWAKE",
+    "description": "Intercepted Grineer communications reveal that Grineer have been experimenting with some sort of bio weapon. You must investigate.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain",
+    "name": "HOWL OF THE KUBROW",
+    "description": "You are Tenno, you deserve a Kubrow by your side.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain",
+    "name": "THE LIMBO THEOREM",
+    "description": "The Limbo Theorem quest cannot be completed without an ArchwingPiece together the Limbo Theorem to uncover its source",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
+    "name": "HIDDEN MESSAGES",
+    "description": "Seek out the Warframe Mirage",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
+    "name": "SANDS OF INAROS",
+    "description": "Help Baro Ki'Teer raid an ancient Martian tomb for a mysterious treasure.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain",
+    "name": "THE SECOND DREAM",
+    "description": "The Sentient Hunhow seeks to destroy the Tenno by exploiting long forgotten secrets.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
+    "name": "CHAINS OF HARROW",
+    "description": "A strange transmission leads deep into the dark world of Red Veil mysticism. What evils will be found there and what do they want?",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyChain",
+    "name": "THE SACRIFICE",
+    "description": "A tortured vision sends the Operator on the hunt for a Warframe unlike any other.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain",
+    "name": "NATAH",
+    "description": "Strange drones have appeared in the Origin System, help the Lotus find out what they are and who sent them.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/SpyQuestKeyChain/SpyQuestKeyChain",
+    "name": "STOLEN DREAMS",
+    "description": "Find the thief Maroo and uncover the secrets of the Arcane Codices.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain",
+    "name": "VOR'S PRIZE",
+    "description": "MY QUEENS -You were right, the Tenno threat is real. We found one drifting near Pluto but the Lotus knew we were coming. She purged the Cryo moments before we had them and sent a squad of Tenno to break our assault.They escaped. We are working on tracing them. Separate this Tenno from the flock and it should be easy to kill. We shattered its Warframe and expect such an abrupt Cryo purge will have damaged its memories.We anxiously await punishment for failing this task.- VOR",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain",
+    "name": "THE WAR WITHIN",
+    "description": "A disturbance in the Somatic Link prompts the Lotus to send operatives back to the Tenno Reservoir.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  }
+]

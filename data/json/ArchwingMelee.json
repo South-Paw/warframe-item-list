@@ -1,0 +1,74 @@
+[
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchSwordHook/ArchHookSwordWeapon",
+    "name": "Agkuza",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Agkuza.png",
+    "wiki": "http://warframe.wikia.com/wiki/Agkuza"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/Archswordandshield/ArchSwordShield",
+    "name": "Centaur",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Centaur.png",
+    "wiki": "http://warframe.wikia.com/wiki/Centaur"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchScythe/ArchScythe",
+    "name": "Kaszas",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Kaszas.png",
+    "wiki": "http://warframe.wikia.com/wiki/Kaszas"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/GrnArchHand/GrnArchHandWeapon",
+    "name": "Knux",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Knux.png",
+    "wiki": "http://warframe.wikia.com/wiki/Knux"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/Archaxe/ArchAxeWeapon",
+    "name": "Onorix",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Onorix.png",
+    "wiki": "http://warframe.wikia.com/wiki/Onorix"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
+    "name": "Prisma Veritux",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Prisma_Veritux.png",
+    "wiki": "http://warframe.wikia.com/wiki/Prisma_Veritux"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/ArchHammer/ArchHammer",
+    "name": "Rathbone",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Rathbone.png",
+    "wiki": "http://warframe.wikia.com/wiki/Rathbone"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Melee/Archsword/ArchSwordWeapon",
+    "name": "Veritux",
+    "type": "ArchwingMelee",
+    "category": "Archwing Melee",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingMelee/Veritux.png",
+    "wiki": "http://warframe.wikia.com/wiki/Veritux"
+  }
+]

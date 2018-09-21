@@ -1,6 +1,6 @@
 {
   "name": "warframe-item-list",
-  "version": "4.0.2",
+  "version": "5.0.0",
   "description": "A list of all Warframe items that contribute to player mastery rank.",
   "keywords": [
     "warframe"
@@ -14,6 +14,7 @@
     "url": "http://southpaw.co.nz/"
   },
   "files": [
+    "data",
     "dist"
   ],
   "main": "dist/index.js",
@@ -26,18 +27,26 @@
     "lint": "eslint .",
     "prepublishOnly": "npm run lint && npm run test && npm run build",
     "test": "jest",
-    "test/coverage": "jest --coverage"
+    "test/coverage": "jest --coverage",
+    "update": "node src/update/updater.js"
   },
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.26.0",
+    "babel-plugin-inline-json": "^1.2.2",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
     "coveralls": "^3.0.2",
-    "eslint": "^5.3.0",
+    "eslint": "^5.4.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-import": "^2.14.0",
+    "imagemin": "^6.0.0",
+    "imagemin-jpegtran": "^5.0.2",
+    "imagemin-pngquant": "^6.0.0",
     "jest": "^23.5.0",
-    "rimraf": "^2.6.2"
+    "node-fetch": "^2.2.0",
+    "node-lua": "github:adaxi/node-lua",
+    "rimraf": "^2.6.2",
+    "sharp": "^0.20.8"
   }
 }

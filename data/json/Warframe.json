@@ -1,0 +1,466 @@
+[
+  {
+    "id": "/Lotus/Powersuits/Ninja/Ninja",
+    "name": "Ash",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Ash.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ash"
+  },
+  {
+    "id": "/Lotus/Powersuits/Ninja/AshPrime",
+    "name": "Ash Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Ash_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ash_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Brawler/Brawler",
+    "name": "Atlas",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Atlas.png",
+    "wiki": "http://warframe.wikia.com/wiki/Atlas"
+  },
+  {
+    "id": "/Lotus/Powersuits/Banshee/Banshee",
+    "name": "Banshee",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Banshee.png",
+    "wiki": "http://warframe.wikia.com/wiki/Banshee"
+  },
+  {
+    "id": "/Lotus/Powersuits/Banshee/BansheePrime",
+    "name": "Banshee Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Banshee_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Banshee_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Dragon/Dragon",
+    "name": "Chroma",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Chroma.png",
+    "wiki": "http://warframe.wikia.com/wiki/Chroma"
+  },
+  {
+    "id": "/Lotus/Powersuits/Ember/Ember",
+    "name": "Ember",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Ember.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ember"
+  },
+  {
+    "id": "/Lotus/Powersuits/Ember/EmberPrime",
+    "name": "Ember Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Ember_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ember_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/YinYang/YinYang",
+    "name": "Equinox",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Equinox.png",
+    "wiki": "http://warframe.wikia.com/wiki/Equinox"
+  },
+  {
+    "id": "/Lotus/Powersuits/Excalibur/Excalibur",
+    "name": "Excalibur",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Excalibur.png",
+    "wiki": "http://warframe.wikia.com/wiki/Excalibur"
+  },
+  {
+    "id": "/Lotus/Powersuits/Excalibur/ExcaliburPrime",
+    "name": "Excalibur Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Excalibur_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Excalibur_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Excalibur/ExcaliburUmbra",
+    "name": "Excalibur Umbra",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Excalibur_Umbra.png",
+    "wiki": "http://warframe.wikia.com/wiki/Excalibur_Umbra"
+  },
+  {
+    "id": "/Lotus/Powersuits/Frost/Frost",
+    "name": "Frost",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Frost.png",
+    "wiki": "http://warframe.wikia.com/wiki/Frost"
+  },
+  {
+    "id": "/Lotus/Powersuits/Frost/FrostPrime",
+    "name": "Frost Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Frost_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Frost_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Glass/Glass",
+    "name": "Gara",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Gara.png",
+    "wiki": "http://warframe.wikia.com/wiki/Gara"
+  },
+  {
+    "id": "/Lotus/Powersuits/Priest/Priest",
+    "name": "Harrow",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Harrow.png",
+    "wiki": "http://warframe.wikia.com/wiki/Harrow"
+  },
+  {
+    "id": "/Lotus/Powersuits/Pirate/Pirate",
+    "name": "Hydroid",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Hydroid.png",
+    "wiki": "http://warframe.wikia.com/wiki/Hydroid"
+  },
+  {
+    "id": "/Lotus/Powersuits/Pirate/HydroidPrime",
+    "name": "Hydroid Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Hydroid_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Hydroid_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Sandman/Sandman",
+    "name": "Inaros",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Inaros.png",
+    "wiki": "http://warframe.wikia.com/wiki/Inaros"
+  },
+  {
+    "id": "/Lotus/Powersuits/Ranger/Ranger",
+    "name": "Ivara",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Ivara.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ivara"
+  },
+  {
+    "id": "/Lotus/Powersuits/Khora/Khora",
+    "name": "Khora",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Khora.png",
+    "wiki": "http://warframe.wikia.com/wiki/Khora"
+  },
+  {
+    "id": "/Lotus/Powersuits/Magician/Magician",
+    "name": "Limbo",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Limbo.png",
+    "wiki": "http://warframe.wikia.com/wiki/Limbo"
+  },
+  {
+    "id": "/Lotus/Powersuits/Magician/LimboPrime",
+    "name": "Limbo Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Limbo_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Limbo_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Loki/Loki",
+    "name": "Loki",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Loki.png",
+    "wiki": "http://warframe.wikia.com/wiki/Loki"
+  },
+  {
+    "id": "/Lotus/Powersuits/Loki/LokiPrime",
+    "name": "Loki Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Loki_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Loki_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Mag/Mag",
+    "name": "Mag",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Mag.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mag"
+  },
+  {
+    "id": "/Lotus/Powersuits/Mag/MagPrime",
+    "name": "Mag Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Mag_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mag_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Cowgirl/Cowgirl",
+    "name": "Mesa",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Mesa.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mesa"
+  },
+  {
+    "id": "/Lotus/Powersuits/Harlequin/Harlequin",
+    "name": "Mirage",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Mirage.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mirage"
+  },
+  {
+    "id": "/Lotus/Powersuits/Harlequin/MiragePrime",
+    "name": "Mirage Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Mirage_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mirage_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Necro/Necro",
+    "name": "Nekros",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nekros.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nekros"
+  },
+  {
+    "id": "/Lotus/Powersuits/Necro/NekrosPrime",
+    "name": "Nekros Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nekros_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nekros_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Nezha/Nezha",
+    "name": "Nezha",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nezha.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nezha"
+  },
+  {
+    "id": "/Lotus/Powersuits/Infestation/Infestation",
+    "name": "Nidus",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nidus.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nidus"
+  },
+  {
+    "id": "/Lotus/Powersuits/AntiMatter/Anti",
+    "name": "Nova",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nova.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nova"
+  },
+  {
+    "id": "/Lotus/Powersuits/AntiMatter/NovaPrime",
+    "name": "Nova Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nova_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nova_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Jade/Jade",
+    "name": "Nyx",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nyx.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nyx"
+  },
+  {
+    "id": "/Lotus/Powersuits/Jade/NyxPrime",
+    "name": "Nyx Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Nyx_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Nyx_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Paladin/Paladin",
+    "name": "Oberon",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Oberon.png",
+    "wiki": "http://warframe.wikia.com/wiki/Oberon"
+  },
+  {
+    "id": "/Lotus/Powersuits/Paladin/PaladinPrime",
+    "name": "Oberon Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Oberon_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Oberon_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Bard/Bard",
+    "name": "Octavia",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Octavia.png",
+    "wiki": "http://warframe.wikia.com/wiki/Octavia"
+  },
+  {
+    "id": "/Lotus/Powersuits/Revenant/Revenant",
+    "name": "Revenant",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Revenant.png",
+    "wiki": "http://warframe.wikia.com/wiki/Revenant"
+  },
+  {
+    "id": "/Lotus/Powersuits/Rhino/Rhino",
+    "name": "Rhino",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Rhino.png",
+    "wiki": "http://warframe.wikia.com/wiki/Rhino"
+  },
+  {
+    "id": "/Lotus/Powersuits/Rhino/RhinoPrime",
+    "name": "Rhino Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Rhino_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Rhino_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Saryn/Saryn",
+    "name": "Saryn",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Saryn.png",
+    "wiki": "http://warframe.wikia.com/wiki/Saryn"
+  },
+  {
+    "id": "/Lotus/Powersuits/Saryn/SarynPrime",
+    "name": "Saryn Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Saryn_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Saryn_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Fairy/Fairy",
+    "name": "Titania",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Titania.png",
+    "wiki": "http://warframe.wikia.com/wiki/Titania"
+  },
+  {
+    "id": "/Lotus/Powersuits/Trinity/Trinity",
+    "name": "Trinity",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Trinity.png",
+    "wiki": "http://warframe.wikia.com/wiki/Trinity"
+  },
+  {
+    "id": "/Lotus/Powersuits/Trinity/TrinityPrime",
+    "name": "Trinity Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Trinity_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Trinity_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Berserker/Berserker",
+    "name": "Valkyr",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Valkyr.png",
+    "wiki": "http://warframe.wikia.com/wiki/Valkyr"
+  },
+  {
+    "id": "/Lotus/Powersuits/Berserker/ValkyrPrime",
+    "name": "Valkyr Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Valkyr_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Valkyr_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Trapper/Trapper",
+    "name": "Vauban",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Vauban.png",
+    "wiki": "http://warframe.wikia.com/wiki/Vauban"
+  },
+  {
+    "id": "/Lotus/Powersuits/Trapper/TrapperPrime",
+    "name": "Vauban Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Vauban_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Vauban_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/Volt/Volt",
+    "name": "Volt",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Volt.png",
+    "wiki": "http://warframe.wikia.com/wiki/Volt"
+  },
+  {
+    "id": "/Lotus/Powersuits/Volt/VoltPrime",
+    "name": "Volt Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Volt_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Volt_Prime"
+  },
+  {
+    "id": "/Lotus/Powersuits/MonkeyKing/MonkeyKing",
+    "name": "Wukong",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Wukong.png",
+    "wiki": "http://warframe.wikia.com/wiki/Wukong"
+  },
+  {
+    "id": "/Lotus/Powersuits/Tengu/Tengu",
+    "name": "Zephyr",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Zephyr.png",
+    "wiki": "http://warframe.wikia.com/wiki/Zephyr"
+  },
+  {
+    "id": "/Lotus/Powersuits/Tengu/ZephyrPrime",
+    "name": "Zephyr Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Zephyr_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Zephyr_Prime"
+  }
+]

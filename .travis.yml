@@ -1,6 +1,20 @@
 language: node_js
+
+dist: xenial
+
 node_js:
-  - "8"
+  - "10"
+
+addons:
+  apt:
+    packages:
+      - libluajit-5.1-dev
+
 script:
   - npm run lint
   - npm run test/coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js
+
+notifications:
+  email:
+    on_success: change
+    on_failure: always

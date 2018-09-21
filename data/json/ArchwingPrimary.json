@@ -1,0 +1,83 @@
+[
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/LaunchGrenade/ArchCannon",
+    "name": "Corvas",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Corvas.png",
+    "wiki": "http://warframe.wikia.com/wiki/Corvas"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
+    "name": "Cyngas",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 4,
+    "image": "/data/img/ArchwingPrimary/Cyngas.png",
+    "wiki": "http://warframe.wikia.com/wiki/Cyngas"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
+    "name": "Dual Decurion",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Dual_Decurion.png",
+    "wiki": "http://warframe.wikia.com/wiki/Dual_Decurion"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
+    "name": "Fluctus",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Fluctus.png",
+    "wiki": "http://warframe.wikia.com/wiki/Fluctus"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
+    "name": "Grattler",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Grattler.png",
+    "wiki": "http://warframe.wikia.com/wiki/Grattler"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
+    "name": "Imperator",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Imperator.png",
+    "wiki": "http://warframe.wikia.com/wiki/Imperator"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
+    "name": "Imperator Vandal",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Imperator_Vandal.png",
+    "wiki": "http://warframe.wikia.com/wiki/Imperator_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
+    "name": "Phaedra",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Phaedra.png",
+    "wiki": "http://warframe.wikia.com/wiki/Phaedra"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
+    "name": "Velocitus",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 0,
+    "image": "/data/img/ArchwingPrimary/Velocitus.png",
+    "wiki": "http://warframe.wikia.com/wiki/Velocitus"
+  }
+]

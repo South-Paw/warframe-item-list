@@ -1,0 +1,965 @@
+[
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/ChainLightningGun/ChainLightningRifle",
+    "name": "Amprex",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Amprex.png",
+    "wiki": "http://warframe.wikia.com/wiki/Amprex"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpShotgun/CrpShotgun",
+    "name": "Arca Plasmor",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Arca_Plasmor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Arca_Plasmor"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/LaserAimRifle/LaserAimRifle",
+    "name": "Argonak",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Argonak.png",
+    "wiki": "http://warframe.wikia.com/wiki/Argonak"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnGlassShotgun/TnGlassShotgunGun",
+    "name": "Astilla",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Astilla.png",
+    "wiki": "http://warframe.wikia.com/wiki/Astilla"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnoPrmryXbow/TnoPrmryXbowWeapon",
+    "name": "Attica",
+    "type": "Primary",
+    "category": "Crossbow",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Attica.png",
+    "wiki": "http://warframe.wikia.com/wiki/Attica"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnSMG/TnSMGWeapon",
+    "name": "Baza",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Baza.png",
+    "wiki": "http://warframe.wikia.com/wiki/Baza"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Shotgun/FullAutoShotgun",
+    "name": "Boar",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 2,
+    "image": "/data/img/Primary/Boar.png",
+    "wiki": "http://warframe.wikia.com/wiki/Boar"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Shotgun/PrimeBoar",
+    "name": "Boar Prime",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 11,
+    "image": "/data/img/Primary/Boar_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Boar_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/BoltoRifle",
+    "name": "Boltor",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 2,
+    "image": "/data/img/Primary/Boltor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Boltor"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeBoltor/PrimeBoltor",
+    "name": "Boltor Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 13,
+    "image": "/data/img/Primary/Boltor_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Boltor_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/Rifle",
+    "name": "Braton",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/Braton.png",
+    "wiki": "http://warframe.wikia.com/wiki/Braton"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/BratonPrime",
+    "name": "Braton Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 8,
+    "image": "/data/img/Primary/Braton_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Braton_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/VIPRifle",
+    "name": "Braton Vandal",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 4,
+    "image": "/data/img/Primary/Braton_Vandal.png",
+    "wiki": "http://warframe.wikia.com/wiki/Braton_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/BurstRifle",
+    "name": "Burston",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/Burston.png",
+    "wiki": "http://warframe.wikia.com/wiki/Burston"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeBurston/PrimeBurston",
+    "name": "Burston Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Burston_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Burston_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnGorgSniperRifle/GrnGorgSniperRifle",
+    "name": "Buzlok",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 11,
+    "image": "/data/img/Primary/Buzlok.png",
+    "wiki": "http://warframe.wikia.com/wiki/Buzlok"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Bows/AntlerBow/AntlerBow",
+    "name": "Cernos",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 6,
+    "image": "/data/img/Primary/Cernos.png",
+    "wiki": "http://warframe.wikia.com/wiki/Cernos"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Bows/PrimeCernos/PrimeCernos",
+    "name": "Cernos Prime",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Cernos_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Cernos_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpSplitLaser/CrpSplitLaser",
+    "name": "Convectrix",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Convectrix.png",
+    "wiki": "http://warframe.wikia.com/wiki/Convectrix"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnHeavyShotgun/TnHeavyShotgunGun",
+    "name": "Corinth",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Corinth.png",
+    "wiki": "http://warframe.wikia.com/wiki/Corinth"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Bows/AsymetricalBow/AsymetricalBow",
+    "name": "Daikyu",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Daikyu.png",
+    "wiki": "http://warframe.wikia.com/wiki/Daikyu"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Energy/EnergyRifle",
+    "name": "Dera",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 4,
+    "image": "/data/img/Primary/Dera.png",
+    "wiki": "http://warframe.wikia.com/wiki/Dera"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Energy/DeraVandal",
+    "name": "Dera Vandal",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Dera_Vandal.png",
+    "wiki": "http://warframe.wikia.com/wiki/Dera_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/DexTheThird/DexTheThird",
+    "name": "Dex Sybaris",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Dex_Sybaris.png",
+    "wiki": "http://warframe.wikia.com/wiki/Dex_Sybaris"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerFlakCannon/FlakCannon",
+    "name": "Drakgoon",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Drakgoon.png",
+    "wiki": "http://warframe.wikia.com/wiki/Drakgoon"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Bows/StalkerBow",
+    "name": "Dread",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Dread.png",
+    "wiki": "http://warframe.wikia.com/wiki/Dread"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/Spears/Railgun/CorpusRailgun",
+    "name": "Ferrox",
+    "type": "Primary",
+    "category": "Speargun",
+    "masteryRank": 14,
+    "image": "/data/img/Primary/Ferrox.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ferrox"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Energy/CrpLaserRifle",
+    "name": "Flux Rifle",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 6,
+    "image": "/data/img/Primary/Flux_Rifle.png",
+    "wiki": "http://warframe.wikia.com/wiki/Flux_Rifle"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpFreezeRay/CrpFreezeRayRifle",
+    "name": "Glaxion",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 8,
+    "image": "/data/img/Primary/Glaxion.png",
+    "wiki": "http://warframe.wikia.com/wiki/Glaxion"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/HeavyRifle",
+    "name": "Gorgon",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 3,
+    "image": "/data/img/Primary/Gorgon.png",
+    "wiki": "http://warframe.wikia.com/wiki/Gorgon"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/WraithGorgon/WraithGorgon",
+    "name": "Gorgon Wraith",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Gorgon_Wraith.png",
+    "wiki": "http://warframe.wikia.com/wiki/Gorgon_Wraith"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/GrnAssaultRifle",
+    "name": "Grakata",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Grakata.png",
+    "wiki": "http://warframe.wikia.com/wiki/Grakata"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARifle",
+    "name": "Grinlok",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Grinlok.png",
+    "wiki": "http://warframe.wikia.com/wiki/Grinlok"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnHarpoonGun/GrnHarpoonGun",
+    "name": "Harpak",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Harpak.png",
+    "wiki": "http://warframe.wikia.com/wiki/Harpak"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Shotgun/QuadShotgun",
+    "name": "Hek",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 4,
+    "image": "/data/img/Primary/Hek.png",
+    "wiki": "http://warframe.wikia.com/wiki/Hek"
+  },
+  {
+    "id": "/Lotus/Weapons/Infested/LongGuns/InfWFAccompanyingPri/InfestedBurstRifle",
+    "name": "Hema",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Hema.png",
+    "wiki": "http://warframe.wikia.com/wiki/Hema"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/BurstRifle/GrnBurstRifle",
+    "name": "Hind",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/Hind.png",
+    "wiki": "http://warframe.wikia.com/wiki/Hind"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Chemical/FlameThrower",
+    "name": "Ignis",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Ignis.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ignis"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Chemical/FlameThrowerWraith",
+    "name": "Ignis Wraith",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 9,
+    "image": "/data/img/Primary/Ignis_Wraith.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ignis_Wraith"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnFlameSpear/GrnFlameSpear",
+    "name": "Javlok",
+    "type": "Primary",
+    "category": "Speargun",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Javlok.png",
+    "wiki": "http://warframe.wikia.com/wiki/Javlok"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/GrineerM16Rifle",
+    "name": "Karak",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 1,
+    "image": "/data/img/Primary/Karak.png",
+    "wiki": "http://warframe.wikia.com/wiki/Karak"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerM16Homage/KarakWraith",
+    "name": "Karak Wraith",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Karak_Wraith.png",
+    "wiki": "http://warframe.wikia.com/wiki/Karak_Wraith"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnSpark/GrnSparkRifle",
+    "name": "Kohm",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Kohm.png",
+    "wiki": "http://warframe.wikia.com/wiki/Kohm"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Energy/Railgun",
+    "name": "Lanka",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Lanka.png",
+    "wiki": "http://warframe.wikia.com/wiki/Lanka"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/SemiAutoRifle",
+    "name": "Latron",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/Latron.png",
+    "wiki": "http://warframe.wikia.com/wiki/Latron"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/LatronPrime",
+    "name": "Latron Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Latron_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Latron_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/WraithLatron/WraithLatron",
+    "name": "Latron Wraith",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Latron_Wraith.png",
+    "wiki": "http://warframe.wikia.com/wiki/Latron_Wraith"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/Bow/Longbow/CrpBow",
+    "name": "Lenz",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 8,
+    "image": "/data/img/Primary/Lenz.png",
+    "wiki": "http://warframe.wikia.com/wiki/Lenz"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/StartingRifle",
+    "name": "MK1-Braton",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/MK1-Braton.png",
+    "wiki": "http://warframe.wikia.com/wiki/MK1-Braton"
+  },
+  {
+    "id": "/Lotus/Weapons/MK1Series/MK1Paris",
+    "name": "MK1-Paris",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/MK1-Paris.png",
+    "wiki": "http://warframe.wikia.com/wiki/MK1-Paris"
+  },
+  {
+    "id": "/Lotus/Weapons/MK1Series/MK1Strun",
+    "name": "MK1-Strun",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/MK1-Strun.png",
+    "wiki": "http://warframe.wikia.com/wiki/MK1-Strun"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSawbladeGun/SawBladeGun",
+    "name": "Miter",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 6,
+    "image": "/data/img/Primary/Miter.png",
+    "wiki": "http://warframe.wikia.com/wiki/Miter"
+  },
+  {
+    "id": "/Lotus/Weapons/Infested/Bow/InfCernosBow/InfCernos",
+    "name": "Mutalist Cernos",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Mutalist_Cernos.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mutalist_Cernos"
+  },
+  {
+    "id": "/Lotus/Weapons/Infested/LongGuns/InfCrpShockSwarm/InfCrpShockSwarmRifle",
+    "name": "Mutalist Quanta",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 2,
+    "image": "/data/img/Primary/Mutalist_Quanta.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mutalist_Quanta"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Chemical/RocketLauncher",
+    "name": "Ogris",
+    "type": "Primary",
+    "category": "Launcher",
+    "masteryRank": 9,
+    "image": "/data/img/Primary/Ogris.png",
+    "wiki": "http://warframe.wikia.com/wiki/Ogris"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/CrpBFG",
+    "name": "Opticor",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 14,
+    "image": "/data/img/Primary/Opticor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Opticor"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/Miter/TnoMiter",
+    "name": "Panthera",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Panthera.png",
+    "wiki": "http://warframe.wikia.com/wiki/Panthera"
+  },
+  {
+    "id": "/Lotus/Weapons/Infested/LongGuns/QuantaFullyInfested/InfQuantaRifle",
+    "name": "Paracyst",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Paracyst.png",
+    "wiki": "http://warframe.wikia.com/wiki/Paracyst"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Bows/HuntingBow",
+    "name": "Paris",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 3,
+    "image": "/data/img/Primary/Paris.png",
+    "wiki": "http://warframe.wikia.com/wiki/Paris"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Bows/PrimeHuntingBow",
+    "name": "Paris Prime",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 8,
+    "image": "/data/img/Primary/Paris_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Paris_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/GrenadeLauncher/GrenadeLauncher",
+    "name": "Penta",
+    "type": "Primary",
+    "category": "Launcher",
+    "masteryRank": 6,
+    "image": "/data/img/Primary/Penta.png",
+    "wiki": "http://warframe.wikia.com/wiki/Penta"
+  },
+  {
+    "id": "/Lotus/Weapons/Infested/LongGuns/Tentacluster/InfestedShotgun",
+    "name": "Phage",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 11,
+    "image": "/data/img/Primary/Phage.png",
+    "wiki": "http://warframe.wikia.com/wiki/Phage"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/RevenantShotgun/RevenantShotgun",
+    "name": "Phantasma",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 9,
+    "image": "/data/img/Primary/Phantasma.png",
+    "wiki": "http://warframe.wikia.com/wiki/Phantasma"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/VoidTraderGorgon/VTGorgon",
+    "name": "Prisma Gorgon",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 11,
+    "image": "/data/img/Primary/Prisma_Gorgon.png",
+    "wiki": "http://warframe.wikia.com/wiki/Prisma_Gorgon"
+  },
+  {
+    "id": "/Lotus/Weapons/VoidTrader/PrismaGrakata",
+    "name": "Prisma Grakata",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 11,
+    "image": "/data/img/Primary/Prisma_Grakata.png",
+    "wiki": "http://warframe.wikia.com/wiki/Prisma_Grakata"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
+    "name": "Prisma Tetra",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 4,
+    "image": "/data/img/Primary/Prisma_Tetra.png",
+    "wiki": "http://warframe.wikia.com/wiki/Prisma_Tetra"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/CrpShockRifle",
+    "name": "Quanta",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 4,
+    "image": "/data/img/Primary/Quanta.png",
+    "wiki": "http://warframe.wikia.com/wiki/Quanta"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpShockRifle/QuantaVandal",
+    "name": "Quanta Vandal",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Quanta_Vandal.png",
+    "wiki": "http://warframe.wikia.com/wiki/Quanta_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnFourBarrelRifle/GrnFourBarrelRifleWeapon",
+    "name": "Quartakk",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Quartakk.png",
+    "wiki": "http://warframe.wikia.com/wiki/Quartakk"
+  },
+  {
+    "id": "/Lotus/Weapons/Syndicates/RedVeil/Bows/RVCernos",
+    "name": "Rakta Cernos",
+    "type": "Primary",
+    "category": "Bow",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Rakta_Cernos.png",
+    "wiki": "http://warframe.wikia.com/wiki/Rakta_Cernos"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/FiveShotSniper/FiveShotSniper",
+    "name": "Rubico",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 6,
+    "image": "/data/img/Primary/Rubico.png",
+    "wiki": "http://warframe.wikia.com/wiki/Rubico"
+  },
+  {
+    "id": "/Lotus/Weapons/Syndicates/NewLoka/LongGuns/NLTigris",
+    "name": "Sancti Tigris",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Sancti_Tigris.png",
+    "wiki": "http://warframe.wikia.com/wiki/Sancti_Tigris"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnPriestSpear/TnPriestSpearGun",
+    "name": "Scourge",
+    "type": "Primary",
+    "category": "Speargun",
+    "masteryRank": 6,
+    "image": "/data/img/Primary/Scourge.png",
+    "wiki": "http://warframe.wikia.com/wiki/Scourge"
+  },
+  {
+    "id": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta",
+    "name": "Secura Penta",
+    "type": "Primary",
+    "category": "Launcher",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Secura_Penta.png",
+    "wiki": "http://warframe.wikia.com/wiki/Secura_Penta"
+  },
+  {
+    "id": "/Lotus/Weapons/Cephalon/Primary/CephPrimary/CephPrimary",
+    "name": "Simulor",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Simulor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Simulor"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/SniperRifle",
+    "name": "Snipetron",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 0,
+    "image": "/data/img/Primary/Snipetron.png",
+    "wiki": "http://warframe.wikia.com/wiki/Snipetron"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/VandalSniperRifle",
+    "name": "Snipetron Vandal",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Snipetron_Vandal.png",
+    "wiki": "http://warframe.wikia.com/wiki/Snipetron_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Shotgun/DoubleBarrelShotgun",
+    "name": "Sobek",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Sobek.png",
+    "wiki": "http://warframe.wikia.com/wiki/Sobek"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/TennoAR",
+    "name": "Soma",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 6,
+    "image": "/data/img/Primary/Soma.png",
+    "wiki": "http://warframe.wikia.com/wiki/Soma"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeSoma/PrimeSomaRifle",
+    "name": "Soma Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Soma_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Soma_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TennoTommyGun/TennoTommyGunRifle",
+    "name": "Stradavar",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 8,
+    "image": "/data/img/Primary/Stradavar.png",
+    "wiki": "http://warframe.wikia.com/wiki/Stradavar"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Shotgun/Shotgun",
+    "name": "Strun",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 1,
+    "image": "/data/img/Primary/Strun.png",
+    "wiki": "http://warframe.wikia.com/wiki/Strun"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Shotgun/ShotgunVandal",
+    "name": "Strun Wraith",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Strun_Wraith.png",
+    "wiki": "http://warframe.wikia.com/wiki/Strun_Wraith"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Energy/CrpHeavyRifle",
+    "name": "Supra",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Supra.png",
+    "wiki": "http://warframe.wikia.com/wiki/Supra"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/Machinegun/SupraVandal",
+    "name": "Supra Vandal",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 14,
+    "image": "/data/img/Primary/Supra_Vandal.png",
+    "wiki": "http://warframe.wikia.com/wiki/Supra_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnoLeverAction/TnoLeverActionRifle",
+    "name": "Sybaris",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Sybaris.png",
+    "wiki": "http://warframe.wikia.com/wiki/Sybaris"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeSybaris/PrimeSybarisRifle",
+    "name": "Sybaris Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Sybaris_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Sybaris_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Infested/LongGuns/InfestedRifle",
+    "name": "Synapse",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 11,
+    "image": "/data/img/Primary/Synapse.png",
+    "wiki": "http://warframe.wikia.com/wiki/Synapse"
+  },
+  {
+    "id": "/Lotus/Weapons/Syndicates/CephalonSuda/LongGuns/CSSimulor",
+    "name": "Synoid Simulor",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Synoid_Simulor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Synoid_Simulor"
+  },
+  {
+    "id": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/LongGuns/AHBoltor",
+    "name": "Telos Boltor",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Telos_Boltor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Telos_Boltor"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnBardRifle/TnBardRifle",
+    "name": "Tenora",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Tenora.png",
+    "wiki": "http://warframe.wikia.com/wiki/Tenora"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/CorpusUMP",
+    "name": "Tetra",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 3,
+    "image": "/data/img/Primary/Tetra.png",
+    "wiki": "http://warframe.wikia.com/wiki/Tetra"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/DrakeRifle/DrakeRifle",
+    "name": "Tiberon",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Tiberon.png",
+    "wiki": "http://warframe.wikia.com/wiki/Tiberon"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeTiberon/PrimeTiberonRifle",
+    "name": "Tiberon Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 14,
+    "image": "/data/img/Primary/Tiberon_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Tiberon_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/DoubleBarrelShotgun/TennoDoubleBarrelShotgun",
+    "name": "Tigris",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Tigris.png",
+    "wiki": "http://warframe.wikia.com/wiki/Tigris"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeTigris/PrimeTigris",
+    "name": "Tigris Prime",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 13,
+    "image": "/data/img/Primary/Tigris_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Tigris_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnGrenadeLauncher/GrnGrenadeLauncher",
+    "name": "Tonkor",
+    "type": "Primary",
+    "category": "Launcher",
+    "masteryRank": 5,
+    "image": "/data/img/Primary/Tonkor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Tonkor"
+  },
+  {
+    "id": "/Lotus/Weapons/ClanTech/Bio/BioWeapon",
+    "name": "Torid",
+    "type": "Primary",
+    "category": "Launcher",
+    "masteryRank": 4,
+    "image": "/data/img/Primary/Torid.png",
+    "wiki": "http://warframe.wikia.com/wiki/Torid"
+  },
+  {
+    "id": "/Lotus/Weapons/Syndicates/SteelMeridian/LongGuns/SMHek",
+    "name": "Vaykor Hek",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Vaykor_Hek.png",
+    "wiki": "http://warframe.wikia.com/wiki/Vaykor_Hek"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Rifle/TennoSniperRifle",
+    "name": "Vectis",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 2,
+    "image": "/data/img/Primary/Vectis.png",
+    "wiki": "http://warframe.wikia.com/wiki/Vectis"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeVectis/PrimeVectisRifle",
+    "name": "Vectis Prime",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 14,
+    "image": "/data/img/Primary/Vectis_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Vectis_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/TnRevolverRifle/TnRevolverRifleGun",
+    "name": "Veldt",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 8,
+    "image": "/data/img/Primary/Veldt.png",
+    "wiki": "http://warframe.wikia.com/wiki/Veldt"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/GrnSniperRifle",
+    "name": "Vulkar",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 3,
+    "image": "/data/img/Primary/Vulkar.png",
+    "wiki": "http://warframe.wikia.com/wiki/Vulkar"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerSniperRifle/VulkarWraith",
+    "name": "Vulkar Wraith",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Vulkar_Wraith.png",
+    "wiki": "http://warframe.wikia.com/wiki/Vulkar_Wraith"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrnCannon/GrnCannonWeapon",
+    "name": "Zarr",
+    "type": "Primary",
+    "category": "Launcher",
+    "masteryRank": 7,
+    "image": "/data/img/Primary/Zarr.png",
+    "wiki": "http://warframe.wikia.com/wiki/Zarr"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/LoginPrimary/SundialRifle",
+    "name": "Zenith",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Zenith.png",
+    "wiki": "http://warframe.wikia.com/wiki/Zenith"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/RepeatingCrossbow/RepeatingCrossbow",
+    "name": "Zhuge",
+    "type": "Primary",
+    "category": "Crossbow",
+    "masteryRank": 10,
+    "image": "/data/img/Primary/Zhuge.png",
+    "wiki": "http://warframe.wikia.com/wiki/Zhuge"
+  }
+]

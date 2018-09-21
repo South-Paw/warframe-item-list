@@ -1,5 +1,8 @@
 {
   "presets": ["env"],
-  "plugins": ["transform-object-rest-spread"],
+  "plugins": [
+    "inline-json",
+    "transform-object-rest-spread"
+  ],
   "ignore": ["__tests__"]
 }

@@ -1,0 +1,42 @@
+[
+  {
+    "id": "/Lotus/Powersuits/Archwing/SupportJetPack/SupportJetPack",
+    "name": "Amesha",
+    "type": "Archwing",
+    "masteryRank": 0,
+    "image": "/data/img/Archwing/Amesha.png",
+    "wiki": "http://warframe.wikia.com/wiki/Amesha"
+  },
+  {
+    "id": "/Lotus/Powersuits/Archwing/DemolitionJetPack/DemolitionJetPack",
+    "name": "Elytron",
+    "type": "Archwing",
+    "masteryRank": 0,
+    "image": "/data/img/Archwing/Elytron.png",
+    "wiki": "http://warframe.wikia.com/wiki/Elytron"
+  },
+  {
+    "id": "/Lotus/Powersuits/Archwing/StealthJetPack/StealthJetPack",
+    "name": "Itzal",
+    "type": "Archwing",
+    "masteryRank": 0,
+    "image": "/data/img/Archwing/Itzal.png",
+    "wiki": "http://warframe.wikia.com/wiki/Itzal"
+  },
+  {
+    "id": "/Lotus/Powersuits/Archwing/StandardJetPack/StandardJetPack",
+    "name": "Odonata",
+    "type": "Archwing",
+    "masteryRank": 0,
+    "image": "/data/img/Archwing/Odonata.png",
+    "wiki": "http://warframe.wikia.com/wiki/Odonata"
+  },
+  {
+    "id": "/Lotus/Powersuits/Archwing/PrimeJetPack/PrimeJetPack",
+    "name": "Odonata Prime",
+    "type": "Archwing",
+    "masteryRank": 0,
+    "image": "/data/img/Archwing/Odonata_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Odonata_Prime"
+  }
+]
