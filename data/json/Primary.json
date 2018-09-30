@@ -639,6 +639,15 @@
     "wiki": "http://warframe.wikia.com/wiki/Rubico"
   },
   {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/RubicoPrimeWeapon",
+    "name": "Rubico Prime",
+    "type": "Primary",
+    "category": "Sniper Rifle",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Rubico_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Rubico_Prime"
+  },
+  {
     "id": "/Lotus/Weapons/Syndicates/NewLoka/LongGuns/NLTigris",
     "name": "Sancti Tigris",
     "type": "Primary",
