@@ -48,6 +48,14 @@
     "wiki": "http://warframe.wikia.com/wiki/Chroma"
   },
   {
+    "id": "/Lotus/Powersuits/Dragon/ChromaPrime",
+    "name": "Chroma Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Chroma_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Chroma_Prime"
+  },
+  {
     "id": "/Lotus/Powersuits/Ember/Ember",
     "name": "Ember",
     "type": "Warframe",
