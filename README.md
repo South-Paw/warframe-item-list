@@ -15,9 +15,9 @@
 
 Because I couldn't find a near complete list of all Warframe items that contributed specifically to player mastery rank... so I originally spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
 
-A fair few commits later, this project uses an updater script which fetches the latest content from the `http://content.warframe.com/MobileExport` endpoints and transforms it into this mastery rank list. This is the same endpoints/urls that the [Warframe Mobile app](https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus) uses to get the current game data - so assuming the endpoints/urls are left as-is, this repo will remain reasonably up to date.
+A fair few commits later, this project now uses an updater script which fetches the latest content from the `http://content.warframe.com/MobileExport` endpoints and transforms it into this mastery rank list. This is the same endpoints/urls that the [Warframe Mobile app](https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus) uses to get the current game data - so assuming those endpoints/urls are left as-is, this repo will remain reasonably up to date.
 
-Please note that the endpoints are NOT publicly documented by Digital Extremes (so they could disappear or change at any time) and they do not provide information such a weapon categories. Because of this, we maintain the categories manually in this repo and there may be mistakes and/or inaccuracies with our data or the endpoint/urls.
+Please note that the endpoints are NOT publicly documented by Digital Extremes (so they could disappear or change at any time) and they do not provide information such a weapon categories. Because of this, we maintain the categories with the help of user maintained information on the wiki. As a consequence, there may be mistakes and/or inaccuracies with our data or the endpoint/urls.
 
 If you come across any missing items, problems or mistakes - please let us know by [creating an issue](https://github.com/South-Paw/warframe-item-list/issues/new) or even [fixing it yourself](https://github.com/South-Paw/warframe-item-list/pulls) with a pull-request. See contributing section for more info.
 
