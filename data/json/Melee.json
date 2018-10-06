@@ -459,6 +459,15 @@
     "wiki": "http://warframe.wikia.com/wiki/Gram"
   },
   {
+    "id": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGram/PrimeGram",
+    "name": "Gram Prime",
+    "type": "Melee",
+    "category": "Heavy Blade",
+    "masteryRank": 14,
+    "image": "/data/img/Melee/Gram_Prime.png",
+    "wiki": "http://warframe.wikia.com/wiki/Gram_Prime"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/Melee/Polearms/TnGuandaoPolearm/TnGuandaoPolearmWeapon",
     "name": "Guandao",
     "type": "Melee",

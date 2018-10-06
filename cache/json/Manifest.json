@@ -2435,6 +2435,26 @@
     "fileTime": 131524868620955650
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageInfestedExpert",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pistol\\PistolDamageInfested.jpeg",
+    "fileTime": 131524868611283580
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageGrineerExpert",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pistol\\PistolDamageGrineer.jpeg",
+    "fileTime": 131524868611283580
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorruptedExpert",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pistol\\PistolDamageCorrupted.jpeg",
+    "fileTime": 131524868611127580
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolFactionDamageCorpusExpert",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pistol\\PistolDamageCorpus.jpeg",
+    "fileTime": 131524868611127580
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Pistol/Expert/WeaponPistolConvertAmmoModExpert",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pistol\\PistolAmmoMutatorMod.jpeg",
     "fileTime": 131524868610971580
@@ -4625,6 +4645,11 @@
     "fileTime": 131524868961349820
   },
   {
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGram/PrimeGram",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\GramPrime.png",
+    "fileTime": 131819470130250300
+  },
+  {
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeGalatine/PrimeGalatine",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\PrimeGalatine.png",
     "fileTime": 131524868962597840
@@ -5053,6 +5078,11 @@
     "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/TennoTommyGun/TennoTommyGunRifle",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\TennoTommyGun.png",
     "fileTime": 131524868977885940
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/RubicoPrime/RubicoPrimeWeapon",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\RubicoPrime.png",
+    "fileTime": 131823772499832340
   },
   {
     "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/RevenantShotgun/RevenantShotgun",
@@ -21450,6 +21480,291 @@
     "fileTime": 131524868794272750
   },
   {
+    "uniqueName": "/Lotus/Powersuits/Dragon/ChromaPrime",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\ChromaPrime.png",
+    "fileTime": 131819470130094300
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonElementalAttack.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonLuckyDragon.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonDragonScales.png",
+    "fileTime": 131524868794272750
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Abilities\\DragonSentient.png",
+    "fileTime": 131524868794272750
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Cowgirl/Cowgirl",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Cowgirl.png",
     "fileTime": 131524868922661580
@@ -27995,6 +28310,11 @@
     "fileTime": 131524868951521760
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/WraithTurbinesScarf",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\WraithHarkonarScarf.png",
+    "fileTime": 131524868982097970
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/UmbraDaxSyandana",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\UmbraDaxSyandana.png",
     "fileTime": 131729838820652140
@@ -28233,6 +28553,11 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeLimboCape",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\LimboPrimeCape.png",
     "fileTime": 131739821008535280
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Scarves/PrimeChromaCape",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\ChromaPrimeCape.png",
+    "fileTime": 131819470130250300
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NezhaDeluxeScarf",
@@ -29018,6 +29343,11 @@
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/ValaPrimeMeleeDangle",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ValaSugatraPrime.png",
     "fileTime": 131524868980069950
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TwitchPrimeMeleeDangle",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\TwitchPrimeMeleeDangle.png",
+    "fileTime": 131819470130250300
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TennoMeleeDangle",
@@ -30460,6 +30790,11 @@
     "fileTime": 131524868920633570
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Dragon/ChromaPrimeHelmet",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\ChromaPrimeHelmet.png",
+    "fileTime": 131819470130250300
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Dragon/ChromaDeluxeSkin",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ChromaDeluxeSkin.png",
     "fileTime": 131524868920633570
@@ -31400,6 +31735,21 @@
     "fileTime": 131524868936077660
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorL",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\ChromaPrimeArmorL.png",
+    "fileTime": 131819470130250300
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorC",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\ChromaPrimeArmorC.png",
+    "fileTime": 131819470130250300
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Armor/ChromaPrimeArmor/ChromaPrimeArmorA",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\ChromaPrimeArmorA.png",
+    "fileTime": 131819470130094300
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Archer/WinterSolsticeSalix",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\WinterSolsticeSalix.png",
     "fileTime": 131524868981941970
@@ -31853,6 +32203,11 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Liset/LisetBlueSkySkinGrineerQueens",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\PlayerShip\\BlueSkyShipGrineerQueensSkin.png",
     "fileTime": 131524868956981810
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Liset/InarosLisetSkin",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\PlayerShip\\InarosLisetSkin.png",
+    "fileTime": 131824572619639790
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Liset/Gyroscope/LisetGyroscopeGrineerQueens",
@@ -34952,7 +35307,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLifeOfRio",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\LifeOfRio.png",
-    "fileTime": 131612239544661890
+    "fileTime": 131823789829359650
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLeyzarViewGaming",
@@ -37090,6 +37445,66 @@
     "fileTime": 131524868984593980
   },
   {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeCSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronA.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeCPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronC.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeCGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronB.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeCBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronD.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeBSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronA.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeBPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronC.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeBGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronB.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeBBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronD.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeASilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronA.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeAPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronC.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeAGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronB.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionChromaPrimeABronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronD.png",
+    "fileTime": 131524868984593980
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/Projections/T4VoidProjectionCSilver",
     "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsIronA.png",
     "fileTime": 131524868984437980
@@ -37870,6 +38285,86 @@
     "fileTime": 131524868984437980
   },
   {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeDSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeDPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldC.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeDGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeDBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldD.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeCSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeCPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldC.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeCGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeCBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldD.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeBSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeBPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldC.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeBGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeBBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldD.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeASilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeAPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldC.png",
+    "fileTime": 131524868984437980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeAGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionChromaPrimeABronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldD.png",
+    "fileTime": 131524868984437980
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/Projections/T3VoidProjectionCSilver",
     "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsGoldA.png",
     "fileTime": 131524868984281980
@@ -38630,6 +39125,86 @@
     "fileTime": 131524868984593980
   },
   {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeDSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverA.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeDPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverC.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeDGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverB.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeDBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverD.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeCSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverA.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeCPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverC.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeCGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverB.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeCBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverD.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeBSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverA.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeBPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverC.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeBGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverB.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeBBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverD.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeASilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverA.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeAPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverC.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeAGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverB.png",
+    "fileTime": 131524868984593980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionChromaPrimeABronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverD.png",
+    "fileTime": 131524868984593980
+  },
+  {
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjectionCSilver",
     "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsSilverA.png",
     "fileTime": 131524868984593980
@@ -39326,6 +39901,86 @@
   },
   {
     "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionDBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeD.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeDSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeDPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeC.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeDGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeDBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeD.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeCSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeCPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeC.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeCGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeCBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeD.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeBSilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeBPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeC.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeBGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeBBronze",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeD.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeASilver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeA.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeAPlatinum",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeC.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeAGold",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeB.png",
+    "fileTime": 131524868984281980
+  },
+  {
+    "uniqueName": "/Lotus/Types/Game/Projections/T1VoidProjectionChromaPrimeABronze",
     "textureLocation": "\\Lotus\\Interface\\Icons\\VoidProjections\\VoidProjectionsBronzeD.png",
     "fileTime": 131524868984281980
   },
@@ -44150,6 +44805,41 @@
     "fileTime": 131524868930617630
   },
   {
+    "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\ChromaPrime.png",
+    "fileTime": 131819470130094300
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeChassisBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWarframePrimeChassis.png",
+    "fileTime": 131524868930617630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeChassisComponent",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWarframePrimeChassis.png",
+    "fileTime": 131524868930617630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeHelmetBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWarframePrimeHelmet.png",
+    "fileTime": 131524868930617630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeHelmetComponent",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWarframePrimeHelmet.png",
+    "fileTime": 131524868930617630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeSystemsBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWarframePrimeSystem.png",
+    "fileTime": 131524868930617630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaPrimeSystemsComponent",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWarframePrimeSystem.png",
+    "fileTime": 131524868930617630
+  },
+  {
     "uniqueName": "/Lotus/Types/Recipes/WarframeRecipes/ChromaSystemsBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWarframeSystem.png",
     "fileTime": 131524868930617630
@@ -46290,6 +46980,16 @@
     "fileTime": 131524868930461630
   },
   {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeBlade",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWeaponPrimeBlade.png",
+    "fileTime": 131524868930773630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GramPrimeHandle",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWeaponPrimeHilt.png",
+    "fileTime": 131524868930773630
+  },
+  {
     "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrineerCombatKnifeBlade",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericWeaponBlade.png",
     "fileTime": 131524868930617630
@@ -46687,6 +47387,21 @@
   {
     "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/PyranaPrimeReceiver",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericGunPrimeReceiver.png",
+    "fileTime": 131524868930461630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RubicoPrimeBarrel",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericGunPrimeBarrel.png",
+    "fileTime": 131524868930461630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RubicoPrimeReceiver",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericGunPrimeReceiver.png",
+    "fileTime": 131524868930461630
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/RubicoPrimeStock",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GenericGunPrimeStock.png",
     "fileTime": 131524868930461630
   },
   {
@@ -47320,6 +48035,11 @@
     "fileTime": 131524868982097970
   },
   {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/GramPrimeBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\GramPrime.png",
+    "fileTime": 131819470130250300
+  },
+  {
     "uniqueName": "/Lotus/Types/Recipes/Weapons/GreatSwordBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GreatSword.png",
     "fileTime": 131524868933113650
@@ -47753,6 +48473,11 @@
     "uniqueName": "/Lotus/Types/Recipes/Weapons/RevolverPistolBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\TennoHandCannon.png",
     "fileTime": 131524868977573940
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/RubicoPrimeBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Primes\\RubicoPrime.png",
+    "fileTime": 131823772499832340
   },
   {
     "uniqueName": "/Lotus/Types/Recipes/Weapons/SicarusPrimeBlueprint",

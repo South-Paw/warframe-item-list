@@ -1,5 +1,5 @@
 {
-  "IgnoreInCount": [ "Rampart", "Dark Split-Sword (Heavy Blade)", "Dark Split-Sword (Dual Swords)", "Cadus", "Carmine Penta", "Prisma Machete", "Dargyn" ],
+  "IgnoreInCount": [ "Rampart", "Dark Split-Sword (Heavy Blade)", "Cadus", "Carmine Penta", "Prisma Machete", "Dargyn", "Artemis Bow (Weapon)", "Dex Pixia", "Regulators (Weapon)", "Diwata", "Exalted Blade (Weapon)", "Iron Staff", "Valkyr Talons" ],
   "Weapons": {
     "Ack & Brunt": {
       "BlockResist": 0.85,
@@ -610,7 +610,7 @@
       "Disposition": 3,
       "Family": "Aklex",
       "Image": "Aklex Prime.png",
-      "Introduced": "[[Update 19#Update 19.8.1|Update 19.8.1]]",
+      "Introduced": "[[Update 19#Hotfix 19.8.1|Hotfix 19.8.1]]",
       "Magazine": 16,
       "Mastery": 15,
       "MaxAmmo": 210,
@@ -1131,6 +1131,7 @@
         "Time": 24
       },
       "Disposition": 5,
+      "Family": "Angstrum",
       "FireRate": 2,
       "Image": "CorpusHandRocket.png",
       "Introduced": "[[Update 13#Update 13.3|Update 13.3]]",
@@ -2307,6 +2308,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Boar",
       "Image": "Boar.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
       "Magazine": 20,
@@ -2369,6 +2371,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Boar",
       "Image": "FixedPrimeBoar.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
       "Magazine": 20,
@@ -3841,7 +3844,7 @@
       "Disposition": 2,
       "Family": "Cernos",
       "Image": "CernosPrime.png",
-      "Introduced": "[[Update 19#Update 19.0.7|Update 19.0.7]]",
+      "Introduced": "[[Update 19#Hotfix 19.0.7|Hotfix 19.0.7]]",
       "Magazine": 1,
       "Mastery": 12,
       "MaxAmmo": 72,
@@ -4944,7 +4947,7 @@
       "Disposition": 4,
       "Family": "Destreza",
       "Image": "DestrezaPrime.png",
-      "Introduced": "[[Update 23#Hotfix 23.0.3|Update 23.0.3]]",
+      "Introduced": "[[Update 23#Hotfix 23.0.3|Hotfix 23.0.3]]",
       "JumpAttack": 152,
       "Mastery": 10,
       "Name": "Destreza Prime",
@@ -5055,7 +5058,7 @@
       "Conclave": true,
       "Disposition": 4,
       "Image": "DexDakra.png",
-      "Introduced": "[[Update 16#Update 16.1.2|Update 16.1.2]]",
+      "Introduced": "[[Update 16#Hotfix 16.1.2|Hotfix 16.1.2]]",
       "JumpAttack": 130,
       "Mastery": 0,
       "Name": "Dex Dakra",
@@ -5141,7 +5144,7 @@
       "Disposition": 2,
       "Family": "Sybaris",
       "Image": "DexSybaris.png",
-      "Introduced": "[[Update 18#Update 18.6.2|Update 18.6.2]]",
+      "Introduced": "[[Update 18#Hotfix 18.6.2|Hotfix 18.6.2]]",
       "Magazine": 14,
       "Mastery": 7,
       "MaxAmmo": 540,
@@ -6429,7 +6432,7 @@
       },
       "Disposition": 2,
       "Image": "EuphoraPrime.png",
-      "Introduced": "[[Update 19#Update 19.11.5|Update 19.11.5]]",
+      "Introduced": "[[Update 19#Hotfix 19.11.5|Hotfix 19.11.5]]",
       "Magazine": 5,
       "Mastery": 14,
       "MaxAmmo": 40,
@@ -6532,6 +6535,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Fang",
       "Image": "DualDaggers.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
       "JumpAttack": 60,
@@ -6577,6 +6581,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Fang",
       "FinisherDamage": 90,
       "Image": "PrimeFang.png",
       "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
@@ -7797,6 +7802,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Gram",
       "FinisherDamage": 200,
       "Image": "DEGram.png",
       "Introduced": "[[Update 6#Update 6.2|Update 6.2]]",
@@ -7819,6 +7825,57 @@
       "Traits": [ "Tenno" ],
       "Type": "Melee",
       "WallAttack": 200
+    },
+    "Gram Prime": {
+      "BlockResist": 0.8,
+      "Class": "Heavy Blade",
+      "Conclave": true,
+      "Cost": {
+        "Rush": 50,
+        "Credits": 15000,
+        "Parts": [
+          {
+            "Type": "PrimePart",
+            "Count": 1,
+            "Name": "Blade"
+          },
+          {
+            "Type": "PrimePart",
+            "Count": 1,
+            "Name": "Handle"
+          },
+          {
+            "Type": "Resource",
+            "Count": 15,
+            "Name": "Orokin Cell"
+          }
+        ],
+        "Time": 12
+      },
+      "Disposition": 5,
+      "Family": "Gram",
+      "Image": "GramPrime.png",
+      "Introduced": "[[Update 23#Update 23.9|Update 23.9]]",
+      "JumpAttack": 180,
+      "Mastery": 14,
+      "Name": "Gram Prime",
+      "NormalAttack": {
+        "CritMultiplier": 2.6,
+        "CritChance": 0.32,
+        "StatusChance": 0.32,
+        "FireRate": 0.8,
+        "Damage": {
+          "Slash": 135,
+          "Puncture": 9,
+          "Impact": 36
+        }
+      },
+      "Polarities": [ "V", "V" ],
+      "SlideAttack": 360,
+      "StancePolarity": "D",
+      "Traits": [ "Tenno" ],
+      "Type": "Melee",
+      "WallAttack": 360
     },
     "Grattler": {
       "Accuracy": 25,
@@ -9931,6 +9988,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Kogake",
       "FinisherDamage": 75,
       "Image": "Kogake0.png",
       "Introduced": "[[Update 8#Update 8.2|Update 8.2]]",
@@ -9981,6 +10039,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Kogake",
       "FinisherDamage": 75,
       "Image": "MirageKogakePrime.png",
       "Introduced": "[[Update 22#Update 22.7|Update 22.7]]",
@@ -10360,7 +10419,7 @@
       "Disposition": 5,
       "Family": "Kronen",
       "Image": "KronenPrime.png",
-      "Introduced": "[[Update 22#Update 22.16.4|Update 22.16.4]]",
+      "Introduced": "[[Update 22#Hotfix 22.16.4|Hotfix 22.16.4]]",
       "JumpAttack": 132,
       "Mastery": 8,
       "Name": "Kronen Prime",
@@ -10742,6 +10801,7 @@
       "Disposition": 5,
       "Family": "Lato",
       "Image": "LatoPrime.png",
+      "Introduced": "[[Closed Beta Updates#Update 5.0|Update 5.0]]",
       "Magazine": 20,
       "Mastery": 14,
       "MaxAmmo": 210,
@@ -13963,6 +14023,7 @@
       "Class": "Pistol",
       "Conclave": true,
       "Disposition": 5,
+      "Family": "Angstrum",
       "FireRate": 2,
       "Image": "PrismaAngstrum.png",
       "Introduced": "[[Update 21#Update 21.7|Update 21.7]]",
@@ -14095,7 +14156,7 @@
       "Disposition": 3,
       "Family": "Grakata",
       "Image": "PrismaGrakata.png",
-      "Introduced": "[[Update 16#Update 16.8.3|Update 16.8.3]]",
+      "Introduced": "[[Update 16#Hotfix 16.8.3|Hotfix 16.8.3]]",
       "Magazine": 120,
       "Mastery": 11,
       "MaxAmmo": 1000,
@@ -14181,7 +14242,7 @@
       "Disposition": 4,
       "Family": "Skana",
       "Image": "PrismaSkana.png",
-      "Introduced": "[[Update 16#Update 16.6.2|Update 16.6.2]]",
+      "Introduced": "[[Update 16#Hotfix 16.6.2|Hotfix 16.6.2]]",
       "JumpAttack": 70,
       "Mastery": 0,
       "Name": "Prisma Skana",
@@ -14207,8 +14268,9 @@
       "Class": "Rifle",
       "Conclave": true,
       "Disposition": 5,
+      "Family": "Tetra",
       "Image": "PrismaTetra.png",
-      "Introduced": "[[Update 17#Update 17.0.5|Update 17.0.5]]",
+      "Introduced": "[[Update 17#Hotfix 17.0.5|Hotfix 17.0.5]]",
       "Magazine": 60,
       "Mastery": 4,
       "MaxAmmo": 540,
@@ -14237,7 +14299,7 @@
       "Disposition": 5,
       "Family": "Twin Gremlins",
       "Image": "PrismaTwinGremlins.png",
-      "Introduced": "[[Update 23#Update 23.4.2|Update 23.4.2]]",
+      "Introduced": "[[Update 23#Hotfix 23.4.2|Hotfix 23.4.2]]",
       "Magazine": 70,
       "Mastery": 11,
       "MaxAmmo": 600,
@@ -14264,7 +14326,7 @@
     "Prisma Veritux": {
       "Family": "Veritux",
       "Image": "PrismaVerituxFix.png",
-      "Introduced": "[[Update 15#Update 15.13.3|Update 15.13.3]]",
+      "Introduced": "[[Update 15#Hotfix 15.13.3|Hotfix 15.13.3]]",
       "JumpAttack": 300,
       "Mastery": 0,
       "Name": "Prisma Veritux",
@@ -14318,6 +14380,7 @@
         "Time": 24
       },
       "Disposition": 4,
+      "Family": "Prova",
       "Image": "Prova8point2.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "JumpAttack": 70,
@@ -14347,6 +14410,7 @@
       "Class": "Machete",
       "Conclave": true,
       "Disposition": 4,
+      "Family": "Prova",
       "Image": "VandalElectroProd.png",
       "Introduced": "[[Update 10#Update 10.5|Update 10.5]]",
       "JumpAttack": 96,
@@ -14463,7 +14527,7 @@
       "Disposition": 4,
       "Family": "Pyrana",
       "Image": "PyranaPrime.png",
-      "Introduced": "[[Update 23#Hotfix 23.0.3|Update 23.0.3]]",
+      "Introduced": "[[Update 23#Hotfix 23.0.3|Hotfix 23.0.3]]",
       "Magazine": 12,
       "Mastery": 13,
       "MaxAmmo": 210,
@@ -15115,6 +15179,7 @@
         "Time": 12
       },
       "Disposition": 3,
+      "Family": "Rubico",
       "Image": "FiveShotSniper.png",
       "Introduced": "[[Update 18#Update 18.0|Update 18.0]]",
       "Magazine": 5,
@@ -15145,6 +15210,71 @@
       "Trigger": "Semi-Auto",
       "Type": "Primary",
       "Zoom": [ "3.5x (+35% Critical multiplier)", "6x (+50% Critical multiplier)" ]
+    },
+    "Rubico Prime": {
+      "Accuracy": 13.3,
+      "Class": "Sniper Rifle",
+      "Conclave": true,
+      "Cost": {
+        "Rush": 50,
+        "Credits": 15000,
+        "Parts": [
+          {
+            "Type": "PrimePart",
+            "Count": 1,
+            "Name": "Stock"
+          },
+          {
+            "Type": "PrimePart",
+            "Count": 1,
+            "Name": "Receiver"
+          },
+          {
+            "Type": "PrimePart",
+            "Count": 1,
+            "Name": "Barrel"
+          },
+          {
+            "Type": "Resource",
+            "Count": 10,
+            "Name": "Orokin Cell"
+          }
+        ],
+        "Time": 12
+      },
+      "Disposition": 3,
+      "Family": "Rubico",
+      "Image": "RubicoPrime.png",
+      "Introduced": "[[Update 23#Update 23.9|Update 23.9]]",
+      "Magazine": 5,
+      "Mastery": 12,
+      "MaxAmmo": 72,
+      "Name": "Rubico Prime",
+      "NormalAttack": {
+        "Damage": {
+          "Slash": 9.3,
+          "Puncture": 28.1,
+          "Impact": 149.6
+        },
+        "CritMultiplier": 3,
+        "PunchThrough": 1,
+        "CritChance": 0.38,
+        "Falloff": {
+          "EndRange": 600,
+          "StartRange": 400
+        },
+        "StatusChance": 0.16,
+        "FireRate": 3.67,
+        "ShotType": "Hit-Scan"
+      },
+      "Polarities": [ "V", "V" ],
+      "Reload": 2,
+      "SniperComboMin": 1,
+      "SniperComboReset": 2,
+      "Traits": [ "Tenno" ],
+      "Trigger": "Semi-Auto",
+      "Type": "Primary",
+      "Zoom": [ "2.5x (+35% Critical multiplier)", "5.0x (+50% Critical multiplier)" ]
     },
     "Sancti Castanas": {
       "Accuracy": 100,
@@ -16300,6 +16430,7 @@
       "Disposition": 4,
       "Family": "Skana",
       "Image": "SkanaPrime.png",
+      "Introduced": "[[Closed Beta Updates#Update 5.0|Update 5.0]]",
       "JumpAttack": 84,
       "Mastery": 0,
       "Name": "Skana Prime",
@@ -16444,7 +16575,7 @@
       "Disposition": 4,
       "Family": "Snipetron",
       "Image": "DESnipertronVandal.png",
-      "Introduced": "[[Update 8#Update 8.3.2|Update 8.3.2]]",
+      "Introduced": "[[Update 8#Hotfix 8.3.2|Hotfix 8.3.2]]",
       "Magazine": 6,
       "Mastery": 5,
       "MaxAmmo": 72,
@@ -16824,6 +16955,7 @@
         "Time": 12
       },
       "Disposition": 1,
+      "Family": "Spira",
       "Image": "LiDagger.png",
       "Introduced": "[[Update 17#Update 17.4.5|Update 17.4.5]]",
       "Magazine": 10,
@@ -16876,8 +17008,9 @@
         "Time": 12
       },
       "Disposition": 1,
+      "Family": "Spira",
       "Image": "PrimeLiDagger.png",
-      "Introduced": "[[Update 18#Update 18.4.12|Update 18.4.12]]",
+      "Introduced": "[[Update 18#Hotfix 18.4.12|Hotfix 18.4.12]]",
       "Magazine": 12,
       "Mastery": 10,
       "MaxAmmo": 210,
@@ -17333,6 +17466,7 @@
         "Time": 24
       },
       "Disposition": 4,
+      "Family": "Supra",
       "Image": "CorpusMachineGun.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 180,
@@ -17363,6 +17497,7 @@
       "Class": "Rifle",
       "Conclave": true,
       "Disposition": 4,
+      "Family": "Supra",
       "Image": "SupraVandal.png",
       "Introduced": "[[Update 20#Update 20.4|Update 20.4]]",
       "Magazine": 300,
@@ -18096,6 +18231,7 @@
         "Time": 24
       },
       "Disposition": 5,
+      "Family": "Tetra",
       "Image": "DETetra.png",
       "Introduced": "[[Update 11#Update 11.8|Update 11.8]]",
       "Magazine": 60,
@@ -18155,6 +18291,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Tiberon",
       "Image": "Tiberon.png",
       "Introduced": "[[Update 14#Update 14.9|Update 14.9]]",
       "Magazine": 30,
@@ -18238,6 +18375,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Tiberon",
       "Image": "TiberonPrime.png",
       "Introduced": "[[Update 22#Hotfix 22.16.4|Hotfix 22.16.4]]",
       "Magazine": 42,
@@ -18795,6 +18933,7 @@
         "Time": 24
       },
       "Disposition": 5,
+      "Family": "Twin Gremlins",
       "Image": "Gremlin.png",
       "Introduced": "[[Update 9#Update 9.5|Update 9.5]]",
       "Magazine": 30,
@@ -18983,6 +19122,7 @@
       },
       "Disposition": 3,
       "Image": "GrnQueenGuardDualPistols.png",
+      "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "Magazine": 2,
       "Mastery": 9,
       "MaxAmmo": 120,
@@ -19043,6 +19183,7 @@
       "Disposition": 5,
       "Family": "Twin Vipers",
       "Image": "Viper, dual.png",
+      "Introduced": "[[Update 7#Hotfix 7.7.3|Hotfix 7.7.3]]",
       "Magazine": 28,
       "Mastery": 5,
       "MaxAmmo": 420,
@@ -19063,8 +19204,7 @@
       "Reload": 2,
       "Traits": [ "Grineer" ],
       "Trigger": "Auto",
-      "Type": "Secondary",
-      "dual": "[[Update 7#Update 7.7.3|Update 7.7.3]]"
+      "Type": "Secondary"
     },
     "Twin Vipers Wraith": {
       "Accuracy": 11.1,
@@ -19755,7 +19895,7 @@
       "Disposition": 1,
       "Family": "Venka",
       "Image": "VenkaPrime.png",
-      "Introduced": "[[Update 19#Update 19.0.7|Update 19.0.7]]",
+      "Introduced": "[[Update 19#Hotfix 19.0.7|Hotfix 19.0.7]]",
       "JumpAttack": 110,
       "Mastery": 8,
       "Name": "Venka Prime",
@@ -19835,6 +19975,7 @@
         "Time": 12
       },
       "Disposition": 5,
+      "Family": "Viper",
       "Image": "Viper.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
       "Magazine": 14,
@@ -19865,6 +20006,7 @@
       "Class": "Pistol",
       "Conclave": true,
       "Disposition": 5,
+      "Family": "Viper",
       "Image": "ViperWraith.png",
       "Introduced": "[[Update 22#Hotfix 22.8.4|Hotfix 22.8.4]]",
       "Magazine": 20,

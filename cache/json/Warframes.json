@@ -1857,7 +1857,7 @@
   {
     "uniqueName": "/Lotus/Powersuits/Dragon/Dragon",
     "name": "CHROMA",
-    "parentName": "/Lotus/Types/Game/PowerSuits/PlayerPowerSuit",
+    "parentName": "/Lotus/Powersuits/Dragon/DragonBaseSuit",
     "description": "A master of the deadly elements, Chroma can alter his damage output by changing his energy color.",
     "longDescription": "",
     "health": 100,
@@ -1865,6 +1865,41 @@
     "armor": 350,
     "stamina": 3,
     "power": 150,
+    "codexSecret": false,
+    "abilities": [
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonBreathAbility",
+        "abilityName": "Spectral Scream",
+        "description": "Exhale a deep breath of elemental destruction. Chroma's energy color determines the element."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonLuckAbility",
+        "abilityName": "Elemental Ward",
+        "description": "Depending on Chroma's elemental alignment, an offensive area-of-effect is created. Chroma and its nearby allies are imbued with defensive energy."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonScalesAbility",
+        "abilityName": "Vex Armor",
+        "description": "When shields are hit, Chroma's armor grows stronger, when health takes a hit, weapon damage increases."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
+        "abilityName": "Effigy",
+        "description": "Chroma turns his pelt into a massive sentry that strengthens nearby allies and engulfs enemies in elemental attacks."
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Dragon/ChromaPrime",
+    "name": "CHROMA PRIME",
+    "parentName": "/Lotus/Powersuits/Dragon/DragonBaseSuit",
+    "description": "Bind the elements and unleash untold destruction with Chroma Prime. Featuring altered mod polarities for greater customization.",
+    "longDescription": "",
+    "health": 100,
+    "shield": 100,
+    "armor": 425,
+    "stamina": 3,
+    "power": 200,
     "codexSecret": false,
     "abilities": [
       {
