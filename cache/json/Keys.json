@@ -96,6 +96,14 @@
     "codexSecret": false
   },
   {
+    "uniqueName": "/Lotus/Types/Keys/ChimeraQuest/ChimeraKeyChain",
+    "name": "CHIMERA PROLOGUE",
+    "description": "Investigate your personal quarters upon completion of The Sacrifice.",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": true
+  },
+  {
     "uniqueName": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
     "name": "THE NEW STRANGE",
     "description": "Work with Cephalon Simaris to find the source of a mysterious voice.",
@@ -203,6 +211,14 @@
     "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
     "name": "CHAINS OF HARROW",
     "description": "A strange transmission leads deep into the dark world of Red Veil mysticism. What evils will be found there and what do they want?",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
+    "name": "MASK OF THE REVENANT",
+    "description": "The Unum chooses Nakak to receive a strange mask. A mask that leads to even stranger visions. What lost story does the Unum want to tell?",
     "longDescription": "",
     "parentName": "",
     "codexSecret": false

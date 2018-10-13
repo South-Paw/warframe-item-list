@@ -345,6 +345,11 @@
     "fileTime": 131524868604731540
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarResistanceOnDamageMod",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AvatarMods\\AvatarResistanceOnDamageMod.jpeg",
+    "fileTime": 131832588588020590
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarProcTimeMod",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AvatarMods\\AvatarProcTimeMod.jpeg",
     "fileTime": 131524868604263540
@@ -393,6 +398,16 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarKnockdownRecoveryMod",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AvatarMods\\NinjaRecoveryMod.jpeg",
     "fileTime": 131524868604731540
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarInvulnOnRollMod",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AvatarMods\\AvatarInvulnOnRollMod.jpeg",
+    "fileTime": 131832588588020590
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarHolsterDamageMod",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\AvatarMods\\AvatarHolsterDamageMod.jpeg",
+    "fileTime": 131832588587864590
   },
   {
     "uniqueName": "/Lotus/Upgrades/Mods/Warframe/AvatarHealthMaxMod",
@@ -1285,6 +1300,11 @@
     "fileTime": 131524868617367620
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponResistSelfDamageMod",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Rifle\\WeaponResistSelfDamageMod.jpeg",
+    "fileTime": 131832588588176590
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Rifle/WeaponReloadSpeedMod",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Rifle\\RifleReloadSpeedMod.jpeg",
     "fileTime": 131524868617523630
@@ -1448,6 +1468,11 @@
     "uniqueName": "/Lotus/Upgrades/Mods/Rifle/EventSniperReloadDamageMod",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Rifle\\RifleChargedChamberMod.jpeg",
     "fileTime": 131524868617367620
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/Rifle/EnergyOnHeadshotRifle",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Rifle\\EnergyOnHeadshotRifle.jpeg",
+    "fileTime": 131832588588176590
   },
   {
     "uniqueName": "/Lotus/Upgrades/Mods/Rifle/BowExplosionChanceMod",
@@ -3030,6 +3055,11 @@
     "fileTime": 131524868607539570
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Mods/Aura/AvatarAuraPowerMaxMod",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Auras\\AvatarAuraPowerMaxMod.jpeg",
+    "fileTime": 131832588587708590
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Mods/Aura/FairyQuest/FairyQuestThornsAuraMod",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Auras\\FairyQuestStandUnited.jpeg",
     "fileTime": 131524868603639540
@@ -3370,6 +3400,11 @@
     "fileTime": 131524868609411570
   },
   {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/ItemDropOnAssist",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pets\\ItemDropOnAssist.jpeg",
+    "fileTime": 131832588588020590
+  },
+  {
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/HeadShot",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pets\\ArcDroneHeadshot.jpeg",
     "fileTime": 131524868609255570
@@ -3378,6 +3413,11 @@
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Guardian",
     "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pets\\SentinelGaurdianMod.jpeg",
     "fileTime": 131524868609723570
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/GhostAugmentCard",
+    "textureLocation": "\\Lotus\\Interface\\Cards\\Images\\Pets\\GhostAugmentCard.jpeg",
+    "fileTime": 131832588588020590
   },
   {
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPrecepts/Ghost",
@@ -5420,9 +5460,9 @@
     "fileTime": 131524868976325920
   },
   {
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/LotusModularWeapon",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Weapons\\Modular\\ModularWeaponGeneral.png",
-    "fileTime": 131540477961210600
+    "uniqueName": "/Lotus/Weapons/Orokin/BallasSword/BallasSwordWeapon",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\BallasSword.png",
+    "fileTime": 131832588609236720
   },
   {
     "uniqueName": "/Lotus/Weapons/MK1Series/MK1Strun",
@@ -5493,6 +5533,11 @@
     "uniqueName": "/Lotus/Weapons/Infested/Melee/Swords/Mios/Mios",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Mios.png",
     "fileTime": 131524868946685730
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Infested/Melee/Staff/InfStaff/InfStaff",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\InfStaff.png",
+    "fileTime": 131832588609548720
   },
   {
     "uniqueName": "/Lotus/Weapons/Infested/Melee/InfWFAccompanyingSparring/InfestedKogake",
@@ -5883,6 +5928,11 @@
     "uniqueName": "/Lotus/Weapons/Corpus/Melee/Hammer/CorpusHammerWeapon",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\CrpHammer.png",
     "fileTime": 131524868923129580
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGlaive/CrpGlaive",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\CrpGlaive.png",
+    "fileTime": 131832588609236720
   },
   {
     "uniqueName": "/Lotus/Weapons/Corpus/Melee/CrpTonfa/CrpTonfa",
@@ -24431,8 +24481,8 @@
   },
   {
     "uniqueName": "/Lotus/Types/Enemies/Sentients/Mimics/SentientTrooperMimicAvatar",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Sentients\\SentientTrooper.png",
-    "fileTime": 131524868894269390
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Sentients\\SentientMimicTrooper.png",
+    "fileTime": 131837616846191780
   },
   {
     "uniqueName": "/Lotus/Types/Enemies/TennoReplicants/TennoReplicantChromaAvatar",
@@ -26815,6 +26865,11 @@
     "fileTime": 131524868893957390
   },
   {
+    "uniqueName": "/Lotus/Types/Enemies/Corpus/Drones/AIWeek/CorpusEliteShieldDroneAvatar",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Syndicates\\ArbiterDrone.png",
+    "fileTime": 131832588608924720
+  },
+  {
     "uniqueName": "/Lotus/Types/Enemies/Grineer/SpecialEvents/GrineerArtificerAvatar",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\Grineer\\GrineerArtificer.png",
     "fileTime": 131524868890057380
@@ -26895,9 +26950,19 @@
     "fileTime": 131648415302718540
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/Machete/GrnGunStockClubSkin",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\GrnGunStockClub.png",
+    "fileTime": 131832588609236720
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Weapons/LongGuns/SolsticeBurston",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\SolsticeBurstonSkin.png",
     "fileTime": 131524868968993870
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Weapons/DualDaggers/TnMilitaryDualDaggerSkin",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\TnMilitaryDagger.png",
+    "fileTime": 131832588610796740
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Volt/VoltPrimeHelmet",
@@ -27448,6 +27513,11 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoLive2015Sigil",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Sigils\\TennoLive2015.png",
     "fileTime": 131524868914081520
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoGenSigil",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Sigils\\TennoGenSigil.png",
+    "fileTime": 131832588609236720
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Sigils/TennoCon2018Sigil",
@@ -29347,7 +29417,7 @@
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TwitchPrimeMeleeDangle",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\TwitchPrimeMeleeDangle.png",
-    "fileTime": 131819470130250300
+    "fileTime": 131832588610796740
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/MeleeDangles/TennoMeleeDangle",
@@ -30185,6 +30255,11 @@
     "fileTime": 131524868936545660
   },
   {
+    "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDread",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\HalloweenDread.png",
+    "fileTime": 131832588609392720
+  },
+  {
     "uniqueName": "/Lotus/Upgrades/Skins/Halloween/HalloweenDragonNikana",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\HalloweenDragonNikana.png",
     "fileTime": 131524868936233660
@@ -30626,8 +30701,8 @@
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmetAlt",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ExcaliburAltHelmet.png",
-    "fileTime": 131524868926873600
+    "textureLocation": "\\Lotus\\Interface\\Icons\\StoreIcons\\Warframes\\Skins\\Excalibur\\ExcaliburAvalonHelmet.png",
+    "fileTime": 131832588613136750
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Excalibur/ExcaliburHelmet",
@@ -31203,6 +31278,11 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/ExcavationEvenetBadgeItem",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ExcavationEventBadge.png",
     "fileTime": 131524868927029620
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Skins/Clan/EliteAlertBadgeItem",
+    "textureLocation": "\\Lotus\\Materials\\Emblems\\EliteAlertIcon.png",
+    "fileTime": 131832590051465970
   },
   {
     "uniqueName": "/Lotus/Upgrades/Skins/Clan/CorpusVoidBadgeItem",
@@ -34260,6 +34340,11 @@
     "fileTime": 131524868903473460
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLotusGuide",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\LotusGuide.png",
+    "fileTime": 131836814400278340
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageLokiChibi",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\LokiChibi.png",
     "fileTime": 131524868905033470
@@ -34333,6 +34418,11 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageItem1",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Icon01.png",
     "fileTime": 131524868904721470
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInktober",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Inktober.png",
+    "fileTime": 131832588609080720
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageInarosScarabs",
@@ -34503,6 +34593,36 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphKiradien",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\GalaxyGlyph.png",
     "fileTime": 131776290628651970
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphDesignerVentersVolt",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Tennogen\\VentersVolt.png",
+    "fileTime": 131835904059355500
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphDesignerVentersRegor",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Tennogen\\VentersRegor.png",
+    "fileTime": 131835904059355500
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphDesignerVentersMirage",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Tennogen\\VentersMirage.png",
+    "fileTime": 131835904059355500
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphDesignerVentersHek",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Tennogen\\VentersHek.png",
+    "fileTime": 131832588609080720
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphDesignerVentersEmber",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Tennogen\\VentersEmber.png",
+    "fileTime": 131835904059355500
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphDesignerVentersAtlas",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Tennogen\\VentersAtlas.png",
+    "fileTime": 131835904059355500
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphDesignerTreshLotus",
@@ -34745,6 +34865,11 @@
     "fileTime": 131524868903161460
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageChatModerator",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ChatModerator.png",
+    "fileTime": 131836814400278340
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageBaroIcon",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\GlyphBaro.png",
     "fileTime": 131524868903161460
@@ -34930,6 +35055,11 @@
     "fileTime": 131625843758682780
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTennoGen",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\Tennogen\\TennoGen.png",
+    "fileTime": 131832588609080720
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTeawrex",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Teawrex.png",
     "fileTime": 131775252615873440
@@ -34995,6 +35125,11 @@
     "fileTime": 131612239546221900
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSmoodie",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Smoodie.png",
+    "fileTime": 131832588609080720
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSmashley",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Smashley.png",
     "fileTime": 131612239546221900
@@ -35035,9 +35170,19 @@
     "fileTime": 131612239546221900
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShanksy",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Shanksy.png",
+    "fileTime": 131832588609080720
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageShadowFoxx",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\ShadowFoxx086.png",
     "fileTime": 131612239546221900
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSerganlkari",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\SerganIkari.png",
+    "fileTime": 131832588609080720
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSerafimPT",
@@ -35053,6 +35198,11 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSealsdie",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Sealsdie.png",
     "fileTime": 131795113676391740
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSapmatic",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Sapmatic.png",
+    "fileTime": 131832588609080720
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSabuuchi",
@@ -35168,6 +35318,11 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImagePartner",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Partner.png",
     "fileTime": 131729838817844130
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageOriginalGamers",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\OriginalGamers.png",
+    "fileTime": 131832588609080720
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageOmniVoice",
@@ -35385,6 +35540,11 @@
     "fileTime": 131612239544349890
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIwoply",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Iwoply.png",
+    "fileTime": 131832588609080720
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageIvorysMoon",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\IvorysMoon.png",
     "fileTime": 131612239544349890
@@ -35487,7 +35647,7 @@
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageGara",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Gara.png",
-    "fileTime": 131612239543881890
+    "fileTime": 131832588608924720
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageGamingBitches",
@@ -35568,6 +35728,11 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDimitriVTwo",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\DimitriV2.png",
     "fileTime": 131612239542945870
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDeuceTheGamer",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\DeuceTheGamer.png",
+    "fileTime": 131832588608924720
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDesRPG",
@@ -35750,6 +35915,11 @@
     "fileTime": 131612239540761860
   },
   {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBadNewsBaron",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\BadNewsBaron.png",
+    "fileTime": 131832588608924720
+  },
+  {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageBackyardisTV",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\BackyardisTV.png",
     "fileTime": 131695871137669820
@@ -35808,6 +35978,11 @@
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAlexandraLive",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\AlexandraLive.png",
     "fileTime": 131612239540293860
+  },
+  {
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAjingom",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Player\\ContentCreators\\Ajingom.png",
+    "fileTime": 131832588608924720
   },
   {
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAeonKnight",
@@ -36400,6 +36575,11 @@
     "fileTime": 131524868917981550
   },
   {
+    "uniqueName": "/Lotus/Types/Restoratives/Consumable/MapMarker",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\AlloyPlate.png",
+    "fileTime": 131524868915641540
+  },
+  {
     "uniqueName": "/Lotus/Types/Restoratives/Consumable/MacheteWomanBall",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Npcs\\MacheteWomanAvatar.png",
     "fileTime": 131524868891617380
@@ -36678,6 +36858,31 @@
     "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/MarketTier1FusionBundle",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Miscellaneous\\EndoSmall.png",
     "fileTime": 131524868884285330
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/LoginRewardFusionBundle",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\EndoIconRenderLarge.png",
+    "fileTime": 131524868926093600
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EvergreenLoginRewardFusionBundle",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\EndoIconRenderLarge.png",
+    "fileTime": 131524868926093600
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EliteAlertFusionBundleSmall",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\EndoIconRenderLarge.png",
+    "fileTime": 131524868926093600
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EliteAlertFusionBundleMedium",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\EndoIconRenderLarge.png",
+    "fileTime": 131524868926093600
+  },
+  {
+    "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EliteAlertFusionBundleLarge",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\EndoIconRenderLarge.png",
+    "fileTime": 131524868926093600
   },
   {
     "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/CommonFusionBundle",
@@ -41930,6 +42135,11 @@
     "fileTime": 131524868925625600
   },
   {
+    "uniqueName": "/Lotus/Types/Items/MiscItems/Elitium",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Elitium.png",
+    "fileTime": 131832588609236720
+  },
+  {
     "uniqueName": "/Lotus/Types/Items/MiscItems/Eventium",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\Eventium.png",
     "fileTime": 131524868926561600
@@ -42760,6 +42970,11 @@
     "fileTime": 131524868946529730
   },
   {
+    "uniqueName": "/Lotus/Types/Keys/ChimeraQuest/ChimeraKeyChain",
+    "textureLocation": "\\Lotus\\Interface\\Quests\\ChimeraKeyChain.png",
+    "fileTime": 131836814400590340
+  },
+  {
     "uniqueName": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
     "textureLocation": "\\Lotus\\Interface\\Quests\\ChromaQuestKeyChain.png",
     "fileTime": 131705322608592620
@@ -42848,6 +43063,11 @@
     "uniqueName": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
     "textureLocation": "\\Lotus\\Interface\\Quests\\PriestQuestKeyChain.png",
     "fileTime": 131705322610776640
+  },
+  {
+    "uniqueName": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
+    "textureLocation": "\\Lotus\\Interface\\Quests\\RevenantQuestKeyChain.png",
+    "fileTime": 131835904060759500
   },
   {
     "uniqueName": "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyChain",
@@ -43218,6 +43438,11 @@
     "uniqueName": "/Lotus/Types/Recipes/Components/CorruptedLancerBallBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\BallSpawnerCorruptedLancer.png",
     "fileTime": 131524868917981550
+  },
+  {
+    "uniqueName": "/Lotus/Types/Recipes/Components/EliteAlertShipDecoBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\PlayerShip\\Decorations\\EliteAlertShipDeco.png",
+    "fileTime": 131837537953368690
   },
   {
     "uniqueName": "/Lotus/Types/Recipes/Components/FormaBlueprint",
@@ -43746,8 +43971,8 @@
   },
   {
     "uniqueName": "/Lotus/Types/Recipes/Helmets/ExcaliburAltHelmetBlueprint",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\ExcaliburAltHelmet.png",
-    "fileTime": 131524868926873600
+    "textureLocation": "\\Lotus\\Interface\\Icons\\StoreIcons\\Warframes\\Skins\\Excalibur\\ExcaliburAvalonHelmet.png",
+    "fileTime": 131832588613136750
   },
   {
     "uniqueName": "/Lotus/Types/Recipes/Helmets/ExcaliburMordredHelmetBlueprint",
@@ -47695,6 +47920,11 @@
     "fileTime": 131524868917825550
   },
   {
+    "uniqueName": "/Lotus/Types/Recipes/Weapons/BallasSwordBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\BallasSword.png",
+    "fileTime": 131832588609236720
+  },
+  {
     "uniqueName": "/Lotus/Types/Recipes/Weapons/BoarPrimeBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\PrimeBoar.png",
     "fileTime": 131524868961037820
@@ -48800,11 +49030,6 @@
     "fileTime": 131524868964937860
   },
   {
-    "uniqueName": "/Lotus/Types/Recipes/CosmeticEnhancerBlueprint",
-    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\CosmeticEnhancer.png",
-    "fileTime": 131524868922505580
-  },
-  {
     "uniqueName": "/Lotus/Types/Recipes/CronusBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\SwordCeramic_d.png",
     "fileTime": 131524868976325920
@@ -49285,6 +49510,11 @@
     "fileTime": 131524868938105680
   },
   {
+    "uniqueName": "/Lotus/Weapons/ClanTech/Bio/InfStaffWeaponBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\InfStaff.png",
+    "fileTime": 131832588609548720
+  },
+  {
     "uniqueName": "/Lotus/Weapons/ClanTech/Bio/InfVomitPistolBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\InfVomitGun.png",
     "fileTime": 131524868938261680
@@ -49488,6 +49718,11 @@
     "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpFreezeRayRifleBlueprint",
     "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\CrpFreezeRayRifle.png",
     "fileTime": 131524868923129580
+  },
+  {
+    "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpGlaiveBlueprint",
+    "textureLocation": "\\Lotus\\Interface\\Icons\\Store\\CrpGlaive.png",
+    "fileTime": 131832588609236720
   },
   {
     "uniqueName": "/Lotus/Weapons/ClanTech/Energy/CrpHeavyRifleBlueprint",

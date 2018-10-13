@@ -195,7 +195,7 @@
         "Time": 12
       },
       "Image": "ArchHookSword.png",
-      "Introduced": "[[Update_19#Update:_Specters_of_the_Rail|Specters of the Rail]]",
+      "Introduced": "[[Update 19#Update: Specters of the Rail|Update: Specters of the Rail]]",
       "JumpAttack": 350,
       "Mastery": 0,
       "Name": "Agkuza",
@@ -2833,7 +2833,7 @@
       "Conclave": true,
       "Disposition": 4,
       "Image": "GrnQueenSceptre.png",
-      "Introduced": "[[Update 19#Update: The War Within|Update: The War Within]]",
+      "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "JumpAttack": 120,
       "Mastery": 5,
       "Name": "Broken Scepter",
@@ -3491,7 +3491,7 @@
       },
       "Disposition": 4,
       "Image": "EmbolistScythe.png",
-      "Introduced": "[[Update 19#Update: The Index Preview|The Index Preview]]",
+      "Introduced": "[[Update 19#Update: The Index Preview|Update: The Index Preview]]",
       "JumpAttack": 150,
       "JumpElement": "Corrosive",
       "Mastery": 7,
@@ -4291,7 +4291,7 @@
         "Time": 12
       },
       "Image": "ArchBurstGun.png",
-      "Introduced": "[[Update 19#Update: Specters of the Rail|Specters of the Rail]]",
+      "Introduced": "[[Update 19#Update: Specters of the Rail|Update: Specters of the Rail]]",
       "Magazine": 30,
       "Mastery": 4,
       "Name": "Cyngas",
@@ -4483,6 +4483,7 @@
         "Time": 12
       },
       "Disposition": 1,
+      "Family": "Dark Dagger",
       "Image": "DarkDagger.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
       "JumpAttack": 70,
@@ -4674,7 +4675,7 @@
       "Disposition": 4,
       "Family": "Deconstructor",
       "Image": "DeconstructorPrime.png",
-      "Introduced": "[[Update 19#Update 19.11.5|Update 19.11.5]]",
+      "Introduced": "[[Update 19#Hotfix 19.11.5|Hotfix 19.11.5]]",
       "Magazine": 6,
       "Mastery": 8,
       "Name": "Deconstructor Prime",
@@ -6501,6 +6502,54 @@
       "Type": "Melee",
       "WallAttack": 1000
     },
+    "Falcor": {
+      "BlockResist": 0.35,
+      "ChargedThrowAttack": {
+        "CritMultiplier": 1.8,
+        "PunchThrough": 1,
+        "CritChance": 0.14,
+        "Damage": {
+          "Electricity": 895,
+          "Slash": 180,
+          "Puncture": 180,
+          "Impact": 110
+        },
+        "StatusChance": 0.3
+      },
+      "Class": "Glaive",
+      "Image": "CrpGlaive.png",
+      "Introduced": "[[Update_23#Update_23.10|Update 23.10]]",
+      "JumpAttack": 78,
+      "Mastery": 8,
+      "Name": "Falcor",
+      "NormalAttack": {
+        "CritMultiplier": 1.6,
+        "CritChance": 0.12,
+        "StatusChance": 0.28,
+        "FireRate": 0.833,
+        "Damage": {
+          "Electricity": 28,
+          "Slash": 34,
+          "Puncture": 4,
+          "Impact": 12
+        }
+      },
+      "SlideAttack": 390,
+      "ThrowAttack": {
+        "StatusChance": 0.28,
+        "Damage": {
+          "Electricity": 435,
+          "Slash": 100,
+          "Puncture": 80,
+          "Impact": 50
+        },
+        "CritMultiplier": 1.6,
+        "CritChance": 0.12
+      },
+      "Traits": [ "Corpus" ],
+      "Type": "Melee",
+      "WallAttack": 234
+    },
     "Fang": {
       "BlockResist": 0.35,
       "Class": "Dual Daggers",
@@ -7299,6 +7348,7 @@
         "Time": 12
       },
       "Disposition": 1,
+      "Family": "Gammacor",
       "Image": "Gammacor.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
       "Magazine": 60,
@@ -7358,7 +7408,7 @@
       },
       "Disposition": 5,
       "Image": "DjinnMachete.png",
-      "Introduced": "[[Update 19#Update: The Vacuum Within|The Vacuum Within]]",
+      "Introduced": "[[Update 19#Update: The Vacuum Within|Update: The Vacuum Within]]",
       "JumpAttack": 104,
       "Mastery": 5,
       "Name": "Gazal Machete",
@@ -8549,7 +8599,7 @@
       "Disposition": 3,
       "Family": "Heliocor",
       "Image": "CephHammer.png",
-      "Introduced": "[[Update 19#Update: Specters of the Rail 1|Update: Specters of the Rail 1]]",
+      "Introduced": "[[Update 19#Update: Specters of the Rail 1.0|Update: Specters of the Rail 1.0]]",
       "JumpAttack": 280,
       "Mastery": 9,
       "Name": "Heliocor",
@@ -9739,7 +9789,7 @@
       },
       "Disposition": 4,
       "Image": "GrnHalberd.png",
-      "Introduced": "[[Update 19#Update: The War Within|Update: The War Within]]",
+      "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "JumpAttack": 210,
       "Mastery": 7,
       "Name": "Kesheg",
@@ -12749,7 +12799,7 @@
       },
       "Disposition": 3,
       "Image": "CorpusTonfa.png",
-      "Introduced": "[[Update 19#Update 19.7.0|Update 19.7.0]]",
+      "Introduced": "[[Update 19#Update 19.7|Update 19.7]]",
       "JumpAttack": 200,
       "JumpElement": "Electricity",
       "Mastery": 8,
@@ -12808,7 +12858,7 @@
       },
       "Disposition": 5,
       "Image": "TennoSais.png",
-      "Introduced": "[[Update 19#Update: Specters of the Rail|Specters of the Rail]]",
+      "Introduced": "[[Update 19#Update: Specters of the Rail|Update: Specters of the Rail]]",
       "JumpAttack": 80,
       "Mastery": 5,
       "Name": "Okina",
@@ -13104,7 +13154,7 @@
       },
       "Disposition": 4,
       "Image": "TeshinGlaive.png",
-      "Introduced": "[[Update 19#Update: The War Within|Update: The War Within]]",
+      "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "JumpAttack": 140,
       "Mastery": 5,
       "Name": "Orvius",
@@ -13136,7 +13186,7 @@
         "CritChance": 0.15
       },
       "Type": "Melee",
-      "Users": [ "Teshin" ],
+      "Users": [ "[[Teshin]]" ],
       "WallAttack": 210
     },
     "Pandero": {
@@ -13334,6 +13384,58 @@
       "Traits": [ "Tenno" ],
       "Trigger": "Auto",
       "Type": "Primary"
+    },
+    "Paracesis": {
+      "BlockResist": 0.85,
+      "Class": "Heavy Blade",
+      "Cost": {
+        "Time": 12,
+        "Parts": [
+          {
+            "Type": "Item",
+            "Count": 1000,
+            "Name": "Ducats"
+          },
+          {
+            "Type": "Weapon",
+            "Count": 1,
+            "Name": "Galatine"
+          },
+          {
+            "Type": "Resource",
+            "Count": 5,
+            "Name": "Eidolon Shard"
+          },
+          {
+            "Type": "Resource",
+            "Count": 15,
+            "Name": "Orokin Cell"
+          }
+        ],
+        "Credits": 30000
+      },
+      "Disposition": 3,
+      "Image": "BallasSword.png",
+      "Introduced": "[[Update_23#Update_23.10|Update 23.10]]",
+      "JumpAttack": 144,
+      "Name": "Paracesis",
+      "NormalAttack": {
+        "CritMultiplier": 2.6,
+        "CritChance": 0.31,
+        "StatusChance": 0.12,
+        "FireRate": 0.917,
+        "Damage": {
+          "Slash": 100.8,
+          "Puncture": 11.5,
+          "Impact": 31.7
+        }
+      },
+      "SlideAttack": 288,
+      "StancePolarity": "D",
+      "Traits": [ "Orokin" ],
+      "Type": "Melee",
+      "Users": [ "[[Ballas]]" ],
+      "WallAttack": 288
     },
     "Paracyst": {
       "BurstFireRate": 8.33,
@@ -13947,7 +14049,7 @@
       },
       "Disposition": 2,
       "Image": "InfProximityStars.png",
-      "Introduced": "[[Update_19#Update:_The_Silver_Grove|The Silver Grove]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove|Update: The Silver Grove]]",
       "Magazine": 4,
       "Mastery": 9,
       "MaxAmmo": 20,
@@ -14434,6 +14536,29 @@
       "WallAttack": 192,
       "WallElement": "Electricity"
     },
+    "Pupacyst": {
+      "BlockResist": 0.85,
+      "Class": "Staff",
+      "Image": "InfStaff.png",
+      "Introduced": "[[Update_23#Update_23.10|Update 23.10]]",
+      "JumpAttack": 90,
+      "Mastery": 7,
+      "Name": "Pupacyst",
+      "NormalAttack": {
+        "CritMultiplier": 1.5,
+        "CritChance": 0.13,
+        "StatusChance": 0.27,
+        "FireRate": 0.833,
+        "Damage": {
+          "Viral": 43,
+          "Impact": 47
+        }
+      },
+      "SlideAttack": 193,
+      "Traits": [ "Infested" ],
+      "Type": "Melee",
+      "WallAttack": 150
+    },
     "Pyrana": {
       "Accuracy": 5,
       "Class": "Shotgun Sidearm",
@@ -14857,8 +14982,9 @@
       "BlockResist": 0.35,
       "Class": "Dagger",
       "Disposition": 1,
+      "Family": "Dark Dagger",
       "Image": "RVDarkDagger.png",
-      "Introduced": "[[Update 19#Update: The Silver Grove 2|The Silver Grove 2]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
       "JumpAttack": 100,
       "Mastery": 8,
       "Name": "Rakta Dark Dagger",
@@ -15315,7 +15441,7 @@
       "Disposition": 3,
       "Family": "Magistar",
       "Image": "NLMagistar.png",
-      "Introduced": "[[Update 19#Update: The Silver Grove 2|The Silver Grove 2]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
       "JumpAttack": 240,
       "Mastery": 8,
       "Name": "Sancti Magistar",
@@ -15416,7 +15542,7 @@
       },
       "Disposition": 4,
       "Image": "TnoGunbladeAuto.png",
-      "Introduced": "[[Update_19#Update:_The_Silver_Grove|The Silver Grove]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove|Update: The Silver Grove]]",
       "JumpAttack": 140,
       "Mastery": 8,
       "Name": "Sarpa",
@@ -15725,8 +15851,9 @@
       "Class": "Whip",
       "Conclave": true,
       "Disposition": 1,
+      "Family": "Lecta",
       "Image": "PSLecta.png",
-      "Introduced": "[[Update 19#Update: The Silver Grove 2|The Silver Grove 2]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
       "JumpAttack": 150,
       "JumpElement": "Electricity",
       "Mastery": 8,
@@ -16335,6 +16462,7 @@
         "Credits": 20000
       },
       "Disposition": 1,
+      "Family": "Simulor",
       "Image": "CephPrimary.png",
       "Introduced": "[[Update 16#Update 16.10|Update 16.10]]",
       "Magazine": 10,
@@ -17734,6 +17862,7 @@
         "Time": 24
       },
       "Disposition": 2,
+      "Family": "Sydon",
       "Image": "GrnTridentWeapon.png",
       "Introduced": "[[Update 18#Update 18.2|Update 18.2]]",
       "JumpAttack": 150,
@@ -17818,6 +17947,7 @@
       "Class": "Pistol",
       "Conclave": true,
       "Disposition": 1,
+      "Family": "Gammacor",
       "Image": "SynoidGammacor.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
       "Magazine": 80,
@@ -17852,7 +17982,7 @@
       "Disposition": 3,
       "Family": "Heliocor",
       "Image": "CSHeliocor.png",
-      "Introduced": "[[Update 19#Update: The Silver Grove 2|The Silver Grove 2]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
       "JumpAttack": 240,
       "Mastery": 9,
       "Name": "Synoid Heliocor",
@@ -17884,6 +18014,7 @@
       "Class": "Rifle",
       "Conclave": true,
       "Disposition": 1,
+      "Family": "Simulor",
       "Image": "SyndicateCSSimulor.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
       "Magazine": 15,
@@ -18008,7 +18139,7 @@
       },
       "Disposition": 5,
       "Image": "BrawlerKnuckles.png",
-      "Introduced": "[[Update 17#Update_17.5|Update 17.5]]",
+      "Introduced": "[[Update 17#Update 17.5|Update 17.5]]",
       "JumpAttack": 45,
       "Mastery": 2,
       "Name": "Tekko",
@@ -18069,7 +18200,7 @@
       "Disposition": 3,
       "Family": "Boltace",
       "Image": "AHBoltace.png",
-      "Introduced": "[[Update 19#Update: The Silver Grove 2|The Silver Grove 2]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
       "JumpAttack": 170,
       "Mastery": 8,
       "Name": "Telos Boltace",
@@ -19533,8 +19664,9 @@
       "Class": "Polearm",
       "Conclave": true,
       "Disposition": 2,
+      "Family": "Sydon",
       "Image": "SMSydon.png",
-      "Introduced": "[[Update 19#Update: The Silver Grove 2|The Silver Grove 2]]",
+      "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
       "JumpAttack": 170,
       "JumpElement": "Blast",
       "Mastery": 8,
@@ -20447,7 +20579,7 @@
       "Class": "Heavy Blade",
       "Disposition": 1,
       "Image": "SundialAxe.png",
-      "Introduced": "[[Update 19#Specters of the Rail 1|Specters of the Rail 1]]",
+      "Introduced": "[[Update 19#Specters of the Rail 1.0|Update: Specters of the Rail 1.0]]",
       "JumpAttack": 260,
       "JumpElement": "Heat",
       "Mastery": 6,
@@ -20495,7 +20627,7 @@
       "Conclave": true,
       "Disposition": 3,
       "Image": "SundialRifle.png",
-      "Introduced": "[[Update_20#Update_20.2|Update 20.2]]",
+      "Introduced": "[[Update 20#Update 20.2|Update 20.2]]",
       "Magazine": 90,
       "Mastery": 10,
       "MaxAmmo": 540,

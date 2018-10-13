@@ -351,6 +351,15 @@
     "wiki": "http://warframe.wikia.com/wiki/Ether_Sword"
   },
   {
+    "id": "/Lotus/Weapons/Corpus/Melee/Glaive/CrpGlaive/CrpGlaive",
+    "name": "Falcor",
+    "type": "Melee",
+    "category": "Glaive",
+    "masteryRank": 8,
+    "image": "/data/img/Melee/Falcor.png",
+    "wiki": "http://warframe.wikia.com/wiki/Falcor"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/Melee/DualDagger/DualDagger",
     "name": "Fang",
     "type": "Melee",
@@ -855,6 +864,15 @@
     "wiki": "http://warframe.wikia.com/wiki/Pangolin_Sword"
   },
   {
+    "id": "/Lotus/Weapons/Orokin/BallasSword/BallasSwordWeapon",
+    "name": "Paracesis",
+    "type": "Melee",
+    "category": "Heavy Blade",
+    "masteryRank": 10,
+    "image": "/data/img/Melee/Paracesis.png",
+    "wiki": "http://warframe.wikia.com/wiki/Paracesis"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/Melee/Swords/PlasmaSword/PlasmaLongSword",
     "name": "Plasma Sword",
     "type": "Melee",
@@ -877,7 +895,7 @@
     "name": "Prisma Machete",
     "type": "Melee",
     "category": "Machete",
-    "masteryRank": 1,
+    "masteryRank": 7,
     "image": "/data/img/Melee/Prisma_Machete.png",
     "wiki": "http://warframe.wikia.com/wiki/Prisma_Machete"
   },
@@ -916,6 +934,15 @@
     "masteryRank": 3,
     "image": "/data/img/Melee/Prova_Vandal.png",
     "wiki": "http://warframe.wikia.com/wiki/Prova_Vandal"
+  },
+  {
+    "id": "/Lotus/Weapons/Infested/Melee/Staff/InfStaff/InfStaff",
+    "name": "Pupacyst",
+    "type": "Melee",
+    "category": "Staff",
+    "masteryRank": 7,
+    "image": "/data/img/Melee/Pupacyst.png",
+    "wiki": "http://warframe.wikia.com/wiki/Pupacyst"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/RedVeil/Melee/RVDarkDagger",

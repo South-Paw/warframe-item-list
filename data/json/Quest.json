@@ -24,6 +24,14 @@
     "wiki": "http://warframe.wikia.com/wiki/Chains_Of_Harrow"
   },
   {
+    "id": "/Lotus/Types/Keys/ChimeraQuest/ChimeraKeyChain",
+    "name": "Chimera Prologue",
+    "type": "Quest",
+    "masteryRank": 0,
+    "image": "/data/img/Quest/Chimera_Prologue.png",
+    "wiki": "http://warframe.wikia.com/wiki/Chimera_Prologue"
+  },
+  {
     "id": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
     "name": "Hidden Messages",
     "type": "Quest",
@@ -38,6 +46,14 @@
     "masteryRank": 0,
     "image": "/data/img/Quest/Howl_Of_The_Kubrow.png",
     "wiki": "http://warframe.wikia.com/wiki/Howl_Of_The_Kubrow"
+  },
+  {
+    "id": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
+    "name": "Mask Of The Revenant",
+    "type": "Quest",
+    "masteryRank": 0,
+    "image": "/data/img/Quest/Mask_Of_The_Revenant.png",
+    "wiki": "http://warframe.wikia.com/wiki/Mask_Of_The_Revenant"
   },
   {
     "id": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
