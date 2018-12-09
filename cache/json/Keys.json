@@ -240,6 +240,14 @@
     "codexSecret": false
   },
   {
+    "uniqueName": "/Lotus/Types/Keys/SolarisQuest/SolarisQuestKeyChain",
+    "name": "VOX SOLARIS",
+    "description": "Eudico would do anything to keep her people safe, but will she stand up to Nef Anyo?",
+    "longDescription": "",
+    "parentName": "",
+    "codexSecret": false
+  },
+  {
     "uniqueName": "/Lotus/Types/Keys/SpyQuestKeyChain/SpyQuestKeyChain",
     "name": "STOLEN DREAMS",
     "description": "Find the thief Maroo and uncover the secrets of the Arcane Codices.",

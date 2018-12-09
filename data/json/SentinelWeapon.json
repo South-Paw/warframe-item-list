@@ -6,7 +6,7 @@
     "category": "Rifle",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Artax.png",
-    "wiki": "http://warframe.wikia.com/wiki/Artax"
+    "wiki": "https://warframe.fandom.com/wiki/Artax"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/BurstLaserPistol",
@@ -15,7 +15,7 @@
     "category": "Pistol",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Burst_Laser.png",
-    "wiki": "http://warframe.wikia.com/wiki/Burst_Laser"
+    "wiki": "https://warframe.fandom.com/wiki/Burst_Laser"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentGlaiveWeapon",
@@ -24,7 +24,7 @@
     "category": "Glaive",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Deconstructor.png",
-    "wiki": "http://warframe.wikia.com/wiki/Deconstructor"
+    "wiki": "https://warframe.fandom.com/wiki/Deconstructor"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/DeconstructorPrime/PrimeHeliosGlaiveWeapon",
@@ -33,7 +33,7 @@
     "category": "Glaive",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Deconstructor_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Deconstructor_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Deconstructor_Prime"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/DethMachineRifle",
@@ -42,7 +42,7 @@
     "category": "Rifle",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Deth_Machine_Rifle.png",
-    "wiki": "http://warframe.wikia.com/wiki/Deth_Machine_Rifle"
+    "wiki": "https://warframe.fandom.com/wiki/Deth_Machine_Rifle"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/LaserRifle",
@@ -51,7 +51,7 @@
     "category": "Rifle",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Laser_Rifle.png",
-    "wiki": "http://warframe.wikia.com/wiki/Laser_Rifle"
+    "wiki": "https://warframe.fandom.com/wiki/Laser_Rifle"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeLaserRifle",
@@ -60,7 +60,7 @@
     "category": "Rifle",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Prime_Laser_Rifle.png",
-    "wiki": "http://warframe.wikia.com/wiki/Prime_Laser_Rifle"
+    "wiki": "https://warframe.fandom.com/wiki/Prime_Laser_Rifle"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/PrismaBurstLaserPistol",
@@ -69,7 +69,7 @@
     "category": "Pistol",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Prisma_Burst_Laser.png",
-    "wiki": "http://warframe.wikia.com/wiki/Prisma_Burst_Laser"
+    "wiki": "https://warframe.fandom.com/wiki/Prisma_Burst_Laser"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentBioWeapon",
@@ -78,7 +78,7 @@
     "category": "Rifle",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Stinger.png",
-    "wiki": "http://warframe.wikia.com/wiki/Stinger"
+    "wiki": "https://warframe.fandom.com/wiki/Stinger"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentShotgun",
@@ -87,7 +87,7 @@
     "category": "Shotgun",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Sweeper.png",
-    "wiki": "http://warframe.wikia.com/wiki/Sweeper"
+    "wiki": "https://warframe.fandom.com/wiki/Sweeper"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/PrimeSentShotgun",
@@ -96,7 +96,7 @@
     "category": "Shotgun",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Sweeper_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Sweeper_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Sweeper_Prime"
   },
   {
     "id": "/Lotus/Types/Sentinels/SentinelWeapons/SentElecRailgun",
@@ -105,6 +105,6 @@
     "category": "Sniper Rifle",
     "masteryRank": 0,
     "image": "/data/img/SentinelWeapon/Vulklok.png",
-    "wiki": "http://warframe.wikia.com/wiki/Vulklok"
+    "wiki": "https://warframe.fandom.com/wiki/Vulklok"
   }
 ]

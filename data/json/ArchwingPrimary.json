@@ -6,7 +6,7 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Corvas.png",
-    "wiki": "http://warframe.wikia.com/wiki/Corvas"
+    "wiki": "https://warframe.fandom.com/wiki/Corvas"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchBurstGun/ArchBurstGun",
@@ -15,7 +15,7 @@
     "category": "Archwing Gun",
     "masteryRank": 4,
     "image": "/data/img/ArchwingPrimary/Cyngas.png",
-    "wiki": "http://warframe.wikia.com/wiki/Cyngas"
+    "wiki": "https://warframe.fandom.com/wiki/Cyngas"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchwingHeavyPistols/ArchHeavyPistols",
@@ -24,7 +24,7 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Dual_Decurion.png",
-    "wiki": "http://warframe.wikia.com/wiki/Dual_Decurion"
+    "wiki": "https://warframe.fandom.com/wiki/Dual_Decurion"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/RocketArtillery/ArchRocketCrossbow",
@@ -33,7 +33,7 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Fluctus.png",
-    "wiki": "http://warframe.wikia.com/wiki/Fluctus"
+    "wiki": "https://warframe.fandom.com/wiki/Fluctus"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/RepurposedGrineerAntiAircraftGun/ArchGRNAAGun",
@@ -42,7 +42,7 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Grattler.png",
-    "wiki": "http://warframe.wikia.com/wiki/Grattler"
+    "wiki": "https://warframe.fandom.com/wiki/Grattler"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGun",
@@ -51,7 +51,7 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Imperator.png",
-    "wiki": "http://warframe.wikia.com/wiki/Imperator"
+    "wiki": "https://warframe.fandom.com/wiki/Imperator"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
@@ -60,7 +60,7 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Imperator_Vandal.png",
-    "wiki": "http://warframe.wikia.com/wiki/Imperator_Vandal"
+    "wiki": "https://warframe.fandom.com/wiki/Imperator_Vandal"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
@@ -69,7 +69,7 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Phaedra.png",
-    "wiki": "http://warframe.wikia.com/wiki/Phaedra"
+    "wiki": "https://warframe.fandom.com/wiki/Phaedra"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/Railgun/ArchRailgun",
@@ -78,6 +78,6 @@
     "category": "Archwing Gun",
     "masteryRank": 0,
     "image": "/data/img/ArchwingPrimary/Velocitus.png",
-    "wiki": "http://warframe.wikia.com/wiki/Velocitus"
+    "wiki": "https://warframe.fandom.com/wiki/Velocitus"
   }
 ]

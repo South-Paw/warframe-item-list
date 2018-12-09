@@ -1,0 +1,26 @@
+[
+  {
+    "id": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardSolarisA/HoverboardSolarisADeck",
+    "name": "Bad Baby",
+    "type": "KDrive",
+    "masteryRank": 0,
+    "image": "/data/img/KDrive/Bad_Baby.png",
+    "wiki": "https://warframe.fandom.com/wiki/Bad_Baby"
+  },
+  {
+    "id": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusA/HoverboardCorpusADeck",
+    "name": "Flatbelly",
+    "type": "KDrive",
+    "masteryRank": 0,
+    "image": "/data/img/KDrive/Flatbelly.png",
+    "wiki": "https://warframe.fandom.com/wiki/Flatbelly"
+  },
+  {
+    "id": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusB/HoverboardCorpusBDeck",
+    "name": "Needlenose",
+    "type": "KDrive",
+    "masteryRank": 0,
+    "image": "/data/img/KDrive/Needlenose.png",
+    "wiki": "https://warframe.fandom.com/wiki/Needlenose"
+  }
+]

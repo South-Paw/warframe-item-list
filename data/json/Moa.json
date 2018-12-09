@@ -1,0 +1,26 @@
+[
+  {
+    "id": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadLambeo",
+    "name": "Lambeo Moa",
+    "type": "Moa",
+    "masteryRank": 0,
+    "image": "/data/img/Moa/Lambeo_Moa.png",
+    "wiki": "https://warframe.fandom.com/wiki/Lambeo_Moa"
+  },
+  {
+    "id": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadOloro",
+    "name": "Oloro Moa",
+    "type": "Moa",
+    "masteryRank": 0,
+    "image": "/data/img/Moa/Oloro_Moa.png",
+    "wiki": "https://warframe.fandom.com/wiki/Oloro_Moa"
+  },
+  {
+    "id": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetParts/MoaPetHeadPara",
+    "name": "Para Moa",
+    "type": "Moa",
+    "masteryRank": 0,
+    "image": "/data/img/Moa/Para_Moa.png",
+    "wiki": "https://warframe.fandom.com/wiki/Para_Moa"
+  }
+]

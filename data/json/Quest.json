@@ -5,7 +5,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/A_Man_Of_Few_Words.png",
-    "wiki": "http://warframe.wikia.com/wiki/A_Man_Of_Few_Words"
+    "wiki": "https://warframe.fandom.com/wiki/A_Man_Of_Few_Words"
   },
   {
     "id": "/Lotus/Types/Keys/ApostasyQuest/ApostasyKeyChain",
@@ -13,7 +13,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Apostasy_Prologue.png",
-    "wiki": "http://warframe.wikia.com/wiki/Apostasy_Prologue"
+    "wiki": "https://warframe.fandom.com/wiki/Apostasy_Prologue"
   },
   {
     "id": "/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain",
@@ -21,7 +21,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Chains_Of_Harrow.png",
-    "wiki": "http://warframe.wikia.com/wiki/Chains_Of_Harrow"
+    "wiki": "https://warframe.fandom.com/wiki/Chains_Of_Harrow"
   },
   {
     "id": "/Lotus/Types/Keys/ChimeraQuest/ChimeraKeyChain",
@@ -29,7 +29,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Chimera_Prologue.png",
-    "wiki": "http://warframe.wikia.com/wiki/Chimera_Prologue"
+    "wiki": "https://warframe.fandom.com/wiki/Chimera_Prologue"
   },
   {
     "id": "/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain",
@@ -37,7 +37,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Hidden_Messages.png",
-    "wiki": "http://warframe.wikia.com/wiki/Hidden_Messages"
+    "wiki": "https://warframe.fandom.com/wiki/Hidden_Messages"
   },
   {
     "id": "/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain",
@@ -45,7 +45,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Howl_Of_The_Kubrow.png",
-    "wiki": "http://warframe.wikia.com/wiki/Howl_Of_The_Kubrow"
+    "wiki": "https://warframe.fandom.com/wiki/Howl_Of_The_Kubrow"
   },
   {
     "id": "/Lotus/Types/Keys/RevenantQuest/RevenantQuestKeyChain",
@@ -53,7 +53,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Mask_Of_The_Revenant.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mask_Of_The_Revenant"
+    "wiki": "https://warframe.fandom.com/wiki/Mask_Of_The_Revenant"
   },
   {
     "id": "/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey",
@@ -61,7 +61,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Mutalist_Alad_V_Assassinate.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mutalist_Alad_V_Assassinate"
+    "wiki": "https://warframe.fandom.com/wiki/Mutalist_Alad_V_Assassinate"
   },
   {
     "id": "/Lotus/Types/Keys/SentientQuest/SentientQuestKeyChain",
@@ -69,7 +69,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Natah.png",
-    "wiki": "http://warframe.wikia.com/wiki/Natah"
+    "wiki": "https://warframe.fandom.com/wiki/Natah"
   },
   {
     "id": "/Lotus/Types/Keys/BardQuest/BardQuestKeyChain",
@@ -77,7 +77,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Octavias_Anthem.png",
-    "wiki": "http://warframe.wikia.com/wiki/Octavia%27s_Anthem"
+    "wiki": "https://warframe.fandom.com/wiki/Octavia%27s_Anthem"
   },
   {
     "id": "/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain",
@@ -85,7 +85,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Once_Awake.png",
-    "wiki": "http://warframe.wikia.com/wiki/Once_Awake"
+    "wiki": "https://warframe.fandom.com/wiki/Once_Awake"
   },
   {
     "id": "/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain",
@@ -93,7 +93,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Patient_Zero.png",
-    "wiki": "http://warframe.wikia.com/wiki/Patient_Zero"
+    "wiki": "https://warframe.fandom.com/wiki/Patient_Zero"
   },
   {
     "id": "/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain",
@@ -101,7 +101,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Sands_Of_Inaros.png",
-    "wiki": "http://warframe.wikia.com/wiki/Sands_Of_Inaros"
+    "wiki": "https://warframe.fandom.com/wiki/Sands_Of_Inaros"
   },
   {
     "id": "/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain",
@@ -109,7 +109,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Sayas_Vigil.png",
-    "wiki": "http://warframe.wikia.com/wiki/Saya%27s_Vigil"
+    "wiki": "https://warframe.fandom.com/wiki/Saya%27s_Vigil"
   },
   {
     "id": "/Lotus/Types/Keys/SpyQuestKeyChain/SpyQuestKeyChain",
@@ -117,7 +117,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Stolen_Dreams.png",
-    "wiki": "http://warframe.wikia.com/wiki/Stolen_Dreams"
+    "wiki": "https://warframe.fandom.com/wiki/Stolen_Dreams"
   },
   {
     "id": "/Lotus/Types/Keys/ArchwingQuest/ArchwingQuestKeyChain",
@@ -125,7 +125,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_Archwing.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_Archwing"
+    "wiki": "https://warframe.fandom.com/wiki/The_Archwing"
   },
   {
     "id": "/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain",
@@ -133,7 +133,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_Glast_Gambit.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_Glast_Gambit"
+    "wiki": "https://warframe.fandom.com/wiki/The_Glast_Gambit"
   },
   {
     "id": "/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem",
@@ -141,7 +141,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_Jordas_Precept.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_Jordas_Precept"
+    "wiki": "https://warframe.fandom.com/wiki/The_Jordas_Precept"
   },
   {
     "id": "/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain",
@@ -149,7 +149,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_Limbo_Theorem.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_Limbo_Theorem"
+    "wiki": "https://warframe.fandom.com/wiki/The_Limbo_Theorem"
   },
   {
     "id": "/Lotus/Types/Keys/DragonQuest/DragonQuestKeyChain",
@@ -157,7 +157,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_New_Strange.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_New_Strange"
+    "wiki": "https://warframe.fandom.com/wiki/The_New_Strange"
   },
   {
     "id": "/Lotus/Types/Keys/SacrificeQuest/SacrificeQuestKeyChain",
@@ -165,7 +165,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_Sacrifice.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_Sacrifice"
+    "wiki": "https://warframe.fandom.com/wiki/The_Sacrifice"
   },
   {
     "id": "/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain",
@@ -173,7 +173,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_Second_Dream.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_Second_Dream"
+    "wiki": "https://warframe.fandom.com/wiki/The_Second_Dream"
   },
   {
     "id": "/Lotus/Types/Keys/FairyQuest/FairyQuestKeyChain",
@@ -181,7 +181,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_Silver_Grove.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_Silver_Grove"
+    "wiki": "https://warframe.fandom.com/wiki/The_Silver_Grove"
   },
   {
     "id": "/Lotus/Types/Keys/WarWithinQuest/WarWithinQuestKeyChain",
@@ -189,7 +189,7 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/The_War_Within.png",
-    "wiki": "http://warframe.wikia.com/wiki/The_War_Within"
+    "wiki": "https://warframe.fandom.com/wiki/The_War_Within"
   },
   {
     "id": "/Lotus/Types/Keys/VorsPrize/VorsPrizeQuestKeyChain",
@@ -197,6 +197,14 @@
     "type": "Quest",
     "masteryRank": 0,
     "image": "/data/img/Quest/Vors_Prize.png",
-    "wiki": "http://warframe.wikia.com/wiki/Vor%27s_Prize"
+    "wiki": "https://warframe.fandom.com/wiki/Vor%27s_Prize"
+  },
+  {
+    "id": "/Lotus/Types/Keys/SolarisQuest/SolarisQuestKeyChain",
+    "name": "Vox Solaris",
+    "type": "Quest",
+    "masteryRank": 0,
+    "image": "/data/img/Quest/Vox_Solaris.png",
+    "wiki": "https://warframe.fandom.com/wiki/Vox_Solaris"
   }
 ]

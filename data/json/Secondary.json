@@ -6,7 +6,7 @@
     "category": "Pistol",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Acrid.png",
-    "wiki": "http://warframe.wikia.com/wiki/Acrid"
+    "wiki": "https://warframe.fandom.com/wiki/Acrid"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkimboAutoPistols",
@@ -15,7 +15,7 @@
     "category": "Dual Pistols",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Afuris.png",
-    "wiki": "http://warframe.wikia.com/wiki/Afuris"
+    "wiki": "https://warframe.fandom.com/wiki/Afuris"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkimboBolto",
@@ -24,7 +24,7 @@
     "category": "Dual Pistols",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Akbolto.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akbolto"
+    "wiki": "https://warframe.fandom.com/wiki/Akbolto"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/PrimeAkbolto/PrimeAkBoltoWeapon",
@@ -33,7 +33,7 @@
     "category": "Dual Pistols",
     "masteryRank": 13,
     "image": "/data/img/Secondary/Akbolto_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akbolto_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Akbolto_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkimboShotGun",
@@ -42,7 +42,7 @@
     "category": "Dual Shotguns",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Akbronco.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akbronco"
+    "wiki": "https://warframe.fandom.com/wiki/Akbronco"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/PrimeAkimboShotGun",
@@ -51,7 +51,7 @@
     "category": "Dual Shotguns",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Akbronco_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akbronco_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Akbronco_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/TigrisRedeemerSetPistol/TnoBladedPistols",
@@ -60,7 +60,7 @@
     "category": "Dual Pistols",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Akjagara.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akjagara"
+    "wiki": "https://warframe.fandom.com/wiki/Akjagara"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkimboPistol",
@@ -69,7 +69,7 @@
     "category": "Dual Pistols",
     "masteryRank": 3,
     "image": "/data/img/Secondary/Aklato.png",
-    "wiki": "http://warframe.wikia.com/wiki/Aklato"
+    "wiki": "https://warframe.fandom.com/wiki/Aklato"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkLexPistols",
@@ -78,7 +78,7 @@
     "category": "Dual Pistols",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Aklex.png",
-    "wiki": "http://warframe.wikia.com/wiki/Aklex"
+    "wiki": "https://warframe.fandom.com/wiki/Aklex"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkLexPrimePistols",
@@ -87,7 +87,7 @@
     "category": "Dual Pistols",
     "masteryRank": 15,
     "image": "/data/img/Secondary/Aklex_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Aklex_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Aklex_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/DualMagnus",
@@ -96,7 +96,7 @@
     "category": "Dual Pistols",
     "masteryRank": 12,
     "image": "/data/img/Secondary/Akmagnus.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akmagnus"
+    "wiki": "https://warframe.fandom.com/wiki/Akmagnus"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/SomaSidearm/AkimboSomaPistols",
@@ -105,7 +105,7 @@
     "category": "Dual Pistols",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Aksomati.png",
-    "wiki": "http://warframe.wikia.com/wiki/Aksomati"
+    "wiki": "https://warframe.fandom.com/wiki/Aksomati"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/TennoUzi/TennoUzi",
@@ -114,7 +114,7 @@
     "category": "Dual Pistols",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Akstiletto.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akstiletto"
+    "wiki": "https://warframe.fandom.com/wiki/Akstiletto"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/PrimeAkstiletto/PrimeAkstiletto",
@@ -123,7 +123,7 @@
     "category": "Dual Pistols",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Akstiletto_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akstiletto_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Akstiletto_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/DualVastos",
@@ -132,7 +132,16 @@
     "category": "Dual Pistols",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Akvasto.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akvasto"
+    "wiki": "https://warframe.fandom.com/wiki/Akvasto"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/AkPrimeVasto/AkPrimeVastoPistol",
+    "name": "Akvasto Prime",
+    "type": "Secondary",
+    "category": "Dual Pistols",
+    "masteryRank": 12,
+    "image": "/data/img/Secondary/Akvasto_Prime.png",
+    "wiki": "https://warframe.fandom.com/wiki/Akvasto_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/HarlequinGun/HarlequinPistols",
@@ -141,7 +150,7 @@
     "category": "Dual Pistols",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Akzani.png",
-    "wiki": "http://warframe.wikia.com/wiki/Akzani"
+    "wiki": "https://warframe.fandom.com/wiki/Akzani"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/CorpusHandRocketLauncher",
@@ -150,7 +159,7 @@
     "category": "Pistol",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Angstrum.png",
-    "wiki": "http://warframe.wikia.com/wiki/Angstrum"
+    "wiki": "https://warframe.fandom.com/wiki/Angstrum"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/SniperPistol/CrpScopeGun",
@@ -159,7 +168,7 @@
     "category": "Pistol",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Arca_Scisco.png",
-    "wiki": "http://warframe.wikia.com/wiki/Arca_Scisco"
+    "wiki": "https://warframe.fandom.com/wiki/Arca_Scisco"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/HeatGun/GrnHeatGun",
@@ -168,7 +177,7 @@
     "category": "Pistol",
     "masteryRank": 5,
     "image": "/data/img/Secondary/Atomos.png",
-    "wiki": "http://warframe.wikia.com/wiki/Atomos"
+    "wiki": "https://warframe.fandom.com/wiki/Atomos"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/SundialGun/SundialPistol",
@@ -177,7 +186,7 @@
     "category": "Pistol",
     "masteryRank": 6,
     "image": "/data/img/Secondary/Azima.png",
-    "wiki": "http://warframe.wikia.com/wiki/Azima"
+    "wiki": "https://warframe.fandom.com/wiki/Azima"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/AutomaticHandCrossbow/AutoCrossBow",
@@ -186,7 +195,7 @@
     "category": "Crossbow",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Ballistica.png",
-    "wiki": "http://warframe.wikia.com/wiki/Ballistica"
+    "wiki": "https://warframe.fandom.com/wiki/Ballistica"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/PrimeBallistica/PrimeBallistica",
@@ -195,7 +204,7 @@
     "category": "Crossbow",
     "masteryRank": 14,
     "image": "/data/img/Secondary/Ballistica_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Ballistica_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Ballistica_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/CrossBow",
@@ -204,7 +213,7 @@
     "category": "Pistol",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Bolto.png",
-    "wiki": "http://warframe.wikia.com/wiki/Bolto"
+    "wiki": "https://warframe.fandom.com/wiki/Bolto"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrineerHandShotgun/GrineerHandCannon",
@@ -213,7 +222,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 6,
     "image": "/data/img/Secondary/Brakk.png",
-    "wiki": "http://warframe.wikia.com/wiki/Brakk"
+    "wiki": "https://warframe.fandom.com/wiki/Brakk"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/HandShotGun",
@@ -222,7 +231,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 0,
     "image": "/data/img/Secondary/Bronco.png",
-    "wiki": "http://warframe.wikia.com/wiki/Bronco"
+    "wiki": "https://warframe.fandom.com/wiki/Bronco"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/BroncoPrime",
@@ -231,7 +240,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Bronco_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Bronco_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Bronco_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/StickyBomb/StickyBombs",
@@ -240,7 +249,7 @@
     "category": "Thrown",
     "masteryRank": 3,
     "image": "/data/img/Secondary/Castanas.png",
-    "wiki": "http://warframe.wikia.com/wiki/Castanas"
+    "wiki": "https://warframe.fandom.com/wiki/Castanas"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/CorpusMinigun",
@@ -249,7 +258,16 @@
     "category": "Pistol",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Cestra.png",
-    "wiki": "http://warframe.wikia.com/wiki/Cestra"
+    "wiki": "https://warframe.fandom.com/wiki/Cestra"
+  },
+  {
+    "id": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/CryoxionWeapon",
+    "name": "Cryotra",
+    "type": "Secondary",
+    "category": "Rifle",
+    "masteryRank": 0,
+    "image": "/data/img/Secondary/Cryotra.png",
+    "wiki": "https://warframe.fandom.com/wiki/Cryotra"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CrpChargeGun/CrpChargeGun",
@@ -258,7 +276,7 @@
     "category": "Pistol",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Cycron.png",
-    "wiki": "http://warframe.wikia.com/wiki/Cycron"
+    "wiki": "https://warframe.fandom.com/wiki/Cycron"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/StalkerKunai",
@@ -267,7 +285,7 @@
     "category": "Thrown",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Despair.png",
-    "wiki": "http://warframe.wikia.com/wiki/Despair"
+    "wiki": "https://warframe.fandom.com/wiki/Despair"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CorpusHandShotgun/CorpusHandCannon",
@@ -276,7 +294,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 6,
     "image": "/data/img/Secondary/Detron.png",
-    "wiki": "http://warframe.wikia.com/wiki/Detron"
+    "wiki": "https://warframe.fandom.com/wiki/Detron"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/DexFuris/DexFuris",
@@ -285,7 +303,7 @@
     "category": "Dual Pistols",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Dex_Furis.png",
-    "wiki": "http://warframe.wikia.com/wiki/Dex_Furis"
+    "wiki": "https://warframe.fandom.com/wiki/Dex_Furis"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CorpusMinigun/DualCorpusMinigun",
@@ -294,7 +312,7 @@
     "category": "Dual Pistols",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Dual_Cestra.png",
-    "wiki": "http://warframe.wikia.com/wiki/Dual_Cestra"
+    "wiki": "https://warframe.fandom.com/wiki/Dual_Cestra"
   },
   {
     "id": "/Lotus/Weapons/Infested/Pistols/InfVomitGun/InfVomitGunWep",
@@ -303,7 +321,7 @@
     "category": "Dual Pistols",
     "masteryRank": 11,
     "image": "/data/img/Secondary/Dual_Toxocyst.png",
-    "wiki": "http://warframe.wikia.com/wiki/Dual_Toxocyst"
+    "wiki": "https://warframe.fandom.com/wiki/Dual_Toxocyst"
   },
   {
     "id": "/Lotus/Weapons/Infested/Pistols/InfestedPistol",
@@ -312,7 +330,7 @@
     "category": "Pistol",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Embolist.png",
-    "wiki": "http://warframe.wikia.com/wiki/Embolist"
+    "wiki": "https://warframe.fandom.com/wiki/Embolist"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/AllNew1hSG/AllNew1hSG",
@@ -321,7 +339,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 14,
     "image": "/data/img/Secondary/Euphona_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Euphona_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Euphona_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/AutoPistol",
@@ -330,7 +348,7 @@
     "category": "Pistol",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Furis.png",
-    "wiki": "http://warframe.wikia.com/wiki/Furis"
+    "wiki": "https://warframe.fandom.com/wiki/Furis"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/GlassKunai/GlassKunaiWeapon",
@@ -339,7 +357,7 @@
     "category": "Thrown",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Fusilai.png",
-    "wiki": "http://warframe.wikia.com/wiki/Fusilai"
+    "wiki": "https://warframe.fandom.com/wiki/Fusilai"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSDroidArray",
@@ -348,7 +366,7 @@
     "category": "Pistol",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Gammacor.png",
-    "wiki": "http://warframe.wikia.com/wiki/Gammacor"
+    "wiki": "https://warframe.fandom.com/wiki/Gammacor"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/TennoStars",
@@ -357,7 +375,7 @@
     "category": "Thrown",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Hikou.png",
-    "wiki": "http://warframe.wikia.com/wiki/Hikou"
+    "wiki": "https://warframe.fandom.com/wiki/Hikou"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeThrowingStar/PrimeHikou",
@@ -366,7 +384,7 @@
     "category": "Thrown",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Hikou_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Hikou_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Hikou_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/QuillDartgun/QuillDartGunWeapon",
@@ -375,7 +393,7 @@
     "category": "Pistol",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Hystrix.png",
-    "wiki": "http://warframe.wikia.com/wiki/Hystrix"
+    "wiki": "https://warframe.fandom.com/wiki/Hystrix"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/TnPriestPistolScope/TnPriestPistolWeapon",
@@ -384,7 +402,7 @@
     "category": "Pistol",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Knell.png",
-    "wiki": "http://warframe.wikia.com/wiki/Knell"
+    "wiki": "https://warframe.fandom.com/wiki/Knell"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrnKohmPistol/GrnKohmPistol",
@@ -393,7 +411,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 5,
     "image": "/data/img/Secondary/Kohmak.png",
-    "wiki": "http://warframe.wikia.com/wiki/Kohmak"
+    "wiki": "https://warframe.fandom.com/wiki/Kohmak"
   },
   {
     "id": "/Lotus/Weapons/Grineer/GrineerPistol/GrnHeavyPistol",
@@ -402,7 +420,7 @@
     "category": "Pistol",
     "masteryRank": 0,
     "image": "/data/img/Secondary/Kraken.png",
-    "wiki": "http://warframe.wikia.com/wiki/Kraken"
+    "wiki": "https://warframe.fandom.com/wiki/Kraken"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrnTorpedoPistol/GrnTorpedoPistol",
@@ -411,7 +429,7 @@
     "category": "Pistol",
     "masteryRank": 5,
     "image": "/data/img/Secondary/Kulstar.png",
-    "wiki": "http://warframe.wikia.com/wiki/Kulstar"
+    "wiki": "https://warframe.fandom.com/wiki/Kulstar"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/Kunai",
@@ -420,7 +438,7 @@
     "category": "Thrown",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Kunai.png",
-    "wiki": "http://warframe.wikia.com/wiki/Kunai"
+    "wiki": "https://warframe.fandom.com/wiki/Kunai"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/Pistol",
@@ -429,7 +447,7 @@
     "category": "Pistol",
     "masteryRank": 0,
     "image": "/data/img/Secondary/Lato.png",
-    "wiki": "http://warframe.wikia.com/wiki/Lato"
+    "wiki": "https://warframe.fandom.com/wiki/Lato"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/LatoPrime",
@@ -438,7 +456,7 @@
     "category": "Pistol",
     "masteryRank": 14,
     "image": "/data/img/Secondary/Lato_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Lato_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Lato_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/LatoVandal",
@@ -447,7 +465,7 @@
     "category": "Pistol",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Lato_Vandal.png",
-    "wiki": "http://warframe.wikia.com/wiki/Lato_Vandal"
+    "wiki": "https://warframe.fandom.com/wiki/Lato_Vandal"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/HeavyPistol",
@@ -456,7 +474,7 @@
     "category": "Pistol",
     "masteryRank": 3,
     "image": "/data/img/Secondary/Lex.png",
-    "wiki": "http://warframe.wikia.com/wiki/Lex"
+    "wiki": "https://warframe.fandom.com/wiki/Lex"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/PrimeLex/PrimeLex",
@@ -465,7 +483,7 @@
     "category": "Pistol",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Lex_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Lex_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Lex_Prime"
   },
   {
     "id": "/Lotus/Weapons/MK1Series/MK1Furis",
@@ -474,7 +492,7 @@
     "category": "Pistol",
     "masteryRank": 0,
     "image": "/data/img/Secondary/MK1-Furis.png",
-    "wiki": "http://warframe.wikia.com/wiki/MK1-Furis"
+    "wiki": "https://warframe.fandom.com/wiki/MK1-Furis"
   },
   {
     "id": "/Lotus/Weapons/MK1Series/MK1Kunai",
@@ -483,7 +501,7 @@
     "category": "Thrown",
     "masteryRank": 0,
     "image": "/data/img/Secondary/MK1-Kunai.png",
-    "wiki": "http://warframe.wikia.com/wiki/MK1-Kunai"
+    "wiki": "https://warframe.fandom.com/wiki/MK1-Kunai"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/Magnum/Magnum",
@@ -492,7 +510,7 @@
     "category": "Pistol",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Magnus.png",
-    "wiki": "http://warframe.wikia.com/wiki/Magnus"
+    "wiki": "https://warframe.fandom.com/wiki/Magnus"
   },
   {
     "id": "/Lotus/Weapons/VoidTrader/VTDetron",
@@ -501,7 +519,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Mara_Detron.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mara_Detron"
+    "wiki": "https://warframe.fandom.com/wiki/Mara_Detron"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrineerLeverActionPistol/GLAPistol",
@@ -510,7 +528,16 @@
     "category": "Pistol",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Marelok.png",
-    "wiki": "http://warframe.wikia.com/wiki/Marelok"
+    "wiki": "https://warframe.fandom.com/wiki/Marelok"
+  },
+  {
+    "id": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/HextraWeapon",
+    "name": "Multron",
+    "type": "Secondary",
+    "category": "Rifle",
+    "masteryRank": 3,
+    "image": "/data/img/Secondary/Multron.png",
+    "wiki": "https://warframe.fandom.com/wiki/Multron"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrineerMicrowavegun/GrnMicrowavePistol",
@@ -519,7 +546,16 @@
     "category": "Pistol",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Nukor.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nukor"
+    "wiki": "https://warframe.fandom.com/wiki/Nukor"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/Pistols/CrpSentExperimentPistol/CrpSentExperimentPistol",
+    "name": "Ocucor",
+    "type": "Secondary",
+    "category": "Pistol",
+    "masteryRank": 8,
+    "image": "/data/img/Secondary/Ocucor.png",
+    "wiki": "https://warframe.fandom.com/wiki/Ocucor"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/TnBardPistol/TnBardPistolGun",
@@ -528,7 +564,7 @@
     "category": "Pistol",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Pandero.png",
-    "wiki": "http://warframe.wikia.com/wiki/Pandero"
+    "wiki": "https://warframe.fandom.com/wiki/Pandero"
   },
   {
     "id": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars",
@@ -537,7 +573,7 @@
     "category": "Thrown",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Pox.png",
-    "wiki": "http://warframe.wikia.com/wiki/Pox"
+    "wiki": "https://warframe.fandom.com/wiki/Pox"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CrpHandRL/PrismaAngstrum",
@@ -546,7 +582,7 @@
     "category": "Pistol",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Prisma_Angstrum.png",
-    "wiki": "http://warframe.wikia.com/wiki/Prisma_Angstrum"
+    "wiki": "https://warframe.fandom.com/wiki/Prisma_Angstrum"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrineerBulbousSMG/Prisma/PrismaTwinGremlinsWeapon",
@@ -555,7 +591,7 @@
     "category": "Dual Pistols",
     "masteryRank": 11,
     "image": "/data/img/Secondary/Prisma_Twin_Gremlins.png",
-    "wiki": "http://warframe.wikia.com/wiki/Prisma_Twin_Gremlins"
+    "wiki": "https://warframe.fandom.com/wiki/Prisma_Twin_Gremlins"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/SawnOffShotgun/TennoHandShotgun",
@@ -564,7 +600,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 12,
     "image": "/data/img/Secondary/Pyrana.png",
-    "wiki": "http://warframe.wikia.com/wiki/Pyrana"
+    "wiki": "https://warframe.fandom.com/wiki/Pyrana"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/PrimePyrana/PrimePyranaPistol",
@@ -573,7 +609,7 @@
     "category": "Shotgun Sidearm",
     "masteryRank": 13,
     "image": "/data/img/Secondary/Pyrana_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Pyrana_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Pyrana_Prime"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/RedVeil/Pistols/RVBallistica",
@@ -582,7 +618,7 @@
     "category": "Crossbow",
     "masteryRank": 6,
     "image": "/data/img/Secondary/Rakta_Ballistica.png",
-    "wiki": "http://warframe.wikia.com/wiki/Rakta_Ballistica"
+    "wiki": "https://warframe.fandom.com/wiki/Rakta_Ballistica"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/NewLoka/Pistols/NLCastanas",
@@ -591,7 +627,7 @@
     "category": "Thrown",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Sancti_Castanas.png",
-    "wiki": "http://warframe.wikia.com/wiki/Sancti_Castanas"
+    "wiki": "https://warframe.fandom.com/wiki/Sancti_Castanas"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/PerrinSequence/Pistols/PSDualCestra",
@@ -600,7 +636,7 @@
     "category": "Dual Pistols",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Secura_Dual_Cestra.png",
-    "wiki": "http://warframe.wikia.com/wiki/Secura_Dual_Cestra"
+    "wiki": "https://warframe.fandom.com/wiki/Secura_Dual_Cestra"
   },
   {
     "id": "/Lotus/Weapons/Grineer/GrineerPistol/GrnScopedPistolPlayer",
@@ -609,7 +645,7 @@
     "category": "Pistol",
     "masteryRank": 0,
     "image": "/data/img/Secondary/Seer.png",
-    "wiki": "http://warframe.wikia.com/wiki/Seer"
+    "wiki": "https://warframe.fandom.com/wiki/Seer"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/BurstPistol",
@@ -618,7 +654,7 @@
     "category": "Pistol",
     "masteryRank": 3,
     "image": "/data/img/Secondary/Sicarus.png",
-    "wiki": "http://warframe.wikia.com/wiki/Sicarus"
+    "wiki": "https://warframe.fandom.com/wiki/Sicarus"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/PrimeSicarus/PrimeSicarusPistol",
@@ -627,7 +663,7 @@
     "category": "Pistol",
     "masteryRank": 14,
     "image": "/data/img/Secondary/Sicarus_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Sicarus_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Sicarus_Prime"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CrpAirPistol/CrpAirPistolArray",
@@ -636,7 +672,7 @@
     "category": "Pistol",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Sonicor.png",
-    "wiki": "http://warframe.wikia.com/wiki/Sonicor"
+    "wiki": "https://warframe.fandom.com/wiki/Sonicor"
   },
   {
     "id": "/Lotus/Weapons/ClanTech/Energy/CrpLaserPistol",
@@ -645,7 +681,7 @@
     "category": "Pistol",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Spectra.png",
-    "wiki": "http://warframe.wikia.com/wiki/Spectra"
+    "wiki": "https://warframe.fandom.com/wiki/Spectra"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/LiDagger/LiDagger",
@@ -654,7 +690,7 @@
     "category": "Thrown",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Spira.png",
-    "wiki": "http://warframe.wikia.com/wiki/Spira"
+    "wiki": "https://warframe.fandom.com/wiki/Spira"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/PrimeLiDagger/PrimeLiDagger",
@@ -663,7 +699,7 @@
     "category": "Thrown",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Spira_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Spira_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Spira_Prime"
   },
   {
     "id": "/Lotus/Weapons/Corpus/Pistols/CrpElectroMag/CrpElectroMag",
@@ -672,7 +708,7 @@
     "category": "Dual Pistols",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Staticor.png",
-    "wiki": "http://warframe.wikia.com/wiki/Staticor"
+    "wiki": "https://warframe.fandom.com/wiki/Staticor"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrnUzi/GrnUziWeapon",
@@ -681,7 +717,7 @@
     "category": "Pistol",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Stubba.png",
-    "wiki": "http://warframe.wikia.com/wiki/Stubba"
+    "wiki": "https://warframe.fandom.com/wiki/Stubba"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun",
@@ -690,7 +726,7 @@
     "category": "Pistol",
     "masteryRank": 2,
     "image": "/data/img/Secondary/Stug.png",
-    "wiki": "http://warframe.wikia.com/wiki/Stug"
+    "wiki": "https://warframe.fandom.com/wiki/Stug"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/CephalonSuda/Pistols/CSSynoidGammacor",
@@ -699,7 +735,7 @@
     "category": "Pistol",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Synoid_Gammacor.png",
-    "wiki": "http://warframe.wikia.com/wiki/Synoid_Gammacor"
+    "wiki": "https://warframe.fandom.com/wiki/Synoid_Gammacor"
   },
   {
     "id": "/Lotus/Weapons/Tenno/ThrowingWeapons/U18ThrowingKnives/U18throwingknives",
@@ -708,7 +744,16 @@
     "category": "Thrown",
     "masteryRank": 8,
     "image": "/data/img/Secondary/Talons.png",
-    "wiki": "http://warframe.wikia.com/wiki/Talons"
+    "wiki": "https://warframe.fandom.com/wiki/Talons"
+  },
+  {
+    "id": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/TazronWeapon",
+    "name": "Tazicor",
+    "type": "Secondary",
+    "category": "Rifle",
+    "masteryRank": 3,
+    "image": "/data/img/Secondary/Tazicor.png",
+    "wiki": "https://warframe.fandom.com/wiki/Tazicor"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/ArbitersOfHexis/Pistols/AHAkbolto",
@@ -717,7 +762,7 @@
     "category": "Dual Pistols",
     "masteryRank": 11,
     "image": "/data/img/Secondary/Telos_Akbolto.png",
-    "wiki": "http://warframe.wikia.com/wiki/Telos_Akbolto"
+    "wiki": "https://warframe.fandom.com/wiki/Telos_Akbolto"
   },
   {
     "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerAssaultRifle/TwinGrakatas",
@@ -726,7 +771,7 @@
     "category": "Dual Pistols",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Twin_Grakatas.png",
-    "wiki": "http://warframe.wikia.com/wiki/Twin_Grakatas"
+    "wiki": "https://warframe.fandom.com/wiki/Twin_Grakatas"
   },
   {
     "id": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerAkimboPistol",
@@ -735,7 +780,7 @@
     "category": "Dual Pistols",
     "masteryRank": 5,
     "image": "/data/img/Secondary/Twin_Gremlins.png",
-    "wiki": "http://warframe.wikia.com/wiki/Twin_Gremlins"
+    "wiki": "https://warframe.fandom.com/wiki/Twin_Gremlins"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrnDWUniques/GrnTwinKohmaks",
@@ -744,7 +789,7 @@
     "category": "Dual Shotguns",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Twin_Kohmak.png",
-    "wiki": "http://warframe.wikia.com/wiki/Twin_Kohmak"
+    "wiki": "https://warframe.fandom.com/wiki/Twin_Kohmak"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/GrnQueenGuardDualPistol/GrnQueenGuardDualPistols",
@@ -753,7 +798,7 @@
     "category": "Dual Shotguns",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Twin_Rogga.png",
-    "wiki": "http://warframe.wikia.com/wiki/Twin_Rogga"
+    "wiki": "https://warframe.fandom.com/wiki/Twin_Rogga"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkimboViperPistols",
@@ -762,7 +807,7 @@
     "category": "Dual Pistols",
     "masteryRank": 5,
     "image": "/data/img/Secondary/Twin_Vipers.png",
-    "wiki": "http://warframe.wikia.com/wiki/Twin_Vipers"
+    "wiki": "https://warframe.fandom.com/wiki/Twin_Vipers"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/WraithTwinVipers/WraithTwinVipers",
@@ -771,7 +816,7 @@
     "category": "Dual Pistols",
     "masteryRank": 7,
     "image": "/data/img/Secondary/Twin_Vipers_Wraith.png",
-    "wiki": "http://warframe.wikia.com/wiki/Twin_Vipers_Wraith"
+    "wiki": "https://warframe.fandom.com/wiki/Twin_Vipers_Wraith"
   },
   {
     "id": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol",
@@ -780,7 +825,7 @@
     "category": "Pistol",
     "masteryRank": 9,
     "image": "/data/img/Secondary/Tysis.png",
-    "wiki": "http://warframe.wikia.com/wiki/Tysis"
+    "wiki": "https://warframe.fandom.com/wiki/Tysis"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistol/RevolverPistol",
@@ -789,7 +834,7 @@
     "category": "Pistol",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Vasto.png",
-    "wiki": "http://warframe.wikia.com/wiki/Vasto"
+    "wiki": "https://warframe.fandom.com/wiki/Vasto"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/PrimeVasto/PrimeVastoPistol",
@@ -798,7 +843,7 @@
     "category": "Pistol",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Vasto_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Vasto_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Vasto_Prime"
   },
   {
     "id": "/Lotus/Weapons/Syndicates/SteelMeridian/Pistols/SMMarelok",
@@ -807,7 +852,7 @@
     "category": "Pistol",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Vaykor_Marelok.png",
-    "wiki": "http://warframe.wikia.com/wiki/Vaykor_Marelok"
+    "wiki": "https://warframe.fandom.com/wiki/Vaykor_Marelok"
   },
   {
     "id": "/Lotus/Weapons/Grineer/GrineerPistol/GrineerLightPistol",
@@ -816,7 +861,7 @@
     "category": "Pistol",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Viper.png",
-    "wiki": "http://warframe.wikia.com/wiki/Viper"
+    "wiki": "https://warframe.fandom.com/wiki/Viper"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Pistols/WraithSingleViper/WraithSingleViper",
@@ -825,7 +870,16 @@
     "category": "Pistol",
     "masteryRank": 4,
     "image": "/data/img/Secondary/Viper_Wraith.png",
-    "wiki": "http://warframe.wikia.com/wiki/Viper_Wraith"
+    "wiki": "https://warframe.fandom.com/wiki/Viper_Wraith"
+  },
+  {
+    "id": "/Lotus/Types/Friendly/Pets/MoaPets/MoaPetComponents/ThermocorMoaWeapon",
+    "name": "Vulcax",
+    "type": "Secondary",
+    "category": "Rifle",
+    "masteryRank": 14,
+    "image": "/data/img/Secondary/Vulcax.png",
+    "wiki": "https://warframe.fandom.com/wiki/Vulcax"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/TnGuandoPistol/TnGuandoPistolGun",
@@ -834,7 +888,7 @@
     "category": "Pistol",
     "masteryRank": 10,
     "image": "/data/img/Secondary/Zakti.png",
-    "wiki": "http://warframe.wikia.com/wiki/Zakti"
+    "wiki": "https://warframe.fandom.com/wiki/Zakti"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Pistols/ConclaveLeverPistol/ConclaveLeverPistol",
@@ -843,6 +897,6 @@
     "category": "Pistol",
     "masteryRank": 6,
     "image": "/data/img/Secondary/Zylok.png",
-    "wiki": "http://warframe.wikia.com/wiki/Zylok"
+    "wiki": "https://warframe.fandom.com/wiki/Zylok"
   }
 ]

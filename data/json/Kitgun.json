@@ -1,0 +1,34 @@
+[
+  {
+    "id": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart",
+    "name": "Catchmoon",
+    "type": "Kitgun",
+    "masteryRank": 0,
+    "image": "/data/img/Kitgun/Catchmoon.png",
+    "wiki": "https://warframe.fandom.com/wiki/Catchmoon"
+  },
+  {
+    "id": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart",
+    "name": "Gaze",
+    "type": "Kitgun",
+    "masteryRank": 0,
+    "image": "/data/img/Kitgun/Gaze.png",
+    "wiki": "https://warframe.fandom.com/wiki/Gaze"
+  },
+  {
+    "id": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelCPart",
+    "name": "Rattleguts",
+    "type": "Kitgun",
+    "masteryRank": 0,
+    "image": "/data/img/Kitgun/Rattleguts.png",
+    "wiki": "https://warframe.fandom.com/wiki/Rattleguts"
+  },
+  {
+    "id": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart",
+    "name": "Tombfinger",
+    "type": "Kitgun",
+    "masteryRank": 0,
+    "image": "/data/img/Kitgun/Tombfinger.png",
+    "wiki": "https://warframe.fandom.com/wiki/Tombfinger"
+  }
+]

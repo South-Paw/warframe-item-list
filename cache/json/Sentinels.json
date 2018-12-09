@@ -2,7 +2,7 @@
   {
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/WyrmPowerSuit",
     "name": "WYRM",
-    "description": "With 'Warrior' and 'Crowd Dispersion' as default Precepts, Wyrm is a highly offensive Sentinel. Wyrm also comes with a laser rifle.Note: This item requires two open slots.",
+    "description": "With 'Assault Mode' and 'Crowd Dispersion' as default Precepts, Wyrm is a highly offensive Sentinel. Wyrm also comes with a laser rifle.Note: This item requires two open slots.",
     "longDescription": "",
     "health": 200,
     "shield": 100,
@@ -14,7 +14,7 @@
   {
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/TnSentinelCrossPowerSuit",
     "name": "TAXON",
-    "description": "With 'Retarget' and 'Molecular Conversion' as its default Precepts, Taxon protects its owner with shield restoration. Equipped with the Artax ice-beam.Note: This item requires two open slots.",
+    "description": "With 'Assault Mode' and 'Molecular Conversion' as default Precepts, Taxon protects its owner with shield restoration. Equipped with the Artax ice-beam.Note: This item requires two open slots.",
     "longDescription": "",
     "health": 200,
     "shield": 100,
@@ -30,6 +30,18 @@
     "longDescription": "",
     "health": 350,
     "shield": 50,
+    "armor": 50,
+    "stamina": 8,
+    "power": 100,
+    "codexSecret": false
+  },
+  {
+    "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/RadarPowerSuit",
+    "name": "OXYLUS",
+    "description": "With 'Scan Lifeforms' and 'Scan Matter' as default Precepts, Oxylus was designed to assist in Search-and-Rescue operations through the harsh landscape around The Orb Vallis. Oxylus also comes with a Multron rifle.Note: This item requires two open slots.",
+    "longDescription": "",
+    "health": 200,
+    "shield": 100,
     "armor": 50,
     "stamina": 8,
     "power": 100,
@@ -110,7 +122,7 @@
   {
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/DethCubePowerSuit",
     "name": "DETHCUBE",
-    "description": "With 'Swift Deth' and 'Vaporize' as default precepts, Dethcube acts exactly as advertised, as a badass cube of 'deth'. Comes loaded with Deth Machine Rifle weapon.Note: This item requires two open slots.",
+    "description": "With 'Assault Mode' and 'Vaporize' as default precepts, Dethcube acts exactly as advertised, as a badass cube of 'deth'. Comes loaded with Deth Machine Rifle weapon.Note: This item requires two open slots.",
     "longDescription": "",
     "health": 200,
     "shield": 100,
@@ -122,7 +134,7 @@
   {
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/CarrierPowerSuit",
     "name": "CARRIER",
-    "description": "With 'Striker' and 'Ammo Case' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.Note: This item requires two open slots.",
+    "description": "With 'Assault Mode' and 'Ammo Case' as default Precepts, Carrier is a seeker Sentinel. Carrier also comes with a shotgun weapon.Note: This item requires two open slots.",
     "longDescription": "",
     "health": 200,
     "shield": 100,

@@ -5,7 +5,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Ash.png",
-    "wiki": "http://warframe.wikia.com/wiki/Ash"
+    "wiki": "https://warframe.fandom.com/wiki/Ash"
   },
   {
     "id": "/Lotus/Powersuits/Ninja/AshPrime",
@@ -13,7 +13,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Ash_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Ash_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Ash_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Brawler/Brawler",
@@ -21,7 +21,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Atlas.png",
-    "wiki": "http://warframe.wikia.com/wiki/Atlas"
+    "wiki": "https://warframe.fandom.com/wiki/Atlas"
   },
   {
     "id": "/Lotus/Powersuits/Banshee/Banshee",
@@ -29,7 +29,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Banshee.png",
-    "wiki": "http://warframe.wikia.com/wiki/Banshee"
+    "wiki": "https://warframe.fandom.com/wiki/Banshee"
   },
   {
     "id": "/Lotus/Powersuits/Banshee/BansheePrime",
@@ -37,7 +37,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Banshee_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Banshee_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Banshee_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Dragon/Dragon",
@@ -45,7 +45,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Chroma.png",
-    "wiki": "http://warframe.wikia.com/wiki/Chroma"
+    "wiki": "https://warframe.fandom.com/wiki/Chroma"
   },
   {
     "id": "/Lotus/Powersuits/Dragon/ChromaPrime",
@@ -53,7 +53,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Chroma_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Chroma_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Chroma_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Ember/Ember",
@@ -61,7 +61,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Ember.png",
-    "wiki": "http://warframe.wikia.com/wiki/Ember"
+    "wiki": "https://warframe.fandom.com/wiki/Ember"
   },
   {
     "id": "/Lotus/Powersuits/Ember/EmberPrime",
@@ -69,7 +69,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Ember_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Ember_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Ember_Prime"
   },
   {
     "id": "/Lotus/Powersuits/YinYang/YinYang",
@@ -77,7 +77,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Equinox.png",
-    "wiki": "http://warframe.wikia.com/wiki/Equinox"
+    "wiki": "https://warframe.fandom.com/wiki/Equinox"
   },
   {
     "id": "/Lotus/Powersuits/Excalibur/Excalibur",
@@ -85,7 +85,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Excalibur.png",
-    "wiki": "http://warframe.wikia.com/wiki/Excalibur"
+    "wiki": "https://warframe.fandom.com/wiki/Excalibur"
   },
   {
     "id": "/Lotus/Powersuits/Excalibur/ExcaliburPrime",
@@ -93,7 +93,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Excalibur_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Excalibur_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Excalibur_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Excalibur/ExcaliburUmbra",
@@ -101,7 +101,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Excalibur_Umbra.png",
-    "wiki": "http://warframe.wikia.com/wiki/Excalibur_Umbra"
+    "wiki": "https://warframe.fandom.com/wiki/Excalibur_Umbra"
   },
   {
     "id": "/Lotus/Powersuits/Frost/Frost",
@@ -109,7 +109,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Frost.png",
-    "wiki": "http://warframe.wikia.com/wiki/Frost"
+    "wiki": "https://warframe.fandom.com/wiki/Frost"
   },
   {
     "id": "/Lotus/Powersuits/Frost/FrostPrime",
@@ -117,7 +117,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Frost_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Frost_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Frost_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Glass/Glass",
@@ -125,7 +125,15 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Gara.png",
-    "wiki": "http://warframe.wikia.com/wiki/Gara"
+    "wiki": "https://warframe.fandom.com/wiki/Gara"
+  },
+  {
+    "id": "/Lotus/Powersuits/Garuda/Garuda",
+    "name": "Garuda",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Garuda.png",
+    "wiki": "https://warframe.fandom.com/wiki/Garuda"
   },
   {
     "id": "/Lotus/Powersuits/Priest/Priest",
@@ -133,7 +141,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Harrow.png",
-    "wiki": "http://warframe.wikia.com/wiki/Harrow"
+    "wiki": "https://warframe.fandom.com/wiki/Harrow"
   },
   {
     "id": "/Lotus/Powersuits/Pirate/Pirate",
@@ -141,7 +149,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Hydroid.png",
-    "wiki": "http://warframe.wikia.com/wiki/Hydroid"
+    "wiki": "https://warframe.fandom.com/wiki/Hydroid"
   },
   {
     "id": "/Lotus/Powersuits/Pirate/HydroidPrime",
@@ -149,7 +157,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Hydroid_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Hydroid_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Hydroid_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Sandman/Sandman",
@@ -157,7 +165,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Inaros.png",
-    "wiki": "http://warframe.wikia.com/wiki/Inaros"
+    "wiki": "https://warframe.fandom.com/wiki/Inaros"
   },
   {
     "id": "/Lotus/Powersuits/Ranger/Ranger",
@@ -165,7 +173,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Ivara.png",
-    "wiki": "http://warframe.wikia.com/wiki/Ivara"
+    "wiki": "https://warframe.fandom.com/wiki/Ivara"
   },
   {
     "id": "/Lotus/Powersuits/Khora/Khora",
@@ -173,7 +181,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Khora.png",
-    "wiki": "http://warframe.wikia.com/wiki/Khora"
+    "wiki": "https://warframe.fandom.com/wiki/Khora"
   },
   {
     "id": "/Lotus/Powersuits/Magician/Magician",
@@ -181,7 +189,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Limbo.png",
-    "wiki": "http://warframe.wikia.com/wiki/Limbo"
+    "wiki": "https://warframe.fandom.com/wiki/Limbo"
   },
   {
     "id": "/Lotus/Powersuits/Magician/LimboPrime",
@@ -189,7 +197,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Limbo_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Limbo_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Limbo_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Loki/Loki",
@@ -197,7 +205,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Loki.png",
-    "wiki": "http://warframe.wikia.com/wiki/Loki"
+    "wiki": "https://warframe.fandom.com/wiki/Loki"
   },
   {
     "id": "/Lotus/Powersuits/Loki/LokiPrime",
@@ -205,7 +213,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Loki_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Loki_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Loki_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Mag/Mag",
@@ -213,7 +221,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Mag.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mag"
+    "wiki": "https://warframe.fandom.com/wiki/Mag"
   },
   {
     "id": "/Lotus/Powersuits/Mag/MagPrime",
@@ -221,7 +229,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Mag_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mag_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Mag_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Cowgirl/Cowgirl",
@@ -229,7 +237,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Mesa.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mesa"
+    "wiki": "https://warframe.fandom.com/wiki/Mesa"
   },
   {
     "id": "/Lotus/Powersuits/Harlequin/Harlequin",
@@ -237,7 +245,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Mirage.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mirage"
+    "wiki": "https://warframe.fandom.com/wiki/Mirage"
   },
   {
     "id": "/Lotus/Powersuits/Harlequin/MiragePrime",
@@ -245,7 +253,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Mirage_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mirage_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Mirage_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Necro/Necro",
@@ -253,7 +261,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nekros.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nekros"
+    "wiki": "https://warframe.fandom.com/wiki/Nekros"
   },
   {
     "id": "/Lotus/Powersuits/Necro/NekrosPrime",
@@ -261,7 +269,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nekros_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nekros_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Nekros_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Nezha/Nezha",
@@ -269,7 +277,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nezha.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nezha"
+    "wiki": "https://warframe.fandom.com/wiki/Nezha"
   },
   {
     "id": "/Lotus/Powersuits/Infestation/Infestation",
@@ -277,7 +285,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nidus.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nidus"
+    "wiki": "https://warframe.fandom.com/wiki/Nidus"
   },
   {
     "id": "/Lotus/Powersuits/AntiMatter/Anti",
@@ -285,7 +293,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nova.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nova"
+    "wiki": "https://warframe.fandom.com/wiki/Nova"
   },
   {
     "id": "/Lotus/Powersuits/AntiMatter/NovaPrime",
@@ -293,7 +301,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nova_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nova_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Nova_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Jade/Jade",
@@ -301,7 +309,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nyx.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nyx"
+    "wiki": "https://warframe.fandom.com/wiki/Nyx"
   },
   {
     "id": "/Lotus/Powersuits/Jade/NyxPrime",
@@ -309,7 +317,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Nyx_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Nyx_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Nyx_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Paladin/Paladin",
@@ -317,7 +325,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Oberon.png",
-    "wiki": "http://warframe.wikia.com/wiki/Oberon"
+    "wiki": "https://warframe.fandom.com/wiki/Oberon"
   },
   {
     "id": "/Lotus/Powersuits/Paladin/PaladinPrime",
@@ -325,7 +333,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Oberon_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Oberon_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Oberon_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Bard/Bard",
@@ -333,7 +341,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Octavia.png",
-    "wiki": "http://warframe.wikia.com/wiki/Octavia"
+    "wiki": "https://warframe.fandom.com/wiki/Octavia"
   },
   {
     "id": "/Lotus/Powersuits/Revenant/Revenant",
@@ -341,7 +349,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Revenant.png",
-    "wiki": "http://warframe.wikia.com/wiki/Revenant"
+    "wiki": "https://warframe.fandom.com/wiki/Revenant"
   },
   {
     "id": "/Lotus/Powersuits/Rhino/Rhino",
@@ -349,7 +357,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Rhino.png",
-    "wiki": "http://warframe.wikia.com/wiki/Rhino"
+    "wiki": "https://warframe.fandom.com/wiki/Rhino"
   },
   {
     "id": "/Lotus/Powersuits/Rhino/RhinoPrime",
@@ -357,7 +365,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Rhino_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Rhino_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Rhino_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Saryn/Saryn",
@@ -365,7 +373,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Saryn.png",
-    "wiki": "http://warframe.wikia.com/wiki/Saryn"
+    "wiki": "https://warframe.fandom.com/wiki/Saryn"
   },
   {
     "id": "/Lotus/Powersuits/Saryn/SarynPrime",
@@ -373,7 +381,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Saryn_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Saryn_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Saryn_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Fairy/Fairy",
@@ -381,7 +389,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Titania.png",
-    "wiki": "http://warframe.wikia.com/wiki/Titania"
+    "wiki": "https://warframe.fandom.com/wiki/Titania"
   },
   {
     "id": "/Lotus/Powersuits/Trinity/Trinity",
@@ -389,7 +397,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Trinity.png",
-    "wiki": "http://warframe.wikia.com/wiki/Trinity"
+    "wiki": "https://warframe.fandom.com/wiki/Trinity"
   },
   {
     "id": "/Lotus/Powersuits/Trinity/TrinityPrime",
@@ -397,7 +405,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Trinity_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Trinity_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Trinity_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Berserker/Berserker",
@@ -405,7 +413,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Valkyr.png",
-    "wiki": "http://warframe.wikia.com/wiki/Valkyr"
+    "wiki": "https://warframe.fandom.com/wiki/Valkyr"
   },
   {
     "id": "/Lotus/Powersuits/Berserker/ValkyrPrime",
@@ -413,7 +421,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Valkyr_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Valkyr_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Valkyr_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Trapper/Trapper",
@@ -421,7 +429,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Vauban.png",
-    "wiki": "http://warframe.wikia.com/wiki/Vauban"
+    "wiki": "https://warframe.fandom.com/wiki/Vauban"
   },
   {
     "id": "/Lotus/Powersuits/Trapper/TrapperPrime",
@@ -429,7 +437,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Vauban_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Vauban_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Vauban_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Volt/Volt",
@@ -437,7 +445,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Volt.png",
-    "wiki": "http://warframe.wikia.com/wiki/Volt"
+    "wiki": "https://warframe.fandom.com/wiki/Volt"
   },
   {
     "id": "/Lotus/Powersuits/Volt/VoltPrime",
@@ -445,7 +453,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Volt_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Volt_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Volt_Prime"
   },
   {
     "id": "/Lotus/Powersuits/MonkeyKing/MonkeyKing",
@@ -453,7 +461,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Wukong.png",
-    "wiki": "http://warframe.wikia.com/wiki/Wukong"
+    "wiki": "https://warframe.fandom.com/wiki/Wukong"
   },
   {
     "id": "/Lotus/Powersuits/Tengu/Tengu",
@@ -461,7 +469,7 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Zephyr.png",
-    "wiki": "http://warframe.wikia.com/wiki/Zephyr"
+    "wiki": "https://warframe.fandom.com/wiki/Zephyr"
   },
   {
     "id": "/Lotus/Powersuits/Tengu/ZephyrPrime",
@@ -469,6 +477,6 @@
     "type": "Warframe",
     "masteryRank": 0,
     "image": "/data/img/Warframe/Zephyr_Prime.png",
-    "wiki": "http://warframe.wikia.com/wiki/Zephyr_Prime"
+    "wiki": "https://warframe.fandom.com/wiki/Zephyr_Prime"
   }
 ]

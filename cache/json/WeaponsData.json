@@ -34,7 +34,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 0.9,
       "Image": "RegorAxeShield.png",
       "Introduced": "[[Update 17#Update 17.0|Update 17.0]]",
       "JumpAttack": 50,
@@ -89,7 +89,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.33,
       "Image": "Acrid2.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 15,
@@ -141,7 +141,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.39,
       "Family": "Afuris",
       "Image": "Afuris.png",
       "Introduced": "[[Update 5#Update 5.3|Update 5.3]]",
@@ -244,7 +244,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.8,
       "Family": "Akbolto",
       "Image": "Akbolto.png",
       "Introduced": "[[Update 6#Update 6.0|Update 6.0]]",
@@ -297,7 +297,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.8,
       "Family": "Akbolto",
       "Image": "MirageAkboltoPrime.png",
       "Introduced": "[[Update 22#Update 22.7|Update 22.7]]",
@@ -351,7 +351,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.2,
       "Family": "Akbronco",
       "Image": "Dual Broncos.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -409,7 +409,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.2,
       "Family": "Akbronco",
       "Image": "DEPrimeDualBroncos.png",
       "Introduced": "[[Update 12#Update 12.4|Update 12.4]]",
@@ -470,7 +470,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.43,
       "Image": "TnoBladedPistols.png",
       "Introduced": "[[Update 15#Update 15.13|Update 15.13]]",
       "Magazine": 36,
@@ -503,7 +503,7 @@
       "Cost": {
         "Credits": 25000
       },
-      "Disposition": 5,
+      "Disposition": 1.52,
       "Image": "Aklato.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
       "Magazine": 30,
@@ -555,7 +555,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.92,
       "Family": "Aklex",
       "Image": "DEAklex.png",
       "Introduced": "[[Update 11#Update 11.1|Update 11.1]]",
@@ -607,7 +607,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.92,
       "Family": "Aklex",
       "Image": "Aklex Prime.png",
       "Introduced": "[[Update 19#Hotfix 19.8.1|Hotfix 19.8.1]]",
@@ -660,7 +660,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.28,
       "Image": "DEAkmagnus.png",
       "Introduced": "[[Update 11#Update 11.9|Update 11.9]]",
       "Magazine": 16,
@@ -711,7 +711,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.2,
       "Image": "AkimboSomaPistols.png",
       "Introduced": "[[Update 16#Update 16.3|Update 16.3]]",
       "Magazine": 70,
@@ -769,7 +769,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Akstiletto",
       "Image": "TennoUzi.png",
       "Introduced": "[[Update 12#Update 12.0|Update 12.0]]",
@@ -821,7 +821,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Akstiletto",
       "Image": "PrimeAkstiletto.png",
       "Introduced": "[[Update 18#Update 18.12|Update 18.12]]",
@@ -875,7 +875,8 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.3,
+      "Family": "Akvasto",
       "Image": "Dual vastos.png",
       "Introduced": "[[Update 9#Update 9.7|Update 9.7]]",
       "Magazine": 12,
@@ -899,6 +900,58 @@
       "Trigger": "Semi-Auto",
       "Type": "Secondary",
       "Users": [ "[[Torment]]" ]
+    },
+    "Akvasto Prime": {
+      "Accuracy": 16,
+      "Class": "Dual Pistols",
+      "Conclave": true,
+      "Cost": {
+        "Rush": 50,
+        "Credits": 15000,
+        "Parts": [
+          {
+            "Type": "Weapon",
+            "Count": 1,
+            "Name": "Vasto Prime"
+          },
+          {
+            "Type": "Weapon",
+            "Count": 1,
+            "Name": "Vasto Prime"
+          },
+          {
+            "Type": "PrimePart",
+            "Count": 1,
+            "Name": "Link"
+          }
+        ],
+        "Time": 12
+      },
+      "Disposition": 1.3,
+      "Family": "Akvasto",
+      "Image": "AkvastoPrime.png",
+      "Introduced": "[[Update 24#Hotfix 24.0.6|Hotfix 24.0.6]]",
+      "Magazine": 12,
+      "Mastery": 12,
+      "MaxAmmo": 210,
+      "Name": "Akvasto Prime",
+      "NormalAttack": {
+        "CritMultiplier": 2.4,
+        "CritChance": 0.22,
+        "Damage": {
+          "Slash": 46.2,
+          "Puncture": 9.9,
+          "Impact": 9.9
+        },
+        "StatusChance": 0.22,
+        "FireRate": 6.33,
+        "ShotType": "Hit-Scan"
+      },
+      "Polarities": [ "V", "V" ],
+      "Reload": 1.4,
+      "Traits": [ "Prime" ],
+      "Trigger": "Semi-Auto",
+      "Type": "Secondary"
     },
     "Akzani": {
       "Accuracy": 16.7,
@@ -933,7 +986,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.52,
       "Image": "Akzani.png",
       "Introduced": "[[Update 14#Update 14.0|Update 14.0]]",
       "Magazine": 100,
@@ -991,7 +1044,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.5,
       "Image": "DEAmphis.png",
       "Introduced": "[[Update 6#Update 6.5|Update 6.5]]",
       "JumpAttack": 40,
@@ -1052,7 +1105,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 0.85,
       "Image": "ChainLightningGunEdit.png",
       "Introduced": "[[Update 13#Update 13.1|Update 13.1]]",
       "Magazine": 100,
@@ -1130,7 +1183,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Angstrum",
       "FireRate": 2,
       "Image": "CorpusHandRocket.png",
@@ -1203,7 +1256,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.46,
       "Image": "ParisScythe.png",
       "Introduced": "[[Update 16#Update 16.7|Update 16.7]]",
       "JumpAttack": 140,
@@ -1261,7 +1314,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Ankyros",
       "Image": "Ankyros.png",
       "Introduced": "[[Update 7#Update 7.8|Update 7.8]]",
@@ -1311,7 +1364,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Ankyros",
       "Image": "PrimeAnkyros.png",
       "Introduced": "[[Update 12#Update 12.4|Update 12.4]]",
@@ -1369,7 +1422,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 0.7,
       "Image": "CrpShotgun.png",
       "Introduced": "[[Update 21#Update 21.7|Update 21.7]]",
       "Magazine": 10,
@@ -1390,14 +1443,15 @@
         "Damage": {
           "Radiation": 600
         },
-        "ShotSpeed": "???",
+        "ShotSpeed": 60,
         "Range": 30
       },
       "Polarities": [ "V", "V" ],
       "Reload": 2.8,
       "Traits": [ "Corpus" ],
       "Trigger": "Semi-Auto",
-      "Type": "Primary"
+      "Type": "Primary",
+      "Users": [ "[[Terra Plasmor Crewman]]" ]
     },
     "Arca Scisco": {
       "Accuracy": 32,
@@ -1432,7 +1486,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "CrpScopePistol.png",
       "Introduced": "[[Update 21#Update 21.7|Update 21.7]]",
       "Magazine": 36,
@@ -1491,7 +1545,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Arca",
       "Image": "CrpHammer.png",
       "Introduced": "[[Update 21#Update 21.7|Update 21.7]]",
@@ -1549,7 +1603,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "LaserAimRifle.png",
       "Introduced": "[[Update 22#Update: Plains of Eidolon|Update: Plains of Eidolon]]",
       "Magazine": 43,
@@ -1587,13 +1641,13 @@
         "ShotType": "Hit-Scan",
         "FireRate": 4.33
       },
-      "Trigger": "Auto / Semi-Auto",
+      "Trigger": "Auto / Semi",
       "Type": "Primary"
     },
     "Artax": {
       "Accuracy": 12.5,
       "Class": "Rifle",
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "SentinelArtax.png",
       "Introduced": "[[Update 19#Update 19.10|Update 19.10]]",
       "Magazine": 100,
@@ -1610,9 +1664,9 @@
         "ShotType": "Discharge"
       },
       "Reload": 1.5,
-      "Traits": [ "Tenno", "Sentinel" ],
+      "Traits": [ "Tenno" ],
       "Trigger": "Held",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Artemis Bow (Weapon)": {
       "Accuracy": 100,
@@ -1705,7 +1759,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.1,
       "Image": "GlassShotgun.png",
       "Introduced": "[[Update 22#Update: Plains of Eidolon|Update: Plains of Eidolon]]",
       "Magazine": 16,
@@ -1728,7 +1782,7 @@
           "Puncture": 15.4,
           "Impact": 25.9
         },
-        "ShotSpeed": "???",
+        "ShotSpeed": "75",
         "FireRate": 4.33
       },
       "Polarities": [ "V", "Bar" ],
@@ -1770,12 +1824,12 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.8,
       "Image": "GrnHeatGun.png",
       "Introduced": "[[Update 16#Update 16.5|Update 16.5]]",
       "Magazine": 70,
       "Mastery": 5,
-      "MaxAmmo": 300,
+      "MaxAmmo": 350,
       "Name": "Atomos",
       "NormalAttack": {
         "CritMultiplier": 1.7,
@@ -1795,7 +1849,7 @@
       "Type": "Secondary"
     },
     "Atterax": {
-      "BlockResist": 0.35,
+      "BlockResist": 0.5,
       "Class": "Whip",
       "Conclave": true,
       "Cost": {
@@ -1827,7 +1881,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Image": "GrineerWhip.png",
       "Introduced": "[[Update 14#Update 14.7|Update 14.7]]",
       "JumpAttack": 90,
@@ -1883,7 +1937,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.415,
       "Image": "TnoPrmryXbow.png",
       "Introduced": "[[Update 13#Update 13.0|Update 13.0]]",
       "Magazine": 20,
@@ -1914,7 +1968,7 @@
       "Accuracy": 15.4,
       "Class": "Pistol",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.25,
       "Image": "SundialPistol.png",
       "Introduced": "[[Update 18#Update 18.5|Update 18.5]]",
       "Magazine": 75,
@@ -1996,7 +2050,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.95,
       "Family": "Ballistica",
       "Image": "DEBallistica.png",
       "Introduced": "[[Update 10#Update 10.4|Update 10.4]]",
@@ -2071,7 +2125,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.95,
       "Family": "Ballistica",
       "Image": "PrimeBallistica.png",
       "Introduced": "[[Update 21#Update 21.6|Update 21.6]]",
@@ -2101,6 +2155,78 @@
       "Reload": 1.2,
       "Trigger": "Burst / Charge",
       "Type": "Secondary"
+    },
+    "Battacor": {
+      "Class": "Rifle",
+      "Conclave": true,
+      "Cost": {
+        "BPCost": 15000,
+        "MarketCost": 175,
+        "Rush": 35,
+        "Credits": 25000,
+        "Parts": [
+          {
+            "Type": "Resource",
+            "Count": 10,
+            "Name": "Fieldron"
+          },
+          {
+            "Type": "Resource",
+            "Count": 40,
+            "Name": "Tepa Nodule"
+          },
+          {
+            "Type": "Resource",
+            "Count": 25,
+            "Name": "Heart Noctrul"
+          },
+          {
+            "Type": "Resource",
+            "Count": 20,
+            "Name": "Entroplasma"
+          }
+        ],
+        "Time": 24
+      },
+      "Disposition": 1,
+      "Image": "Battacor.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24]]",
+      "Magazine": 60,
+      "Mastery": 10,
+      "MaxAmmo": 720,
+      "Name": "Battacor",
+      "NormalAttack": {
+        "BurstCount": 2,
+        "CritMultiplier": 2.4,
+        "StatusChance": 0.18,
+        "CritChance": 0.32,
+        "Accuracy": 25,
+        "Damage": {
+          "Puncture": 24,
+          "Magnetic": 42
+        },
+        "FireRate": 3.57,
+        "ShotType": "Hit-Scan"
+      },
+      "Reload": 2,
+      "SecondaryAttack": {
+        "AmmoCost": 1,
+        "CritMultiplier": 3,
+        "PunchThrough": 2,
+        "StatusChance": 0.08,
+        "Trigger": "Charge",
+        "ShotType": "Hit-Scan",
+        "ChargeTime": 0.4,
+        "CritChance": 0.34,
+        "Accuracy": 100,
+        "Damage": {
+          "Radiation": 208
+        },
+        "FireRate": 1
+      },
+      "Traits": [ "Corpus" ],
+      "Trigger": "Auto Burst",
+      "Type": "Primary"
     },
     "Baza": {
       "Accuracy": 80,
@@ -2135,7 +2261,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "Baza.png",
       "Introduced": "[[Update 22#Update 22.4|Update 22.4]]",
       "Magazine": 40,
@@ -2199,7 +2325,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Family": "Bo",
       "Image": "BoStaff.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -2250,7 +2376,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Family": "Bo",
       "Image": "PrimeBo.png",
       "Introduced": "[[Update 13#Update 13.7|Update 13.7]]",
@@ -2307,10 +2433,10 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.34,
       "Family": "Boar",
       "Image": "Boar.png",
-      "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
+      "Introduced": "[[Closed Beta Updates#Vanilla|Vanilla]]",
       "Magazine": 20,
       "Mastery": 2,
       "MaxAmmo": 120,
@@ -2370,7 +2496,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.34,
       "Family": "Boar",
       "Image": "FixedPrimeBoar.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
@@ -2397,7 +2523,7 @@
         "ShotType": "Hit-Scan"
       },
       "Reload": 2.75,
-      "Traits": [ "Prime", "Vaulted" ],
+      "Traits": [ "Prime" ],
       "Trigger": "Auto",
       "Type": "Primary"
     },
@@ -2429,7 +2555,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Boltace",
       "Image": "Boltonfa.png",
       "Introduced": "[[Update 16#Update 16.5|Update 16.5]]",
@@ -2487,7 +2613,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.51,
       "Family": "Bolto",
       "Image": "Bolto.png",
       "Introduced": "[[Update 5#Update 5.3|Update 5.3]]",
@@ -2546,7 +2672,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.79,
       "Family": "Boltor",
       "Image": "Boltor.png",
       "Introduced": "[[Update 6#Update 6.0|Update 6.0]]",
@@ -2605,7 +2731,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.79,
       "Family": "Boltor",
       "Image": "DEPrimeBoltor.png",
       "Introduced": "[[Update 12#Update 12.4|Update 12.4]]",
@@ -2658,7 +2784,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.95,
       "Image": "DEGrineerHandShotgun.png",
       "Introduced": "[[Update 10#Update 10.6|Update 10.6]]",
       "Magazine": 5,
@@ -2693,7 +2819,7 @@
       "Accuracy": 28.6,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1.01,
       "Family": "Braton",
       "Image": "Braton.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -2749,7 +2875,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.01,
       "Family": "Braton",
       "Image": "PrimeBraton.png",
       "Introduced": "[[Update 6#Update 9.0|Update 9.0]]",
@@ -2800,7 +2926,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.01,
       "Family": "Braton",
       "Image": "BratonVandal.png",
       "Introduced": "[[Update 6#Update 6.3.1|Update 6.3.1]]",
@@ -2831,7 +2957,7 @@
       "BlockResist": 0.6,
       "Class": "Staff",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.19,
       "Image": "GrnQueenSceptre.png",
       "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "JumpAttack": 120,
@@ -2885,7 +3011,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.79,
       "Image": "StalkerTwoSword.png",
       "Introduced": "[[Update 18#Update 18.0|Update 18.0]]",
       "JumpAttack": 180,
@@ -2941,7 +3067,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Bronco",
       "Image": "Bronco.png",
       "Magazine": 2,
@@ -2997,7 +3123,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Bronco",
       "Image": "PrimeBronco.png",
       "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
@@ -3032,7 +3158,7 @@
     "Burst Laser": {
       "Accuracy": 100,
       "Class": "Pistol",
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Burst Laser",
       "Image": "DESentinelBurstLaser.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
@@ -3053,9 +3179,9 @@
         "ShotType": "Projectile"
       },
       "Reload": 0,
-      "Traits": [ "Tenno", "Sentinel" ],
+      "Traits": [ "Tenno" ],
       "Trigger": "Burst",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Burston": {
       "Accuracy": 25,
@@ -3091,7 +3217,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Family": "Burston",
       "Image": "Burston.png",
       "Magazine": 45,
@@ -3150,7 +3276,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Family": "Burston",
       "Image": "PrimeBurston.png",
       "Introduced": "[[Update 11#Update 11.5|Update 11.5]]",
@@ -3210,7 +3336,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Image": "GrnGorgSniperRifle.png",
       "Introduced": "[[Update 14#Update 14.7|Update 14.7]]",
       "Magazine": 50,
@@ -3283,7 +3409,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Image": "CYSingleStaffSkin.png",
       "JumpAttack": 100,
       "Mastery": 0,
@@ -3308,7 +3434,7 @@
       "Accuracy": 100,
       "Class": "Launcher",
       "Conclave": false,
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Family": "Penta",
       "Image": "PentaLoginRewardSkin.png",
       "Magazine": 10,
@@ -3374,7 +3500,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "Cassowar.png",
       "Introduced": "[[Update 22#Update 22.4|Update 22.4]]",
       "JumpAttack": 140,
@@ -3431,7 +3557,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Family": "Castanas",
       "Image": "TaserStar.png",
       "Introduced": "[[Update 12#Update 12.2|Update 12.2]]",
@@ -3489,7 +3615,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.3,
       "Image": "EmbolistScythe.png",
       "Introduced": "[[Update 19#Update: The Index Preview|Update: The Index Preview]]",
       "JumpAttack": 150,
@@ -3592,7 +3718,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.43,
       "Image": "Cronus.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
       "JumpAttack": 70,
@@ -3660,7 +3786,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.36,
       "Image": "PunctureGlaive.png",
       "Introduced": "[[Update 17#Update 17.9|Update 17.9]]",
       "JumpAttack": 88,
@@ -3756,7 +3882,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.92,
       "Family": "Cernos",
       "Image": "DECernos.png",
       "Introduced": "[[Update 11#Update 11.1|Update 11.1]]",
@@ -3841,7 +3967,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.92,
       "Family": "Cernos",
       "Image": "CernosPrime.png",
       "Introduced": "[[Update 19#Hotfix 19.0.7|Hotfix 19.0.7]]",
@@ -3903,7 +4029,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.52,
       "Image": "CorpusMinigun.png",
       "Introduced": "[[Update 11#Update 11.0|Update 11.0]]",
       "Magazine": 60,
@@ -3960,7 +4086,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.46,
       "Image": "CrpSplitRifle.png",
       "Introduced": "[[Update 17#Update 17.5|Update 17.5]]",
       "Magazine": 70,
@@ -3986,7 +4112,8 @@
       "Reload": 2,
       "Traits": [ "Corpus" ],
       "Trigger": "Held",
-      "Type": "Primary"
+      "Type": "Primary",
+      "Users": [ "[[Terra Jailer]]", "[[Terra Overtaker]]" ]
     },
     "Corinth": {
       "Accuracy": 9.1,
@@ -4021,7 +4148,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.05,
       "Image": "TnHeavyShotgun.png",
       "Introduced": "[[Update 22#Update 22.8.0|Update 22]]",
       "Magazine": 5,
@@ -4173,7 +4300,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Image": "Cronus.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
       "JumpAttack": 70,
@@ -4196,6 +4323,29 @@
       "Traits": [ "Tenno", "Grineer" ],
       "Type": "Melee",
       "WallAttack": 140
+    },
+    "Cryotra": {
+      "Accuracy": 12.5,
+      "Class": "Rifle",
+      "Image": "Cryotra.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24.0]]",
+      "Magazine": 80,
+      "Mastery": 3,
+      "Name": "Cryotra",
+      "NormalAttack": {
+        "CritMultiplier": 2,
+        "CritChance": 0.05,
+        "Damage": {
+          "Cold": 10
+        },
+        "StatusChance": 0.35,
+        "FireRate": 1,
+        "ShotType": "Discharge"
+      },
+      "Reload": 4,
+      "Traits": [ "Corpus" ],
+      "Trigger": "Held",
+      "Type": "Robotic"
     },
     "Cycron": {
       "Accuracy": 100,
@@ -4230,7 +4380,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "Cycron.png",
       "Introduced": "[[Update 20#Update 20.3|Update 20.3]]",
       "Magazine": 40,
@@ -4362,7 +4512,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.21,
       "Image": "AsymmetricBow.png",
       "Introduced": "[[Update 16#Update 16.5|Update 16.5]]",
       "Magazine": 1,
@@ -4402,7 +4552,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.15,
       "FinisherDamage": 120,
       "Image": "SwordPrime.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
@@ -4423,7 +4573,7 @@
       "Polarities": [ "V", "Bar" ],
       "SlideAttack": 129,
       "StancePolarity": "V",
-      "Traits": [ "Prime", "Vaulted" ],
+      "Traits": [ "Prime" ],
       "Type": "Melee",
       "WallAttack": 240
     },
@@ -4482,7 +4632,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.52,
       "Family": "Dark Dagger",
       "Image": "DarkDagger.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
@@ -4540,7 +4690,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.21,
       "Image": "DarkSplitSwordDualIcon.png",
       "Introduced": "[[Update 18#Update 18.14|Update 18.14]]",
       "JumpAttack": 130,
@@ -4566,7 +4716,7 @@
       "BlockResist": 0.85,
       "Class": "Heavy Blade",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.21,
       "Image": "DarkSwordDaggerHybrid.png",
       "Introduced": "[[Update 18#Update 18.14|Update 18.14]]",
       "JumpAttack": 180,
@@ -4619,7 +4769,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Image": "DarkSword.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
       "JumpAttack": 74,
@@ -4647,7 +4797,7 @@
     "Deconstructor": {
       "Accuracy": 100,
       "Class": "Glaive",
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Family": "Deconstructor",
       "Image": "SentinelGlaiveWeapon.png",
       "Introduced": "[[Update 12#Update 12.5|Update 12.5]]",
@@ -4665,14 +4815,14 @@
         "ShotType": "Projectile"
       },
       "Reload": 3,
-      "Traits": [ "Tenno", "Sentinel" ],
+      "Traits": [ "Tenno" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Deconstructor Prime": {
       "Accuracy": 100,
       "Class": "Glaive",
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Family": "Deconstructor",
       "Image": "DeconstructorPrime.png",
       "Introduced": "[[Update 19#Hotfix 19.11.5|Hotfix 19.11.5]]",
@@ -4690,8 +4840,9 @@
         "ShotType": "Projectile"
       },
       "Reload": 3,
+      "Traits": [ "Prime" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Dera": {
       "Accuracy": 100,
@@ -4725,7 +4876,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.245,
       "Family": "Dera",
       "Image": "CorpusEnergyRifle.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -4777,7 +4928,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.245,
       "Family": "Dera",
       "Image": "DeraVandal.png",
       "Introduced": "[[Update 16#Update 16.5|Update 16.5]]",
@@ -4834,7 +4985,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.3,
       "Image": "Despair.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 10,
@@ -4893,7 +5044,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.14,
       "Family": "Destreza",
       "Image": "TnoRapier.png",
       "Introduced": "[[Update 18#Update 18.3|Update 18.3]]",
@@ -4945,7 +5096,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.14,
       "Family": "Destreza",
       "Image": "DestrezaPrime.png",
       "Introduced": "[[Update 23#Hotfix 23.0.3|Hotfix 23.0.3]]",
@@ -4973,7 +5124,7 @@
     "Deth Machine Rifle": {
       "Accuracy": 100,
       "Class": "Rifle",
-      "Disposition": 5,
+      "Disposition": 1.455,
       "Image": "DESentinelDethMachineRifle.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 100,
@@ -4989,12 +5140,12 @@
         },
         "StatusChance": 0.01,
         "FireRate": 8.3,
-        "ShotType": "Hit-scan"
+        "ShotType": "Hit-Scan"
       },
       "Reload": 2,
-      "Traits": [ "Tenno", "Sentinel" ],
+      "Traits": [ "Tenno" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Detron": {
       "Accuracy": 7.1,
@@ -5022,7 +5173,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Detron",
       "Image": "DECorpusHandCannon.png",
       "Introduced": "[[Update 11#Update 11.5.5|Update 11.5.5]]",
@@ -5057,7 +5208,7 @@
       "BlockResist": 0.6,
       "Class": "Dual Swords",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.15,
       "Image": "DexDakra.png",
       "Introduced": "[[Update 16#Hotfix 16.1.2|Hotfix 16.1.2]]",
       "JumpAttack": 130,
@@ -5085,7 +5236,7 @@
       "Accuracy": 15.4,
       "Class": "Dual Pistols",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.39,
       "Family": "Afuris",
       "Image": "DexFuris.png",
       "Introduced": "[[Update 12#Update 12.6|Update 12.6]]",
@@ -5142,7 +5293,7 @@
       "BurstFireRate": 3.33,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 2,
+      "Disposition": 0.895,
       "Family": "Sybaris",
       "Image": "DexSybaris.png",
       "Introduced": "[[Update 18#Hotfix 18.6.2|Hotfix 18.6.2]]",
@@ -5220,7 +5371,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Image": "DragonKatana.png",
       "Introduced": "[[Update 13#Update 13.0|Update 13.0]]",
       "JumpAttack": 170,
@@ -5291,7 +5442,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Image": "GrineerFlakCannon.png",
       "Introduced": "[[Update 11#Update 11.6|Update 11.6]]",
       "Magazine": 7,
@@ -5375,7 +5526,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.9,
       "Image": "Dread2.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 1,
@@ -5435,7 +5586,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Dual Cestra",
       "Image": "DualCorpusMinigun.png",
       "Introduced": "[[Update 12#Update 12.0|Update 12.0]]",
@@ -5495,7 +5646,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Dual Cleavers",
       "FinisherDamage": 55,
       "Image": "Dual Cleavers.png",
@@ -5604,7 +5755,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Image": "Dual_Ether.png",
       "Introduced": "[[Update 7#Update 7.7.3|Update 7.7.3]]",
       "JumpAttack": 80,
@@ -5661,7 +5812,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Image": "DualHeat.png",
       "Introduced": "[[Update 6#Update 6.2|Update 6.2]]",
       "JumpAttack": 90,
@@ -5718,7 +5869,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.16,
       "FinisherDamage": 55,
       "Image": "DualInfestedAxes.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
@@ -5772,7 +5923,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.81,
       "Family": "Dual Kamas",
       "Image": "DEDualKamas.png",
       "Introduced": "[[Update 11#Update 11.1|Update 11.1]]",
@@ -5817,7 +5968,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.81,
       "Family": "Dual Kamas",
       "Image": "DualKamasPrime.png",
       "Introduced": "[[Update 17#Update 17.6|Update 17.6]]",
@@ -5847,7 +5998,7 @@
       "Cost": {
         "BPCost": 25000,
         "MarketCost": 130,
-        "Rush": "???",
+        "Rush": 35,
         "Credits": 20000,
         "Parts": [
           {
@@ -5873,7 +6024,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Family": "Dual Keres",
       "Image": "DualKeres.png",
       "Introduced": "[[Update 22#Update 22.18|Update 22.18]]",
@@ -5928,7 +6079,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Image": "SomaDualKamas.png",
       "Introduced": "[[Update 16#Update 16.3|Update 16.3]]",
       "JumpAttack": 96,
@@ -5985,7 +6136,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Image": "DualSkana.png",
       "JumpAttack": 64,
       "Mastery": 0,
@@ -6041,7 +6192,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Image": "InfVomitGun.png",
       "Introduced": "[[Update 18#Update 18.5|Update 18.5]]",
       "Magazine": 12,
@@ -6098,7 +6249,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Image": "DualZoren.png",
       "Introduced": "[[Update 6#Update 6.0|Update 6.0]]",
       "JumpAttack": 60,
@@ -6154,7 +6305,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Image": "InfestedPistol.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
       "Magazine": 33,
@@ -6212,7 +6363,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "Endura.png",
       "Introduced": "[[Update 20#Update 20.6|Update 20.6]]",
       "JumpAttack": 190,
@@ -6267,7 +6418,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.49,
       "Image": "EtherDaggers2.png",
       "Introduced": "[[Update 7#Update 7.7.3|Update 7.7.3]]",
       "JumpAttack": 90,
@@ -6325,7 +6476,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Image": "EtherScythe.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
       "JumpAttack": 130,
@@ -6383,7 +6534,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Image": "Ether-Sword.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "JumpAttack": 74,
@@ -6431,7 +6582,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.7,
       "Image": "EuphoraPrime.png",
       "Introduced": "[[Update 19#Hotfix 19.11.5|Hotfix 19.11.5]]",
       "Magazine": 5,
@@ -6517,6 +6668,37 @@
         "StatusChance": 0.3
       },
       "Class": "Glaive",
+      "Conclave": false,
+      "Cost": {
+        "BPCost": 15000,
+        "MarketCost": 200,
+        "Rush": 35,
+        "Credits": 20000,
+        "Parts": [
+          {
+            "Type": "Resource",
+            "Count": 5,
+            "Name": "Fieldron"
+          },
+          {
+            "Type": "Resource",
+            "Count": 8500,
+            "Name": "Alloy Plate"
+          },
+          {
+            "Type": "Resource",
+            "Count": 1650,
+            "Name": "Circuits"
+          },
+          {
+            "Type": "Resource",
+            "Count": 1,
+            "Name": "Forma"
+          }
+        ],
+        "Time": 24
+      },
+      "Disposition": 1,
       "Image": "CrpGlaive.png",
       "Introduced": "[[Update_23#Update_23.10|Update 23.10]]",
       "JumpAttack": 78,
@@ -6535,6 +6717,7 @@
         }
       },
       "SlideAttack": 390,
+      "StancePolarity": "Bar",
       "ThrowAttack": {
         "StatusChance": 0.28,
         "Damage": {
@@ -6583,7 +6766,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.36,
       "Family": "Fang",
       "Image": "DualDaggers.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
@@ -6629,7 +6812,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.36,
       "Family": "Fang",
       "FinisherDamage": 90,
       "Image": "PrimeFang.png",
@@ -6703,7 +6886,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "Ferrox.png",
       "Introduced": "[[Update 19#Update 19.13|Update 19.13]]",
       "Magazine": 10,
@@ -6822,7 +7005,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.55,
       "Image": "CorpusLaserRifle.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 50,
@@ -6882,7 +7065,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.96,
       "Family": "Fragor",
       "FinisherDamage": 200,
       "Image": "DEFragor.png",
@@ -6936,7 +7119,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.96,
       "Family": "Fragor",
       "Image": "PrimeFragor.png",
       "Introduced": "[[Update 18#Update 18.12|Update 18.12]]",
@@ -6994,7 +7177,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.38,
       "Family": "Furax",
       "FinisherDamage": 30,
       "Image": "Furax.png",
@@ -7042,7 +7225,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.38,
       "Family": "Furax",
       "Image": "WraithFurax.png",
       "Introduced": "[[Update 18#Update 18.10|Update 18.10]]",
@@ -7098,7 +7281,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Family": "Furis",
       "Image": "Furis.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -7157,7 +7340,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.3,
       "Image": "GlassKunai.png",
       "Introduced": "[[Update 22#Update: Plains of Eidolon|Update: Plains of Eidolon]]",
       "Magazine": 6,
@@ -7199,7 +7382,7 @@
         "FireRate": 1.5
       },
       "Traits": [ "Tenno" ],
-      "Trigger": "Auto / Semi-Auto",
+      "Trigger": "Auto / Semi",
       "Type": "Secondary"
     },
     "Galatine": {
@@ -7235,7 +7418,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Galatine",
       "FinisherDamage": 200,
       "Image": "Galatine_o.png",
@@ -7289,7 +7472,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Galatine",
       "Image": "PrimeGalatine342.png",
       "Introduced": "[[Update 19#Hotfix: The Silver Grove 3|Hotfix: The Silver Grove 3]]",
@@ -7347,7 +7530,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.65,
       "Family": "Gammacor",
       "Image": "Gammacor.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
@@ -7406,7 +7589,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Image": "DjinnMachete.png",
       "Introduced": "[[Update 19#Update: The Vacuum Within|Update: The Vacuum Within]]",
       "JumpAttack": 104,
@@ -7474,7 +7657,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.22,
       "Family": "Glaive",
       "FinisherDamage": 75,
       "Image": "DEGlaive.png",
@@ -7552,7 +7735,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.22,
       "Family": "Glaive",
       "Image": "PrimeGlaive.png",
       "Introduced": "[[Update 11]]",
@@ -7624,7 +7807,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Image": "CrpFreezeRayRifle.png",
       "Introduced": "[[Update 14#Update 14.5|Update 14.5]]",
       "Magazine": 80,
@@ -7680,7 +7863,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.175,
       "Family": "Gorgon",
       "Image": "Gorgon.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -7733,7 +7916,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.175,
       "Family": "Gorgon",
       "Image": "WraithGorgon.png",
       "Introduced": "[[Update 12#Update 12.4|Update 12.4]]",
@@ -7792,7 +7975,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1.15,
       "Family": "Grakata",
       "Image": "GrineerAssaultRifle.png",
       "Introduced": "[[Update 7#Update 7.8|Update 7.8]]",
@@ -7851,7 +8034,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Family": "Gram",
       "FinisherDamage": 200,
       "Image": "DEGram.png",
@@ -7902,7 +8085,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Family": "Gram",
       "Image": "GramPrime.png",
       "Introduced": "[[Update 23#Update 23.9|Update 23.9]]",
@@ -8025,7 +8208,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.245,
       "Image": "DEGrinlok.png",
       "Introduced": "[[Update 12#Update 12.1|Update 12.1]]",
       "Magazine": 9,
@@ -8084,7 +8267,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "Guandao.png",
       "Introduced": "[[Update 21#Update 21.1.0|Update 21.1.0]]",
       "JumpAttack": 180,
@@ -8141,7 +8324,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "WarfanWeapon.png",
       "Introduced": "[[Update 22#Update 22.8.0|Update 22]]",
       "JumpAttack": 100,
@@ -8209,7 +8392,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Image": "GrnBoomerang.png",
       "Introduced": "[[Update 15#Update 15.0|Update 15.0]]",
       "JumpAttack": 90,
@@ -8281,7 +8464,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.55,
       "Image": "GrnHarpoonGun.png",
       "Introduced": "[[Update 17#Update 17.0|Update 17.0]]",
       "Magazine": 45,
@@ -8357,7 +8540,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.36,
       "Image": "DEStalkerScythe.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "JumpAttack": 140,
@@ -8412,7 +8595,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Image": "HeatDagger.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
       "JumpAttack": 90,
@@ -8469,7 +8652,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "FinisherDamage": 75,
       "Image": "Heat.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
@@ -8529,7 +8712,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 1,
+      "Disposition": 0.7,
       "Family": "Hek",
       "Image": "Hek.png",
       "Introduced": "[[Update 5#Update 5.2|Update 5.2]]",
@@ -8596,7 +8779,7 @@
         "Time": 12,
         "Credits": 20000
       },
-      "Disposition": 3,
+      "Disposition": 0.94,
       "Family": "Heliocor",
       "Image": "CephHammer.png",
       "Introduced": "[[Update 19#Update: Specters of the Rail 1.0|Update: Specters of the Rail 1.0]]",
@@ -8653,7 +8836,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "InfestedBurstRifle.png",
       "Introduced": "[[Update 19#Update 19.5|Update 19.5]]",
       "Magazine": 60,
@@ -8711,7 +8894,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.75,
       "Family": "Hikou",
       "Image": "Hikou.png",
       "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
@@ -8765,7 +8948,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.75,
       "Family": "Hikou",
       "Image": "PrimeHikou.png",
       "Introduced": "[[Update 14#Update 14.8|Update 14.8]]",
@@ -8825,7 +9008,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.42,
       "Image": "Hind.png",
       "Introduced": "[[Update 9#Update 9.6|Update 9.6]]",
       "Magazine": 65,
@@ -8901,7 +9084,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Image": "InfestedKogake.png",
       "Introduced": "[[Update 19#Update 19.5|Update 19.5]]",
       "JumpAttack": 110,
@@ -8957,7 +9140,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.05,
       "Image": "Hystrix.png",
       "Introduced": "[[Update 22#Update 22|Update 22.18]]",
       "Magazine": 16,
@@ -9029,7 +9212,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.7,
       "Family": "Ignis",
       "Image": "GrineerFlameThrower.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -9086,7 +9269,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.7,
       "Family": "Ignis",
       "Image": "IgnisWraith.png",
       "Introduced": "[[Update 19#Update 19.12|Update 19.12]]",
@@ -9243,7 +9426,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.75,
       "Image": "GrnJetPwrPolearm.png",
       "Introduced": "[[Update 12#Update 12.0|Update 12.0]]",
       "JumpAttack": 260,
@@ -9303,7 +9486,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.81,
       "Image": "JatKusar.png",
       "Introduced": "[[Update 21#Update 21.2|Update 21.2]]",
       "JumpAttack": 160,
@@ -9386,7 +9569,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "GrnFlameSpear.png",
       "Magazine": 6,
       "Mastery": 7,
@@ -9455,7 +9638,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.47,
       "Image": "Jaw.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
       "JumpAttack": 88,
@@ -9512,7 +9695,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.47,
       "Image": "Kama.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
       "JumpAttack": 90,
@@ -9569,7 +9752,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.28,
       "Family": "Karak",
       "Image": "GrineerM16Rifle.png",
       "Introduced": "[[Update 11#Update 11.5|Update 11.5]]",
@@ -9622,7 +9805,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.28,
       "Family": "Karak",
       "Image": "KarakWraith.png",
       "Introduced": "[[Update 16#Update 16.5|Update 16.5]]",
@@ -9682,7 +9865,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Image": "KarystDagger.png",
       "Introduced": "[[Update 14#Update 14.2|Update 14.2]]",
       "JumpAttack": 100,
@@ -9787,7 +9970,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.24,
       "Image": "GrnHalberd.png",
       "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "JumpAttack": 210,
@@ -9857,7 +10040,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Image": "Kestrel.png",
       "Introduced": "[[Update 8#Update 8.1|Update 8.1]]",
       "JumpAttack": 70,
@@ -9926,7 +10109,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.15,
       "Image": "PriestPistol.png",
       "Introduced": "[[Update 21#Update 21.0|Update 21.0]]",
       "Magazine": 1,
@@ -10037,7 +10220,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.46,
       "Family": "Kogake",
       "FinisherDamage": 75,
       "Image": "Kogake0.png",
@@ -10088,7 +10271,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.46,
       "Family": "Kogake",
       "FinisherDamage": 75,
       "Image": "MirageKogakePrime.png",
@@ -10158,7 +10341,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Image": "GrineerSparkGun.png",
       "Introduced": "[[Update 15#Update 15.6|Update 15.6]]",
       "Magazine": 245,
@@ -10235,7 +10418,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Image": "GrnWindUpPistol.png",
       "Introduced": "[[Update 16#Update 16.0|Update 16.0]]",
       "Magazine": 40,
@@ -10301,7 +10484,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.53,
       "Image": "Kraken.png",
       "Introduced": "[[Update 6#Update 6.3|Update 6.3]]",
       "Magazine": 14,
@@ -10309,14 +10492,15 @@
       "MaxAmmo": 210,
       "Name": "Kraken",
       "NormalAttack": {
+        "BurstCount": 2,
         "CritMultiplier": 2,
         "CritChance": 0.05,
+        "StatusChance": 0.13,
         "Damage": {
           "Slash": 6.1,
           "Puncture": 6.1,
           "Impact": 36.8
         },
-        "StatusChance": 0.13,
         "FireRate": 4.42,
         "ShotType": "Hit-Scan"
       },
@@ -10325,6 +10509,66 @@
       "Trigger": "Burst",
       "Type": "Secondary",
       "Users": [ "[[Seeker]]" ]
+    },
+    "Kreska": {
+      "BlockResist": 0.85,
+      "Class": "Machete",
+      "Conclave": true,
+      "Cost": {
+        "BPCost": 15000,
+        "MarketCost": 175,
+        "Rush": 35,
+        "Credits": 25000,
+        "Parts": [
+          {
+            "Type": "Resource",
+            "Count": 10,
+            "Name": "Fieldron"
+          },
+          {
+            "Type": "Resource",
+            "Count": 40,
+            "Name": "Mytocardia Spore"
+          },
+          {
+            "Type": "Resource",
+            "Count": 25,
+            "Name": "Star Amarast"
+          },
+          {
+            "Type": "Resource",
+            "Count": 20,
+            "Name": "Lathe Coogulant"
+          }
+        ],
+        "Time": 24
+      },
+      "Disposition": 1,
+      "Family": "Kreska",
+      "Image": "Kreska.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24]]",
+      "JumpAttack": 70,
+      "Mastery": 6,
+      "Name": "Kreska",
+      "NormalAttack": {
+        "CritMultiplier": 2,
+        "CritChance": 0.14,
+        "StatusChance": 0.19,
+        "FireRate": 0.917,
+        "Damage": {
+          "Heat": 40,
+          "Slash": 15,
+          "Puncture": 5,
+          "Impact": 10
+        }
+      },
+      "Polarities": [ "V" ],
+      "SlideAttack": 210,
+      "StancePolarity": "Zenurik",
+      "Traits": [ "Corpus" ],
+      "Type": "Melee",
+      "Users": [ "[[Terra Trencher]]" ],
+      "WallAttack": 280
     },
     "Krohkur": {
       "BlockResist": 0.6,
@@ -10359,7 +10603,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.22,
       "Family": "Krohkur",
       "Image": "GrnEgyptSword.png",
       "Introduced": "[[Update 22#Update 22|Update 22]]",
@@ -10416,7 +10660,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.43,
       "Family": "Kronen",
       "Image": "TennoTonfa.png",
       "Introduced": "[[Update 14#Update 14.5|Update 14.5]]",
@@ -10466,7 +10710,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.43,
       "Family": "Kronen",
       "Image": "KronenPrime.png",
       "Introduced": "[[Update 22#Hotfix 22.16.4|Hotfix 22.16.4]]",
@@ -10529,7 +10773,7 @@
         ],
         "Credits": 30000
       },
-      "Disposition": 3,
+      "Disposition": 1.2,
       "Image": "GrnTorpedoPistol.png",
       "Introduced": "[[Update 17#Update 17.0|Update 17.0]]",
       "Magazine": 3,
@@ -10599,7 +10843,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.51,
       "Image": "Kunai2.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 10,
@@ -10659,7 +10903,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.31,
       "Image": "StalkerMios.png",
       "Introduced": "[[Update 18#Update 18.0|Update 18.0]]",
       "JumpAttack": 160,
@@ -10730,7 +10974,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 0.95,
       "Image": "CorpusSniperRifle.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 10,
@@ -10785,7 +11029,7 @@
     "Laser Rifle": {
       "Accuracy": 100,
       "Class": "Rifle",
-      "Disposition": 4,
+      "Disposition": 1.21,
       "Family": "Laser Rifle",
       "Image": "DESentinelLaserRifle.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
@@ -10806,9 +11050,9 @@
         "ShotType": "Projectile"
       },
       "Reload": 1.2,
-      "Traits": [ "Tenno", "Sentinel" ],
+      "Traits": [ "Tenno" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Lato": {
       "Accuracy": 18.2,
@@ -10817,7 +11061,7 @@
       "Cost": {
         "Credits": 10000
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Lato",
       "Image": "Lato.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -10848,7 +11092,7 @@
       "Accuracy": 18.2,
       "Class": "Pistol",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Lato",
       "Image": "LatoPrime.png",
       "Introduced": "[[Closed Beta Updates#Update 5.0|Update 5.0]]",
@@ -10895,7 +11139,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Lato",
       "Image": "DELatoVandal.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
@@ -10954,10 +11198,10 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.15,
       "Family": "Latron",
       "Image": "Latron.png",
-      "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
+      "Introduced": "[[Closed Beta Updates#Vanilla|Vanilla]]",
       "Magazine": 15,
       "Mastery": 0,
       "MaxAmmo": 540,
@@ -11012,7 +11256,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.15,
       "Family": "Latron",
       "Image": "DELatronPrime.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -11064,7 +11308,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.15,
       "Family": "Latron",
       "Image": "WraithLatron.png",
       "Introduced": "[[Update 14#Update 14.5|Update 14.5]]",
@@ -11123,7 +11367,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Lecta",
       "FinisherDamage": 75,
       "Image": "Lecta.png",
@@ -11207,7 +11451,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 0.9,
       "Image": "Lenz.png",
       "Introduced": "[[Update 21#Update 21.3|Update 21.3]]",
       "Magazine": 1,
@@ -11261,7 +11505,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Image": "InfTipedo.png",
       "Introduced": "[[Update 18#Update 18.5|Update 18.5]]",
       "JumpAttack": 200,
@@ -11292,7 +11536,7 @@
       "Cost": {
         "Credits": 50000
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Lex",
       "Image": "Lex.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -11346,7 +11590,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Lex",
       "Image": "PrimeLex.png",
       "Introduced": "[[Update 13#Update 13.0|Update 13.0]]",
@@ -11377,7 +11621,7 @@
       "BlockResist": 0.6,
       "Class": "Staff",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Family": "Bo",
       "Image": "BoStaff.png",
       "Introduced": "[[Update 14#Update 14.0|Update 14.0]]",
@@ -11406,7 +11650,7 @@
       "Accuracy": 40,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1.01,
       "Family": "Braton",
       "Image": "Braton.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -11435,7 +11679,7 @@
       "BlockResist": 0.6,
       "Class": "Fist",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.38,
       "Family": "Furax",
       "FinisherDamage": 30,
       "Image": "Furax.png",
@@ -11464,7 +11708,7 @@
       "Accuracy": 22.2,
       "Class": "Pistol",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Family": "Furis",
       "Image": "Furis.png",
       "Introduced": "[[Update 14#Update 14.0|Update 14.0]]",
@@ -11494,7 +11738,7 @@
       "Accuracy": 100,
       "Class": "Thrown",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.51,
       "Image": "Kunai2.png",
       "Introduced": "[[Update 14#Update 14.0|Update 14.0]]",
       "Magazine": 10,
@@ -11539,7 +11783,7 @@
       },
       "Class": "Bow",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1.05,
       "Family": "Paris",
       "Image": "Paris.png",
       "Introduced": "[[Update 14#Update 14.0|Update 14.0]]",
@@ -11570,7 +11814,7 @@
       "Accuracy": 4,
       "Class": "Shotgun",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Family": "Strun",
       "Image": "Strun.png",
       "Introduced": "[[Update 14#Update 14.0|Update 14.0]]",
@@ -11634,7 +11878,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Machete",
       "Image": "Machete.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -11663,7 +11907,7 @@
       "BlockResist": 0.85,
       "Class": "Machete",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Machete",
       "Image": "DEWraithMachete.png",
       "Introduced": "[[Update 10#Update 10.5|Update 10.5]]",
@@ -11721,7 +11965,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.09,
       "Family": "Magistar",
       "FinisherDamage": 200,
       "Image": "PaladinMace.png",
@@ -11779,7 +12023,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.53,
       "Image": "TennoMagnum.png",
       "Introduced": "[[Update 11#Update 11.2|Update 11.2]]",
       "Magazine": 8,
@@ -11809,7 +12053,7 @@
       "Accuracy": 13.3,
       "Class": "Shotgun Sidearm",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Detron",
       "Image": "MaraDetron.png",
       "Introduced": "[[Update 15#Hotfix 15.6.3|Hotfix 15.6.3]]",
@@ -11870,7 +12114,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 1,
+      "Disposition": 0.65,
       "Family": "Marelok",
       "Image": "GrineerLeverActionPistol.png",
       "Introduced": "[[Update 12#Update 12.3|Update 12.3]]",
@@ -11929,7 +12173,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 0.95,
       "Image": "DEMios.png",
       "Introduced": "[[Update 17#Update 17.11|Update 17.11]]",
       "JumpAttack": 160,
@@ -11986,7 +12230,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.43,
       "FinisherDamage": 75,
       "Image": "MireInfestedSword.png",
       "Introduced": "[[Update 7#Update 7.7.2|Update 7.7.2]]",
@@ -12059,7 +12303,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.55,
       "Image": "miter.png",
       "Introduced": "[[Update 9#Update 9.5|Update 9.5]]",
       "Magazine": 20,
@@ -12086,6 +12330,34 @@
       "Trigger": "Charge",
       "Type": "Primary",
       "Users": [ "[[Eviscerator]]" ]
+    },
+    "Multron": {
+      "Accuracy": 18.2,
+      "Class": "Rifle",
+      "Disposition": 1,
+      "Image": "Multron.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24.0]]",
+      "Magazine": 60,
+      "Mastery": 3,
+      "Name": "Multron",
+      "NormalAttack": {
+        "FireRate": 3.33,
+        "CritMultiplier": 1.8,
+        "PunchThrough": 0.1,
+        "CritChance": 0.125,
+        "Damage": {
+          "Puncture": 3.8,
+          "Impact": 1.3
+        },
+        "StatusChance": 0.05,
+        "ShotSpeed": "???",
+        "ShotType": "Projectile"
+      },
+      "Polarities": [ "V" ],
+      "Reload": 3,
+      "Traits": [ "Corpus" ],
+      "Trigger": "Auto",
+      "Type": "Robotic"
     },
     "Mutalist Cernos": {
       "Accuracy": "16.7 (100 aimed)",
@@ -12142,7 +12414,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.26,
       "Family": "Cernos",
       "Image": "InfCernos.png",
       "Introduced": "[[Update 18#Update 18.5|Update 18.5]]",
@@ -12211,7 +12483,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.55,
       "Image": "InfCrpShockSwarm.png",
       "Introduced": "[[Update 13#Update 13.8|Update 13.8]]",
       "Magazine": 60,
@@ -12250,6 +12522,85 @@
       "Trigger": "Auto",
       "Type": "Primary"
     },
+    "Nagantaka": {
+      "Class": "Crossbow",
+      "Conclave": true,
+      "Cost": {
+        "BPCost": 40000,
+        "MarketCost": 125,
+        "Rush": 25,
+        "Credits": 25000,
+        "Parts": [
+          {
+            "Type": "Resource",
+            "Count": 3,
+            "Name": "Neurodes"
+          },
+          {
+            "Type": "Resource",
+            "Count": 4,
+            "Name": "Gallium"
+          },
+          {
+            "Type": "Resource",
+            "Count": 3000,
+            "Name": "Nano Spores"
+          },
+          {
+            "Type": "Resource",
+            "Count": 1200,
+            "Name": "Rubedo"
+          }
+        ],
+        "Time": 24
+      },
+      "Disposition": 1,
+      "Family": "Nagantaka",
+      "Image": "Nagantaka.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24]]",
+      "Magazine": 9,
+      "Mastery": 9,
+      "MaxAmmo": 540,
+      "Name": "Nagantaka",
+      "NoiseLevel": "Silent",
+      "NormalAttack": {
+        "Reload": 2.3,
+        "StatusChance": 0.39,
+        "ShotType": "Projectile",
+        "FireRate": 2.5,
+        "AttackName": "Semi-Auto",
+        "CritChance": 0.15,
+        "Accuracy": 40,
+        "Damage": {
+          "Slash": 143.1,
+          "Puncture": 14.3,
+          "Impact": 1.6
+        },
+        "ShotSpeed": 0,
+        "CritMultiplier": 2.3
+      },
+      "Polarities": [ "V" ],
+      "SecondaryAttack": {
+        "BurstCount": 9,
+        "Reload": 2,
+        "StatusChance": 0.39,
+        "ShotType": "Projectile",
+        "FireRate": 5.81,
+        "AttackName": "Burst Shot",
+        "CritChance": 0.15,
+        "Accuracy": 40,
+        "Damage": {
+          "Slash": 143.1,
+          "Puncture": 14.3,
+          "Impact": 1.6
+        },
+        "ShotSpeed": 100,
+        "CritMultiplier": 2.3
+      },
+      "Traits": [ "Tenno" ],
+      "Trigger": "Semi / Burst",
+      "Type": "Primary"
+    },
     "Nami Skyla": {
       "BlockResist": 0.6,
       "Class": "Dual Swords",
@@ -12283,7 +12634,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.175,
       "Family": "Nami Skyla",
       "Image": "TnoCutlassAndPoignard.png",
       "Introduced": "[[Update 13#Update 13.0|Update 13.0]]",
@@ -12333,7 +12684,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.175,
       "Family": "Nami Skyla",
       "Image": "PrimeNamiSkyla.png",
       "Introduced": "[[Update 21#Update 21.6|Update 21.6]]",
@@ -12390,7 +12741,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.43,
       "Image": "DENamiSolo.png",
       "Introduced": "[[Update 13#Update 13.5|Update 13.5]]",
       "JumpAttack": 70,
@@ -12448,7 +12799,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Nikana",
       "Image": "Katana.png",
       "Introduced": "[[Update 13#Update 13.0|Update 13.0]]",
@@ -12499,7 +12850,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Nikana",
       "Image": "PrimeNikana.png",
       "Introduced": "[[Update 18#Hotfix 18.4.12|Hotfix 18.4.12]]",
@@ -12557,7 +12908,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.41,
       "Image": "Nunchaku.png",
       "Introduced": "[[Update 17#Update 17.4|Update 17.4]]",
       "JumpAttack": 90,
@@ -12613,7 +12964,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Image": "GrineerMicrowaveGun.png",
       "Introduced": "[[Update 14#Update 14.5|Update 14.5]]",
       "Magazine": 50,
@@ -12671,7 +13022,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Family": "Obex",
       "FinisherDamage": 75,
       "Image": "CorpusKickNPunch.png",
@@ -12697,6 +13048,64 @@
       "Type": "Melee",
       "Users": [ "[[Jen Dro]]" ],
       "WallAttack": 75
+    },
+    "Ocucor": {
+      "Accuracy": 100,
+      "Class": "Pistol",
+      "Conclave": true,
+      "Cost": {
+        "BPCost": 15000,
+        "MarketCost": 175,
+        "Rush": 0,
+        "Credits": 25000,
+        "Parts": [
+          {
+            "Type": "Resource",
+            "Count": 10,
+            "Name": "Fieldron"
+          },
+          {
+            "Type": "Resource",
+            "Count": 40,
+            "Name": "Thermal Sludge"
+          },
+          {
+            "Type": "Resource",
+            "Count": 55,
+            "Name": "Venerdo Alloy"
+          },
+          {
+            "Type": "Resource",
+            "Count": 20,
+            "Name": "Sagan Module"
+          }
+        ],
+        "Time": 24
+      },
+      "Disposition": 1,
+      "Image": "Ocucor.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24]]",
+      "Magazine": 40,
+      "Mastery": 8,
+      "MaxAmmo": 200,
+      "Name": "Ocucor",
+      "NormalAttack": {
+        "AmmoCost": 0.5,
+        "CritMultiplier": 1.8,
+        "Range": 20,
+        "CritChance": 0.16,
+        "Damage": {
+          "Puncture": 2,
+          "Radiation": 20
+        },
+        "StatusChance": 0.24,
+        "FireRate": 12,
+        "ShotType": "Discharge"
+      },
+      "Reload": 1.6,
+      "Traits": [ "Corpus" ],
+      "Trigger": "Held",
+      "Type": "Secondary"
     },
     "Ogris": {
       "Accuracy": 100,
@@ -12750,7 +13159,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.245,
       "Image": "OgrisNew.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 5,
@@ -12797,7 +13206,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "CorpusTonfa.png",
       "Introduced": "[[Update 19#Update 19.7|Update 19.7]]",
       "JumpAttack": 200,
@@ -12856,7 +13265,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.31,
       "Image": "TennoSais.png",
       "Introduced": "[[Update 19#Update: Specters of the Rail|Update: Specters of the Rail]]",
       "JumpAttack": 80,
@@ -12982,7 +13391,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.15,
       "Image": "CrpBFG.png",
       "Introduced": "[[Update 15#Update 15.0|Update 15.0]]",
       "Magazine": 5,
@@ -13029,7 +13438,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Orthos",
       "FinisherDamage": 200,
       "Image": "DEOrthos.png",
@@ -13082,7 +13491,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Orthos",
       "FinisherDamage": 200,
       "Image": "PrimePolearm.png",
@@ -13152,7 +13561,7 @@
         "Credits": 15000,
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.15,
       "Image": "TeshinGlaive.png",
       "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "JumpAttack": 140,
@@ -13222,7 +13631,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.95,
       "Image": "TnBardPistol.png",
       "Introduced": "[[Update 20#Update: Octavia's Anthem|Update: Octavia's Anthem]]",
       "Magazine": 8,
@@ -13288,7 +13697,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.47,
       "Image": "Pangolin.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
       "JumpAttack": 74,
@@ -13345,7 +13754,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.5,
       "Image": "TennoMiter.png",
       "Introduced": "[[Update 15#Update 15.10|Update 15.10]]",
       "Magazine": 60,
@@ -13388,8 +13797,10 @@
     "Paracesis": {
       "BlockResist": 0.85,
       "Class": "Heavy Blade",
+      "Conclave": true,
       "Cost": {
-        "Time": 12,
+        "Rush": 30,
+        "Credits": 30000,
         "Parts": [
           {
             "Type": "Item",
@@ -13412,12 +13823,13 @@
             "Name": "Orokin Cell"
           }
         ],
-        "Credits": 30000
+        "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "BallasSword.png",
       "Introduced": "[[Update_23#Update_23.10|Update 23.10]]",
       "JumpAttack": 144,
+      "Mastery": 10,
       "Name": "Paracesis",
       "NormalAttack": {
         "CritMultiplier": 2.6,
@@ -13470,7 +13882,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.315,
       "Image": "InfQuantaRifle.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
       "Magazine": 60,
@@ -13568,7 +13980,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.05,
       "Family": "Paris",
       "Image": "Paris.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
@@ -13652,7 +14064,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.05,
       "Family": "Paris",
       "Image": "PrimeBowM.png",
       "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
@@ -13712,7 +14124,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Family": "Penta",
       "Image": "DEPenta.png",
       "Introduced": "[[Update 11#Update 11.3|Update 11.3]]",
@@ -13855,7 +14267,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.46,
       "Image": "InfestedLongGunTwo.png",
       "Introduced": "[[Update 12#Update 12.0|Update 12.0]]",
       "Magazine": 90,
@@ -13926,7 +14338,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "RevenantShotgun.png",
       "Introduced": "[[Update 23#Update 23.5|Update 23.5]]",
       "Magazine": 11,
@@ -13984,7 +14396,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Image": "Plasma.png",
       "Introduced": "[[Update 5#Update 5.0|Update 5.0]]",
       "JumpAttack": 70,
@@ -14047,7 +14459,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.95,
       "Image": "InfProximityStars.png",
       "Introduced": "[[Update 19#Update: The Silver Grove|Update: The Silver Grove]]",
       "Magazine": 4,
@@ -14076,7 +14488,7 @@
     "Prime Laser Rifle": {
       "Accuracy": 100,
       "Class": "Rifle",
-      "Disposition": 4,
+      "Disposition": 1.21,
       "Family": "Laser Rifle",
       "Image": "SentinelBurstLaserPrime.png",
       "Introduced": "[[Update 13#Update 13.7|Update 13.7]]",
@@ -14097,9 +14509,9 @@
         "ShotType": "Projectile"
       },
       "Reload": 1.2,
-      "Traits": [ "Prime", "Sentinel" ],
+      "Traits": [ "Prime", "Vaulted" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Prisma Angstrum": {
       "Accuracy": 26.7,
@@ -14124,7 +14536,7 @@
       },
       "Class": "Pistol",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Angstrum",
       "FireRate": 2,
       "Image": "PrismaAngstrum.png",
@@ -14167,7 +14579,7 @@
       "Accuracy": 100,
       "BurstFireRate": 1,
       "Class": "Pistol",
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Burst Laser",
       "Image": "PrismaSentinelBurstLaser.png",
       "Introduced": "[[Update 17#Update 17.2.2|Update 17.2.2]]",
@@ -14188,15 +14600,15 @@
         "ShotType": "Projectile"
       },
       "Reload": 0,
-      "Traits": [ "Tenno", "Sentinel", "Prisma" ],
+      "Traits": [ "Tenno", "Prisma" ],
       "Trigger": "Burst",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Prisma Dual Cleavers": {
       "BlockResist": 0.85,
       "Class": "Dual Swords",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Dual Cleavers",
       "Image": "PrismaDualCleavers.png",
       "Introduced": "[[Update 16#Update 16.11.3|Update 16.11.3]]",
@@ -14225,7 +14637,7 @@
       "Accuracy": 20,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.175,
       "Family": "Gorgon",
       "Image": "PrismaGorgon.png",
       "Introduced": "[[Update 15#Update 15.11.1|Update 15.11.1]]",
@@ -14255,7 +14667,7 @@
       "Accuracy": 28.6,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1.15,
       "Family": "Grakata",
       "Image": "PrismaGrakata.png",
       "Introduced": "[[Update 16#Hotfix 16.8.3|Hotfix 16.8.3]]",
@@ -14284,7 +14696,7 @@
       "BlockResist": 0.85,
       "Class": "Machete",
       "Conclave": false,
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Machete",
       "Image": "PrismaMeleeWeapon.png",
       "JumpAttack": 50,
@@ -14310,7 +14722,7 @@
       "BlockResist": 0.35,
       "Class": "Sparring",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Family": "Obex",
       "FinisherDamage": 75,
       "Image": "PrismaObex.png",
@@ -14341,7 +14753,7 @@
       "BlockResist": 0.6,
       "Class": "Sword",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.22,
       "Family": "Skana",
       "Image": "PrismaSkana.png",
       "Introduced": "[[Update 16#Hotfix 16.6.2|Hotfix 16.6.2]]",
@@ -14369,7 +14781,7 @@
       "Accuracy": 18.2,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.5,
       "Family": "Tetra",
       "Image": "PrismaTetra.png",
       "Introduced": "[[Update 17#Hotfix 17.0.5|Hotfix 17.0.5]]",
@@ -14398,7 +14810,7 @@
       "Accuracy": 36.4,
       "Class": "Dual Pistols",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Twin Gremlins",
       "Image": "PrismaTwinGremlins.png",
       "Introduced": "[[Update 23#Hotfix 23.4.2|Hotfix 23.4.2]]",
@@ -14481,7 +14893,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Family": "Prova",
       "Image": "Prova8point2.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -14511,7 +14923,7 @@
       "BlockResist": 0.85,
       "Class": "Machete",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Family": "Prova",
       "Image": "VandalElectroProd.png",
       "Introduced": "[[Update 10#Update 10.5|Update 10.5]]",
@@ -14538,7 +14950,38 @@
     },
     "Pupacyst": {
       "BlockResist": 0.85,
-      "Class": "Staff",
+      "Class": "Polearm",
+      "Conclave": true,
+      "Cost": {
+        "BPCost": 50000,
+        "MarketCost": 150,
+        "Rush": 35,
+        "Credits": 30000,
+        "Parts": [
+          {
+            "Type": "Resource",
+            "Count": 5,
+            "Name": "Mutagen Mass"
+          },
+          {
+            "Type": "Resource",
+            "Count": 8750,
+            "Name": "Salvage"
+          },
+          {
+            "Type": "Resource",
+            "Count": 2250,
+            "Name": "Rubedo"
+          },
+          {
+            "Type": "Resource",
+            "Count": 1,
+            "Name": "Forma"
+          }
+        ],
+        "Time": 24
+      },
+      "Disposition": 1,
       "Image": "InfStaff.png",
       "Introduced": "[[Update_23#Update_23.10|Update 23.10]]",
       "JumpAttack": 90,
@@ -14554,7 +14997,9 @@
           "Impact": 47
         }
       },
+      "Polarities": [ "V" ],
       "SlideAttack": 193,
+      "StancePolarity": "Ability",
       "Traits": [ "Infested" ],
       "Type": "Melee",
       "WallAttack": 150
@@ -14592,7 +15037,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1,
       "Family": "Pyrana",
       "Image": "SawnOffShotgun.png",
       "Introduced": "[[Update 13#Update 13.6|Update 13.6]]",
@@ -14649,7 +15094,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1,
       "Family": "Pyrana",
       "Image": "PyranaPrime.png",
       "Introduced": "[[Update 23#Hotfix 23.0.3|Hotfix 23.0.3]]",
@@ -14724,7 +15169,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 1,
       "Family": "Quanta",
       "Image": "CrpShockRifle.png",
       "Introduced": "[[Update 14#Update 14.1|Update 14.1]]",
@@ -14774,7 +15219,7 @@
         "Range": 15
       },
       "Class": "Rifle",
-      "Disposition": 2,
+      "Disposition": 1,
       "Family": "Quanta",
       "Image": "QuantaVandal.png",
       "Introduced": "[[Update 16#Update 16.4|Update 16.4]]",
@@ -14843,7 +15288,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Image": "GrnFourBarrelRifleWeapon.png",
       "Introduced": "[[Update 22#Update 22.8.0|Update 22]]",
       "Magazine": 84,
@@ -14889,7 +15334,7 @@
       },
       "Class": "Crossbow",
       "Conclave": true,
-      "Disposition": 2,
+      "Disposition": 0.95,
       "Family": "Ballistica",
       "Image": "RVBallistica.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
@@ -14950,7 +15395,7 @@
         }
       ],
       "Conclave": true,
-      "Disposition": 2,
+      "Disposition": 0.92,
       "Family": "Cernos",
       "Image": "SyndicateRVCernos.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
@@ -14981,7 +15426,7 @@
     "Rakta Dark Dagger": {
       "BlockResist": 0.35,
       "Class": "Dagger",
-      "Disposition": 1,
+      "Disposition": 0.52,
       "Family": "Dark Dagger",
       "Image": "RVDarkDagger.png",
       "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
@@ -15105,7 +15550,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.29,
       "Image": "ReaperPrime.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "JumpAttack": 150,
@@ -15162,7 +15607,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.17,
       "Image": "TnoGunblade.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
       "JumpAttack": 120,
@@ -15199,9 +15644,9 @@
         "FireRate": 14.8,
         "StatusChance": 0.1,
         "Damage": {
-          "Slash": 31.3,
-          "Puncture": 31.3,
-          "Impact": 62.5
+          "Slash": 12.5,
+          "Puncture": 12.5,
+          "Impact": 25
         },
         "CritChance": 0.25,
         "Range": 50
@@ -15245,7 +15690,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.38,
       "Image": "GrnClaws.png",
       "Introduced": "[[Update 16#Update 16.0|Update 16.0]]",
       "JumpAttack": 110,
@@ -15304,7 +15749,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.95,
       "Family": "Rubico",
       "Image": "FiveShotSniper.png",
       "Introduced": "[[Update 18#Update 18.0|Update 18.0]]",
@@ -15368,7 +15813,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.95,
       "Family": "Rubico",
       "Image": "RubicoPrime.png",
       "Introduced": "[[Update 23#Update 23.9|Update 23.9]]",
@@ -15406,7 +15851,7 @@
       "Accuracy": 100,
       "Class": "Thrown",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Family": "Castanas",
       "Image": "NLCastanas.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
@@ -15438,7 +15883,7 @@
       "BlockResist": 0.6,
       "Class": "Hammer",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1.09,
       "Family": "Magistar",
       "Image": "NLMagistar.png",
       "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
@@ -15467,7 +15912,7 @@
       "Accuracy": 6.5,
       "Class": "Shotgun",
       "Conclave": true,
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Tigris",
       "Image": "SyndicateNLTigris.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
@@ -15540,7 +15985,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.24,
       "Image": "TnoGunbladeAuto.png",
       "Introduced": "[[Update 19#Update: The Silver Grove|Update: The Silver Grove]]",
       "JumpAttack": 140,
@@ -15597,7 +16042,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Scindo",
       "FinisherDamage": 200,
       "Image": "DEScindo.png",
@@ -15648,7 +16093,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Scindo",
       "Image": "PrimeScindo.png",
       "Introduced": "[[Update 14#Update 14.8|Update 14.8]]",
@@ -15705,7 +16150,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.3,
       "FinisherDamage": 75,
       "Image": "DEScoliac2.png",
       "Introduced": "[[Update 11#Update 11.5|Update 11.5]]",
@@ -15772,7 +16217,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "PriestSpearGun.png",
       "Introduced": "[[Update 21#Update 21.0|Update 21.0]]",
       "Magazine": 20,
@@ -15818,7 +16263,7 @@
       "Accuracy": 20,
       "Class": "Dual Pistols",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Dual Cestra",
       "Image": "PSDualCestra.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
@@ -15850,7 +16295,7 @@
       "BlockResist": 0.35,
       "Class": "Whip",
       "Conclave": true,
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Lecta",
       "Image": "PSLecta.png",
       "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
@@ -15885,7 +16330,7 @@
         "Syndicate": "The Perrin Sequence",
         "Rank": 5
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Family": "Penta",
       "Image": "SyndicatePSPenta.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
@@ -15951,7 +16396,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.5,
       "Image": "CaptainVorPistol.png",
       "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
       "Magazine": 8,
@@ -16010,7 +16455,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.38,
       "Image": "Corpuspolearm.png",
       "Introduced": "[[Update 13#Update 13.4|Update 13.4]]",
       "JumpAttack": 150,
@@ -16065,7 +16510,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Image": "TnoNunchaku.png",
       "Introduced": "[[Update 18#Update 18.1|Update 18.1]]",
       "JumpAttack": 110,
@@ -16115,7 +16560,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Image": "GrineerCombatKnife.png",
       "Introduced": "[[Update 14#Update 14.7|Update 14.7]]",
       "JumpAttack": 90,
@@ -16168,7 +16613,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Image": "IceHammer.png",
       "Introduced": "[[Update 18#Update 18.8|Update 18.8]]",
       "JumpAttack": 260,
@@ -16199,7 +16644,7 @@
       "Cost": {
         "Credits": 20000
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Sicarus",
       "Image": "Sicarus.png",
       "Magazine": 15,
@@ -16251,7 +16696,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Sicarus",
       "Image": "DESicarus Prime.png",
       "Introduced": "[[Update 11#Update 11.0|Update 11.0]]",
@@ -16282,7 +16727,7 @@
       "BlockResist": 0.85,
       "Class": "Sword and Shield",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "SundialSwordAndBoard.png",
       "Introduced": "[[Update 22#Hotfix 22.1.1|Hotfix 22.1.2]]",
       "JumpAttack": 120,
@@ -16338,7 +16783,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Silva & Aegis",
       "Image": "TennoSwordShield.png",
       "Introduced": "[[Update 14#Update 14.0|Update 14.0]]",
@@ -16395,7 +16840,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Silva & Aegis",
       "Image": "SilvaAegisPrime.png",
       "Introduced": "[[Update 20#Hotfix 20.6.2|Hotfix 20.6.2]]",
@@ -16461,7 +16906,7 @@
         "Time": 12,
         "Credits": 20000
       },
-      "Disposition": 1,
+      "Disposition": 0.7,
       "Family": "Simulor",
       "Image": "CephPrimary.png",
       "Introduced": "[[Update 16#Update 16.10|Update 16.10]]",
@@ -16528,7 +16973,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.22,
       "Family": "Skana",
       "Image": "DESkana.png",
       "JumpAttack": 70,
@@ -16555,7 +17000,7 @@
       "BlockResist": 0.6,
       "Class": "Sword",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1.22,
       "Family": "Skana",
       "Image": "SkanaPrime.png",
       "Introduced": "[[Closed Beta Updates#Update 5.0|Update 5.0]]",
@@ -16584,7 +17029,7 @@
       "BlockResist": 0.6,
       "Class": "Nikana",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Skiajati",
       "Image": "Skiajati.png",
       "Introduced": "[[Update 23#Update 23.0|Update 23.0]]",
@@ -16640,7 +17085,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.165,
       "Family": "Snipetron",
       "Image": "CorpusSniperRifle.png",
       "Introduced": "[[Closed beta updates#Vanilla|Vanilla]]",
@@ -16700,7 +17145,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.165,
       "Family": "Snipetron",
       "Image": "DESnipertronVandal.png",
       "Introduced": "[[Update 8#Hotfix 8.3.2|Hotfix 8.3.2]]",
@@ -16767,7 +17212,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.33,
       "Image": "GrnDBSG.png",
       "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
       "Magazine": 20,
@@ -16831,7 +17276,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.55,
       "Family": "Soma",
       "Image": "U10DesignCouncilTennoAR.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
@@ -16890,7 +17335,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.55,
       "Family": "Soma",
       "Image": "PrimeSoma.png",
       "Introduced": "[[Update 15#Update 15.7|Update 15.7]]",
@@ -16913,7 +17358,7 @@
       "Polarities": [ "V", "V" ],
       "Reload": 3,
       "Spool": 5,
-      "Traits": [ "Prime", "Vaulted" ],
+      "Traits": [ "Prime" ],
       "Trigger": "Auto-Spool",
       "Type": "Primary"
     },
@@ -16960,7 +17405,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.65,
       "Image": "CrpAirPistolArray.png",
       "Introduced": "[[Update 17#Update 17.5|Update 17.5]]",
       "Magazine": 15,
@@ -17023,7 +17468,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.49,
       "Image": "Spectra.png",
       "Introduced": "[[Update 9#Update 9.0|Update 9.0]]",
       "Magazine": 60,
@@ -17082,7 +17527,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.85,
       "Family": "Spira",
       "Image": "LiDagger.png",
       "Introduced": "[[Update 17#Update 17.4.5|Update 17.4.5]]",
@@ -17135,7 +17580,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.85,
       "Family": "Spira",
       "Image": "PrimeLiDagger.png",
       "Introduced": "[[Update 18#Hotfix 18.4.12|Hotfix 18.4.12]]",
@@ -17174,7 +17619,7 @@
       },
       "ChargeAttack": {
         "AttackName": "Uncharged Explosion",
-        "Radius": 3,
+        "Radius": 8,
         "Damage": {
           "Radiation": 88
         },
@@ -17212,7 +17657,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 1,
+      "Disposition": 0.53,
       "Image": "CrpElectroMag.png",
       "Introduced": "[[Update 18#Update 18.4.7|Update 18.4.7]]",
       "Magazine": 45,
@@ -17247,7 +17692,7 @@
     "Stinger": {
       "Accuracy": 100,
       "Class": "Rifle",
-      "Disposition": 5,
+      "Disposition": 1.315,
       "Image": "DESentinelStinger.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
       "Magazine": 4,
@@ -17265,9 +17710,9 @@
         "ShotType": "Projectile"
       },
       "Reload": 1.2,
-      "Traits": [ "Infested", "Sentinel" ],
+      "Traits": [ "Infested" ],
       "Trigger": "Semi-Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Stradavar": {
       "Class": "Rifle",
@@ -17301,7 +17746,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Image": "TennoTommyGun.png",
       "Introduced": "[[Update 18#Update 18.11|Update 18.11]]",
       "Magazine": 65,
@@ -17341,14 +17786,14 @@
         "CritChance": 0.28
       },
       "Traits": [ "Tenno" ],
-      "Trigger": "Auto / Semi-Auto",
+      "Trigger": "Auto / Semi",
       "Type": "Primary"
     },
     "Strun": {
       "Accuracy": 4,
       "Class": "Shotgun",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Family": "Strun",
       "Image": "Strun.png",
       "Magazine": 6,
@@ -17407,7 +17852,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.35,
       "Family": "Strun",
       "Image": "WraithStrun.png",
       "Introduced": "[[Update 9#Update 9.7.2|Update 9.7.2]]",
@@ -17471,7 +17916,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.25,
       "Image": "GrnUziWeapon.png",
       "Introduced": "[[Update 22#Update 22.8.0|Update 22]]",
       "Magazine": 57,
@@ -17536,7 +17981,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Image": "GrineerCrossbowGooGun.png",
       "Introduced": "[[Update 11#Update 11.5|Update 11.5]]",
       "Magazine": 20,
@@ -17593,7 +18038,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1,
       "Family": "Supra",
       "Image": "CorpusMachineGun.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -17624,7 +18069,7 @@
       "Accuracy": 26.6,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 4,
+      "Disposition": 1,
       "Family": "Supra",
       "Image": "SupraVandal.png",
       "Introduced": "[[Update 20#Update 20.4|Update 20.4]]",
@@ -17654,7 +18099,7 @@
     "Sweeper": {
       "Accuracy": 3.3,
       "Class": "Shotgun",
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Sweeper",
       "Image": "DESentinelSweeper.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
@@ -17672,18 +18117,18 @@
         },
         "StatusChance": 0.14,
         "FireRate": 1,
-        "ShotType": "Hit-scan"
+        "ShotType": "Hit-Scan"
       },
       "Polarities": [ "V", "V" ],
       "Reload": 2.3,
-      "Traits": [ "Tenno", "Sentinel" ],
+      "Traits": [ "Tenno" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Sweeper Prime": {
       "Accuracy": 3.3,
       "Class": "Shotgun",
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Sweeper",
       "Image": "SentinelSweeperPrime.png",
       "Introduced": "[[Update 16#Update 16.11|Update 16.11]]",
@@ -17701,13 +18146,13 @@
         },
         "StatusChance": 0.15,
         "FireRate": 1,
-        "ShotType": "Hit-scan"
+        "ShotType": "Hit-Scan"
       },
       "Polarities": [ "V" ],
       "Reload": 2,
-      "Traits": [ "Prime", "Sentinel" ],
+      "Traits": [ "Prime", "Vaulted" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "Sybaris": {
       "Accuracy": 28.6,
@@ -17743,7 +18188,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.895,
       "Family": "Sybaris",
       "Image": "TnoLeverActionRifle.png",
       "Introduced": "[[Update 13#Update 13.3|Update 13.3]]",
@@ -17800,7 +18245,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.895,
       "Family": "Sybaris",
       "Image": "Sybaris_Prime.png",
       "Introduced": "[[Update 20#Hotfix 20.6.2|Hotfix 20.6.2]]",
@@ -17861,7 +18306,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 2,
+      "Disposition": 0.84,
       "Family": "Sydon",
       "Image": "GrnTridentWeapon.png",
       "Introduced": "[[Update 18#Update 18.2|Update 18.2]]",
@@ -17918,7 +18363,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.31,
       "Image": "U10InfPrimary.png",
       "Introduced": "[[Update 10#Update 10.0|Update 10.0]]",
       "Magazine": 70,
@@ -17946,7 +18391,7 @@
       "Accuracy": 100,
       "Class": "Pistol",
       "Conclave": true,
-      "Disposition": 1,
+      "Disposition": 0.65,
       "Family": "Gammacor",
       "Image": "SynoidGammacor.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
@@ -17957,7 +18402,7 @@
       "NormalAttack": {
         "AmmoCost": 0.5,
         "CritMultiplier": 2,
-        "Range": 30,
+        "Range": 40,
         "CritChance": 0.2,
         "Damage": {
           "Magnetic": 20
@@ -17979,7 +18424,7 @@
       "ChannelCost": 5,
       "ChannelMult": 1.75,
       "Class": "Hammer",
-      "Disposition": 3,
+      "Disposition": 0.94,
       "Family": "Heliocor",
       "Image": "CSHeliocor.png",
       "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
@@ -18013,7 +18458,7 @@
       },
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 1,
+      "Disposition": 0.7,
       "Family": "Simulor",
       "Image": "SyndicateCSSimulor.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
@@ -18080,7 +18525,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.44,
       "Image": "U18throwingknives.png",
       "Introduced": "[[Update 18#Update 18.0|Update 18.0]]",
       "Magazine": 4,
@@ -18103,6 +18548,30 @@
       "Traits": [ "Tenno" ],
       "Trigger": "Active",
       "Type": "Secondary"
+    },
+    "Tazicor": {
+      "Accuracy": 25,
+      "Class": "Rifle",
+      "Disposition": 1,
+      "Image": "Taxicor.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24.0]]",
+      "Magazine": 4,
+      "Mastery": 3,
+      "Name": "Tazicor",
+      "NormalAttack": {
+        "CritMultiplier": 1.5,
+        "CritChance": 0.02,
+        "Damage": {
+          "Electricity": 6
+        },
+        "StatusChance": 0.15,
+        "FireRate": 8.33,
+        "ShotType": "Discharge"
+      },
+      "Reload": 2.5,
+      "Traits": [ "Corpus" ],
+      "Trigger": "Auto",
+      "Type": "Robotic"
     },
     "Tekko": {
       "BlockResist": 0.6,
@@ -18137,7 +18606,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Image": "BrawlerKnuckles.png",
       "Introduced": "[[Update 17#Update 17.5|Update 17.5]]",
       "JumpAttack": 45,
@@ -18165,7 +18634,7 @@
       "Accuracy": 26.7,
       "Class": "Dual Pistols",
       "Conclave": true,
-      "Disposition": 2,
+      "Disposition": 0.8,
       "Family": "Akbolto",
       "Image": "AHAkbolto.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
@@ -18197,7 +18666,7 @@
       "BlockResist": 0.6,
       "Class": "Tonfa",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1,
       "Family": "Boltace",
       "Image": "AHBoltace.png",
       "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
@@ -18226,7 +18695,7 @@
       "Accuracy": 25,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 2,
+      "Disposition": 0.79,
       "Family": "Boltor",
       "Image": "SyndicateAHBoltor.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
@@ -18286,7 +18755,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.05,
       "Image": "TnBardRifle.png",
       "Introduced": "[[Update 20#Update: Octavia's Anthem|Update: Octavia's Anthem]]",
       "Magazine": 150,
@@ -18315,7 +18784,6 @@
         "ShotType": "Projectile",
         "ChargeTime": 0.8,
         "CritChance": 0.34,
-        "Disposition": 3,
         "Damage": {
           "Slash": 48,
           "Puncture": 144,
@@ -18361,7 +18829,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.5,
       "Family": "Tetra",
       "Image": "DETetra.png",
       "Introduced": "[[Update 11#Update 11.8|Update 11.8]]",
@@ -18385,7 +18853,7 @@
       "Traits": [ "Corpus" ],
       "Trigger": "Auto",
       "Type": "Primary",
-      "Users": [ "[[Nako Xol]]" ]
+      "Users": [ "[[Nako Xol]]", "[[Terra Provisor]]", "[[Terra Elite Crewman]]" ]
     },
     "Tiberon": {
       "Accuracy": 33.3,
@@ -18421,7 +18889,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Tiberon",
       "Image": "Tiberon.png",
       "Introduced": "[[Update 14#Update 14.9|Update 14.9]]",
@@ -18505,7 +18973,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.3,
       "Family": "Tiberon",
       "Image": "TiberonPrime.png",
       "Introduced": "[[Update 22#Hotfix 22.16.4|Hotfix 22.16.4]]",
@@ -18565,7 +19033,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Tigris",
       "Image": "DETigris.png",
       "Introduced": "[[Update 11#Update 11.0|Update 11.0]]",
@@ -18628,7 +19096,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Tigris",
       "Image": "PrimeTigris342.png",
       "Introduced": "[[Update 19#Hotfix: The Silver Grove 3|Hotfix: The Silver Grove 3]]",
@@ -18693,7 +19161,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.31,
       "Image": "Tipedo.png",
       "Introduced": "[[Update 15#Update 15.9|Update 15.9]]",
       "JumpAttack": 100,
@@ -18751,7 +19219,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.38,
       "Image": "FlowerPowerPolearm.png",
       "Introduced": "[[Update 15#Update 15.15|Update 15.15]]",
       "JumpAttack": 160,
@@ -18814,7 +19282,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 1,
+      "Disposition": 0.75,
       "Image": "GrnGrenadeLauncher.png",
       "Introduced": "[[Update 16#Update 16.4|Update 16.4]]",
       "Magazine": 2,
@@ -18880,7 +19348,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 4,
+      "Disposition": 1.2,
       "Image": "GrineerGrenadeLauncher.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
       "Magazine": 5,
@@ -18951,7 +19419,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.18,
       "Image": "GrnDualFireAxe.png",
       "Introduced": "[[Update 17#Update 17.8|Update 17.8]]",
       "JumpAttack": 130,
@@ -19002,7 +19470,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 2,
+      "Disposition": 0.85,
       "Image": "Akgrakata.png",
       "Introduced": "[[Update 17#Update 17.0|Update 17.0]]",
       "Magazine": 120,
@@ -19063,7 +19531,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Twin Gremlins",
       "Image": "Gremlin.png",
       "Introduced": "[[Update 9#Update 9.5|Update 9.5]]",
@@ -19128,7 +19596,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.2,
       "Image": "DualKohmak.png",
       "Introduced": "[[Update 16#Update 16.0|Update 16.0]]",
       "Magazine": 80,
@@ -19193,7 +19661,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.48,
       "Family": "Twin Krohkur",
       "Image": "DualGrnEgyptSwords.png",
       "Introduced": "[[Update 22#Update 22|Update 22]]",
@@ -19251,7 +19719,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1.15,
       "Image": "GrnQueenGuardDualPistols.png",
       "Introduced": "[[Update 19#Update 19.0|Update 19.0]]",
       "Magazine": 2,
@@ -19311,7 +19779,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.41,
       "Family": "Twin Vipers",
       "Image": "Viper, dual.png",
       "Introduced": "[[Update 7#Hotfix 7.7.3|Hotfix 7.7.3]]",
@@ -19363,7 +19831,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.41,
       "Family": "Twin Vipers",
       "Image": "DEWraithTwinVipers.png",
       "Introduced": "[[Update 11#Update 11.5|Update 11.5]]",
@@ -19422,7 +19890,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 5,
+      "Disposition": 1.51,
       "Image": "DETysis.png",
       "Introduced": "[[Update 11#Update 11.7|Update 11.7]]",
       "Magazine": 11,
@@ -19504,7 +19972,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Vasto",
       "Image": "Vasto.png",
       "Introduced": "[[Update 9#Update 9.3|Update 9.3]]",
@@ -19556,7 +20024,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.4,
       "Family": "Vasto",
       "Image": "PrimeVasto.png",
       "Introduced": "[[Update 15#Update 15.7|Update 15.7]]",
@@ -19577,7 +20045,7 @@
       },
       "Polarities": [ "V", "V" ],
       "Reload": 1,
-      "Traits": [ "Prime", "Vaulted" ],
+      "Traits": [ "Prime" ],
       "Trigger": "Semi-Auto",
       "Type": "Secondary"
     },
@@ -19590,7 +20058,7 @@
         "Syndicate": "Steel Meridian",
         "Rank": 5
       },
-      "Disposition": 1,
+      "Disposition": 0.7,
       "Family": "Hek",
       "Image": "SyndicateSMHek.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
@@ -19632,7 +20100,7 @@
         "Syndicate": "Steel Meridian",
         "Rank": 5
       },
-      "Disposition": 1,
+      "Disposition": 0.65,
       "Family": "Marelok",
       "Image": "SMMarelok.png",
       "Introduced": "[[Update 15#Update 15.5|Update 15.5]]",
@@ -19663,7 +20131,7 @@
       "BlockResist": 0.85,
       "Class": "Polearm",
       "Conclave": true,
-      "Disposition": 2,
+      "Disposition": 0.84,
       "Family": "Sydon",
       "Image": "SMSydon.png",
       "Introduced": "[[Update 19#Update: The Silver Grove 2.0|Update: The Silver Grove 2.0]]",
@@ -19721,7 +20189,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 0.92,
       "Family": "Vectis",
       "Image": "DEVectis.png",
       "Introduced": "[[Update 10#Update 10.6|Update 10.6]]",
@@ -19787,7 +20255,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 0.92,
       "Family": "Vectis",
       "Image": "VectisPrime.png",
       "Introduced": "[[Update 16#Update 16.11|Update 16.11]]",
@@ -19824,6 +20292,7 @@
     "Veldt": {
       "Accuracy": 32,
       "Class": "Rifle",
+      "Conclave": true,
       "Cost": {
         "BPCost": 15000,
         "MarketCost": 240,
@@ -19853,11 +20322,11 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Family": "Veldt",
       "Image": "Veldt.png",
       "Introduced": "[[Update 22#Update 22.18|Update 22.18]]",
-      "Magazine": 16,
+      "Magazine": 26,
       "Mastery": 8,
       "MaxAmmo": 528,
       "Name": "Veldt",
@@ -19973,7 +20442,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Venka",
       "Image": "TennoClaws.png",
       "Introduced": "[[Update 13#Update 13.9|Update 13.9]]",
@@ -20024,7 +20493,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Family": "Venka",
       "Image": "VenkaPrime.png",
       "Introduced": "[[Update 19#Hotfix 19.0.7|Hotfix 19.0.7]]",
@@ -20106,7 +20575,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Viper",
       "Image": "Viper.png",
       "Introduced": "[[Update 7#Update 7.0|Update 7.0]]",
@@ -20137,7 +20606,7 @@
       "Accuracy": 28.6,
       "Class": "Pistol",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Viper",
       "Image": "ViperWraith.png",
       "Introduced": "[[Update 22#Hotfix 22.8.4|Hotfix 22.8.4]]",
@@ -20169,7 +20638,7 @@
       "Conclave": true,
       "Cost": {
         "BPCost": 20000,
-        "MarketCost": 240,
+        "MarketCost": 200,
         "Rush": 45,
         "Credits": 20000,
         "Parts": [
@@ -20196,7 +20665,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 4,
+      "Disposition": 1.2,
       "Family": "Volnus",
       "Image": "GlassHammer.png",
       "Introduced": "[[Update 22#Update: Plains of Eidolon|Update: Plains of Eidolon]]",
@@ -20220,6 +20689,32 @@
       "Traits": [ "Tenno" ],
       "Type": "Melee",
       "WallAttack": 200
+    },
+    "Vulcax": {
+      "Accuracy": 100,
+      "ChargeAttack": {
+        "ChargeTime": 1,
+        "CritMultiplier": 2.5,
+        "PunchThrough": 1,
+        "CritChance": 0.2,
+        "Damage": {
+          "Heat": 35
+        },
+        "StatusChance": 0.1,
+        "FireRate": 1,
+        "ShotType": "Discharge"
+      },
+      "Class": "Rifle",
+      "Disposition": 1,
+      "Image": "Vulcax.png",
+      "Introduced": "[[Update 24#Update 24.0|Update 24.0]]",
+      "Magazine": 1,
+      "Mastery": 14,
+      "Name": "Vulcax",
+      "Reload": 6,
+      "Traits": [ "Corpus" ],
+      "Trigger": "Charge",
+      "Type": "Robotic"
     },
     "Vulkar": {
       "Accuracy": 13.3,
@@ -20254,7 +20749,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Vulkar",
       "Image": "Vulkar.png",
       "Introduced": "[[Update 8#Update 8.0|Update 8.0]]",
@@ -20292,7 +20787,7 @@
       "Accuracy": 13.3,
       "Class": "Sniper Rifle",
       "Conclave": true,
-      "Disposition": 5,
+      "Disposition": 1.45,
       "Family": "Vulkar",
       "Image": "VulkarWraith.png",
       "Introduced": "[[Update 18#Update 18.4.1|Update 18.4.1]]",
@@ -20328,7 +20823,7 @@
     "Vulklok": {
       "Accuracy": 100,
       "Class": "Sniper Rifle",
-      "Disposition": 4,
+      "Disposition": 1.245,
       "Image": "SentinelElectricRailgun.png",
       "Introduced": "[[Update 17#Update 17.3|Update 17.3]]",
       "Magazine": 10,
@@ -20346,9 +20841,9 @@
         "ShotType": "Projectile"
       },
       "Reload": 2,
-      "Traits": [ "Grineer", "Sentinel" ],
+      "Traits": [ "Grineer" ],
       "Trigger": "Auto",
-      "Type": "Sentinel"
+      "Type": "Robotic"
     },
     "War": {
       "BlockResist": 0.85,
@@ -20381,7 +20876,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Image": "StalkerTwoGreatSword.png",
       "Introduced": "[[Update 18#Update 18.0|Update 18.0]]",
       "JumpAttack": 280,
@@ -20444,7 +20939,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "Zakti.png",
       "Introduced": "[[Update 21#Update 21.1|Update 21.1]]",
       "Magazine": 3,
@@ -20511,7 +21006,7 @@
         ],
         "Time": 24
       },
-      "Disposition": 3,
+      "Disposition": 1.08,
       "Image": "GrineerCannon.png",
       "Magazine": 3,
       "Mastery": 7,
@@ -20577,7 +21072,7 @@
         "Range": 9
       },
       "Class": "Heavy Blade",
-      "Disposition": 1,
+      "Disposition": 0.5,
       "Image": "SundialAxe.png",
       "Introduced": "[[Update 19#Specters of the Rail 1.0|Update: Specters of the Rail 1.0]]",
       "JumpAttack": 260,
@@ -20625,7 +21120,7 @@
       "Accuracy": 33.3,
       "Class": "Rifle",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1.1,
       "Image": "SundialRifle.png",
       "Introduced": "[[Update 20#Update 20.2|Update 20.2]]",
       "Magazine": 90,
@@ -20664,7 +21159,7 @@
         "Reload": 1.4
       },
       "Traits": [ "Tenno" ],
-      "Trigger": "Auto / Semi-Auto",
+      "Trigger": "Auto / Semi",
       "Type": "Primary"
     },
     "Zhuge": {
@@ -20700,7 +21195,7 @@
         ],
         "Time": 12
       },
-      "Disposition": 3,
+      "Disposition": 1.18,
       "Image": "RepeatingCrossbow.png",
       "Introduced": "[[Update 18#Update 18.6|Update 18.6]]",
       "Magazine": 20,
@@ -20730,7 +21225,7 @@
       "Accuracy": 23.5,
       "Class": "Pistol",
       "Conclave": true,
-      "Disposition": 3,
+      "Disposition": 1,
       "Image": "Zylok.png",
       "Introduced": "[[Update 23#Update 23.6|Update 23.6]]",
       "Magazine": 8,

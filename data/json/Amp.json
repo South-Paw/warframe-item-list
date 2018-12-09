@@ -5,7 +5,7 @@
     "type": "Amp",
     "masteryRank": 0,
     "image": "/data/img/Amp/Granmu_Prism.png",
-    "wiki": "http://warframe.wikia.com/wiki/Granmu_Prism"
+    "wiki": "https://warframe.fandom.com/wiki/Granmu_Prism"
   },
   {
     "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/SentTrainingAmplifier/SentAmpTrainingBarrel",
@@ -13,7 +13,7 @@
     "type": "Amp",
     "masteryRank": 0,
     "image": "/data/img/Amp/Mote_Prism.png",
-    "wiki": "http://warframe.wikia.com/wiki/Mote_Prism"
+    "wiki": "https://warframe.fandom.com/wiki/Mote_Prism"
   },
   {
     "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Barrel/SentAmpSet2BarrelPartA",
@@ -21,7 +21,7 @@
     "type": "Amp",
     "masteryRank": 0,
     "image": "/data/img/Amp/Rahn_Prism.png",
-    "wiki": "http://warframe.wikia.com/wiki/Rahn_Prism"
+    "wiki": "https://warframe.fandom.com/wiki/Rahn_Prism"
   },
   {
     "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartA",
@@ -29,7 +29,7 @@
     "type": "Amp",
     "masteryRank": 0,
     "image": "/data/img/Amp/Raplak_Prism.png",
-    "wiki": "http://warframe.wikia.com/wiki/Raplak_Prism"
+    "wiki": "https://warframe.fandom.com/wiki/Raplak_Prism"
   },
   {
     "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartB",
@@ -37,6 +37,6 @@
     "type": "Amp",
     "masteryRank": 0,
     "image": "/data/img/Amp/Shwaak_Prism.png",
-    "wiki": "http://warframe.wikia.com/wiki/Shwaak_Prism"
+    "wiki": "https://warframe.fandom.com/wiki/Shwaak_Prism"
   }
 ]
