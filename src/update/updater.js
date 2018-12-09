@@ -18,7 +18,10 @@ const {
   ARCHWING_MELEE,
   ARCHWING_PRIMARY,
   KAVAT,
+  KDRIVE,
+  KITGUN,
   KUBROW,
+  MOA,
   MELEE,
   MISC,
   PRIMARY,
@@ -68,6 +71,10 @@ const getItemType = (item, rawType) => {
       if (item.uniqueName.includes('/OperatorAmplifiers/Set1/Barrel')) return AMP;
       if (item.uniqueName.includes('/OperatorAmplifiers/Set2/Barrel')) return AMP;
       if (item.uniqueName.includes('/LotusModularWeapon')) return MISC;
+      if (item.uniqueName.includes('/Pets/MoaPets/MoaPetParts/MoaPetHead')) return MOA;
+      if (item.uniqueName.includes('/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrel')) return KITGUN;
+      if (item.uniqueName.includes('/Vehicles/Hoverboard/HoverboardParts/PartComponents/Hoverboard')
+        && item.uniqueName.endsWith('Deck')) return KDRIVE;
       if (item.slot === 1) return PRIMARY;
       if (item.slot === 0) return SECONDARY;
       if (item.slot === 5) return MELEE;
@@ -80,6 +87,9 @@ const getItemType = (item, rawType) => {
       if (item.uniqueName.includes('/ModularMeleeInfested/Handles')) return MISC;
       if (item.uniqueName.includes('/OperatorAmplifiers/Set2/Grip')) return MISC;
       if (item.uniqueName.includes('/OperatorAmplifiers/Set2/Chassis')) return MISC;
+      if (item.uniqueName.includes('/Pets/MoaPets/MoaPetParts/MoaPet')) return MISC;
+      if (item.uniqueName.includes('/Secondary/SUModularSecondarySet1/')) return MISC;
+      if (item.uniqueName.includes('/Vehicles/Hoverboard/HoverboardParts/PartComponents/Hoverboard')) return MISC;
       return UNKNOWN;
     case 'Sentinels':
       if (item.uniqueName.includes('/CatbrowPet')) return KAVAT;
