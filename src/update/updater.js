@@ -168,8 +168,8 @@ class Updater {
       '/Manifest/ExportWarframes.json',
     ];
 
-    this.wikiaLua = [
-      'http://warframe.wikia.com/wiki/Module:Weapons/data?action=raw',
+    this.fandomLua = [
+      'https://warframe.fandom.com/wiki/Module:Weapons/data?action=raw',
     ];
 
     this.imagesFolder = `${__dirname}/../../data/img`;
@@ -218,7 +218,7 @@ class Updater {
       category,
       masteryRank: item.masteryReq || 0,
       image,
-      wiki: `http://warframe.wikia.com/wiki/${wikiSlug}`,
+      wiki: `https://warframe.fandom.com/wiki/${wikiSlug}`,
     };
   }
 
@@ -263,7 +263,7 @@ class Updater {
       console.log('');
     });
 
-    await asyncForEach(this.wikiaLua, async (url) => {
+    await asyncForEach(this.fandomLua, async (url) => {
       const name = url.split('/')[url.split('/').length - 2].split(':')[1];
       const filename = `${name}Data`;
 

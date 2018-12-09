@@ -13,7 +13,7 @@
 
 ## Why?
 
-Because I couldn't find a near complete list of all Warframe items that contributed specifically to player mastery rank... so I originally spent 2 evenings cataloguing the [Warframe Wiki](http://warframe.wikia.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
+Because I couldn't find a near complete list of all Warframe items that contributed specifically to player mastery rank... so I originally spent 2 evenings cataloguing the [Warframe Wiki](https://warframe.fandom.com/wiki/Weapons) item mastery lists and making some objects up that would be easy to reuse in a Javascript app.
 
 A fair few commits later, this project now uses an updater script which fetches the latest content from the `http://content.warframe.com/MobileExport` endpoints and transforms it into this mastery rank list. This is the same endpoints/urls that the [Warframe Mobile app](https://play.google.com/store/apps/details?id=com.digitalextremes.warframenexus) uses to get the current game data - so assuming those endpoints/urls are left as-is, this repo will remain reasonably up to date.
 

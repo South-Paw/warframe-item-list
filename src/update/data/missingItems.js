@@ -12,7 +12,7 @@ const MISSING_ITEMS = {
       name: 'Venari Kavat',
       type: 'Kavat',
       masteryRank: 0,
-      wiki: 'http://warframe.wikia.com/wiki/Kavat#Venari',
+      wiki: 'https://warframe.fandom.com/wiki/Kavat#Venari',
     },
   ],
 };
