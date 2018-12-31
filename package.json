@@ -25,7 +25,7 @@
   "scripts": {
     "build": "rimraf dist && babel src -d dist",
     "lint": "eslint .",
-    "prepublishOnly": "npm run lint && npm run test && npm run build",
+    "prepublishOnly": "yarn lint && yarn test && yarn build",
     "test": "jest",
     "test/coverage": "jest --coverage",
     "update": "node src/update/updater.js"
