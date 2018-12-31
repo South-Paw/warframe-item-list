@@ -196,17 +196,17 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangTargetAbility",
         "abilityName": "Rest & Rage",
-        "description": "In Night Form, targets are put to sleep. In Day Form, targets become more vulnerable to damage."
+        "description": "In Night-Form, targets are put to sleep. In Day-Form, targets become more vulnerable to damage."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangAuraAbility",
         "abilityName": "Pacify & Provoke",
-        "description": "In Night Form, reduces damage inflicted by nearby enemies. In Day Form, increases Ability Strength of nearby allies."
+        "description": "In Night-Form, reduces damage inflicted by nearby enemies. In Day-Form, increases Ability Strength of nearby allies."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangBurstAbility",
         "abilityName": "Mend & Maim",
-        "description": "In Night Form, allies are healed with each nearby enemy killed. In Day Form, nearby enemies are bled and then subjected to a wave of slashing force."
+        "description": "In Night-Form, allies are healed with each nearby enemy killed. In Day-Form, nearby enemies are bled and then subjected to a wave of slashing force."
       }
     ]
   },
@@ -890,7 +890,7 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ReckoningAbility",
         "abilityName": "Reckoning",
-        "description": "Quickly lifts enemies into the air and then hurls them down with conviction. Enemies who succumb to this power have a chance to spawn a Health Sphere."
+        "description": "Quickly lifts enemies into the air and then hurls them down with conviction. Enemies who succumb to this power have a chance to spawn a Health Orb."
       }
     ]
   },
@@ -926,7 +926,43 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ReckoningAbility",
         "abilityName": "Reckoning",
-        "description": "Quickly lifts enemies into the air and then hurls them down with conviction. Enemies who succumb to this power have a chance to spawn a Health Sphere."
+        "description": "Quickly lifts enemies into the air and then hurls them down with conviction. Enemies who succumb to this power have a chance to spawn a Health Orb."
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Pacifist/Pacifist",
+    "name": "BARUUK",
+    "parentName": "/Lotus/Powersuits/Pacifist/PacifistBaseSuit",
+    "description": "Beware the fury of the truly patient. Pushed beyond restraint, a reluctant master unleashes the storm within.",
+    "longDescription": "",
+    "health": 75,
+    "shield": 100,
+    "armor": 150,
+    "stamina": 3,
+    "power": 200,
+    "codexSecret": false,
+    "passiveDescription": "Each projectile dodged, each enemy lulled or disarmed, erodes Baruuk’s restraint and fuels the storm within. As Baruuk’s restraint is diminished he becomes more resistant to damage.",
+    "abilities": [
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistDodgeAbility",
+        "abilityName": "ELUDE",
+        "description": "Dodge all incoming projectiles, but only while not attacking. Use again to deactivate this ability."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistWaveAbility",
+        "abilityName": "LULL",
+        "description": "A calming wave slows enemies until they fall into a slumber. Enemies woken by damage will be confused and disoriented. Short-term amnesia means all waking enemies forget anything that happened before the lull."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistDisarmAbility",
+        "abilityName": "DESOLATE HANDS",
+        "description": "Summon a bevy of orbiting daggers to seek out enemy guns, destroying them with a small explosion. Combine with Elude to double the range."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistFistAbility",
+        "abilityName": "SERENE STORM",
+        "description": "With his Restraint eroded, Baruuk commands the Desert Wind to deliver powerful radial strikes with his fists and feet. Each moment commanding the storm restores his Restraint."
       }
     ]
   },
@@ -1415,12 +1451,12 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
         "abilityName": "Mind Control",
-        "description": "Nyx invades the psyche of a target, confusing enemies and making them fight for the Tenno cause."
+        "description": "Nyx invades the psyche of a target, confusing enemies and making them fight for the Tenno cause. Targets then fired upon by Nyx receive a damage multiplier."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
         "abilityName": "Psychic Bolts",
-        "description": "Nyx launches a cluster of force bolts at enemies, using telekinesis to adjust flight paths and seek nearby targets."
+        "description": "Nyx launches a cluster of force bolts at enemies, using telekinesis to adjust flight paths and seek nearby targets. Hits strip some enemy defenses."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
@@ -1451,12 +1487,12 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
         "abilityName": "Mind Control",
-        "description": "Nyx invades the psyche of a target, confusing enemies and making them fight for the Tenno cause."
+        "description": "Nyx invades the psyche of a target, confusing enemies and making them fight for the Tenno cause. Targets then fired upon by Nyx receive a damage multiplier."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DaggerAbility",
         "abilityName": "Psychic Bolts",
-        "description": "Nyx launches a cluster of force bolts at enemies, using telekinesis to adjust flight paths and seek nearby targets."
+        "description": "Nyx launches a cluster of force bolts at enemies, using telekinesis to adjust flight paths and seek nearby targets. Hits strip some enemy defenses."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ChaosAbility",
@@ -1732,7 +1768,7 @@
     "shield": 100,
     "armor": 65,
     "stamina": 3,
-    "power": 100,
+    "power": 150,
     "codexSecret": false,
     "passiveDescription": "Bullet-jump creates a trampoline that enhances bullet-jump maneuvers when used by allies.",
     "abilities": [
@@ -1749,7 +1785,7 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FairyLightAbility",
         "abilityName": "Lantern",
-        "description": "Create a swarm of razorflies that transform an enemy into an irresistible floating beacon, attracting witless comrades and finally exploding."
+        "description": "Create a swarm of razorflies that transform an enemy into an irresistible floating beacon, attracting witless comrades before exploding on command."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FairyFlightAbility",
@@ -2007,6 +2043,42 @@
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DragonPeltAbility",
         "abilityName": "Effigy",
         "description": "Chroma turns his pelt into a massive sentry that strengthens nearby allies and engulfs enemies in elemental attacks."
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/Cowgirl/MesaPrime",
+    "name": "MESA PRIME",
+    "parentName": "/Lotus/Powersuits/Cowgirl/CowgirlBaseSuit",
+    "description": "Cast a long shadow with this lethal enforcer. Featuring altered mod polarities for greater customization.",
+    "longDescription": "",
+    "health": 135,
+    "shield": 75,
+    "armor": 85,
+    "stamina": 3,
+    "power": 125,
+    "codexSecret": false,
+    "passiveDescription": "Shoot dual-wielded sidearms faster and reload single-handed sidearms more rapidly. Gain bonus health when not using Melee Weapons.",
+    "abilities": [
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BallisticBatteryAbility",
+        "abilityName": "Ballistic Battery",
+        "description": "When activated, this power stores damage caused by guns. When triggered again, that damage is channelled through the next gunshot."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RussianRouletteAbility",
+        "abilityName": "Shooting Gallery",
+        "description": "Gives an ally extra damage while jamming the guns of nearby enemies. This power shifts between team members."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RicochetArmorAbility",
+        "abilityName": "Shatter Shield",
+        "description": "Envelops Mesa in a barrier of energy, reflecting back incoming bullet damage."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GunFuAbility",
+        "abilityName": "Peacemaker",
+        "description": "With intense focus, Mesa draws her Regulator pistols, shooting down her foes in rapid succession."
       }
     ]
   },
@@ -2288,7 +2360,7 @@
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WormHoleAbility",
-        "abilityName": "Worm Hole",
+        "abilityName": "Wormhole",
         "description": "Creates a wormhole allowing instantaneous travel."
       },
       {
@@ -2324,7 +2396,7 @@
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WormHoleAbility",
-        "abilityName": "Worm Hole",
+        "abilityName": "Wormhole",
         "description": "Creates a wormhole allowing instantaneous travel."
       },
       {

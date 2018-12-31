@@ -99,7 +99,8 @@ const Melee = {
     'Kama',
     'Gazal Machete',
     'Machete',
-    'Prisma Machete',
+    // Only avaliable in Warframe China
+    // 'Prisma Machete',
     'Machete Wraith',
     'Nami Solo',
     'Prova',
@@ -242,8 +243,11 @@ const Melee = {
   // [EXALTED]: [
   //   'Diwata',
   //   'Exalted Blade',
+  //   'Umbra Exalted Blade',
   //   'Iron Staff',
   //   'Valkyr Talons',
+  //   'Garuda's Talons',
+  //   'Desert Wind',
   // ],
 };
 
@@ -486,6 +490,7 @@ const Secondary = {
   // [EXALTED]: [
   //   'Dex Pixia',
   //   'Regulators',
+  //   'Regulators Prime',
   // ],
 };
 
@@ -513,6 +518,16 @@ const ArchwingPrimary = {
     'Imperator Vandal',
     'Phaedra',
     'Velocitus',
+    // 'Atmosphere' weapons don't count for mastery.
+    // 'Corvas (Atmosphere)',
+    // 'Cyngas (Atmosphere)',
+    // 'Dual Decurion (Atmosphere)',
+    // 'Fluctus (Atmosphere)',
+    // 'Grattler (Atmosphere)',
+    // 'Imperator (Atmosphere)',
+    // 'Imperator Vandal (Atmosphere)',
+    // 'Phaedra (Atmosphere)',
+    // 'Velocitus (Atmosphere)'
   ],
 };
 

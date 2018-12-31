@@ -1,11 +1,35 @@
 [
   {
+    "id": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartA",
+    "name": "Cantic Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "image": "/data/img/Amp/Cantic_Prism.png",
+    "wiki": "https://warframe.fandom.com/wiki/Cantic_Prism"
+  },
+  {
     "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartC",
     "name": "Granmu Prism",
     "type": "Amp",
     "masteryRank": 0,
     "image": "/data/img/Amp/Granmu_Prism.png",
     "wiki": "https://warframe.fandom.com/wiki/Granmu_Prism"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartC",
+    "name": "Klamora Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "image": "/data/img/Amp/Klamora_Prism.png",
+    "wiki": "https://warframe.fandom.com/wiki/Klamora_Prism"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartB",
+    "name": "Lega Prism",
+    "type": "Amp",
+    "masteryRank": 0,
+    "image": "/data/img/Amp/Lega_Prism.png",
+    "wiki": "https://warframe.fandom.com/wiki/Lega_Prism"
   },
   {
     "id": "/Lotus/Weapons/Sentients/OperatorAmplifiers/SentTrainingAmplifier/SentAmpTrainingBarrel",

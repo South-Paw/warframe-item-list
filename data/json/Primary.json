@@ -243,6 +243,15 @@
     "wiki": "https://warframe.fandom.com/wiki/Dread"
   },
   {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpShapeBlast/CrpShapeBlastShotgun",
+    "name": "Exergis",
+    "type": "Primary",
+    "category": "Shotgun",
+    "masteryRank": 8,
+    "image": "/data/img/Primary/Exergis.png",
+    "wiki": "https://warframe.fandom.com/wiki/Exergis"
+  },
+  {
     "id": "/Lotus/Weapons/Corpus/LongGuns/Spears/Railgun/CorpusRailgun",
     "name": "Ferrox",
     "type": "Primary",

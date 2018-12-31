@@ -63,6 +63,15 @@
     "wiki": "https://warframe.fandom.com/wiki/Akjagara"
   },
   {
+    "id": "/Lotus/Weapons/Tenno/Pistols/PrimeAkjagara/AkJagaraPrime",
+    "name": "Akjagara Prime",
+    "type": "Secondary",
+    "category": "Dual Pistols",
+    "masteryRank": 12,
+    "image": "/data/img/Secondary/Akjagara_Prime.png",
+    "wiki": "https://warframe.fandom.com/wiki/Akjagara_Prime"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/Akimbo/AkimboPistol",
     "name": "Aklato",
     "type": "Secondary",
@@ -565,6 +574,15 @@
     "masteryRank": 8,
     "image": "/data/img/Secondary/Pandero.png",
     "wiki": "https://warframe.fandom.com/wiki/Pandero"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/Pistols/CrpSonificBlastor/CrpBlastorWeapon",
+    "name": "Plinx",
+    "type": "Secondary",
+    "category": "Pistol",
+    "masteryRank": 6,
+    "image": "/data/img/Secondary/Plinx.png",
+    "wiki": "https://warframe.fandom.com/wiki/Plinx"
   },
   {
     "id": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars",

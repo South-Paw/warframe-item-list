@@ -144,6 +144,15 @@
     "wiki": "https://warframe.fandom.com/wiki/Cerata"
   },
   {
+    "id": "/Lotus/Weapons/Tenno/Melee/SwordsAndBoards/PacifistShieldAndSword/PacifistShieldSword",
+    "name": "Cobra & Crane",
+    "type": "Melee",
+    "category": "Sword and Shield",
+    "masteryRank": 10,
+    "image": "/data/img/Melee/Cobra_&_Crane.png",
+    "wiki": "https://warframe.fandom.com/wiki/Cobra_&_Crane"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/Melee/CronusSword/CronusLongSword",
     "name": "Cronus",
     "type": "Melee",
@@ -430,6 +439,15 @@
     "masteryRank": 13,
     "image": "/data/img/Melee/Galatine_Prime.png",
     "wiki": "https://warframe.fandom.com/wiki/Galatine_Prime"
+  },
+  {
+    "id": "/Lotus/Weapons/Corpus/Melee/Whips/CrpShockGrip/CrpShockGripWhipWeapon",
+    "name": "Galvacord",
+    "type": "Melee",
+    "category": "Whip",
+    "masteryRank": 6,
+    "image": "/data/img/Melee/Galvacord.png",
+    "wiki": "https://warframe.fandom.com/wiki/Galvacord"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Melee/PersianMachete/DjinnMachete",
@@ -979,6 +997,15 @@
     "masteryRank": 4,
     "image": "/data/img/Melee/Redeemer.png",
     "wiki": "https://warframe.fandom.com/wiki/Redeemer"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Melee/Gunblade/RedeemerPrime/RedeemerPrimeWep",
+    "name": "Redeemer Prime",
+    "type": "Melee",
+    "category": "Gunblade",
+    "masteryRank": 10,
+    "image": "/data/img/Melee/Redeemer_Prime.png",
+    "wiki": "https://warframe.fandom.com/wiki/Redeemer_Prime"
   },
   {
     "id": "/Lotus/Weapons/Grineer/Melee/GrineerClaws/GrnClaws",

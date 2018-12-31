@@ -38,7 +38,7 @@
   {
     "uniqueName": "/Lotus/Types/Sentinels/SentinelPowersuits/RadarPowerSuit",
     "name": "OXYLUS",
-    "description": "With 'Scan Lifeforms' and 'Scan Matter' as default Precepts, Oxylus was designed to assist in Search-and-Rescue operations through the harsh landscape around The Orb Vallis. Oxylus also comes with a Multron rifle.Note: This item requires two open slots.",
+    "description": "With 'Scan Aquatic Lifeforms' and 'Scan Matter' as default Precepts, Oxylus was designed to assist in Search-and-Rescue operations through the harsh landscape around The Orb Vallis. Oxylus also comes with a Multron rifle.Note: This item requires two open slots.",
     "longDescription": "",
     "health": 200,
     "shield": 100,

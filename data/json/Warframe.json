@@ -40,6 +40,14 @@
     "wiki": "https://warframe.fandom.com/wiki/Banshee_Prime"
   },
   {
+    "id": "/Lotus/Powersuits/Pacifist/Pacifist",
+    "name": "Baruuk",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Baruuk.png",
+    "wiki": "https://warframe.fandom.com/wiki/Baruuk"
+  },
+  {
     "id": "/Lotus/Powersuits/Dragon/Dragon",
     "name": "Chroma",
     "type": "Warframe",
@@ -238,6 +246,14 @@
     "masteryRank": 0,
     "image": "/data/img/Warframe/Mesa.png",
     "wiki": "https://warframe.fandom.com/wiki/Mesa"
+  },
+  {
+    "id": "/Lotus/Powersuits/Cowgirl/MesaPrime",
+    "name": "Mesa Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Mesa_Prime.png",
+    "wiki": "https://warframe.fandom.com/wiki/Mesa_Prime"
   },
   {
     "id": "/Lotus/Powersuits/Harlequin/Harlequin",

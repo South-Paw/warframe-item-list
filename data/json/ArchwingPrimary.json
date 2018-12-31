@@ -4,7 +4,7 @@
     "name": "Corvas",
     "type": "ArchwingPrimary",
     "category": "Archwing Gun",
-    "masteryRank": 0,
+    "masteryRank": 1,
     "image": "/data/img/ArchwingPrimary/Corvas.png",
     "wiki": "https://warframe.fandom.com/wiki/Corvas"
   },
@@ -22,7 +22,7 @@
     "name": "Dual Decurion",
     "type": "ArchwingPrimary",
     "category": "Archwing Gun",
-    "masteryRank": 0,
+    "masteryRank": 1,
     "image": "/data/img/ArchwingPrimary/Dual_Decurion.png",
     "wiki": "https://warframe.fandom.com/wiki/Dual_Decurion"
   },
@@ -31,7 +31,7 @@
     "name": "Fluctus",
     "type": "ArchwingPrimary",
     "category": "Archwing Gun",
-    "masteryRank": 0,
+    "masteryRank": 2,
     "image": "/data/img/ArchwingPrimary/Fluctus.png",
     "wiki": "https://warframe.fandom.com/wiki/Fluctus"
   },
@@ -40,7 +40,7 @@
     "name": "Grattler",
     "type": "ArchwingPrimary",
     "category": "Archwing Gun",
-    "masteryRank": 0,
+    "masteryRank": 4,
     "image": "/data/img/ArchwingPrimary/Grattler.png",
     "wiki": "https://warframe.fandom.com/wiki/Grattler"
   },
@@ -58,7 +58,7 @@
     "name": "Imperator Vandal",
     "type": "ArchwingPrimary",
     "category": "Archwing Gun",
-    "masteryRank": 0,
+    "masteryRank": 5,
     "image": "/data/img/ArchwingPrimary/Imperator_Vandal.png",
     "wiki": "https://warframe.fandom.com/wiki/Imperator_Vandal"
   },
@@ -67,7 +67,7 @@
     "name": "Phaedra",
     "type": "ArchwingPrimary",
     "category": "Archwing Gun",
-    "masteryRank": 0,
+    "masteryRank": 3,
     "image": "/data/img/ArchwingPrimary/Phaedra.png",
     "wiki": "https://warframe.fandom.com/wiki/Phaedra"
   },
