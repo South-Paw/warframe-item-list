@@ -88,6 +88,14 @@
     "wiki": "https://warframe.fandom.com/wiki/Equinox"
   },
   {
+    "id": "/Lotus/Powersuits/YinYang/EquinoxPrime",
+    "name": "Equinox Prime",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Equinox_Prime.png",
+    "wiki": "https://warframe.fandom.com/wiki/Equinox_Prime"
+  },
+  {
     "id": "/Lotus/Powersuits/Excalibur/Excalibur",
     "name": "Excalibur",
     "type": "Warframe",
@@ -150,6 +158,14 @@
     "masteryRank": 0,
     "image": "/data/img/Warframe/Harrow.png",
     "wiki": "https://warframe.fandom.com/wiki/Harrow"
+  },
+  {
+    "id": "/Lotus/Powersuits/IronFrame/IronFrame",
+    "name": "Hildryn",
+    "type": "Warframe",
+    "masteryRank": 0,
+    "image": "/data/img/Warframe/Hildryn.png",
+    "wiki": "https://warframe.fandom.com/wiki/Hildryn"
   },
   {
     "id": "/Lotus/Powersuits/Pirate/Pirate",

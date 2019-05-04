@@ -36,17 +36,17 @@
     "babel-plugin-inline-json": "^1.2.2",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.7.0",
-    "coveralls": "^3.0.2",
-    "eslint": "^5.10.0",
+    "coveralls": "^3.0.3",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "imagemin": "^6.0.0",
+    "eslint-plugin-import": "^2.17.2",
+    "imagemin": "^6.1.0",
     "imagemin-jpegtran": "^6.0.0",
-    "imagemin-pngquant": "^6.0.0",
-    "jest": "^23.6.0",
-    "node-fetch": "^2.3.0",
+    "imagemin-pngquant": "^7.0.0",
+    "jest": "^24.7.1",
+    "node-fetch": "^2.5.0",
     "node-lua": "github:adaxi/node-lua",
-    "rimraf": "^2.6.2",
-    "sharp": "^0.21.1"
+    "rimraf": "^2.6.3",
+    "sharp": "^0.22.1"
   }
 }

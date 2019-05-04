@@ -184,7 +184,7 @@
     "name": "Corinth",
     "type": "Primary",
     "category": "Shotgun",
-    "masteryRank": 10,
+    "masteryRank": 8,
     "image": "/data/img/Primary/Corinth.png",
     "wiki": "https://warframe.fandom.com/wiki/Corinth"
   },
@@ -531,6 +531,15 @@
     "wiki": "https://warframe.fandom.com/wiki/Opticor"
   },
   {
+    "id": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/Vandal/VandalCrpBFG",
+    "name": "Opticor Vandal",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 14,
+    "image": "/data/img/Primary/Opticor_Vandal.png",
+    "wiki": "https://warframe.fandom.com/wiki/Opticor_Vandal"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/LongGuns/Miter/TnoMiter",
     "name": "Panthera",
     "type": "Primary",
@@ -610,6 +619,15 @@
     "masteryRank": 11,
     "image": "/data/img/Primary/Prisma_Grakata.png",
     "wiki": "https://warframe.fandom.com/wiki/Prisma_Grakata"
+  },
+  {
+    "id": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/PrismaGrinlokWeapon",
+    "name": "Prisma Grinlok",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 11,
+    "image": "/data/img/Primary/Prisma_Grinlok.png",
+    "wiki": "https://warframe.fandom.com/wiki/Prisma_Grinlok"
   },
   {
     "id": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
@@ -763,6 +781,15 @@
     "masteryRank": 8,
     "image": "/data/img/Primary/Stradavar.png",
     "wiki": "https://warframe.fandom.com/wiki/Stradavar"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/LongGuns/PrimeStradavar/PrimeStradavarGun",
+    "name": "Stradavar Prime",
+    "type": "Primary",
+    "category": "Rifle",
+    "masteryRank": 12,
+    "image": "/data/img/Primary/Stradavar_Prime.png",
+    "wiki": "https://warframe.fandom.com/wiki/Stradavar_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Shotgun/Shotgun",

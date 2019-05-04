@@ -148,8 +148,7 @@ const getImageAndSave = async (type, name, imageUrl) => {
   console.log(`Writing image (${type}/${name}.${fileExtension})`);
 
   await sharp(imageBuffer)
-    .resize(512, 342)
-    .ignoreAspectRatio()
+    .resize(512, 342, { ignoreAspectRatio: true })
     .toFile(filePath);
 
   console.log(`Minifying image (${type}/${name}.${fileExtension})`);
@@ -157,7 +156,7 @@ const getImageAndSave = async (type, name, imageUrl) => {
   await imagemin([filePath], folderPath, {
     plugins: [
       imageminJpegtran(),
-      imageminPngquant({ quality: '65-80' }),
+      imageminPngquant({ quality: [0.65, 0.8] }),
     ],
   });
 

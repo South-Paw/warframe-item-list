@@ -63,6 +63,15 @@
     "wiki": "https://warframe.fandom.com/wiki/Imperator_Vandal"
   },
   {
+    "id": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun",
+    "name": "Larkspur",
+    "type": "ArchwingPrimary",
+    "category": "Archwing Gun",
+    "masteryRank": 8,
+    "image": "/data/img/ArchwingPrimary/Larkspur.png",
+    "wiki": "https://warframe.fandom.com/wiki/Larkspur"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/Archwing/Primary/ArchLongRifle/ArchLongRifle",
     "name": "Phaedra",
     "type": "ArchwingPrimary",

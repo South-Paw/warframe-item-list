@@ -213,7 +213,7 @@
     "armor": 50,
     "stamina": 8,
     "power": 100,
-    "codexSecret": true
+    "codexSecret": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/KubrowPet/AdventurerKubrowPetPowerSuit",
@@ -237,7 +237,7 @@
     "armor": 50,
     "stamina": 8,
     "power": 100,
-    "codexSecret": true
+    "codexSecret": false
   },
   {
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/CheshireCatbrowPetPowerSuit",
@@ -249,6 +249,6 @@
     "armor": 50,
     "stamina": 8,
     "power": 100,
-    "codexSecret": true
+    "codexSecret": false
   }
 ]
