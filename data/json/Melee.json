@@ -648,6 +648,15 @@
     "wiki": "https://warframe.fandom.com/wiki/Kogake_Prime"
   },
   {
+    "id": "/Lotus/Weapons/Grineer/Melee/GrnSparring/GrnSpiderSparring/GrnSpiderSparring",
+    "name": "Korrudo",
+    "type": "Melee",
+    "category": "Sparring",
+    "masteryRank": 9,
+    "image": "/data/img/Melee/Korrudo.png",
+    "wiki": "https://warframe.fandom.com/wiki/Korrudo"
+  },
+  {
     "id": "/Lotus/Weapons/Corpus/Melee/CrpVenusHatchet/CrpVenusHatchet",
     "name": "Kreska",
     "type": "Melee",
@@ -1179,6 +1188,15 @@
     "wiki": "https://warframe.fandom.com/wiki/Synoid_Heliocor"
   },
   {
+    "id": "/Lotus/Weapons/Tenno/Melee/Swords/TnTwoHandedKatana/TnTwoHandedKatana",
+    "name": "Tatsu",
+    "type": "Melee",
+    "category": "Two-Handed Nikana",
+    "masteryRank": 7,
+    "image": "/data/img/Melee/Tatsu.png",
+    "wiki": "https://warframe.fandom.com/wiki/Tatsu"
+  },
+  {
     "id": "/Lotus/Weapons/Tenno/Melee/Gauntlet/BrawlerKnuckles/BrawlerKnuckles",
     "name": "Tekko",
     "type": "Melee",
@@ -1204,6 +1222,15 @@
     "masteryRank": 3,
     "image": "/data/img/Melee/Tipedo.png",
     "wiki": "https://warframe.fandom.com/wiki/Tipedo"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Melee/Staff/TipedoPrime/TipedoPrimeWeapon",
+    "name": "Tipedo Prime",
+    "type": "Melee",
+    "category": "Staff",
+    "masteryRank": 10,
+    "image": "/data/img/Melee/Tipedo_Prime.png",
+    "wiki": "https://warframe.fandom.com/wiki/Tipedo_Prime"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Melee/Polearms/FlowerPowerPolearm/FlowerPowerPolearmWep",
@@ -1276,6 +1303,15 @@
     "masteryRank": 10,
     "image": "/data/img/Melee/War.png",
     "wiki": "https://warframe.fandom.com/wiki/War"
+  },
+  {
+    "id": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer",
+    "name": "Wolf Sledge",
+    "type": "Melee",
+    "category": "Hammer",
+    "masteryRank": 7,
+    "image": "/data/img/Melee/Wolf_Sledge.png",
+    "wiki": "https://warframe.fandom.com/wiki/Wolf_Sledge"
   },
   {
     "id": "/Lotus/Weapons/Tenno/Melee/SunDialAxe/SundialAxeWeapon",

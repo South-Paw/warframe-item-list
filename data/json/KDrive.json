@@ -22,5 +22,13 @@
     "masteryRank": 0,
     "image": "/data/img/KDrive/Needlenose.png",
     "wiki": "https://warframe.fandom.com/wiki/Needlenose"
+  },
+  {
+    "id": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusC/HoverboardCorpusCDeck",
+    "name": "Runway",
+    "type": "KDrive",
+    "masteryRank": 0,
+    "image": "/data/img/KDrive/Runway.png",
+    "wiki": "https://warframe.fandom.com/wiki/Runway"
   }
 ]

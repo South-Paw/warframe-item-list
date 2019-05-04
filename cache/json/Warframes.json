@@ -177,7 +177,7 @@
   {
     "uniqueName": "/Lotus/Powersuits/YinYang/YinYang",
     "name": "EQUINOX",
-    "parentName": "/Lotus/Types/Game/PowerSuits/PlayerPowerSuit",
+    "parentName": "/Lotus/Powersuits/YinYang/YinYangBaseSuit",
     "description": "Split between day and night, Equinox manifests aggressive and defensive forms at will.",
     "longDescription": "",
     "health": 100,
@@ -186,7 +186,43 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Health Orbs generate a little Energy, while Energy Orbs restore a bit of Health.",
+    "passiveDescription": "|PERCENT|% of Health Orbs are converted into Energy, and |PERCENT|% of Energy Orbs are converted into Health.",
+    "abilities": [
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangSwitchAbility",
+        "abilityName": "Metamorphosis",
+        "description": "Switch forms, temporarily gaining bonus Shields and Armor in Night-Form, or bonus Damage and Speed in Day-Form."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangTargetAbility",
+        "abilityName": "Rest & Rage",
+        "description": "In Night-Form, targets are put to sleep. In Day-Form, targets become more vulnerable to damage."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangAuraAbility",
+        "abilityName": "Pacify & Provoke",
+        "description": "In Night-Form, reduces damage inflicted by nearby enemies. In Day-Form, increases Ability Strength of nearby allies."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangBurstAbility",
+        "abilityName": "Mend & Maim",
+        "description": "In Night-Form, allies are healed with each nearby enemy killed. In Day-Form, nearby enemies are bled and then subjected to a wave of slashing force."
+      }
+    ]
+  },
+  {
+    "uniqueName": "/Lotus/Powersuits/YinYang/EquinoxPrime",
+    "name": "EQUINOX PRIME",
+    "parentName": "/Lotus/Powersuits/YinYang/YinYangBaseSuit",
+    "description": "Night and Day in final balance; the graceful perfection of the one that walks the borders.",
+    "longDescription": "",
+    "health": 125,
+    "shield": 100,
+    "armor": 120,
+    "stamina": 3,
+    "power": 165,
+    "codexSecret": false,
+    "passiveDescription": "|PERCENT|% of Health Orbs are converted into Energy, and |PERCENT|% of Energy Orbs are converted into Health.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/YinYangSwitchAbility",
@@ -222,7 +258,7 @@
     "stamina": 3,
     "power": 200,
     "codexSecret": false,
-    "passiveDescription": "Grounded movement generates an electrical charge that is unleashed with the next attack.",
+    "passiveDescription": "Grounded movement generates an electrical charge building up |DAMAGE| Damage per meter that is unleashed with the next attack.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ShockAbility",
@@ -258,7 +294,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Grounded movement generates an electrical charge that is unleashed with the next attack.",
+    "passiveDescription": "Grounded movement generates an electrical charge building up |DAMAGE| Damage per meter that is unleashed with the next attack.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ShockAbility",
@@ -294,7 +330,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Revive fallen allies faster and from farther away.",
+    "passiveDescription": "Revive fallen allies |SPEED|% faster and from |RANGE|% farther away.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
@@ -330,7 +366,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Revive fallen allies faster and from farther away.",
+    "passiveDescription": "Revive fallen allies |SPEED|% faster and from |RANGE|% farther away.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/WellOfLifeAbility",
@@ -366,7 +402,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Deal 25% extra damage to incapacitated enemies.",
+    "passiveDescription": "Deal |DAMAGE|% Extra Damage to incapacitated enemies.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ZapTrapAbility",
@@ -402,7 +438,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Deal 25% extra damage to incapacitated enemies.",
+    "passiveDescription": "Deal |DAMAGE|% Extra Damage to incapacitated enemies.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/ZapTrapAbility",
@@ -438,7 +474,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Move with increased agility while Airborne and fall more slowly.",
+    "passiveDescription": "Move faster while Airborne and fall |PERCENT|% slower.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TailWindAbility",
@@ -474,7 +510,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Move with increased agility while Airborne and fall more slowly.",
+    "passiveDescription": "Move faster while Airborne and fall |PERCENT|% slower.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/TailWindAbility",
@@ -510,7 +546,7 @@
     "stamina": 3,
     "power": 200,
     "codexSecret": false,
-    "passiveDescription": "Status Effects inflicted upon enemies last longer.",
+    "passiveDescription": "Status Effects inflicted upon enemies last |DURATION|% longer.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PoisonAbility",
@@ -546,7 +582,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Status Effects inflicted upon enemies last longer.",
+    "passiveDescription": "Status Effects inflicted upon enemies last |DURATION|% longer.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PoisonAbility",
@@ -618,7 +654,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Emit a shockwave after landing from a great height.",
+    "passiveDescription": "Emit a shockwave dealing |DAMAGE| damage after landing from a great height.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoChargeAbility",
@@ -654,7 +690,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Emit a shockwave after landing from a great height.",
+    "passiveDescription": "Emit a shockwave dealing |DAMAGE| damage after landing from a great height.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RhinoChargeAbility",
@@ -690,7 +726,7 @@
     "stamina": 3,
     "power": 125,
     "codexSecret": false,
-    "passiveDescription": "Shield depletion smashes nearby enemies with a knockdown shockwave.",
+    "passiveDescription": "Shield depletion smashes enemies within |RADIUS|m with a |DAMAGE| Damage knockdown shockwave.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RevenantMarkAbility",
@@ -726,7 +762,7 @@
     "stamina": 3,
     "power": 175,
     "codexSecret": false,
-    "passiveDescription": "Senses nearby enemies.",
+    "passiveDescription": "Senses nearby enemies within |RADIUS|m.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RangerQuiverAbility",
@@ -798,7 +834,7 @@
     "stamina": 3,
     "power": 125,
     "codexSecret": false,
-    "passiveDescription": "Slam Attacks have a chance to summon a tentacle.",
+    "passiveDescription": "Slam Attacks have a |CHANCE|% chance to summon a tentacle for |DURATION|s.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/CannonBarrageAbility",
@@ -834,7 +870,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Slam Attacks have a chance to summon a tentacle.",
+    "passiveDescription": "Slam Attacks have a |CHANCE|% chance to summon a tentacle for |DURATION|s.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/CannonBarrageAbility",
@@ -870,7 +906,7 @@
     "stamina": 3,
     "power": 175,
     "codexSecret": false,
-    "passiveDescription": "Allied pets receive health, armor and shield buffs. In addition, your pet receives an instant revive per mission.",
+    "passiveDescription": "Allied pets receive |HEALTH|% Health, Armor and Shield buffs. In addition, your pet receives an instant revive per mission.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SmiteAbility",
@@ -906,7 +942,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Allied pets receive health, armor and shield buffs. In addition, your pet receives an instant revive per mission.",
+    "passiveDescription": "Allied pets receive |HEALTH|% Health, Armor and Shield buffs. In addition, your pet receives an instant revive per mission.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SmiteAbility",
@@ -942,26 +978,26 @@
     "stamina": 3,
     "power": 200,
     "codexSecret": false,
-    "passiveDescription": "Each projectile dodged, each enemy lulled or disarmed, erodes Baruuk’s restraint and fuels the storm within. As Baruuk’s restraint is diminished he becomes more resistant to damage.",
+    "passiveDescription": "Each projectile dodged, each enemy lulled or disarmed, erodes Baruuk’s restraint and fuels the storm within. As Baruuk’s restraint is diminished he becomes up to |PERCENT|% more resistant to damage.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistDodgeAbility",
-        "abilityName": "ELUDE",
+        "abilityName": "Elude",
         "description": "Dodge all incoming projectiles, but only while not attacking. Use again to deactivate this ability."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistWaveAbility",
-        "abilityName": "LULL",
+        "abilityName": "Lull",
         "description": "A calming wave slows enemies until they fall into a slumber. Enemies woken by damage will be confused and disoriented. Short-term amnesia means all waking enemies forget anything that happened before the lull."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistDisarmAbility",
-        "abilityName": "DESOLATE HANDS",
+        "abilityName": "Desolate Hands",
         "description": "Summon a bevy of orbiting daggers to seek out enemy guns, destroying them with a small explosion. Combine with Elude to double the range."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/PacifistFistAbility",
-        "abilityName": "SERENE STORM",
+        "abilityName": "Serene Storm",
         "description": "With his Restraint eroded, Baruuk commands the Desert Wind to deliver powerful radial strikes with his fists and feet. Each moment commanding the storm restores his Restraint."
       }
     ]
@@ -978,7 +1014,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Bleed effects inflicted on enemies do more damage and last longer.",
+    "passiveDescription": "Bleed effects inflicted on enemies do |DAMAGE|% increased damage and last |DURATION|% longer.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GlaiveAbility",
@@ -1014,7 +1050,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Bleed effects inflicted on enemies do more damage and last longer.",
+    "passiveDescription": "Bleed effects inflicted on enemies do |DAMAGE|% increased damage and last |DURATION|% longer.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GlaiveAbility",
@@ -1050,7 +1086,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Slide faster and go farther.",
+    "passiveDescription": "Slide |SPEED|% faster and go |RANGE|% farther.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/NezhaTrailAbility",
@@ -1086,7 +1122,7 @@
     "stamina": 3,
     "power": 125,
     "codexSecret": false,
-    "passiveDescription": "Restore a small amount of health with every nearby enemy death.",
+    "passiveDescription": "Restore |HEALTH| Health with every enemy death within |RADIUS|m.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SoulPunchAbility",
@@ -1122,7 +1158,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Restore a small amount of health with every nearby enemy death.",
+    "passiveDescription": "Restore |HEALTH| Health with every enemy death within |RADIUS|m.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SoulPunchAbility",
@@ -1158,7 +1194,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Increased combo duration.",
+    "passiveDescription": "Melee Counter lasts |DURATION|% longer.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MonkeyPokeAbility",
@@ -1194,7 +1230,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal. Energy slowly recharges in the Rift, and each enemy killed in there also gives energy.",
+    "passiveDescription": "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal lasting |DURATION|s. Energy slowly recharges in the Rift, and each enemy killed in there also gives |ENERGY| Energy.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BanishAbility",
@@ -1230,7 +1266,7 @@
     "stamina": 3,
     "power": 175,
     "codexSecret": false,
-    "passiveDescription": "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal. Energy slowly recharges in the Rift, and each enemy killed in there also gives energy.",
+    "passiveDescription": "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal lasting |DURATION|s. Energy slowly recharges in the Rift, and each enemy killed in there also gives |ENERGY| Energy.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BanishAbility",
@@ -1338,7 +1374,7 @@
     "stamina": 3,
     "power": 175,
     "codexSecret": false,
-    "passiveDescription": "Able to hang from walls for extended durations of time.",
+    "passiveDescription": "Able to hang from walls |MULT|x longer than normal.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DecoyAbility",
@@ -1374,7 +1410,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Able to hang from walls for extended durations of time.",
+    "passiveDescription": "Able to hang from walls |MULT|x longer than normal.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/DecoyAbility",
@@ -1410,7 +1446,7 @@
     "stamina": 3,
     "power": 125,
     "codexSecret": false,
-    "passiveDescription": "The ferocious kavat, Venari, fights by Khora’s side and provides her with a speed boost while active. If killed, Venari will reappear after a short time.",
+    "passiveDescription": "The ferocious kavat, Venari, fights by Khora’s side and provides her with a |SPEED|% speed boost while active. If killed, Venari will reappear after |RESPAWN|s.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/KhoraCrackAbility",
@@ -1446,7 +1482,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Enemies affected by Nyx Prime’s abilities may suddenly choose to lay down their arms.",
+    "passiveDescription": "Enemies are |PERCENT|% less accurate when targeting Nyx Prime.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
@@ -1482,7 +1518,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Enemies affected by Nyx’s abilities may suddenly choose to lay down their arms.",
+    "passiveDescription": "Enemies are |PERCENT|% less accurate when targeting Nyx.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/MindControlAbility",
@@ -1507,6 +1543,42 @@
     ]
   },
   {
+    "uniqueName": "/Lotus/Powersuits/IronFrame/IronFrame",
+    "name": "HILDRYN",
+    "parentName": "/Lotus/Powersuits/IronFrame/IronFrameBaseSuit",
+    "description": "The best defense is a good offense. Hildryn draws from her Shields to fuel her Abilities, while Energy recharges her Shields.",
+    "longDescription": "",
+    "health": 75,
+    "shield": 450,
+    "armor": 300,
+    "stamina": 3,
+    "power": 0,
+    "codexSecret": false,
+    "passiveDescription": "Become invulnerable for a brief moment after shields are depleted. This ability is restored when shields fully recharge.",
+    "abilities": [
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IronFrameBlastAbility",
+        "abilityName": "BALEFIRE",
+        "description": "Charge and launch devastating bolts of fire."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IronFrameStripAbility",
+        "abilityName": "PILLAGE",
+        "description": "Pillage a percentage of Shields and Armor of nearby enemies to replenish Hildryn’s own Shields and Overshields. Also removes Status Effects from Hildryn and her allies."
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IronFrameAuraAbility",
+        "abilityName": "HAVEN",
+        "description": "Create a shield aura around allies. Enemies that approach shielded allies will take damage. "
+      },
+      {
+        "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IronFrameEruptionAbility",
+        "abilityName": "AEGIS STORM",
+        "description": "Take the skies and rain Balefire rockets down on the enemy. Nearby enemies are blasted into the air where they will create an Energy Orb every few seconds. When shields run out the enemies are smashed into the ground."
+      }
+    ]
+  },
+  {
     "uniqueName": "/Lotus/Powersuits/Infestation/Infestation",
     "name": "NIDUS",
     "parentName": "/Lotus/Types/Game/PowerSuits/PlayerPowerSuit",
@@ -1518,7 +1590,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "If Nidus is killed with at least 15 stacks of Mutation, those 15 stacks are consumed; this grants 5 seconds of invulnerability and restores health to 50%.",
+    "passiveDescription": "If Nidus is killed with at least |STACKS| stacks of Mutation, those |STACKS| stacks are consumed; this grants |DURATION|s of invulnerability and restores Health to |HEAL|%.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/InfestRuptureAbility",
@@ -1554,7 +1626,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Long-lasting slide and faster acrobatic maneuvers.",
+    "passiveDescription": "Sliding lasts |DURATION|% longer and acrobatic maneuvers are |SPEED|% faster.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IllusionAbility",
@@ -1590,7 +1662,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Long-lasting slide and faster acrobatic maneuvers.",
+    "passiveDescription": "Sliding lasts |DURATION|% longer and acrobatic maneuvers are |SPEED|% faster.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IllusionAbility",
@@ -1626,7 +1698,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "A chance to create a radial blind when exposed to bright light.",
+    "passiveDescription": "A chance to create a radial blind lasting |DURATION|s when exposed to bright light.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GlassShankAbility",
@@ -1662,7 +1734,7 @@
     "stamina": 3,
     "power": 120,
     "codexSecret": false,
-    "passiveDescription": "As Garuda nears death, her damage increases.Slashes with her talons if no melee weapon is equipped.",
+    "passiveDescription": "As Garuda nears death, her damage increases up to an additional |DAMAGE|%.Slashes with her talons if no melee weapon is equipped.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GarudaShieldAbility",
@@ -1698,7 +1770,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Striking Frost with a melee attack may freeze the attacker.",
+    "passiveDescription": "Striking Frost with a melee attack has a |CHANCE|% chance to freeze the attacker for |DURATION|s.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IcicleAbility",
@@ -1734,7 +1806,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Striking Frost with a melee attack may freeze the attacker.",
+    "passiveDescription": "Striking Frost with a melee attack has a |CHANCE|% chance to freeze the attacker for |DURATION|s.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/IcicleAbility",
@@ -1770,7 +1842,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Bullet-jump creates a trampoline that enhances bullet-jump maneuvers when used by allies.",
+    "passiveDescription": "Bullet Jump creates a trampoline lasting |DURATION|s that enhances Bullet Jump maneuvers by |JUMP|% when used by allies.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FairyDustAbility",
@@ -1806,7 +1878,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": true,
-    "passiveDescription": "Umbra exhibits sentience in combat without Transference control. Attacks faster and deals more damage while wielding swords.",
+    "passiveDescription": "Umbra exhibits sentience in combat without Transference control. Attacks |SPEED|% faster and deals |DAMAGE|% more damage while wielding swords.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/UmbraSlashDashNewAbility",
@@ -1842,7 +1914,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": true,
-    "passiveDescription": "Excalibur Prime deals increased damage and attacks faster when wielding swords.",
+    "passiveDescription": "Excalibur Prime deals |DAMAGE|% increased damage and attacks |SPEED|% faster when wielding swords.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SlashDashNewAbility",
@@ -1878,7 +1950,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Excalibur deals increased damage and attacks faster when wielding swords.",
+    "passiveDescription": "Excalibur deals |DAMAGE|% increased damage and attacks |SPEED|% faster when wielding swords.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/SlashDashNewAbility",
@@ -1914,7 +1986,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Regenerates Energy and deals more damage while on Fire.",
+    "passiveDescription": "Regenerates |REGEN| Energy/s and increases Ability Strength by |STRENGTH|% while on Fire.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBallAbility",
@@ -1950,7 +2022,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Regenerates Energy and deals more damage while on Fire.",
+    "passiveDescription": "Regenerates |REGEN| Energy/s and increases Ability Strength by |STRENGTH|% while on Fire.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/FireBallAbility",
@@ -2058,7 +2130,7 @@
     "stamina": 3,
     "power": 125,
     "codexSecret": false,
-    "passiveDescription": "Shoot dual-wielded sidearms faster and reload single-handed sidearms more rapidly. Gain bonus health when not using Melee Weapons.",
+    "passiveDescription": "Shoot dual-wielded sidearms |SPEED|% faster and reload single-handed sidearms |RELOAD|% more rapidly. Gain |HEALTH| Bonus Health when not using Melee Weapons.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BallisticBatteryAbility",
@@ -2068,7 +2140,7 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RussianRouletteAbility",
         "abilityName": "Shooting Gallery",
-        "description": "Gives an ally extra damage while jamming the guns of nearby enemies. This power shifts between team members."
+        "description": "Gives an ally Extra Damage while jamming the guns of nearby enemies. This power shifts between team members."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RicochetArmorAbility",
@@ -2094,7 +2166,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Shoot dual-wielded sidearms faster and reload single-handed sidearms more rapidly. Gain bonus health when not using Melee Weapons.",
+    "passiveDescription": "Shoot dual-wielded sidearms |SPEED|% faster and reload single-handed sidearms |RELOAD|% more rapidly. Gain |HEALTH| Bonus Health when not using Melee Weapons.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BallisticBatteryAbility",
@@ -2104,7 +2176,7 @@
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RussianRouletteAbility",
         "abilityName": "Shooting Gallery",
-        "description": "Gives an ally extra damage while jamming the guns of nearby enemies. This power shifts between team members."
+        "description": "Gives an ally Extra Damage while jamming the guns of nearby enemies. This power shifts between team members."
       },
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/RicochetArmorAbility",
@@ -2166,7 +2238,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Faster recovery from being knocked down.",
+    "passiveDescription": "Recover |PERCENT|% faster from being knocked down.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GrappleHookAbility",
@@ -2202,7 +2274,7 @@
     "stamina": 3,
     "power": 100,
     "codexSecret": false,
-    "passiveDescription": "Faster recovery from being knocked down.",
+    "passiveDescription": "Recover |PERCENT|% faster from being knocked down.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/GrappleHookAbility",
@@ -2238,7 +2310,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "Briefly replenish energy for Octavia and nearby allies when abilities are activated.",
+    "passiveDescription": "Replenish |ENERGY| energy over |DURATION|s for Octavia and allies within |RANGE|m when abilities are activated.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/BardMusicAbility",
@@ -2346,7 +2418,7 @@
     "stamina": 3,
     "power": 175,
     "codexSecret": false,
-    "passiveDescription": "When knocked-over, emit a defensive burst that topples attacking enemies.",
+    "passiveDescription": "When knocked-over, emit a |RADIUS|m defensive burst that topples attacking enemies and deals |DAMAGE| Damage.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/NullStarAbility",
@@ -2382,7 +2454,7 @@
     "stamina": 3,
     "power": 150,
     "codexSecret": false,
-    "passiveDescription": "When knocked-over, emit a defensive burst that topples attacking enemies.",
+    "passiveDescription": "When knocked-over, emit a |RADIUS|m defensive burst that topples attacking enemies and deals |DAMAGE| Damage.",
     "abilities": [
       {
         "abilityUniqueName": "/Lotus/Powersuits/PowersuitAbilities/NullStarAbility",

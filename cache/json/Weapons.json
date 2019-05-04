@@ -78,7 +78,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 11,
-    "omegaAttenuation": 1.15
+    "omegaAttenuation": 1.2
   },
   {
     "name": "HIKOU",
@@ -105,7 +105,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 0.75
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "DESPAIR",
@@ -240,7 +240,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 0.75
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "SPIRA PRIME",
@@ -267,7 +267,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 0.85000002
+    "omegaAttenuation": 1
   },
   {
     "name": "SPIRA",
@@ -294,7 +294,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 0.85000002
+    "omegaAttenuation": 1
   },
   {
     "name": "FUSILAI",
@@ -307,7 +307,7 @@
     "totalDamage": 77,
     "damagePerSecond": 158,
     "trigger": "AUTO",
-    "description": "Silently lacerate enemies with Gara’s signature glass throwing knives.",
+    "description": "Silently lacerate enemies with Gara's signature glass throwing knives. Increased Projectile Speed when wielded by Gara.",
     "accuracy": 100,
     "criticalChance": 0.23,
     "criticalMultiplier": 1.7,
@@ -402,7 +402,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 0.69999999
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "BOAR PRIME",
@@ -510,7 +510,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 1.165
+    "omegaAttenuation": 1.25
   },
   {
     "name": "BRATON VANDAL",
@@ -537,7 +537,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1.01
+    "omegaAttenuation": 1.1
   },
   {
     "name": "VECTIS",
@@ -564,7 +564,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 0.92000002
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "SOMA",
@@ -591,7 +591,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 0.55000001
+    "omegaAttenuation": 0.75
   },
   {
     "name": "MK1-BRATON",
@@ -618,7 +618,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.01
+    "omegaAttenuation": 1.1
   },
   {
     "name": "SNIPETRON",
@@ -645,7 +645,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.165
+    "omegaAttenuation": 1.25
   },
   {
     "name": "LATRON",
@@ -672,7 +672,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.15
+    "omegaAttenuation": 1.25
   },
   {
     "name": "BRATON",
@@ -699,7 +699,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.01
+    "omegaAttenuation": 1.1
   },
   {
     "name": "LATRON PRIME",
@@ -726,7 +726,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.15
+    "omegaAttenuation": 1.25
   },
   {
     "name": "GORGON",
@@ -753,7 +753,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 3,
-    "omegaAttenuation": 1.175
+    "omegaAttenuation": 1.4
   },
   {
     "name": "BURSTON",
@@ -780,7 +780,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.25
+    "omegaAttenuation": 1.3
   },
   {
     "name": "BRATON PRIME",
@@ -807,7 +807,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1.01
+    "omegaAttenuation": 1.1
   },
   {
     "name": "BOLTOR",
@@ -834,7 +834,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 0.79000002
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "KNELL",
@@ -843,11 +843,11 @@
     "secondsPerShot": 0.25,
     "damagePerShot": [ 62.999996, 69, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 1,
-    "reloadTime": 1,
+    "reloadTime": 2,
     "totalDamage": 150,
-    "damagePerSecond": 120,
-    "trigger": "SEMI",
-    "description": "Ring the death knell. Headshots briefly turn this scoped pistol into a rapid-fire, Critical Damage fiend that uses no ammo.",
+    "damagePerSecond": 67,
+    "trigger": "AUTO",
+    "description": "Ring the death knell. Headshots briefly turn this scoped pistol into a rapid-fire, Critical Damage fiend that uses no ammo. When used by Harrow, Knell has a 2-round mag.",
     "accuracy": 32,
     "criticalChance": 0.2,
     "criticalMultiplier": 1.5,
@@ -888,7 +888,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1.2
   },
   {
     "name": "PANDERO",
@@ -901,7 +901,7 @@
     "totalDamage": 72,
     "damagePerSecond": 157,
     "trigger": "SEMI",
-    "description": "Octavia’s pistol hammers foes with single shots or a rapid volley of bullets.",
+    "description": "Octavia's pistol hammers foes with single shots or a rapid volley of bullets. When wielded by Octavia, alt-fire Headshot Kills increase Reload Speed.",
     "accuracy": 16,
     "criticalChance": 0.30000001,
     "criticalMultiplier": 2.8,
@@ -942,7 +942,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1.4299999
+    "omegaAttenuation": 1.25
   },
   {
     "name": "AKSTILETTO",
@@ -1050,7 +1050,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "HYSTRIX",
@@ -1063,7 +1063,7 @@
     "totalDamage": 36.000004,
     "damagePerSecond": 145,
     "trigger": "AUTO",
-    "description": "Fire, ice, electricity, or poison: choose an element and launch a flurry deadly quills. This versatile sidearm is Khora’s signature weapon.",
+    "description": "Heat, cold, electricity, or toxin: choose an element and launch a flurry of deadly quills. This versatile sidearm is Khora’s signature weapon.",
     "accuracy": 14.285714,
     "criticalChance": 0.23999999,
     "criticalMultiplier": 2.2,
@@ -1077,7 +1077,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.05
+    "omegaAttenuation": 1.1
   },
   {
     "name": "VASTO PRIME",
@@ -1104,7 +1104,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.35
   },
   {
     "name": "AKVASTO PRIME",
@@ -1131,7 +1131,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.2
   },
   {
     "name": "SICARUS PRIME",
@@ -1158,7 +1158,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 14,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.15
   },
   {
     "name": "PYRANA PRIME",
@@ -1185,7 +1185,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 13,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "LEX PRIME",
@@ -1212,7 +1212,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 0.5
+    "omegaAttenuation": 0.69999999
   },
   {
     "name": "BALLISTICA PRIME",
@@ -1239,7 +1239,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 14,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 1.05
   },
   {
     "name": "AKSTILETTO PRIME",
@@ -1293,7 +1293,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 1.4299999
+    "omegaAttenuation": 1.25
   },
   {
     "name": "AKBOLTO PRIME",
@@ -1428,7 +1428,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.15
   },
   {
     "name": "BALLISTICA",
@@ -1455,7 +1455,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 1.05
   },
   {
     "name": "EUPHONA PRIME",
@@ -1509,7 +1509,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.35
   },
   {
     "name": "LATO",
@@ -1536,7 +1536,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.35
   },
   {
     "name": "LATO VANDAL",
@@ -1563,7 +1563,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.35
   },
   {
     "name": "LATO PRIME",
@@ -1590,7 +1590,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 14,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.35
   },
   {
     "name": "LEX",
@@ -1617,7 +1617,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 3,
-    "omegaAttenuation": 0.5
+    "omegaAttenuation": 0.69999999
   },
   {
     "name": "BRONCO",
@@ -1644,7 +1644,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.35
   },
   {
     "name": "BOLTO",
@@ -1698,7 +1698,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 3,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.15
   },
   {
     "name": "BRONCO PRIME",
@@ -1725,7 +1725,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.35
   },
   {
     "name": "FURIS",
@@ -1954,7 +1954,7 @@
     "totalDamage": 77,
     "damagePerSecond": 90,
     "trigger": "MELEE",
-    "description": "Forged of steel grafted from Umbra's flesh, this elegant nikana unites with its Warframe to form a single being of seething purpose.",
+    "description": "Forged of steel grafted from Umbra's flesh, this elegant Nikana unites with its Warframe to form a single being of seething purpose.",
     "accuracy": 100,
     "criticalChance": 0.15000001,
     "criticalMultiplier": 1.9,
@@ -1996,6 +1996,33 @@
     "sentinel": false,
     "masteryReq": 7,
     "omegaAttenuation": 1.14
+  },
+  {
+    "name": "TATSU",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/TnTwoHandedKatana/TnTwoHandedKatana",
+    "codexSecret": false,
+    "secondsPerShot": 1,
+    "damagePerShot": [ 15, 23, 27, 0, 0, 0, 0, 0, 31, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 0,
+    "reloadTime": 0,
+    "totalDamage": 96,
+    "damagePerSecond": 96,
+    "trigger": "MELEE",
+    "description": "Fearsome and noble, the elegant two-handed Nikana is the pride of any Arsenal. Kills build charges and seeking projectiles are unleashed with a Slide Attack to find and stun unwitting enemies. When Revenant wields this blade, Tatsu’s charge cap is increased.",
+    "accuracy": 100,
+    "criticalChance": 0.11,
+    "criticalMultiplier": 1.9,
+    "procChance": 0.23000002,
+    "fireRate": 1,
+    "chargeAttack": 0,
+    "spinAttack": 192,
+    "leapAttack": 96,
+    "wallAttack": 192,
+    "slot": 5,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 7,
+    "omegaAttenuation": 1
   },
   {
     "name": "ENDURA",
@@ -2413,7 +2440,7 @@
     "totalDamage": 45,
     "damagePerSecond": 41,
     "trigger": "MELEE",
-    "description": "The Nikana katana reintroduces a lost Tenno blade and with it another fragment of the old ways.",
+    "description": "The Nikana reintroduces a lost Tenno blade and with it another fragment of the old ways.",
     "accuracy": 100,
     "criticalChance": 0.1,
     "criticalMultiplier": 2,
@@ -2725,6 +2752,33 @@
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1.5
+  },
+  {
+    "name": "TIPEDO PRIME",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Staff/TipedoPrime/TipedoPrimeWeapon",
+    "codexSecret": false,
+    "secondsPerShot": 0.85714281,
+    "damagePerShot": [ 7.5999999, 7.5999999, 60.799999, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 0,
+    "reloadTime": 0,
+    "totalDamage": 76,
+    "damagePerSecond": 89,
+    "trigger": "MELEE",
+    "description": "With their final breath they look to the moon, and are gone.",
+    "accuracy": 100,
+    "criticalChance": 0.23999999,
+    "criticalMultiplier": 2.4000001,
+    "procChance": 0.24000001,
+    "fireRate": 1.1666667,
+    "chargeAttack": 0,
+    "spinAttack": 163,
+    "leapAttack": 76,
+    "wallAttack": 127,
+    "slot": 5,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 10,
+    "omegaAttenuation": 1.3099999
   },
   {
     "name": "BO PRIME",
@@ -3375,6 +3429,33 @@
     "omegaAttenuation": 1.4400001
   },
   {
+    "name": "WOLF SLEDGE",
+    "uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/ThrowingHammer",
+    "codexSecret": false,
+    "secondsPerShot": 1,
+    "damagePerShot": [ 66.299995, 3.8999999, 59.800003, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 0,
+    "reloadTime": 0,
+    "totalDamage": 130,
+    "damagePerSecond": 130,
+    "trigger": "MELEE",
+    "description": "The signature weapon of the only lunatic fearsome enough to bust out of the Saturn Six Max-Pen. Once loosed this formidable throwing hammer always finds its way home.",
+    "accuracy": 100,
+    "criticalChance": 0.17,
+    "criticalMultiplier": 1.9,
+    "procChance": 0.33000004,
+    "fireRate": 1,
+    "chargeAttack": 0,
+    "spinAttack": 260,
+    "leapAttack": 130,
+    "wallAttack": 260,
+    "slot": 5,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 7,
+    "omegaAttenuation": 0.95999998
+  },
+  {
     "name": "FRAGOR",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Hammer/HammerWeapon",
     "codexSecret": false,
@@ -3439,7 +3520,7 @@
     "totalDamage": 100,
     "damagePerSecond": 120,
     "trigger": "MELEE",
-    "description": "Tear and maim with this agile, lightweight glass hammer. Gara’s signature Melee Weapon.",
+    "description": "Tear and maim with this agile, lightweight glass hammer. When Gara's wields her signature melee weapon, it gains additional Slam Radial Damage.",
     "accuracy": 100,
     "criticalChance": 0.18000001,
     "criticalMultiplier": 1.6,
@@ -3736,7 +3817,7 @@
     "totalDamage": 45,
     "damagePerSecond": 41,
     "trigger": "MELEE",
-    "description": "These iron fists that rip through foes with each strike are Atlas' signature weapon.",
+    "description": "These iron fists that rip through foes are Atlas' signature weapons. When wielded by Atlas they receive a Status Chance increase.",
     "accuracy": 100,
     "criticalChance": 0.30000001,
     "criticalMultiplier": 2,
@@ -4344,7 +4425,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.15
+    "omegaAttenuation": 1.25
   },
   {
     "name": "ATTICA",
@@ -4398,7 +4479,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 0.89499998
+    "omegaAttenuation": 1
   },
   {
     "name": "BAZA",
@@ -4425,7 +4506,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1
   },
   {
     "name": "VELDT",
@@ -4452,7 +4533,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1.2
   },
   {
     "name": "SCOURGE",
@@ -4479,7 +4560,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1.15
   },
   {
     "name": "CORINTH",
@@ -4505,8 +4586,8 @@
     "slot": 1,
     "noise": "ALARMING",
     "sentinel": false,
-    "masteryReq": 10,
-    "omegaAttenuation": 1.05
+    "masteryReq": 8,
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "ASTILLA",
@@ -4519,7 +4600,7 @@
     "totalDamage": 190,
     "damagePerSecond": 534,
     "trigger": "AUTO",
-    "description": "Blast enemies with glass slugs that devastate on impact. This is Gara’s signature weapon.",
+    "description": "Blast enemies with glass slugs that devastate on impact. In Gara's hands, this signature weapon has a larger Ammo Pool.",
     "accuracy": 25,
     "criticalChance": 0.17,
     "criticalMultiplier": 1.9,
@@ -4546,7 +4627,7 @@
     "totalDamage": 24,
     "damagePerSecond": 98,
     "trigger": "AUTO",
-    "description": "Unload percussive machine gun fire, or strike a heavy chord with a single charge shot. This is Octavia’s signature rifle.",
+    "description": "Unload percussive machine gun fire, or strike a heavy chord with a single charge shot. When Octavia wields her signature rifle alt-fire Headshot Kills have a chance to instantly refill the magazine.",
     "accuracy": 12.5,
     "criticalChance": 0.28,
     "criticalMultiplier": 2,
@@ -4587,7 +4668,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1.25
+    "omegaAttenuation": 1.15
   },
   {
     "name": "RUBICO PRIME",
@@ -4614,7 +4695,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "PHANTASMA",
@@ -4627,7 +4708,7 @@
     "totalDamage": 75,
     "damagePerSecond": 72,
     "trigger": "HELD",
-    "description": "Irradiate enemies with a continuous stream of deadly plasma. Charging secondary fire releases a glob of plasma that erupts with homing bomblets on impact.",
+    "description": "Irradiate enemies with a continuous stream of deadly plasma. Charging secondary fire releases a glob of plasma that erupts with homing bomblets on impact. Increased Magazine Capacity when wielded by Revenant.",
     "accuracy": 100,
     "criticalChance": 0.029999999,
     "criticalMultiplier": 1.5,
@@ -4668,7 +4749,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.1799999
+    "omegaAttenuation": 1.25
   },
   {
     "name": "VECTIS PRIME",
@@ -4695,7 +4776,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 14,
-    "omegaAttenuation": 0.92000002
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "TIGRIS PRIME",
@@ -4749,7 +4830,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 14,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.1
   },
   {
     "name": "SYBARIS PRIME",
@@ -4776,7 +4857,34 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 0.89499998
+    "omegaAttenuation": 1
+  },
+  {
+    "name": "STRADAVAR PRIME",
+    "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeStradavar/PrimeStradavarGun",
+    "codexSecret": false,
+    "secondsPerShot": 0.099999994,
+    "damagePerShot": [ 10.5, 10.5, 9, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 90,
+    "reloadTime": 2,
+    "totalDamage": 30,
+    "damagePerSecond": 245,
+    "trigger": "AUTO",
+    "description": "Between measured staccato and staggering crescendo, Stradavar Prime never fails to call down a devastating finale.",
+    "accuracy": 25,
+    "criticalChance": 0.23999999,
+    "criticalMultiplier": 2.5999999,
+    "procChance": 0.12,
+    "fireRate": 10.000001,
+    "chargeAttack": 0,
+    "spinAttack": 0,
+    "leapAttack": 0,
+    "wallAttack": 0,
+    "slot": 1,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 12,
+    "omegaAttenuation": 1.15
   },
   {
     "name": "SOMA PRIME",
@@ -4803,7 +4911,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 0.55000001
+    "omegaAttenuation": 0.75
   },
   {
     "name": "BURSTON PRIME",
@@ -4830,7 +4938,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 1.25
+    "omegaAttenuation": 1.3
   },
   {
     "name": "BOLTOR PRIME",
@@ -4857,7 +4965,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 13,
-    "omegaAttenuation": 0.79000002
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "PANTHERA",
@@ -4884,7 +4992,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.5
+    "omegaAttenuation": 1.4
   },
   {
     "name": "ZENITH",
@@ -4924,7 +5032,7 @@
     "totalDamage": 158.99998,
     "damagePerSecond": 243,
     "trigger": "SEMI",
-    "description": "Slash targets with a single precise bolt from Garuda's signature crossbow. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause bleeding and headshots have a chance to increase reload speed.",
+    "description": "Slash targets with a single precise bolt from Garuda's signature crossbow. Alt-fire to let loose a barrage of bolts. All bolts have a chance to cause Bleeding and Headshots have a chance to increase Reload Speed. When wielded by Garuda Nagantaka gains a slight Punch Through.",
     "accuracy": 40,
     "criticalChance": 0.15000001,
     "criticalMultiplier": 2.3,
@@ -4938,7 +5046,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 9,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.05
   },
   {
     "name": "RUBICO",
@@ -4965,7 +5073,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "TIBERON",
@@ -4992,7 +5100,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.1
   },
   {
     "name": "TIGRIS",
@@ -5046,7 +5154,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 0.89499998
+    "omegaAttenuation": 1
   },
   {
     "name": "DREAD",
@@ -5073,7 +5181,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 0.89999998
+    "omegaAttenuation": 1.1
   },
   {
     "name": "PARIS PRIME",
@@ -5100,7 +5208,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1.05
+    "omegaAttenuation": 1.2
   },
   {
     "name": "PARIS",
@@ -5127,7 +5235,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 3,
-    "omegaAttenuation": 1.05
+    "omegaAttenuation": 1.2
   },
   {
     "name": "CERNOS PRIME",
@@ -5154,7 +5262,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 0.92000002
+    "omegaAttenuation": 1.1
   },
   {
     "name": "DAIKYU",
@@ -5181,7 +5289,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.21
+    "omegaAttenuation": 1.3
   },
   {
     "name": "CERNOS",
@@ -5208,7 +5316,34 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 0.92000002
+    "omegaAttenuation": 1.1
+  },
+  {
+    "name": "<ARCHWING> LARKSPUR",
+    "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/TnShieldframeArchGun/TnShieldFrameArchGun",
+    "codexSecret": false,
+    "secondsPerShot": 1,
+    "damagePerShot": [ 10, 0, 0, 0, 0, 0, 0, 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 600,
+    "reloadTime": 14.5,
+    "totalDamage": 90,
+    "damagePerSecond": 88,
+    "trigger": "HELD",
+    "description": "From death blooms the Larkspur. A unique and menacing Archgun with a wild initial attack that locks onto a target then chains other targets close to the first. It also sports an explosive projectile mode. In Hildryn's grip the Larkspur carries more reserve ammo.",
+    "accuracy": 8.333333,
+    "criticalChance": 0.1,
+    "criticalMultiplier": 1.4,
+    "procChance": 0.5,
+    "fireRate": 12.000001,
+    "chargeAttack": 0,
+    "spinAttack": 0,
+    "leapAttack": 0,
+    "wallAttack": 0,
+    "slot": 1,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 8,
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "<ARCHWING> FLUCTUS",
@@ -5220,22 +5355,22 @@
     "reloadTime": 3.5,
     "totalDamage": 200,
     "damagePerSecond": 588,
-    "trigger": "",
+    "trigger": "SEMI",
     "description": "An Archwing energy weapon that sends waves of deadly plasma crashing into enemies.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.10000002,
     "fireRate": 5.0000005,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.89999998
   },
   {
     "name": "<ARCHWING> GRATTLER",
@@ -5247,22 +5382,22 @@
     "reloadTime": 7,
     "totalDamage": 275,
     "damagePerSecond": 809,
-    "trigger": "",
+    "trigger": "AUTO",
     "description": "Shatter your targets with explosive shells from this devastating Archwing cannon.",
     "accuracy": 25,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.25,
+    "criticalMultiplier": 2,
+    "procChance": 0.25,
     "fireRate": 4.166667,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "<ARCHWING> VELOCITUS",
@@ -5274,22 +5409,22 @@
     "reloadTime": 5,
     "totalDamage": 1800,
     "damagePerSecond": 1440,
-    "trigger": "",
+    "trigger": "CHARGE",
     "description": "When fully charged, the magnetized barrel of the Velocitus accelerates a metal slug to tremendous speeds, piercing hulls and obliterating armor.",
     "accuracy": 28.571428,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.25,
+    "criticalMultiplier": 2,
+    "procChance": 0.25,
     "fireRate": 5.0000005,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.05
   },
   {
     "name": "<ARCHWING> CORVAS",
@@ -5301,49 +5436,49 @@
     "reloadTime": 8,
     "totalDamage": 840,
     "damagePerSecond": 636,
-    "trigger": "",
+    "trigger": "CHARGE",
     "description": "When fully charged, this flak-cannon delivers a devastating shot. Perfect for taking down fast-moving interceptors.",
     "accuracy": 9.090909,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.10000008,
     "fireRate": 2,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 1,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.05
   },
   {
     "name": "<ARCHWING> IMPERATOR VANDAL",
     "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Primary/FoldingMachineGun/ArchMachineGunVandal",
-    "codexSecret": false,
+    "codexSecret": true,
     "secondsPerShot": 0.05180854,
     "damagePerShot": [ 16, 14, 10, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 300,
     "reloadTime": 4.1500001,
     "totalDamage": 40,
     "damagePerSecond": 609,
-    "trigger": "",
+    "trigger": "AUTO",
     "description": "The Imperator Vandal has been customized by the Tenno with a blue-green metallic finish and Lotus branding on the barrel.",
     "accuracy": 25,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.10000002,
     "fireRate": 16.666668,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "<ARCHWING> IMPERATOR",
@@ -5355,22 +5490,22 @@
     "reloadTime": 5.25,
     "totalDamage": 40,
     "damagePerSecond": 494,
-    "trigger": "",
+    "trigger": "AUTO",
     "description": "A long range rifle capable of firing in space, the Imperator's versatility makes it an ideal weapon for space combat.",
     "accuracy": 25,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.1,
+    "criticalMultiplier": 2,
+    "procChance": 0.050000012,
     "fireRate": 16.666668,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "<ARCHWING> DUAL DECURION",
@@ -5382,22 +5517,22 @@
     "reloadTime": 0.88999999,
     "totalDamage": 60,
     "damagePerSecond": 406,
-    "trigger": "",
+    "trigger": "AUTO",
     "description": "Delivering twin streams of highly accurate, rapid-fire ordnance, the Decurion are specifically designed for combat in the vacuum of space.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.25,
+    "criticalMultiplier": 2,
+    "procChance": 0.10000002,
     "fireRate": 8.333334,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 1,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.25
   },
   {
     "name": "<ARCHWING> PHAEDRA",
@@ -5409,22 +5544,22 @@
     "reloadTime": 5.25,
     "totalDamage": 45,
     "damagePerSecond": 337,
-    "trigger": "",
+    "trigger": "AUTO",
     "description": "Devastate free-space enemies with Phaedra, the Soma's big-sister.",
     "accuracy": 10.526316,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.1,
+    "criticalMultiplier": 2,
+    "procChance": 0.25,
     "fireRate": 12.500001,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 3,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.15
   },
   {
     "name": "<ARCHWING> CYNGAS",
@@ -5436,46 +5571,46 @@
     "reloadTime": 0.84999996,
     "totalDamage": 200,
     "damagePerSecond": 1446,
-    "trigger": "",
+    "trigger": "BURST",
     "description": "Unload deadly accurate bursts of mayhem.",
     "accuracy": 33.333332,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.050000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.30000001,
     "fireRate": 9.09091,
     "chargeAttack": 0,
     "spinAttack": 0,
     "leapAttack": 0,
     "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "slot": 1,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.3
   },
   {
     "name": "<ARCHWING> PRISMA VERITUX",
     "uniqueName": "/Lotus/Weapons/Tenno/Archwing/Melee/VoidTraderArchsword/VTArchSwordWeapon",
-    "codexSecret": false,
+    "codexSecret": true,
     "secondsPerShot": 1,
     "damagePerShot": [ 45, 45, 210, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 0,
     "reloadTime": 0,
     "totalDamage": 300,
     "damagePerSecond": 300,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "A rare object of beauty, this Archwing sword has been sheathed in prisma crystal and baptized in the Void’s energy.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.19999999,
     "fireRate": 1,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 643,
+    "leapAttack": 300,
+    "wallAttack": 300,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5490,19 +5625,19 @@
     "reloadTime": 0,
     "totalDamage": 325,
     "damagePerSecond": 325,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "Gallium-alloy gauntlets for close-range Archwing combat. Designed by the infamous Tyl Regor.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.1,
+    "criticalMultiplier": 2,
+    "procChance": 0.30000001,
     "fireRate": 1,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 696,
+    "leapAttack": 325,
+    "wallAttack": 325,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5517,19 +5652,19 @@
     "reloadTime": 0,
     "totalDamage": 280,
     "damagePerSecond": 303,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "Part sword, part shield, the Centaur excels at charging headlong into enemy fire.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.25,
+    "criticalMultiplier": 2,
+    "procChance": 0.19999999,
     "fireRate": 1.0833334,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 600,
+    "leapAttack": 280,
+    "wallAttack": 280,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5544,19 +5679,19 @@
     "reloadTime": 0,
     "totalDamage": 300,
     "damagePerSecond": 250,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "Weightless space turns this impossibly massive sword into an agile instrument of destruction.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.050000001,
+    "criticalMultiplier": 1.5,
+    "procChance": 0.10000002,
     "fireRate": 0.83333337,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 643,
+    "leapAttack": 300,
+    "wallAttack": 300,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5571,19 +5706,19 @@
     "reloadTime": 0,
     "totalDamage": 290,
     "damagePerSecond": 290,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "This laser bladed battle-axe easily hacks through a ship's defenses and the forces protecting it.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 1.25,
+    "procChance": 0.050000012,
     "fireRate": 1,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 621,
+    "leapAttack": 290,
+    "wallAttack": 290,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5598,19 +5733,19 @@
     "reloadTime": 0,
     "totalDamage": 350,
     "damagePerSecond": 350,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "Tear apart incoming enemies with this massive hooked blade.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.050000001,
+    "criticalMultiplier": 1.5,
+    "procChance": 0.10000002,
     "fireRate": 1,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 750,
+    "leapAttack": 350,
+    "wallAttack": 350,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5625,19 +5760,19 @@
     "reloadTime": 0,
     "totalDamage": 325,
     "damagePerSecond": 325,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "Become an angel of death, with this Archwing scythe.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.1,
+    "criticalMultiplier": 2,
+    "procChance": 0.14999998,
     "fireRate": 1,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 696,
+    "leapAttack": 325,
+    "wallAttack": 325,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5652,19 +5787,19 @@
     "reloadTime": 0,
     "totalDamage": 280,
     "damagePerSecond": 257,
-    "trigger": "",
+    "trigger": "MELEE",
     "description": "Using Archwing’s jets for thrust, this massive hammer crushes anything in its path.",
     "accuracy": 100,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "procChance": 0,
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 2,
+    "procChance": 0.074999988,
     "fireRate": 0.91666669,
     "chargeAttack": 0,
-    "spinAttack": 0,
-    "leapAttack": 0,
-    "wallAttack": 0,
-    "slot": 0,
-    "noise": "",
+    "spinAttack": 600,
+    "leapAttack": 280,
+    "wallAttack": 280,
+    "slot": 5,
+    "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 0,
     "omegaAttenuation": 1
@@ -5694,7 +5829,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.2
+    "omegaAttenuation": 1.25
   },
   {
     "name": "AKVASTO",
@@ -5721,7 +5856,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.2
   },
   {
     "name": "AKMAGNUS",
@@ -5802,7 +5937,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 1.2
+    "omegaAttenuation": 1.25
   },
   {
     "name": "AKLATO",
@@ -5910,7 +6045,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 15,
-    "omegaAttenuation": 0.92000002
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "AKLEX",
@@ -5937,7 +6072,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 0.92000002
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "VAYKOR MARELOK",
@@ -5964,7 +6099,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 0.64999998
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "VAYKOR SYDON",
@@ -5977,7 +6112,7 @@
     "totalDamage": 85,
     "damagePerSecond": 92,
     "trigger": "MELEE",
-    "description": "Justice blinds. Each blocked hit charges a Radial Blind, when fully charged drop block to unleash it.",
+    "description": "Justice blinds. Block hits to charge a Radial Blind, when fully charged toggle channeling to unleash it.",
     "accuracy": 100,
     "criticalChance": 0.15000001,
     "criticalMultiplier": 2,
@@ -6018,7 +6153,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 0.69999999
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "RAKTA BALLISTICA",
@@ -6045,7 +6180,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 1.05
   },
   {
     "name": "RAKTA DARK DAGGER",
@@ -6099,7 +6234,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 0.92000002
+    "omegaAttenuation": 1.1
   },
   {
     "name": "SECURA DUAL CESTRA",
@@ -6160,11 +6295,11 @@
     "uniqueName": "/Lotus/Weapons/Syndicates/PerrinSequence/LongGuns/PSPenta",
     "codexSecret": false,
     "secondsPerShot": 0.5,
-    "damagePerShot": [ 5, 0, 0, 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "damagePerShot": [ 0, 0, 0, 48, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 7,
     "reloadTime": 2.5,
-    "totalDamage": 27,
-    "damagePerSecond": 32,
+    "totalDamage": 48,
+    "damagePerSecond": 56,
     "trigger": "ACTIVE",
     "description": "Ruthless and efficient, just like the free-market.",
     "accuracy": 100,
@@ -6180,7 +6315,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 1.25
+    "omegaAttenuation": 1.3
   },
   {
     "name": "SANCTI CASTANAS",
@@ -6288,7 +6423,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 0.64999998
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "GAMMACOR",
@@ -6315,7 +6450,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 0.64999998
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "SYNOID HELIOCOR",
@@ -6369,7 +6504,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 0.69999999
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "TELOS AKBOLTO",
@@ -6450,7 +6585,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 0.79000002
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "PARACESIS",
@@ -6531,7 +6666,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 0,
-    "omegaAttenuation": 1.05
+    "omegaAttenuation": 1.2
   },
   {
     "name": "MK1-KUNAI",
@@ -6673,11 +6808,11 @@
     "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfestedDartPistol/InfestedDartPistol",
     "codexSecret": false,
     "secondsPerShot": 0.39999998,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 79, 0, 0, 0, 0, 0, 0, 0 ],
+    "damagePerShot": [ 9, 23, 17, 0, 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 11,
     "reloadTime": 1.2,
-    "totalDamage": 79,
-    "damagePerSecond": 155,
+    "totalDamage": 130,
+    "damagePerSecond": 255,
     "trigger": "SEMI",
     "description": "The Tysis pistol spits out caustic darts that corrode their victims from within.",
     "accuracy": 100,
@@ -6720,18 +6855,18 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 11,
-    "omegaAttenuation": 1.25
+    "omegaAttenuation": 1.3
   },
   {
     "name": "POX",
     "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfProximityStars/InfProximityStars",
     "codexSecret": false,
     "secondsPerShot": 0.47999996,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 150, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 170, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 4,
     "reloadTime": 1,
-    "totalDamage": 150,
-    "damagePerSecond": 205,
+    "totalDamage": 170,
+    "damagePerSecond": 233,
     "trigger": "AUTO",
     "description": "These festering sacs of pus and gas burst violently on impact.",
     "accuracy": 100,
@@ -6747,7 +6882,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 9,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 1.05
   },
   {
     "name": "SCOLIAC",
@@ -7071,7 +7206,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1.2
   },
   {
     "name": "MUTALIST QUANTA",
@@ -7105,11 +7240,11 @@
     "uniqueName": "/Lotus/Weapons/Infested/Bow/InfCernosBow/InfCernos",
     "codexSecret": false,
     "secondsPerShot": 1.5,
-    "damagePerShot": [ 202.5, 11.25, 11.250003, 0, 0, 0, 50, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "damagePerShot": [ 202.5, 11.25, 11.250003, 0, 0, 0, 55, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 1,
     "reloadTime": 0.60000002,
-    "totalDamage": 275,
-    "damagePerSecond": 131,
+    "totalDamage": 280,
+    "damagePerSecond": 133,
     "trigger": "CHARGE",
     "description": "Overcome with Infestation, this bow's arrows now spread poisonous contagion to any surface they hit.",
     "accuracy": 16.666666,
@@ -7125,7 +7260,7 @@
     "noise": "SILENT",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.26
+    "omegaAttenuation": 1.35
   },
   {
     "name": "TWIN VIPERS WRAITH",
@@ -7233,7 +7368,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.25
+    "omegaAttenuation": 1.3
   },
   {
     "name": "KULSTAR",
@@ -7260,7 +7395,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 1.2
+    "omegaAttenuation": 1.25
   },
   {
     "name": "TWIN ROGGA",
@@ -7287,7 +7422,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 9,
-    "omegaAttenuation": 1.15
+    "omegaAttenuation": 1.2
   },
   {
     "name": "KOHMAK",
@@ -7301,7 +7436,7 @@
     "damagePerSecond": 35,
     "trigger": "AUTO",
     "description": "Like the larger Kohm, this hand-shotgun doubles its volley with each successive shot.",
-    "accuracy": 3.6363637,
+    "accuracy": 8,
     "criticalChance": 0.11,
     "criticalMultiplier": 2,
     "procChance": 0.23000002,
@@ -7314,7 +7449,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 1.3
+    "omegaAttenuation": 1.35
   },
   {
     "name": "TWIN KOHMAK",
@@ -7328,7 +7463,7 @@
     "damagePerSecond": 43,
     "trigger": "AUTO",
     "description": "Doubling their volley on each successive shot, the Twin Kohmaks decimate foes in seconds.",
-    "accuracy": 2.9850745,
+    "accuracy": 5.7142859,
     "criticalChance": 0.11,
     "criticalMultiplier": 2,
     "procChance": 0.23000002,
@@ -7341,7 +7476,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1.2
+    "omegaAttenuation": 1.25
   },
   {
     "name": "NUKOR",
@@ -7395,7 +7530,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 0.64999998
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "BRAKK",
@@ -7409,7 +7544,7 @@
     "damagePerSecond": 488,
     "trigger": "SEMI",
     "description": "Simple but powerful. The semi-automatic Brakk hand cannon delivers a lot of punch in a small package.",
-    "accuracy": 5.5555553,
+    "accuracy": 7.6923075,
     "criticalChance": 0.17,
     "criticalMultiplier": 2,
     "procChance": 0.17000014,
@@ -7422,18 +7557,18 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 1.1
   },
   {
     "name": "STUG",
     "uniqueName": "/Lotus/Weapons/Grineer/Pistols/GrineerCrossbow/GrineerGooGun",
     "codexSecret": false,
     "secondsPerShot": 0.25,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 81, 0, 0, 0, 0, 0, 0, 0 ],
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 85, 0, 0, 0, 0, 0, 0, 0 ],
     "magazineSize": 20,
     "reloadTime": 2,
-    "totalDamage": 81,
-    "damagePerSecond": 231,
+    "totalDamage": 85,
+    "damagePerSecond": 243,
     "trigger": "AUTO",
     "description": "Firing a sticky, toxic, explosive compound, the Stug Gel Gun offers multiple ejection modes, delivering maximum damage in all situations.",
     "accuracy": 100,
@@ -7476,7 +7611,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 11,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.3
   },
   {
     "name": "SYDON",
@@ -7504,6 +7639,33 @@
     "sentinel": false,
     "masteryReq": 2,
     "omegaAttenuation": 0.83999997
+  },
+  {
+    "name": "KORRUDO",
+    "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnSparring/GrnSpiderSparring/GrnSpiderSparring",
+    "codexSecret": false,
+    "secondsPerShot": 1.1999999,
+    "damagePerShot": [ 34.77, 1.8299999, 24.400002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 0,
+    "reloadTime": 0,
+    "totalDamage": 61,
+    "damagePerSecond": 51,
+    "trigger": "MELEE",
+    "description": "When they go high, go low. Powerful pneumatic grips and toecaps amplify every blow. Four ways to deal twice the pain.",
+    "accuracy": 100,
+    "criticalChance": 0.31,
+    "criticalMultiplier": 2.5,
+    "procChance": 0.090000033,
+    "fireRate": 0.83333337,
+    "chargeAttack": 0,
+    "spinAttack": 244,
+    "leapAttack": 61,
+    "wallAttack": 183,
+    "slot": 5,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 9,
+    "omegaAttenuation": 1
   },
   {
     "name": "BROKEN SCEPTER",
@@ -7989,7 +8151,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.175
+    "omegaAttenuation": 1.4
   },
   {
     "name": "PRISMA GORGON",
@@ -8016,7 +8178,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 11,
-    "omegaAttenuation": 1.175
+    "omegaAttenuation": 1.4
   },
   {
     "name": "ARGONAK",
@@ -8043,7 +8205,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1.2
   },
   {
     "name": "KOHM",
@@ -8057,7 +8219,7 @@
     "damagePerSecond": 56,
     "trigger": "AUTO",
     "description": "For every shot fired in rapid succession the Kohm releases an additional bolt and grows more lethal.",
-    "accuracy": 3.6363637,
+    "accuracy": 8,
     "criticalChance": 0.11,
     "criticalMultiplier": 2.3,
     "procChance": 0.25,
@@ -8124,7 +8286,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 0.75
+    "omegaAttenuation": 0.94999999
   },
   {
     "name": "BUZLOK",
@@ -8205,7 +8367,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1.2
   },
   {
     "name": "ZARR",
@@ -8232,7 +8394,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.08
+    "omegaAttenuation": 1.15
   },
   {
     "name": "VULKAR WRAITH",
@@ -8259,7 +8421,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.45
+    "omegaAttenuation": 1.4
   },
   {
     "name": "VULKAR",
@@ -8286,7 +8448,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 3,
-    "omegaAttenuation": 1.45
+    "omegaAttenuation": 1.4
   },
   {
     "name": "MITER",
@@ -8370,6 +8532,33 @@
     "omegaAttenuation": 1.28
   },
   {
+    "name": "PRISMA GRINLOK",
+    "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/PrismaGrinlokWeapon",
+    "codexSecret": false,
+    "secondsPerShot": 0.59999996,
+    "damagePerShot": [ 74.800003, 18.700001, 93.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 21,
+    "reloadTime": 1.7,
+    "totalDamage": 187,
+    "damagePerSecond": 275,
+    "trigger": "SEMI",
+    "description": "Prisma-crystal enhancement creates here a prestige instrument; a weapon capable of taking life at astonishing range with but a single pull of its exquisitely-tooled trigger.",
+    "accuracy": 32,
+    "criticalChance": 0.20999999,
+    "criticalMultiplier": 2.9000001,
+    "procChance": 0.37,
+    "fireRate": 1.6666667,
+    "chargeAttack": 0,
+    "spinAttack": 0,
+    "leapAttack": 0,
+    "wallAttack": 0,
+    "slot": 1,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 11,
+    "omegaAttenuation": 1.245
+  },
+  {
     "name": "GRINLOK",
     "uniqueName": "/Lotus/Weapons/Grineer/LongGuns/GrineerLeverActionRifle/GLARifle",
     "codexSecret": false,
@@ -8448,7 +8637,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 9,
-    "omegaAttenuation": 0.85000002
+    "omegaAttenuation": 1
   },
   {
     "name": "GRAKATA",
@@ -8475,7 +8664,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 1.15
+    "omegaAttenuation": 1.2
   },
   {
     "name": "HIND",
@@ -8610,7 +8799,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.3
   },
   {
     "name": "ARCA SCISCO",
@@ -8664,7 +8853,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.1
   },
   {
     "name": "OCUCOR",
@@ -8691,7 +8880,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.1
   },
   {
     "name": "PRISMA ANGSTRUM",
@@ -8718,7 +8907,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 8,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.3
   },
   {
     "name": "ANGSTRUM",
@@ -8745,7 +8934,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1.4
+    "omegaAttenuation": 1.3
   },
   {
     "name": "STATICOR",
@@ -8826,7 +9015,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 2,
-    "omegaAttenuation": 0.64999998
+    "omegaAttenuation": 0.80000001
   },
   {
     "name": "DUAL CESTRA",
@@ -9177,7 +9366,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 14,
-    "omegaAttenuation": 1.1
+    "omegaAttenuation": 1.15
   },
   {
     "name": "SUPRA VANDAL",
@@ -9204,7 +9393,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 14,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "PENTA",
@@ -9231,7 +9420,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 6,
-    "omegaAttenuation": 1.25
+    "omegaAttenuation": 1.3
   },
   {
     "name": "CONVECTRIX",
@@ -9285,7 +9474,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 0.69999999
+    "omegaAttenuation": 0.60000002
   },
   {
     "name": "QUANTA VANDAL",
@@ -9312,7 +9501,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.1
   },
   {
     "name": "QUANTA",
@@ -9339,7 +9528,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 1.1
   },
   {
     "name": "EXERGIS",
@@ -9450,6 +9639,33 @@
     "omegaAttenuation": 1.15
   },
   {
+    "name": "OPTICOR VANDAL",
+    "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CrpBFG/Vandal/VandalCrpBFG",
+    "codexSecret": true,
+    "secondsPerShot": 1.1,
+    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "magazineSize": 8,
+    "reloadTime": 1.4,
+    "totalDamage": 0,
+    "damagePerSecond": 0,
+    "trigger": "CHARGE",
+    "description": "With a precision crafted lens, this customized Opticor achieves a level of performance previously thought impossible.",
+    "accuracy": 100,
+    "criticalChance": 0.23999999,
+    "criticalMultiplier": 2.5999999,
+    "procChance": 0.30000001,
+    "fireRate": 2,
+    "chargeAttack": 0,
+    "spinAttack": 0,
+    "leapAttack": 0,
+    "wallAttack": 0,
+    "slot": 1,
+    "noise": "ALARMING",
+    "sentinel": false,
+    "masteryReq": 14,
+    "omegaAttenuation": 1.15
+  },
+  {
     "name": "PRISMA TETRA",
     "uniqueName": "/Lotus/Weapons/Corpus/LongGuns/CorpusUMP/PrismaCorpusUMP",
     "codexSecret": false,
@@ -9528,7 +9744,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 0.85000002
+    "omegaAttenuation": 0.69999999
   },
   {
     "name": "LENZ",
@@ -9609,7 +9825,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 10,
-    "omegaAttenuation": 0.94999999
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "DERA",
@@ -9636,7 +9852,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1.245
+    "omegaAttenuation": 1.3
   },
   {
     "name": "PROVA",
@@ -9690,7 +9906,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 7,
-    "omegaAttenuation": 1.245
+    "omegaAttenuation": 1.3
   },
   {
     "name": "FLUX RIFLE",
@@ -9771,7 +9987,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 12,
-    "omegaAttenuation": 1
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "OGRIS",
@@ -9798,7 +10014,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 9,
-    "omegaAttenuation": 1.245
+    "omegaAttenuation": 1.3
   },
   {
     "name": "IGNIS WRAITH",
@@ -9825,7 +10041,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 9,
-    "omegaAttenuation": 0.69999999
+    "omegaAttenuation": 0.60000002
   },
   {
     "name": "IGNIS",
@@ -9852,7 +10068,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 0.69999999
+    "omegaAttenuation": 0.60000002
   },
   {
     "name": "TORID",
@@ -9879,7 +10095,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 4,
-    "omegaAttenuation": 1.2
+    "omegaAttenuation": 1.3
   },
   {
     "name": "ACRID",
@@ -9933,7 +10149,7 @@
     "noise": "ALARMING",
     "sentinel": false,
     "masteryReq": 5,
-    "omegaAttenuation": 0.69999999
+    "omegaAttenuation": 0.85000002
   },
   {
     "name": "HELIOCOR",
@@ -10517,6 +10733,26 @@
   {
     "name": "FATBOYS",
     "uniqueName": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusB/HoverboardCorpusBJet",
+    "codexSecret": false
+  },
+  {
+    "name": "RUNWAY",
+    "uniqueName": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusC/HoverboardCorpusCDeck",
+    "codexSecret": false
+  },
+  {
+    "name": "HIGHBROW",
+    "uniqueName": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusC/HoverboardCorpusCEngine",
+    "codexSecret": false
+  },
+  {
+    "name": "TWO-SLOOPS",
+    "uniqueName": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusC/HoverboardCorpusCFront",
+    "codexSecret": false
+  },
+  {
+    "name": "THUGS",
+    "uniqueName": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusC/HoverboardCorpusCJet",
     "codexSecret": false
   },
   {
